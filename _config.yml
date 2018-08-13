@@ -11,9 +11,9 @@ title                    : "Lucia (Lucy) Williams"
 title_separator          : "-"
 name                     : &name "Lucia Williams"
 description              : &description "Computer Science graduate student studying algorithms."
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://lgw2.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "lgw2.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -79,10 +79,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Lucia Williams"
+  avatar           : "lucia_williams.png"
+  bio              : "Computer science graduate student studying algorithms, both theory and application."
+  location         : "Bozeman, Montana"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
