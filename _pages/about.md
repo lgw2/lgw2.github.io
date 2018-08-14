@@ -19,7 +19,7 @@ undergraduate degrees in applied math and urban planning.
 Outside of academia, I play and coach Ultimate Frisbee. My team, [Seattle Riot](https://twitter.com/SeattleRiot),
 won the world championship in 2018, and I have competed at club or college nationals every year since 2010.
 [Here](https://www.youtube.com/watch?v=qBYpCgQ0xmY) is a video
-of me catching a goal in the finals of the 2016 US Open with a previous team.
+of me catching a goal in the finals of the 2016 US Open.
 I also coach the MSU college women's team, who made it to the game to go to
 the regional championship for the first time in 2018. 
 I also do multi-day bicycle trips and host other touring
