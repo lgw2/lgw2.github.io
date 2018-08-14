@@ -2,9 +2,9 @@
 title: "Learning Simplicial Complexes from Persistence Diagrams"
 collection: research
 permalink: /research/2018-08-paper-1
-excerpt: 'This paper gives an algorithm to reconstruct a plane graph from a quadratic number
+excerpt: "This paper gives an algorithm to reconstruct a plane graph from a quadratic number
 of simplicial complexes. Previously, it was only known how to reconstruct a shape from an
-infinite number of directions.'
+infinite number of directions."
 date: 2018-08 
 venue: The Canadian Conference on Computational Geometry
 paperurl: 'http://lgw2.github.io/files/paper3.pdf'
