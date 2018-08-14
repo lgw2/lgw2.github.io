@@ -15,4 +15,4 @@ flow networks into paths, and using topological descriptors to compare 3D shapes
 Outside of academia, I play and coach Ultimate Frisbee. My team, [Seattle Riot](https://twitter.com/SeattleRiot),
 won the world championship in 2018. I also coach the MSU college women's team, who made it to the game to go to
 the Regional championship for the first time in 2018. [Here](https://www.youtube.com/watch?v=qBYpCgQ0xmY) is a video
-of me catching a pass in the semifinals of the 2016 US Open.
+of me catching a pass in the finals of the 2016 US Open.
