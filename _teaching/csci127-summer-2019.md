@@ -2,7 +2,7 @@
 title: "CSCI 127: The Joy & Beauty of Data"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2019-summer-teaching
+permalink: /teaching/csci127-summer-2019
 venue: "Montana State University, Computer Science"
 date: 2019-06-10
 location: "Bozeman, Montana"
@@ -11,5 +11,8 @@ location: "Bozeman, Montana"
 Catalog description: Provides a gentle introduction to the exciting world of big data and data science. Students expand their ability to solve problems with Python by learning to deploy lists, files, dictionaries and object-oriented programming. Data science libraries are introduced that enable data to be manipulated and displayed.
 
 ---
-
-Blah blah
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
