@@ -56,6 +56,7 @@ Assuming that this is the case, grades will be determined
 On both labs and programming homework assignments, you *may*:
 * Share ideas with other individuals or groups.
 * Help other individuals or groups troubleshooet problems
+
 You may *not*:
 * Share code you or your partner has written with other individuals or groups.
 * Submit code that you or your partner did not write.
@@ -77,3 +78,12 @@ dignity and the positive connection among all people at our University. Acts of
 discrimination, harassment, sexual misconduct, dating violence, domestic
 violence, stalking, and retaliation will be addressed consistent with this
 policy.
+
+## Course schedule
+
+|Date|Lecture|Lab|Due
+|:---|:---|:---|:---|
+|Monday 6/10| | | |
+|Tuesday 6/11| | | |
+|Wednesday 6/12| | | |
+|Thursday 6/13| | | |
