@@ -8,3 +8,4 @@ redirect_from:
 ---
 
 My CV is available for download [here](http://lgw2.github.io/files/williams_cv.pdf).
+Last updated 5/21/2019.
