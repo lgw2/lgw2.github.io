@@ -4,17 +4,17 @@ main:
     url: /research/
 
     #  - title: "Talks"
-    #    url: /talks/    
+    #    url: /talks/
 
-    #  - title: "Teaching"
-    #    url: /teaching/    
-    
+   - title: "Teaching"
+     url: /teaching/
+
   - title: "Outreach"
     url: /outreach/
-        
+
     #  - title: "Blog Posts"
     #    url: /year-archive/
-    
+
   - title: "CV"
     url: /cv/
-    
+
