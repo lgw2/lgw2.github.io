@@ -35,10 +35,7 @@ By the end of this course, students should be be able to:
 * Labs: 15% (all weighted equally)
 * Programming homework assignments: 30% (all weighted equally)
 
-To pass the course, you must average at least 50% on the practicums.
-Assuming that this is the case, grades will be determined
-(after any curving takes place) based on your total course score as follows:
-
+After any curving, your grade will be determined by your total score as follows:
 * 93+: A
 * 90+: A-
 * 87+: B+
@@ -78,6 +75,28 @@ dignity and the positive connection among all people at our University. Acts of
 discrimination, harassment, sexual misconduct, dating violence, domestic
 violence, stalking, and retaliation will be addressed consistent with this
 policy.
+
+## Accommodations
+If you have a documented disability for which
+you are or may be requesting an accommodation(s), please contact
+me and the Office of Disability Services as soon as possible.
+
+## How to succeed in this class
+What you can do:
+* Be physically and mentally present in all lecture periods.
+* Be an active participant in class. This means asking and
+answering questions in class, and contacting me via email
+if questions arise outside of classtime.
+* Be respectful of both your classmates and me.
+* Do your own work.
+
+What I can do:
+* Grade and return labs before the following day's lab period
+* Grade and return programming assignments before Monday morning
+the following week
+* Create a course atmosphere conducive to learning by respecting
+all of my students, coming to class prepared each day, and being
+enthusiastic about course material and my role in helping you learn.
 
 ## Course schedule
 
