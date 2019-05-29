@@ -100,9 +100,10 @@ me and the Office of Disability Services as soon as possible.
 
 ## How to succeed in this class
 What you can do:
-* Be physically and mentally present in all lecture periods.
+* Be physically and mentally present in all lecture periods and lab periods.
 * Be an active participant in class. This means asking and
-answering questions in class, and contacting me via email
+answering questions during lecture, asking for help when needed during labs,
+and contacting me via email
 if questions arise outside of classtime.
 * Be respectful of both your classmates and me.
 * Do your own work.
@@ -111,6 +112,8 @@ What I can do:
 * Grade and return labs before the following day's lab period
 * Grade and return programming assignments before Monday morning
 the following week
+* Be available during all lab periods.
+* Respond to all emails within one business day.
 * Create a course atmosphere conducive to learning by respecting
 all of my students, coming to class prepared each day, and being
 enthusiastic about course material and my role in helping you learn.
