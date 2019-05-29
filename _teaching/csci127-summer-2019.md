@@ -27,7 +27,8 @@ You can do this before the course starts, or come to class and I will help you.
 
 ### Mac
 Download the appropriate file at the bottom of [this page](
-https://www.python.org/downloads/release/python-367/). Then, to install packages, open a terminal window and
+https://www.python.org/downloads/release/python-367/) and install.
+Then, to install packages, open a terminal window and
 run each of the following:
 ```
 pip3 install --user numpy
@@ -63,18 +64,7 @@ By the end of this course, students should be be able to:
 * Programming homework assignments: 30% (all weighted equally)
 
 After any curving, your grade will be determined by your total score as follows:
-* 93+: A
-* 90+: A-
-* 87+: B+
-* 83+: B
-* 80+: B-
-* 77+: C+
-* 73+: C
-* 70+: C-
-* 67+: D+
-* 63: D
-* 60: D-
-
+93+: A; 90+: A-; 87+: B+; 83+: B; 80+: B-; 77+: C+; 73+: C; 70+: C-; 67+: D+; 63: D; 60: D-.
 ## Collaboration policy
 
 On both labs and programming homework assignments, you *may*:
