@@ -18,14 +18,15 @@ Lectures: Monday-Thursday, 8-10:35am in Barnard 126. These will be a mix of lect
 Labs: Monday-Thursday, 2-5pm in Barnard 254. On most days, you will have a lab assignment to complete individually or with a partner. You may also use this time to work on individual programming homework assignments.
 
 ## Course resources
-We will use a free, online textbook for this course. It can be found here:
-https://runestone.academy/runestone/static/thinkcspy/index.html
+We will use a free, online textbook for this course. It can be found [here](
+https://runestone.academy/runestone/static/thinkcspy/index.html).
 
 If you would like to work on programming assignments or labs on your own personal
 computer, you will need to install Python and install a few packages.
 
 ### Mac
-Download the appropriate file at the bottom of the page here: https://www.python.org/downloads/release/python-367/. Then, to install packages, open a terminal window and
+Download the appropriate file at the bottom of [this page](
+https://www.python.org/downloads/release/python-367/). Then, to install packages, open a terminal window and
 run each of the following:
 ```
 pip3 install --user numpy
