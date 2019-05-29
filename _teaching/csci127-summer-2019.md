@@ -23,6 +23,7 @@ https://runestone.academy/runestone/static/thinkcspy/index.html).
 
 If you would like to work on programming assignments or labs on your own personal
 computer, you will need to install Python and install a few packages.
+You can do this before the course starts, or come to class and I will help you.
 
 ### Mac
 Download the appropriate file at the bottom of [this page](
@@ -35,8 +36,16 @@ pip3 install --user pandas
 pip3 install --user scikit-learn
 ```
 ### Windows
-https://www.python.org/downloads/release/python-367/.
-You will also need to install some packages.
+Download the appropriate file at the bottom of [this page](
+https://www.python.org/downloads/release/python-367/) and install.
+When installing, be sure to check the box to add Python to the PATH.
+Then, to install packages, open a terminal window and run each of the following:
+```
+python -m pip install numpy
+python -m pip install matplotlib
+python -m pip install pandas
+python -m pip install scikit-learn
+```
 
 ## Course outcomes
 By the end of this course, students should be be able to:
