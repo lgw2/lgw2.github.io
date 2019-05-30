@@ -121,8 +121,8 @@ enthusiastic about course material and my role in helping you learn.
 
 |Date|Lecture|Lab|Due
 |:---|:---|:---|:---|
-|Monday 6/10|[Lecture 1](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/lecture1/) |
-[Lab 1](https://lgw2.githug.io/teaching/csci127-summer-2019/labs/lab1/) | |
+|Monday 6/10|[Lecture 1](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/lecture1/)
+|[Lab 1](https://lgw2.githug.io/teaching/csci127-summer-2019/labs/lab1/) | |
 |Tuesday 6/11| | | |
 |Wednesday 6/12| | | |
 |Thursday 6/13| | | |
