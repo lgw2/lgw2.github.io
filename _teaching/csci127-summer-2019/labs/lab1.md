@@ -35,5 +35,4 @@ Brightspace Lab 1 Dropbox no later than midnight on Monday, June 10th.
 * 4 points - The Python program is correct.
 
 ## Grading turnaround
-All in-labs and programming assignments should be graded with scores recorded in BrightSpace
-no later than lab time (2pm) the following day.
+All labs graded with scores recorded in BrightSpace no later than lab time (2pm) the following day.
