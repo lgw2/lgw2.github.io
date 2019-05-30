@@ -1,8 +1,7 @@
 ---
-title: "CSCI 127: The Joy & Beauty of Data"
+title: "CSCI 127: The Joy & Beauty of Data Syllabus"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/csci127-summer-2019
 venue: "Montana State University, Computer Science"
 date: 2019-06-10
 location: "Bozeman, Montana"
