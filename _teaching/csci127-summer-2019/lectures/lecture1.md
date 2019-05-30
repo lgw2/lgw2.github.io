@@ -21,6 +21,7 @@ and [6](https://runestone.academy/runestone/static/thinkcspy/Functions/toctree.h
 * Assignment Token: =
 * Arithmetic Operators: +, -, \*, /, //, %, \*\*
 * User Input: input
+
 ### From chapter 4:
 * Turtle Module Methods
 	* Creation: Turtle
@@ -31,7 +32,6 @@ and [6](https://runestone.academy/runestone/static/thinkcspy/Functions/toctree.h
 	* Status: heading, position
 	* Turtle Type: shape, e.g. arrow, classic, turtle or circle
 	* Turtle Imprints: stamp, dot
-* Turtle Module Online Documentation
 * Looping Construct: for
 * onclick(), onrelease(), ondrag() from [turtle online documentation] (
 https://docs.python.org/3/library/turtle.html#module-turtle)
@@ -45,13 +45,21 @@ https://docs.python.org/3/library/turtle.html#module-turtle)
 
 ## Active learning
 ### Activity 1
-Download the following [Mad Lib](
+Download [madlib.py](
 https://lgw2.github.io/teaching/csci127-summer-2019/lectures/activities/madlib.py)
-program and modify it to create your own story.
+and modify it to create your own story.
 Your modified Mad Lib should use
 (1) at least one input that is treated as a string,
 (2) at least one input that is treated as an integer and
 (3) at least one input that is treated as a floating point number.
 ### Activity 2
+Look at [racing-turtles.py](
+https://lgw2.github.io/teaching/csci127-summer-2019/lectures/activities/racing-turtles.py)
+and make sure that you understand it fully. Then,
+1. Modify the program so that a third racing turtle starts at coordinate (-200, -100).
+2. Write down three other improvements to the program.
+3. Find someone to discuss your proposed improvements with.
+4. Implement at least one of your proposed improvements.
+
 ### Activity 3
 ### Activity 4
