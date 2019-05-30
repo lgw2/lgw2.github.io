@@ -119,9 +119,9 @@ enthusiastic about course material and my role in helping you learn.
 
 ## Course schedule
 
-|Date|Lecture|Lab|Due
-|:---|:---|:---|:---|
-|Monday 6/10|[Lecture 1](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/lecture1/) |[Lab 1](https://lgw2.github.io/teaching/csci127-summer-2019/labs/lab1/) | |
+|Date|Lecture Outline|Lecture Video|Lab|Due
+|:---|:---|:---|:---|:---|
+|Monday 6/10|[lecture 1 outline](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/lecture1/)| |[Lab 1](https://lgw2.github.io/teaching/csci127-summer-2019/labs/lab1/) |Lab 1|
 |Tuesday 6/11| | | |
 |Wednesday 6/12| | | |
 |Thursday 6/13| | | |
