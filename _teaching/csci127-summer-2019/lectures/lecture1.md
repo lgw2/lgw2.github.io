@@ -33,7 +33,7 @@ and [6](https://runestone.academy/runestone/static/thinkcspy/Functions/toctree.h
 	* Turtle Type: shape, e.g. arrow, classic, turtle or circle
 	* Turtle Imprints: stamp, dot
 * Looping Construct: for
-* onclick(), onrelease(), ondrag() from [turtle online documentation] (
+* onclick(), onrelease(), ondrag() from [turtle online documentation](
 https://docs.python.org/3/library/turtle.html#module-turtle)
 
 ### From chapter 6:
