@@ -11,7 +11,9 @@ Welcome to the first day of class!
 Chapters [2](https://runestone.academy/runestone/static/thinkcspy/SimplePythonData/toctree.html),
 [4](https://runestone.academy/runestone/static/thinkcspy/PythonTurtle/toctree.html),
 and [6](https://runestone.academy/runestone/static/thinkcspy/Functions/toctree.html).
+
 ## Key ideas
+
 ### From chapter 2:
 * Simple Python Types: int(eger), float, str(ing)
 * Determing Type: type
@@ -33,12 +35,14 @@ and [6](https://runestone.academy/runestone/static/thinkcspy/Functions/toctree.h
 * Looping Construct: for
 * onclick(), onrelease(), ondrag() from [turtle online documentation] (
 https://docs.python.org/3/library/turtle.html#module-turtle)
+
 ### From chapter 6:
 * Be able to write a function.
 * Be able to call a function.
 * Understand function parameters.
 * Understand the difference between a fruitful function and a non-fruitful function.
 * Understand the difference between a local variable and a global variable.
+
 ## Active learning
 ### Activity 1
 Download the following [Mad Lib](
