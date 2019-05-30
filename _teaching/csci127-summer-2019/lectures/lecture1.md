@@ -1,0 +1,4 @@
+---
+collection: teaching
+---
+blah blah
