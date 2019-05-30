@@ -68,7 +68,7 @@ After any curving, your grade will be determined by your total score as follows:
 
 On both labs and programming homework assignments, you *may*:
 * Share ideas with other individuals or groups.
-* Help other individuals or groups troubleshooet problems
+* Help other individuals or groups troubleshoot problems
 
 You may *not*:
 * Share code you or your partner has written with other individuals or groups.
