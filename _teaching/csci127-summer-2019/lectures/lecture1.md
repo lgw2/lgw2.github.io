@@ -27,8 +27,8 @@ Chapters 2, 4, and 6.
 	* Turtle Imprints: stamp, dot
 * Turtle Module Online Documentation
 * Looping Construct: for
-* onclick(), onrelease(), ondrag() from [turtle online documentation]
-(https://docs.python.org/3/library/turtle.html#module-turtle)
+* onclick(), onrelease(), ondrag() from [turtle online documentation] (
+https://docs.python.org/3/library/turtle.html#module-turtle)
 ### From chapter 6:
 * Be able to write a function.
 * Be able to call a function.
