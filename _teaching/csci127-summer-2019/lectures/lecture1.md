@@ -1,6 +1,8 @@
 ---
 collection: teaching
 title: "Data Types, Turtle Drawing, and Functions"
+venue: "June 10"
+type: "type"
 date: 2019-06-10
 ---
 Welcome to the first day of class!
