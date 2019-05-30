@@ -8,7 +8,9 @@ date: 2019-06-10
 Welcome to the first day of class!
 
 ## Reading
-Chapters 2, 4, and 6.
+Chapters [2](https://runestone.academy/runestone/static/thinkcspy/SimplePythonData/toctree.html),
+[4](https://runestone.academy/runestone/static/thinkcspy/PythonTurtle/toctree.html),
+and [6](https://runestone.academy/runestone/static/thinkcspy/Functions/toctree.html).
 ## Key ideas
 ### From chapter 2:
 * Simple Python Types: int(eger), float, str(ing)
