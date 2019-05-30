@@ -109,9 +109,9 @@ if questions arise outside of classtime.
 * Do your own work.
 
 What I can do:
-* Grade and return labs before the following day's lab period
+* Grade and return labs before the following day's lab period.
 * Grade and return programming assignments before Monday morning
-the following week
+the following week.
 * Be available during all lab periods.
 * Respond to all emails within one business day.
 * Create a course atmosphere conducive to learning by respecting
