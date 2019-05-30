@@ -62,4 +62,16 @@ and make sure that you understand it fully. Then,
 4. Implement at least one of your proposed improvements.
 
 ### Activity 3
+Look at [etch-a-sketch.py](
+https://lgw2.github.io/teaching/csci127-summer-2019/lectures/activities/etch-a-sketch.py)
+and make sure that you understand it fully.
+1. Write down three improvements you could make to the program.
+2. Find someone to discuss your proposed improvements with.
+3. Implement at least one of your proposed improvements.
+
 ### Activity 4
+1. TODO: choose an exercise from chapter 6.
+2. Improve [house.py](
+https://lgw2.github.io/teaching/csci127-summer-2019/lectures/activities/house.py)
+
+
