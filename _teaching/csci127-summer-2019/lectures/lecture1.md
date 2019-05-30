@@ -39,7 +39,9 @@ https://docs.python.org/3/library/turtle.html#module-turtle)
 * Understand the difference between a local variable and a global variable.
 ## Active learning
 ### Activity 1
-Download the following [Mad Lib](activities/madlib.py) program and modify it to create your own story.
+Download the following [Mad Lib](
+https://lgw2.github.io/teaching/csci127-summer-2019/lectures/activities/madlib.py)
+program and modify it to create your own story.
 Your modified Mad Lib should use
 (1) at least one input that is treated as a string,
 (2) at least one input that is treated as an integer and
