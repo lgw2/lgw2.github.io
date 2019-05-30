@@ -38,3 +38,12 @@ https://docs.python.org/3/library/turtle.html#module-turtle)
 * Understand the difference between a fruitful function and a non-fruitful function.
 * Understand the difference between a local variable and a global variable.
 ## Active learning
+### Activity 1
+Download the following [Mad Lib](google.com) program and modify it to create your own story.
+Your modified Mad Lib should use
+(1) at least one input that is treated as a string,
+(2) at least one input that is treated as an integer and
+(3) at least one input that is treated as a floating point number.
+### Activity 2
+### Activity 3
+### Activity 4
