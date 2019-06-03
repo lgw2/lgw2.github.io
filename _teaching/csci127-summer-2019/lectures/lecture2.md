@@ -35,6 +35,7 @@ Each card has a color ("red", "yellow", "green" or "blue") and a value
 that it returns True if the second card can be played on the first card and False otherwise.
 ```
 def legal_play(first_value, first_color, second_value, second_color):
+	# your commands here
 ```
 For example,
 ```
