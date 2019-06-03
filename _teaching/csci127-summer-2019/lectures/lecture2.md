@@ -89,6 +89,6 @@ For example, with 4 rows and 6 columns, the drawing might look like this:
 ### Activity 5
 Python has two keywords that are relevant to loops: continue and break. Determine
 what they do by experimenting with [loop.py](
-https://lgw2.github.io/teaching/csci127-summer-2019/lectures/activities/key-events.py).
+https://lgw2.github.io/teaching/csci127-summer-2019/lectures/activities/loop.py).
 *Note: Try to avoid using these two Python
 constructs. Typically, there is a better way to solve the problem.*
