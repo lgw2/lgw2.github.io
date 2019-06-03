@@ -58,16 +58,19 @@ should both return True, but
 legal_play(9, "red", 6, "green")
 ```
 should return False.
+
 ### Activity 2
 Take [key-events.py](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/activities/key-events.py)
  and modify it so that the turtle only moves if it
  will still be visible. Use one boolean function in your solution.
+
 ### Activity 3
 Write a Python program that generates a random number between 1 and 10.
 The program should repeatedly ask the user to guess what the number is until
 the user guesses correctly. When the user guesses correctly, the program should
 print a message that shows how many tries it took.
 For example, the message might be *Congratulations! That took 6 guesses.*
+
 ### Activity 4
 Write a Python program that asks the user to enter two integers: one for the
 number of rows and one for the number of columns. The program should then produce
@@ -78,5 +81,10 @@ For example, with 4 rows and 6 columns, the drawing might look like this:
 --\*\*--
 -\*--\*-
 ---\*-\*
-### Activity 5
 
+### Activity 5
+Python has two keywords that are relevant to loops: continue and break. Determine
+what they do by experimenting with [loop.py](
+https://lgw2.github.io/teaching/csci127-summer-2019/lectures/activities/key-events.py).
+*Note: Try to avoid using these two Python
+constructs. Typically, there is a better way to solve the problem.*
