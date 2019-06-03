@@ -27,7 +27,7 @@ and rename it according to the instructions above.
 The missing function will use Python selection statements to calculate the amount
 of tax that a single (unmarried) taxpayer owes using the table below.
 If the missing function is implemented correctly,
-[this output](https://lgw2.github.io/teaching/csci127-summer-2019/labs/taxes-output.py) will appear.
+[this output](https://lgw2.github.io/teaching/csci127-summer-2019/labs/taxes-output.txt) will appear.
 
 |Rate|For Unmarried Individuals, Taxable Income Over|
 |:---|:---|
