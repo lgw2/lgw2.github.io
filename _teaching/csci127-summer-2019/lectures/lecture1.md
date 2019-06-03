@@ -15,22 +15,22 @@ and [6](https://runestone.academy/runestone/static/thinkcspy/Functions/toctree.h
 ## Key ideas
 
 ### From chapter 2:
-* Simple Python Types: int(eger), float, str(ing)
-* Determing Type: type
-* Declaring and Using Variables
-* Assignment Token: =
-* Arithmetic Operators: +, -, \*, /, //, %, \*\*
-* User Input: input
+* Simple python types: `int`(eger), `float`, `str`(ing)
+* Determing type: `type`
+* Declaring and using variables
+* Assignment token: `=`
+* Arithmetic operators: `+`, `-`, `*`, `/`, `//`, `%`, `**`
+* User input: `input`
 
 ### From chapter 4:
 * Turtle Module Methods
-	* Creation: Turtle
-	* Movement: forward, backward, goto
-	* x, y Orientation: right, left
-	* Orientation: up, down
-	* Drawing Color: color, fillcolor, begin_fill, end_fill
-	* Status: heading, position
-	* Turtle Type: shape, e.g. arrow, classic, turtle or circle
+	* Creation: `turtle`
+	* Movement: `forward`, `backward`, `goto`
+	* x, y orientation: `right`, `left`
+	* Orientation: `up`, `down`
+	* Drawing Color: `color`, `fillcolor`, `begin_fill`, `end_fill`
+	* Status: `heading`, `position`
+	* Turtle type: `shape`, e.g. arrow, classic, turtle or circle
 	* Turtle Imprints: stamp, dot
 * Looping Construct: for
 * onclick(), onrelease(), ondrag() from [turtle online documentation](
