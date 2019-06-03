@@ -1,6 +1,6 @@
 ---
 collection: teaching
-title: "Functions and Selection"
+title: "Functions, Selection, and Iteration"
 venue: "June 11"
 type: "Lecture"
 date: 2019-06-11
