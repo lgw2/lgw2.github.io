@@ -8,7 +8,8 @@ date: 2019-06-11
 
 ## Reading
 Chatpers [6](https://runestone.academy/runestone/static/thinkcspy/Functions/toctree.html)
-and [7](https://runestone.academy/runestone/static/thinkcspy/Selection/toctree.html).
+, [7](https://runestone.academy/runestone/static/thinkcspy/Selection/toctree.html),
+and [8](https://runestone.academy/runestone/static/thinkcspy/MoreAboutIteration/toctree.html).
 
 ## Key ideas
 
@@ -26,6 +27,13 @@ and [7](https://runestone.academy/runestone/static/thinkcspy/Selection/toctree.h
 * Conditional statements: if, if else, if elif else
 * Conditional statements can be nested
 * Writing and calling Boolean functions
+
+### From chapter 8:
+* for loop
+* Know how to use range
+* Know how to iterate over a string (e.g. "Bozeman High") or a list (e.g. [1, "Potato", 2, "Potato"])
+* while loop
+* Know how to nest one loop inside of another
 
 ## Active learning
 ### Activity 1
@@ -54,4 +62,21 @@ should return False.
 Take [key-events.py](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/activities/key-events.py)
  and modify it so that the turtle only moves if it
  will still be visible. Use one boolean function in your solution.
+### Activity 3
+Write a Python program that generates a random number between 1 and 10.
+The program should repeatedly ask the user to guess what the number is until
+the user guesses correctly. When the user guesses correctly, the program should
+print a message that shows how many tries it took.
+For example, the message might be *Congratulations! That took 6 guesses.*
+### Activity 4
+Write a Python program that asks the user to enter two integers: one for the
+number of rows and one for the number of columns. The program should then produce
+a text-based drawing where each position in the drawing is randomly determined with
+equal probability to be either a "\*" or a "-".
+For example, with 4 rows and 6 columns, the drawing might look like this:
+\*\*-\*-\*
+--\*\*--
+-\*--\*-
+---\*-\*
+### Activity 5
 
