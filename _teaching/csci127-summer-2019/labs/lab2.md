@@ -8,16 +8,16 @@ date: 2019-06-11
 
 ## Logistics
 * Due: Tuesday, June 11th no later than 5pm.
-* Partner Information: Complete this assignment with your assigned partner.
-* Submission Instructions: have one partner upload your solution,
+* Partner information: complete this assignment with your assigned partner.
+* Submission instructions: have one partner upload your solution,
 entitled Partner1FirstName-Partner1LastName-Partner2FirstName-Partner2LastName-Lab2.py
 to the BrightSpace Lab 2 Dropbox.
-* Deadline Reminder: Once this deadline passes, BrightSpace will no longer accept your Python
+* Deadline reminder: once this deadline passes, BrightSpace will no longer accept your Python
 submission and you will no longer be able to earn credit. Thus, if you are not able to fully
 complete the assignment, submit whatever you have before the deadline so that partial credit can be earned.
 
 ## Learning outcomes
-* Meet your lab teaching assistant and classmates.
+* Gain experience writing a Python function.
 * Gain experience writing Python selection statements.
 
 ## Assignment
