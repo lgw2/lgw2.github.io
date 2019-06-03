@@ -13,9 +13,9 @@ and [9](https://runestone.academy/runestone/static/thinkcspy/Strings/toctree.htm
 ## Key ideas
 
 ### From chapter 5:
-* Be able to use the math module to solve problems.
-* Be able to use the turtle module to solve problems.
-* Be able to use the random module to solve problems.
+* Be able to use the `math` module to solve problems.
+* Be able to use the `turtle` module to solve problems.
+* Be able to use the `random` module to solve problems.
 * Be able to figure out how to use other modules when needed.
 
 ### From chapter 9:
@@ -44,7 +44,7 @@ and [9](https://runestone.academy/runestone/static/thinkcspy/Strings/toctree.htm
 Review [key-events.py](
 https://lgw2.github.io/teaching/csci127-summer-2019/lectures/activities/key-events.py).
 Then,
-1. Add appropriate comments to key-events.py.
+1. Add appropriate comments to `key-events.py`.
 2. Modify the program so that pressing the `f` or `F` moves
 the turtle forward 50 pixels
 in its current direction.
