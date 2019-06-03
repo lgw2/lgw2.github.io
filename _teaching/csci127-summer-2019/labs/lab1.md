@@ -8,10 +8,10 @@ date: 2019-06-10
 
 ## Logistics
 * Due: Monday, June 10th no later than 5pm.
-* Partner Information: Complete this assignment individually.
-* Submission Instructions: Upload your solution, entitled YourFirstName-YourLastName-Lab1.py
+* Partner information: complete this assignment individually.
+* Submission instructions: upload your solution, entitled YourFirstName-YourLastName-Lab1.py
 to the BrightSpace Lab 1 Dropbox.
-* Deadline Reminder: Once this deadline passes, BrightSpace will no longer accept your Python
+* Deadline reminder: once this deadline passes, BrightSpace will no longer accept your Python
 submission and you will no longer be able to earn credit. Thus, if you are not able to fully
 complete the assignment, submit whatever you have before the deadline so that partial credit can be earned.
 
