@@ -1,7 +1,7 @@
 # -----------------------------------------+
 # Your name                                |
-# CSCI 127, In Lab 1                       |
-# Last Updated: January 17, 2019           |
+# CSCI 127, Lab 1                          |
+# Last Updated: June 6, 2019               |
 # -----------------------------------------|
 # Modify an etch-a-sketch program.         |
 # -----------------------------------------+
@@ -16,7 +16,7 @@ square = turtle.Turtle()
 
 # ---------------------------------
 
-def draw_square(square):  
+def draw_square(square):
     square.up()
     square.goto(-200, 200)
     square.down()
