@@ -28,7 +28,9 @@ them [here](https://montana.techsmithrelay.com/Users/ff0db049-dd5f-4a73-8faf-e3a
 
 ### Mac
 Download the appropriate file at the bottom of [this page](
-https://www.python.org/downloads/release/python-367/) and install.
+https://www.python.org/downloads/release/python-367/)
+(macOS 64-bit installer for OS X 10.9 and later,
+or macOS 64-bit/32-bit installer for Mac OS X 10.6 and later) and install.
 Then, to install packages, open a terminal window and
 run each of the following:
 ```
@@ -38,7 +40,8 @@ pip3 install --user pandas
 pip3 install --user scikit-learn
 ```
 ### Windows
-Download the appropriate file at the bottom of [this page](
+Download the Windows x86-64 executable installer file
+at the bottom of [this page](
 https://www.python.org/downloads/release/python-367/) and install.
 When installing, be sure to check the box to add Python to the PATH.
 Then, to install packages, open a terminal window and run each of the following:
