@@ -23,6 +23,8 @@ https://runestone.academy/runestone/static/thinkcspy/index.html).
 If you would like to work on programming assignments or labs on your own personal
 computer, you will need to install Python and install a few packages.
 You can do this before the course starts, or come to class and I will help you.
+I am making videos to help with installation for both Mac and Windows. You can find
+them [here](https://montana.techsmithrelay.com/Users/ff0db049-dd5f-4a73-8faf-e3a6ef30d83f/#Ia6E).
 
 ### Mac
 Download the appropriate file at the bottom of [this page](
