@@ -71,5 +71,4 @@ the submission. See below for the type of information that should appear.
 
 ## Helpful Hint
 To learn more about formatted output, take a look at [this page](https://pyformat.info/).
-Use the new format (.format()), not the old (%).
-https://lgw2.github.io/teaching/csci127-summer-2019/lectures/activities/madlib.py)
+Use the new format (`.format()`), not the old (`%`).
