@@ -1,0 +1,15 @@
+Enter the number of courses you are taking: 4
+
+Enter grade for course 1: A
+Enter credits for course 1: 4
+
+Enter grade for course 2: b-
+Enter credits for course 2: 3
+
+Enter grade for course 3: B+
+Enter credits for course 3: 3
+
+Enter grade for course 4: A-
+Enter credits for course 4: 1
+
+Your GPA is 3.43
