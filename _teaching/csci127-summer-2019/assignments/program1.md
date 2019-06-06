@@ -47,18 +47,18 @@ and the credits for each course (5 points).
 the output format of the transcript exactly (2 points for each type of
 difference up to 10 points).
 * 5 points - The GPA is displayed with two digits to the right of the decimal.
-* 10 points - A function named translate is defined that takes a letter
+* 10 points - A function named `translate` is defined that takes a letter
 grade (e.g. b- or B-) and correctly returns its value (e.g. 2.7).
-* 10 points - A function named main is defined (5 points).
+* 10 points - A function named `main` is defined (5 points).
 The only python statement that does not appear in this function
-or the translate function is the call to the main function, e.g. main() (5 points).
+or the `translate` function is the call to the main function, e.g. `main()` (5 points).
 * 10 points - The Python solution is easy to understand and does not contain
 unnecessary code (2 points for each type of improvement up to 10 points).
 * 5 points - An appropriate Python comment appears at the top of
 the submission. See below for the type of information that should appear.
 
 ## Sample Header Comment
-```
+```python
 # ---------------------------------------
 # CSCI 127, Joy and Beauty of Data
 # Program 1: GPA Calculator
