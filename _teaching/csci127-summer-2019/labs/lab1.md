@@ -27,9 +27,7 @@ and rename it according to the instructions above.
 * Modify the code so that whenever the color is changed, both the pencil and the entire square (where you click to change colors) change to the same new color.
 
 ## Grading - 10 points
-* 0 points - If you are having trouble installing Python, bring your labtop to lab so that we can help you.
-* 0 points - Introduce yourself to some of your labmates so that you get to know possible future programming partners or study partners.
-* 3 points - Brightspace contains a recognizable photo or sketch no later than 11:59 p.m. on Thursday, January 17th. (Partial credit: 1 point for replacing the BrightSpace default photo with anything, 2 points for showing multiple people without it being clear who is you.)
+* 3 points - Brightspace contains a recognizable photo or sketch no later than 11:59 p.m. on Monday, June 10th. (Partial credit: 1 point for replacing the BrightSpace default photo with anything, 2 points for showing multiple people without it being clear who is you.)
 * 3 points - A Python program named YourFirstName-YourLastName-Lab1.py is submitted to the
 Brightspace Lab 1 Dropbox no later than midnight on Monday, June 10th.
 * 4 points - The Python program is correct.
