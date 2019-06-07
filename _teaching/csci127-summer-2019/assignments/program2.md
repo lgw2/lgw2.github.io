@@ -9,7 +9,7 @@ date: 2019-06-17
 ## Logistics
 * Due date: Monday, June 17th no later than 11:59 p.m.
 * Submission instructions: upload your solution, entitled YourFirstName-YourLastName-Program2.py to the BrightSpace Program 2 Dropbox.
-Deadline Reminder: Once the submission deadline passes, BrightSpace will no longer accept your
+* Deadline Reminder: Once the submission deadline passes, BrightSpace will no longer accept your
 Python submission and you will no longer be able to earn credit.
 Thus, if you are not able to fully complete the assignment, submit whatever you have before
 the deadline so that partial credit can be earned.
