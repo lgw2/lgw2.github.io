@@ -25,13 +25,13 @@ complete the assignment, submit whatever you have before the deadline so that pa
 * Download [lab3.py](https://lgw2.github.io/teaching/csci127-summer-2019/labs/lab3.py)
 and rename it according to the instructions above.
 * Rewrite the body of the `count_built_in` function to calculate and return the number
-of `z`'s in the paramter `sentence` using the built-in `count` method (see the documentation
+of `"z"`'s in the paramter `sentence` using the built-in `count` method (see the documentation
 [here](https://docs.python.org/3/library/stdtypes.html?highlight=isdigit#str.count)).
 For example, if the sentence is `"Jazz music played during the movie Zootopia"`, the
 function should return `3`.
-* Rewrite the body of the `count_iterative` function to count the number of `z`'s in
+* Rewrite the body of the `count_iterative` function to count the number of `"z`'s in
 `sentence` using a loop. (Do not use the built-in count method.)
-* Rewrite the body of the `count_recursive` function to count the number of `z`'s in
+* Rewrite the body of the `count_recursive` function to count the number of `"z"`'s in
 `sentence` using recursion. (Do not use the built-in count method.)
 
 
