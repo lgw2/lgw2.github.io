@@ -7,7 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.teaching reversed %}
-  <p>{{post}}</p>
+{% for post in site.teaching[1:2] %}
   {% include archive-single.html %}
 {% endfor %}
