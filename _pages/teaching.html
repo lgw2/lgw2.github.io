@@ -7,6 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.teaching[1:2] %}
+{% for post in site.teaching | slice: 1 %}
   {% include archive-single.html %}
 {% endfor %}
