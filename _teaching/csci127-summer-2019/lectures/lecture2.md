@@ -29,11 +29,11 @@ and [8](https://runestone.academy/runestone/static/thinkcspy/MoreAboutIteration/
 * Writing and calling Boolean functions
 
 ### From chapter 8:
-* `for` loop
+* for loop
 * Know how to use `range`
 * Know how to iterate over a string (e.g. `"Bozeman High"`) or a list
 (e.g. `[1, "Potato", 2, "Potato"]`)
-* `while` loop
+* while loop
 * Know how to nest one loop inside of another
 
 ## Active learning
@@ -78,14 +78,12 @@ number of rows and one for the number of columns. The program should then produc
 a text-based drawing where each position in the drawing is randomly determined with
 equal probability to be either a "\*" or a "-".
 For example, with 4 rows and 6 columns, the drawing might look like this:
-
+```
 \*\*-\*-\*
-
 --\*\*--
-
 -\*--\*-
-
 ---\*-\*
+```
 
 ### Activity 5
 Python has two keywords that are relevant to loops: continue and break. Determine
