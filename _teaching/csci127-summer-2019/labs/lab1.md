@@ -32,13 +32,17 @@ and rename it according to the instructions above.
 entire square (where you click to change colors) change to the same new color.
 
 ### Part 2: written introduction
-In a .txt file, write a short narrative introducing yourself. Address the following
+In a .txt file, write a short narrative introducing yourself to me. Address the following
 questions:
 * Which year are you in school? What is your major (or if you don't have a major
 yet, what do you hope to major in?)
 * What programming courses have you taken prior to this one?
 * What was your favorite university class so far, and why?
 * What do you hope to get out of this course?
+
+See [this file](https://lgw2.github.io/teaching/csci127-summer-2019/labs/Lucy-Williams-Intro.txt)
+for an example introduction from me. You are welcome to write more if there is anything
+else you would like me to know.
 
 ## Grading - 10 points
 * 2 points - a Python program named YourFirstName-YourLastName-Lab1.py is submitted to the
