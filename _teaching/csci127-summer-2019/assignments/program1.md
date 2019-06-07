@@ -62,8 +62,8 @@ the submission. See below for the type of information that should appear.
 # ---------------------------------------
 # CSCI 127, Joy and Beauty of Data
 # Program 1: GPA Calculator
-# Your Name(, Your Partner's Name)
-# Last Modified: January ??, 2019
+# Your Name
+# Last Modified: June ??, 2019
 # ---------------------------------------
 # A brief overview of the program.
 # ---------------------------------------
