@@ -1,0 +1,10 @@
+populations = [["California", 38332521],
+               ["Texas", 26448193],
+               ["New York", 19651127],
+               ["Florida", 19552860],
+               ["Illinois", 12882135],
+               ["Pennsylvania", 12773801],
+               ["Ohio", 11570808],
+               ["Georgia", 9992167],
+               ["Michigan", 9895622],
+               ["North Carolina", 9848060]]
