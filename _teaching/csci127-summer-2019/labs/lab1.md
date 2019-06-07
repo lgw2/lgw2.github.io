@@ -47,7 +47,7 @@ Brightspace Lab 1 Dropbox no later than 5pm on Monday, June 10th.
 * 3 points - the Python program is correct.
 * 2 points - a .txt file named YourFirstName-YourLastName-Intro.txt is submitted to the
 Brightspace Lab 1 Dropbox no later than 5pm on Monday, June 10th.
-* 3 points - the .txt file addresses all four questions from Part 2: a written introduction.
+* 3 points - the .txt file addresses all four questions from Part 2: written introduction.
 
 ## Grading turnaround
 All labs graded with scores recorded in BrightSpace no later than lab time (2pm) the following day.
