@@ -21,7 +21,6 @@ complete the assignment, submit whatever you have before the deadline so that pa
 * Make sure that you have access to a computer that runs Python.
 * Be able to modify a simple Python program.
 * Be able to use Montana State's Course Management System, Brightspace, to submit an assignment.
-* Be able to modify your Brightspace profile to include a recognizable photo or sketch.
 * Introduce yourself to the instructor and reflect on what you hope to get out of this
 course.
 
