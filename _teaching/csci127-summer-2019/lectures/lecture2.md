@@ -21,18 +21,19 @@ and [8](https://runestone.academy/runestone/static/thinkcspy/MoreAboutIteration/
 * Understand the difference between a local variable and a global variable.
 
 ### From chapter 7:
-* The bool type has values True and False
-* Boolean operators: = =, !=, >, >=, <, <=
-* Logical operators: and, or, not
-* Conditional statements: if, if else, if elif else
+* The `bool` type has values `True` and `False`
+* Boolean operators: `==`, `!=`, `>`, `>=`, `<`, `<=`
+* Logical operators: `and`, `or`, `not`
+* Conditional statements: `if`, `if` `else`, `if` `elif` `else`
 * Conditional statements can be nested
 * Writing and calling Boolean functions
 
 ### From chapter 8:
-* for loop
-* Know how to use range
-* Know how to iterate over a string (e.g. "Bozeman High") or a list (e.g. [1, "Potato", 2, "Potato"])
-* while loop
+* `for` loop
+* Know how to use `range`
+* Know how to iterate over a string (e.g. `"Bozeman High"`) or a list
+(e.g. `[1, "Potato", 2, "Potato"]`)
+* `while` loop
 * Know how to nest one loop inside of another
 
 ## Active learning
