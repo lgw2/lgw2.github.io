@@ -45,6 +45,23 @@ https://docs.python.org/3/library/turtle.html#module-turtle)
 
 ## Active learning
 ### Activity 1
+Evaluate the following numerical expressions:
+```
+5 ** 2
+9 * 5
+15 / 12
+12 / 15
+15 // 12
+12 // 15
+5 % 2
+9 % 5
+15 % 12
+12 % 15
+6 % 6
+0 % 7
+```
+
+### Activity 2
 Download [madlib.py](
 https://lgw2.github.io/teaching/csci127-summer-2019/lectures/activities/madlib.py)
 and modify it to create your own story.
@@ -52,7 +69,7 @@ Your modified Mad Lib should use
 (1) at least one input that is treated as a string,
 (2) at least one input that is treated as an integer and
 (3) at least one input that is treated as a floating point number.
-### Activity 2
+### Activity 3
 Look at [racing-turtles.py](
 https://lgw2.github.io/teaching/csci127-summer-2019/lectures/activities/racing-turtles.py)
 and make sure that you understand it fully. Then,
@@ -61,7 +78,7 @@ and make sure that you understand it fully. Then,
 3. Find someone to discuss your proposed improvements with.
 4. Implement at least one of your proposed improvements.
 
-### Activity 3
+### Activity 4
 Look at [etch-a-sketch.py](
 https://lgw2.github.io/teaching/csci127-summer-2019/lectures/activities/etch-a-sketch.py)
 and make sure that you understand it fully.
@@ -69,7 +86,7 @@ and make sure that you understand it fully.
 2. Find someone to discuss your proposed improvements with.
 3. Implement at least one of your proposed improvements.
 
-### Activity 4
+### Activity 5
 1. TODO: choose an exercise from chapter 6.
 2. Improve [house.py](
 https://lgw2.github.io/teaching/csci127-summer-2019/lectures/activities/house.py)
