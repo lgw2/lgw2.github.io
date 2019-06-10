@@ -69,6 +69,7 @@ Your modified Mad Lib should use
 (1) at least one input that is treated as a string,
 (2) at least one input that is treated as an integer and
 (3) at least one input that is treated as a floating point number.
+
 ### Activity 3
 Look at [racing-turtles.py](
 https://lgw2.github.io/teaching/csci127-summer-2019/lectures/activities/racing-turtles.py)
@@ -87,8 +88,24 @@ and make sure that you understand it fully.
 3. Implement at least one of your proposed improvements.
 
 ### Activity 5
-1. TODO: choose an exercise from chapter 6.
-2. Improve [house.py](
+Which of the following best reflects the order in which these lines of code are processed in Python?
+```
+1  def pow(b, p):
+2      y = b ** p
+3      return y
+4
+5  def square(x):
+6      a = pow(x, 2)
+7      return a
+8
+9  n = 5
+10 result = square(n)
+11 print(result)
+```
+What does the program print?
+
+### Activity 6
+Improve [house.py](
 https://lgw2.github.io/teaching/csci127-summer-2019/lectures/activities/house.py)
 
 
