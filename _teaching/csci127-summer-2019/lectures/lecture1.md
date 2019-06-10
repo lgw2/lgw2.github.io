@@ -27,7 +27,7 @@ and [6](https://runestone.academy/runestone/static/thinkcspy/Functions/toctree.h
 	* Creation: `turtle`
 	* Movement: `forward`, `backward`, `goto`
 	* x, y orientation: `right`, `left`
-	* Orientation: `up`, `down`
+	* Pen control: `up`, `down`, `pensize`
 	* Drawing Color: `color`, `fillcolor`, `begin_fill`, `end_fill`
 	* Status: `heading`, `position`
 	* Turtle type: `shape`, e.g. arrow, classic, turtle or circle
