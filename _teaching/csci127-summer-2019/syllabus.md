@@ -126,7 +126,7 @@ enthusiastic about course material and my role in helping you learn.
 
 |Date|Lecture Outline|Lecture Video|Due|
 |:---|:---|:---|:---|
-|Monday 6/10|[Lecture 1](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/lecture1/)| |[Lab 1](https://lgw2.github.io/teaching/csci127-summer-2019/labs/lab1/) |
+|Monday 6/10|[Lecture 1](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/lecture1/)|[Lecture 1 Video](https://montana.techsmithrelay.com/jSE0) |[Lab 1](https://lgw2.github.io/teaching/csci127-summer-2019/labs/lab1/) |
 |Tuesday 6/11|[Lecture 2](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/lecture2/)| |[Lab 2](https://lgw2.github.io/teaching/csci127-summer-2019/labs/lab2/) |
 |Wednesday 6/12|[Lecture 3](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/lecture3/)| |[Program 1](https://lgw2.github.io/teaching/csci127-summer-2019/assignments/program1/)|
 |Thursday 6/13| [Lecture 4](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/lecture4/)||[Lab 3](https://lgw2.github.io/teaching/csci127-summer-2019/labs/lab3/) |
