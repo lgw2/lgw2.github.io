@@ -38,6 +38,12 @@ and [8](https://runestone.academy/runestone/static/thinkcspy/MoreAboutIteration/
 
 ## Active learning
 ### Activity 1
+Modify [this file](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/activities/draw_square.py)
+to call the `draw_square` function multiple
+times to create this image:
+![alt text](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/squares.png "Logo Title Text 1")
+
+### Activity 2
 Consider a simplified game of UNO that has forty different cards.
 Each card has a color ("red", "yellow", "green" or "blue") and a value
 (0, 1, 2, 3, 4, 5, 6, 7, 8 or 9). One card can be played on top of the the
@@ -62,19 +68,20 @@ legal_play(9, "red", 6, "green")
 ```
 should return False.
 
-### Activity 2
+### Activity 3
 Take [key-events.py](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/activities/key-events.py)
  and modify it so that the turtle only moves if it
  will still be visible. Use one boolean function in your solution.
 
-### Activity 3
+### Activity 4
 Write a Python program that generates a random number between 1 and 10.
 The program should repeatedly ask the user to guess what the number is until
 the user guesses correctly. When the user guesses correctly, the program should
 print a message that shows how many tries it took.
 For example, the message might be *Congratulations! That took 6 guesses.*
 
-### Activity 4
+
+### Activity 5
 Write a Python program that asks the user to enter two integers: one for the
 number of rows and one for the number of columns. The program should then produce
 a text-based drawing where each position in the drawing is randomly determined with
@@ -87,7 +94,7 @@ For example, with 4 rows and 6 columns, the drawing might look like this:
 ---\*-\*
 ```
 
-### Activity 5
+### Activity 6
 Python has two keywords that are relevant to loops: continue and break. Determine
 what they do by experimenting with [loop.py](
 https://lgw2.github.io/teaching/csci127-summer-2019/lectures/activities/loop.py).
