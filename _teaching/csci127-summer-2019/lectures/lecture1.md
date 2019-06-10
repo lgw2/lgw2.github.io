@@ -105,7 +105,4 @@ Which of the following best reflects the order in which these lines of code are 
 What does the program print?
 
 ### Activity 6
-Improve [house.py](
-https://lgw2.github.io/teaching/csci127-summer-2019/lectures/activities/house.py)
-
-
+Improve [house.py](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/activities/house.py) using functions.
