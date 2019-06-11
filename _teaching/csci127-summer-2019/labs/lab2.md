@@ -31,7 +31,7 @@ If the missing function is implemented correctly,
 
 Note: the federal tax is progressive.
 For example, if a person has a taxable income of \$15,000, the first \$9,700 is taxed at a
-rate of 10\% and the remaining \$5,300 is taxed at a rate of 12\%.
+rate of 10% and the remaining \$5,300 is taxed at a rate of 12%.
 
 |Rate|For Unmarried Individuals, Taxable Income Over|
 |:---|:---|
