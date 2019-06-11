@@ -8,9 +8,8 @@ date: 2019-06-11
 
 ## Logistics
 * Due: Tuesday, June 11th no later than 5pm.
-* Partner information: complete this assignment with your assigned partner.
-* Submission instructions: have one partner upload your solution,
-entitled Partner1FirstName-Partner1LastName-Partner2FirstName-Partner2LastName-Lab2.py
+* Submission instructions: upload your solution,
+entitled FirstName-LastName-Lab2.py
 to the BrightSpace Lab 2 Dropbox.
 * Deadline reminder: once this deadline passes, BrightSpace will no longer accept your Python
 submission and you will no longer be able to earn credit. Thus, if you are not able to fully
@@ -26,8 +25,11 @@ and rename it according to the instructions above.
 * Modify the program by adding the missing function.
 The missing function will use Python selection statements to calculate the amount
 of tax that a single (unmarried) taxpayer owes using the table below.
+
 If the missing function is implemented correctly,
 [this output](https://lgw2.github.io/teaching/csci127-summer-2019/labs/taxes-output.txt) will appear.
+
+Note: the federal tax is progressive. For example, if a person has a taxable income of $15,000, the first $9,700 is taxed at a rate of 10% and the remaining $5,300 is taxed at a rate of 12%.
 
 |Rate|For Unmarried Individuals, Taxable Income Over|
 |:---|:---|
