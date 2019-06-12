@@ -25,7 +25,7 @@ https://runestone.academy/runestone/static/thinkcspy/index.html).
 You can find some additional Python problems to work on [here](https://www.practicepython.org/).
 
 ### SmartyCats
-There is a tutor available for this course. You can book appointments with him for $2 an hour (groups can also use this rate) by going to the website [here](www.MSUSmartyCats.com) and clicking "book a tutor."
+There is a tutor available for this course. You can book appointments with him for $2 an hour (groups can also use this rate) by going to the website [here](http://www.montana.edu/aycss/success/smartycats/) and clicking "book a tutor."
 
 ### Exam review sessions
 There will be exam review sessios with the SmartyCats tutor before the second and third Practicums, on 6/26 and 7/3.
