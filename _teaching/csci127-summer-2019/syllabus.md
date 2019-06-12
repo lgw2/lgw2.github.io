@@ -17,9 +17,22 @@ Lectures: Monday-Thursday, 8-10:35am in Barnard 126. These will be a mix of lect
 Labs: Monday-Thursday, 2-5pm in Barnard 254. On most days, you will have a lab assignment to complete individually or with a partner. You may also use this time to work on individual programming homework assignments.
 
 ## Course resources
+### Textbook
 We will use a free, online textbook for this course. It can be found [here](
 https://runestone.academy/runestone/static/thinkcspy/index.html).
 
+### Additional problems
+You can find some additional Python problems to work on [here](https://www.practicepython.org/).
+
+### SmartyCats
+There is a tutor available for this course. You can book appointments with him for $2 an hour (groups can also use this rate) by going to the website [here](www.MSUSmartyCats.com) and clicking "book a tutor."
+
+### Exam review sessions
+There will be exam review sessios with the SmartyCats tutor before the second and third Practicums, on 6/26 and 7/3.
+### Visualizing your code
+You can paste your Python code into the tool [here](http://pythontutor.com/) and see what executes with every step. This is *very helpful!*
+
+### Installing Python
 If you would like to work on programming assignments or labs on your own personal
 computer, you will need to install Python and install a few packages.
 You can do this before the course starts, or come to class and I will help you.
