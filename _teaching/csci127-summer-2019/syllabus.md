@@ -31,7 +31,7 @@ There is a tutor available for this course. You can book appointments with him f
 There will be exam review sessios with the SmartyCats tutor before the second and third Practicums, on 6/26 and 7/3.
 
 ### Visualizing your code
-You can paste your Python code into the tool [here](http://pythontutor.com/) and see what executes with every step. This is *very helpful!*
+You can paste your Python code into the tool [here](http://pythontutor.com/) and see what executes with every step.
 
 ### Checking your work
 You can compare the output of your program with a sample output using a tool like [https://text-compare.com/](https://text-compare.com/). Just copy the sample output on one side and your program's output on the other. After you press the Compare button, you will see any differences between the text on the left and the text on the right. You should aim to get your program's output to be identical to the sample output.
