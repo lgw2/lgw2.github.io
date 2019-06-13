@@ -23,7 +23,7 @@ todo
 
 ## Active learning
 ### Activity 1
-* Download [draw_tree.py](https://lgw2.github.io/teaching/csci127-summe    r-2019/lectures/activities/draw_tree.py)
+* Download [draw_tree.py](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/activities/draw_tree.py)
 . Run it. Then:
 * Add descriptive comments to the commands inside `main()`.
 * Try to understand `tree(branchLen, t)`. What is the base case?
