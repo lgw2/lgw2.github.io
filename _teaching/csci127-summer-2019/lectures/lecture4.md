@@ -27,7 +27,7 @@ todo
 . Run it. Then:
 * Add descriptive comments to the commands inside `main()`.
 * Try to understand `tree(branchLen, t)`. What is the base case?
-If a call to `tree` is not at the base case, how does it change
+* If a call to `tree` is not at the base case, how does it change
 its state to move toward the base case?
 
 
