@@ -45,3 +45,6 @@ The function should be recursive and take two parameters.
 The first parameter is a string representation of a number and the second
 parameter is the base of the first parameter.
 The function should calculate and return the base 10 integer equivalent of the first parameter.
+
+### Activity 3
+* Download [alternating.py](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/activities/alternating.py)
