@@ -72,7 +72,7 @@ contains 2013 census information when the total population
 of the U.S. was 316,128,839.
 * The file [nested-lists.py](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/activities/nested-lists.py)
 contains information about the 10 most populous states.
-* Add a pure function to nested-lists.py that calculates and returns the
+* Add a function to nested-lists.py that calculates and returns the
 total population of the information passed into it. Print this value after the function returns it.
 * Modify the program to also print the percentage of the U.S.
 population that lives in the 10 most populated states.

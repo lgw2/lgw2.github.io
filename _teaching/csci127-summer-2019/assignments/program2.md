@@ -16,7 +16,7 @@ the deadline so that partial credit can be earned.
 
 ## Learning Outcomes
 * To solve this problem, you need to understand the following Python concepts:
-data types, functions, selection statements, and iteration.
+data types, functions, selection statements, iteration, and lists.
 
 ## Background Information
 In this assignment, you will write a program to score a five-card
