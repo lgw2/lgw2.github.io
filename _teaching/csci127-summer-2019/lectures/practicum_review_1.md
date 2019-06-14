@@ -19,3 +19,4 @@ the online python documentation or previous python programs that you wrote for t
 
 ## Practice Practicums
 
+[Practice Practicum 1](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/practice_practicum_1.pdf)
