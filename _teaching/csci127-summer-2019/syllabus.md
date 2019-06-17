@@ -151,7 +151,7 @@ enthusiastic about course material and my role in helping you learn.
 |weekend!| | |
 |Monday 6/17| [Lecture 5](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/lecture5/)| | [Lab 4](https://lgw2.github.io/teaching/csci127-summer-2019/labs/lab4/), [Program 2](https://lgw2.github.io/teaching/csci127-summer-2019/assignments/program2/)|
 |Tuesday 6/18| [Practicum 1 Review](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/practicum_review_1/)| | |
-|Wednesday 6/19| Lecture 6| |Lab 5|
+|Wednesday 6/19| Lecture 6| |[Lab 4](https://lgw2.github.io/teaching/csci127-summer-2019/labs/lab5/),
 |Thursday 6/20| Lecture 7| |Lab 6|
 |Friday 6/21| | |Program 3|
 |weekend!| | | |
