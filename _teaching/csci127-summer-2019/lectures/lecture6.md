@@ -16,6 +16,11 @@ Chapter [11](https://runestone.academy/runestone/static/thinkcspy/Files/toctree.
 * Reading from a file: `open(filename, "r")`
 * Writing to a file: `open(filename, "w")`
 * Closing a file: `filevariable.close()`
+* File reading methods
+	* `filevar.readline()` - in conjunction with a while loop to read an entire file
+	* `filevar.readlines()`
+* File writing methods
+	* `filevar.write(some_string)`
 * Absolute File Paths vs. Relative File Paths
 
 ## Active learning
