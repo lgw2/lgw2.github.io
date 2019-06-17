@@ -22,10 +22,10 @@ Gain experience with dictionaries.
 * ASCII (American Standard Code for Information Interchange) is an older code used by computers to
 represent characters (such as the character "X") with 8 binary digits (or bits). [Here](https://www.sciencebuddies.org/science-fair-projects/references/ascii-table)
 is an ASCII table. Today, Unicode UTF-16, a 16 bit code is more commonly used.
-* Download [lab7.py](https://lgw2.github.io/teaching/csci127-summer-2019/labs/lab6.py), rename it according to the instructions
+* Download [lab6.py](https://lgw2.github.io/teaching/csci127-summer-2019/labs/lab6.py), rename it according to the instructions
 above, and make sure you understand it.
 * Download input file [ascii-codes.csv](https://lgw2.github.io/teaching/csci127-summer-2019/labs/ascii-codes.csv) to the
-same directory where you downloaded lab7.py.
+same directory where you downloaded lab6.py.
 Each line in ascii-codes.csv contains 8 bits (0s and 1s), followed by a comma, followed by the character that
 the 8 bits represents. In general, the character will be of length 1 such as the character X. However,
 there are two exceptions: " " is represented by space and "," is represented by comma.
