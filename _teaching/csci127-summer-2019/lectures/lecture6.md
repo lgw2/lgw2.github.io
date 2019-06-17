@@ -12,7 +12,7 @@ Chapter [11](https://runestone.academy/runestone/static/thinkcspy/Files/toctree.
 ## Key ideas
 
 ### From chapter 11
-* Opening a File
+* Opening a file
 * Reading from a file: `open(filename, "r")`
 * Writing to a file: `open(filename, "w")`
 * Closing a file: `filevariable.close()`
