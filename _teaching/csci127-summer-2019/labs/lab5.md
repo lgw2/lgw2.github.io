@@ -38,11 +38,14 @@ the user input 5.0 for the lower bound and 6.0 for the upper bound.
 
 ## Grading - 10 points
 2 points - the `average_magnitude` function is correct.
+
 3 points - The `earthquake_locations` function finds all of the unique locations (2 points) and prints each
 unique location once in sorted order (1 point).
+
 3 points - The `count_earthquakes` function is correct. The function will be tested on a different case
 that will be revealed after the lab is submitted. The test case is a lower bound of 3.14 and an upper bound of 4.22.
 The correct answer is 217.
+
 2 points - The format of the output matches exactly the format of the output transcript. For each type of difference, 1 point will be deducted.
 
 ## Grading turnaround
