@@ -20,7 +20,9 @@ Gain experience with files.
 
 
 ## Assignment
-* Download the file [earthquakes.csv](https://lgw2.github.io/teaching/csci127-summer-2019/labs/earthquakes.csv).
+* Download the file [earthquakes.csv](https://lgw2.github.io/teaching/csci127-summer-2019/labs/earthquakes.csv). Note:
+the older version of the file that includes the location.full field (which had commas in it) can be found here:
+[earthquakes_old.csv](https://lgw2.github.io/teaching/csci127-summer-2019/labs/earthquakes_old.csv)
 This input file is described in detail [here](https://think.cs.vt.edu/corgis/csv/earthquakes/earthquakes.html).
 * Download [lab5.py](https://lgw2.github.io/teaching/csci127-summer-2019/labs/lab5.py) into the same directory where the
 earthquakes.csv file is located and rename it according to the instructions in the Logistics section.
