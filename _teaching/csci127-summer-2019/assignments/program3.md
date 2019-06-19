@@ -53,6 +53,7 @@ Function `average_temperature`: 20 points
 * 5 points. The average temperature is calculated correctly when the location appears in the file, regardless of the case of the input. (All or nothing.)
 * 5 points. The two lines of output match the format of the output transcript exactly when the location appears in the file. (All or nothing.)
 * 5 points. The two lines of output match the format of the output transcript exactly when the location does NOT appears in the file. (All or nothing.)
+
 Function `all_stations_by_state`: 25 points
 * 10 points. The recording stations are identified correctly. (All or nothing.)
 * 5 points. The recording stations are printed in alphabetical order. (All or nothing.)
