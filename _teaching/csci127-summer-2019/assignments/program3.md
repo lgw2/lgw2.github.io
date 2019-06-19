@@ -47,6 +47,7 @@ Function `coldest_temperature`: 20 points
 If the coldest temperature occurs at more than one location, the first location in the file should be reported. (All or nothing.)
 * 5 points. The date of the coldest temperature reading is identified correctly. (All or nothing.)
 * 5 points. The three lines of output match the format of the output transcript exactly. (All or nothing.)
+
 Function `average_temperature`: 20 points
 * 5 points. The number of readings is calculated correctly when the location appears in the file, regardless of the case of the input. (All of nothing.)
 * 5 points. The average temperature is calculated correctly when the location appears in the file, regardless of the case of the input. (All or nothing.)
@@ -57,6 +58,7 @@ Function `all_stations_by_state`: 25 points
 * 5 points. The recording stations are printed in alphabetical order. (All or nothing.)
 * 5 points. The output matches the format of the output transcript exactly when the state appears in the file. (All or nothing.)
 * 5 points. The output matches the format of the output transcript exactly when the state does NOT appears in the file. (All or nothing.)
+
 Your function: 20 points
 * 5 points. The function is non-trivial. (All or nothing.)
 * 5 points. The function is not a simple variation of one of the other three functions. (All or nothing).
