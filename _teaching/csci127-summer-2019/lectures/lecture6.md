@@ -24,4 +24,7 @@ Chapter [11](https://runestone.academy/runestone/static/thinkcspy/Files/toctree.
 * Absolute File Paths vs. Relative File Paths
 
 ## Active learning
-
+Download [census.txt](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/activities/census.txt).
+1. Using a for loop, write a program that reports the average
+population across all states.
+2. Edit your existing program to use a while loop and the readline() function.
