@@ -92,20 +92,25 @@ raven.py to find the counts of every letter in the text using a dictionary.
 
 
 ### Activity 3
-Download [alice.py](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/activities/alice.py) and
-[alice.txt](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/activities/alice.txt).
+Download [raven_words.py](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/activities/raven_words.py) and
 1. Modify
-alice.py to produce a file word_counts.txt that contains the counts of each word in the file alice.py, in
+alice.py to produce a file word_counts.txt that contains the counts of each word in the file raven.txt, in
 alphabetical order. The first few lines of word_counts.txt should look something like this:
 ```
-Word	Count
-a	631
-a-piece	1
-abide	1
-able	1
-about	94
-above	3
-absence	1
-absurd	2
+a 15
+above 7
+adore 1
+again 1
+agreeing 1
+ah 2
+aidenn 1
+air 1
+all 4
+an 2
+ancient 1
+and 38
+angels 4
+answer 1
 ```
-2. What is the longest word in the file?
+Hint: you may need to cast a dict_keys object to a list using `list()`
+2. Modify your program to also print the longest word in the file.
