@@ -94,7 +94,7 @@ raven.py to find the counts of every letter in the text using a dictionary.
 ### Activity 3
 Download [raven_words.py](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/activities/raven_words.py) and
 1. Modify
-alice.py to produce a file word_counts.txt that contains the counts of each word in the file raven.txt, in
+raven_words.py to produce a file word_counts.txt that contains the counts of each word in the file raven.txt, in
 alphabetical order. The first few lines of word_counts.txt should look something like this:
 ```
 a 15
