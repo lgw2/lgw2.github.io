@@ -1,9 +1,9 @@
 ---
 collection: teaching
-title: "Files"
-venue: "June 19"
+title: "Dictionaries"
+venue: "June 20"
 type: "Lecture"
-date: 2019-06-19
+date: 2019-06-20
 ---
 
 ## Reading
