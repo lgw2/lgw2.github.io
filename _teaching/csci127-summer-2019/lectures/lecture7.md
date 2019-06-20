@@ -85,11 +85,11 @@ yourdict = mydict
 yourdict["elephant"] = 999
 print(mydict["elephant"])
 ```
+
 ### Activity 2
 Download [raven.py](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/activities/raven.py) and
 [raven.txt](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/activities/raven.txt). Edit
 raven.py to find the counts of every letter in the text using a dictionary.
-
 
 ### Activity 3
 Download [raven_words.py](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/activities/raven_words.py) and
