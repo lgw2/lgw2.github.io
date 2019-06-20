@@ -113,4 +113,7 @@ angels 4
 answer 1
 ```
 Hint: you may need to cast a dict_keys object to a list using `list()`
+
+Here is a solution: [raven_words_updated.py](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/activities/raven_words_updated.py).
+
 2. Modify your program to also print the longest word in the file.
