@@ -46,9 +46,6 @@ appear instead of an 8 bit representation.
 [output-2.txt](https://lgw2.github.io/teaching/csci127-summer-2019/labs/output-2.txt)
 and [output-3.txt](https://lgw2.github.io/teaching/csci127-summer-2019/labs/output-3.txt) .
 
-## Sample output
-In [this sample run](https://lgw2.github.io/teaching/csci127-summer-2019/labs/output.txt),
-the user input 5.0 for the lower bound and 6.0 for the upper bound.
 
 ## Grading - 10 points
 2 points - The `create_dictionary` function returns a dictionary that contains the correct binary code for each character of length one.
