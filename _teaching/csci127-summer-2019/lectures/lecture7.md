@@ -45,6 +45,67 @@ in a novel such as The Catcher in the Rye. Only words that appear one or more ti
 
 ## Active learning
 ### Activity 1
+On paper, answer the following questions:
+1. What is printed by the following statements?
+```
+mydict = {"cat":12, "dog":6, "elephant":23, "bear":20}
+keylist = list(mydict.keys())
+keylist.sort()
+print(keylist[3])
+```
+2. What is printed by the following statements?
+```
+mydict = {"cat":12, "dog":6, "elephant":23, "bear":20}
+answer = mydict.get("cat") // mydict.get("dog")
+print(answer)
+```
+3. What is printed by the following statements?
+```
+mydict = {"cat":12, "dog":6, "elephant":23, "bear":20}
+print("dog" in mydict)
+```
+4. What is printed by the following statements?
+```
+mydict = {"cat":12, "dog":6, "elephant":23, "bear":20}
+print(23 in mydict)
+```
+5. What is printed by the following statements?
+```
+total = 0
+mydict = {"cat":12, "dog":6, "elephant":23, "bear":20}
+for akey in mydict:
+   if len(akey) > 3:
+      total = total + mydict[akey]
+print(total)
+```
+6. What is printed by the following?
+```
+mydict = {"cat":12, "dog":6, "elephant":23, "bear":20}
+yourdict = mydict
+yourdict["elephant"] = 999
+print(mydict["elephant"])
+```
+### Activity 2
 Download [raven.py](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/activities/raven.py) and
 [raven.txt](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/activities/raven.txt). Edit
 raven.py to find the counts of every letter in the text using a dictionary.
+
+
+### Activity 3
+Download [alice.py](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/activities/alice.py) and
+[alice.txt](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/activities/alice.txt).
+1. Modify
+alice.py to produce a file word_counts.txt that contains the counts of each word in the file alice.py, in
+alphabetical order. The first few lines of word_counts.txt should look something like this:
+```
+Word	Count
+a	631
+a-piece	1
+abide	1
+able	1
+about	94
+above	3
+absence	1
+absurd	2
+```
+2. What is the longest word in the file?
