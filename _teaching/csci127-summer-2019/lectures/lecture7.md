@@ -45,3 +45,6 @@ in a novel such as The Catcher in the Rye. Only words that appear one or more ti
 
 ## Active learning
 ### Activity 1
+Download [raven.py](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/activities/raven.py) and
+[raven.txt](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/activities/raven.txt). Edit
+raven.py to find the counts of every letter in the text using a dictionary.
