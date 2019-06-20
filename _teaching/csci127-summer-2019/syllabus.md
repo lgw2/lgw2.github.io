@@ -1,4 +1,4 @@
---
+---
 title: "CSCI 127: The Joy & Beauty of Data"
 collection: teaching
 type: "Undergraduate course"
