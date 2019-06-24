@@ -157,8 +157,8 @@ enthusiastic about course material and my role in helping you learn.
 |weekend!| | | |
 |Monday 6/24|Lecture 8| |Lab 7|
 |Tuesday 6/25|Lecture 9| | Lab 8|
-|Wednesday 6/26|Lecture 10| |Lab 9, Program 4|
-|Thursday 6/27|Practicum 2 Review| |Lab 10|
+|Wednesday 6/26|Lecture 10| ||
+|Thursday 6/27|Practicum 2 Review| |Program 4|
 |Friday 6/28| | | |
 |weekend!| | | |
 |Monday 7/1|Lecture 11| |Lab 11, Program 5|
