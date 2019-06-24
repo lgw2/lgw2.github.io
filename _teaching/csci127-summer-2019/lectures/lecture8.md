@@ -25,6 +25,7 @@ This module is implemented using object-oriented programming.
 * Functions can return objects.
 * Method `__str__` can be used to override how objects are printed,
 e.g. `print(object)`.
+* It is common to split classes into their own files and import them.
 
 ## Active learning
 ### Activity 1

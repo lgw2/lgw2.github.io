@@ -21,15 +21,15 @@ def print_directory(contacts):
 def main():
     champ = Contact("???", "Bobcat", "406-994-0000")
     president = Contact("Waded", "Cruzado", "406-994-CATS")
-    dep_head = Contact("John", "Paxton", "406-994-4780")
+    professor = Contact("John", "Paxton", "406-994-4780")
 
-    contacts = [champ, president, dep_head]
+    contacts = [champ, president, professor]
 
     print_directory(contacts)
 
     champ.set_first_name("Champ")
     president.set_title("President")
-    dep_head.set_title("Department Head")
+    professor.set_title("Professor")
 
     print_directory(contacts)
 
