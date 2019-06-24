@@ -30,20 +30,15 @@ and make sure you understand it.
 output.
 
 ## Grading - 10 points
-2 points - The `create_dictionary` function returns a dictionary that contains the correct binary code for each character of length one.
+2 points - The constructor of the `Contact` class is correct.
 
-1 point - The `create_dictionary` function returns a dictionary that contains the correct binary code for " " and ",".
+2 points - The reader methods of the `Contact` class are correct.
 
-4 points - When your program is tested with different values for the variable `sentence`, characters that exist in
-the dictionary are translated correctly. For each different character that is translated incorrectly, one point will be deducted.
+2 points - The writer methods of the `Contact` class are correct.
 
-1 point - When your program is tested with different values for the variable `sentence`, characters that do NOT exist in
-the dictionary are translated correctly to UNKNOWN.
+2 points - The `print_entry method` of the `Contact` class is correct.
 
-1 point - The format of any output files created match the format of the sample output files exactly.
-
-1 point - In a comment at the top of the python file that you submit, explain why the comma character
-and the space character are treated differently in ascii-codes.csv.
+2 points - Your program's output matches the output format of the transcript above (1 point for each type of difference up to 2 points).
 
 ## Grading turnaround
 All labs graded with scores recorded in BrightSpace no later than lab time (2pm) the following day.
