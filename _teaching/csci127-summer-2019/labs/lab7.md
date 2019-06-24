@@ -9,7 +9,7 @@ date: 2019-06-24
 ## Logistics
 * Due: Monday, June 24th no later than 5pm.
 * Submission instructions: upload solution,
-entitled FirstName-LastNameLab6.py
+entitled FirstName-LastNameLab7.py
 to the BrightSpace Lab 7 Dropbox.
 * Deadline reminder: once this deadline passes, BrightSpace will no longer accept your Python
 submission and you will no longer be able to earn credit. Thus, if you are not able to fully
