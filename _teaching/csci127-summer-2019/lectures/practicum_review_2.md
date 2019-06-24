@@ -7,7 +7,7 @@ date: 2019-06-27
 ---
 
 ## Practicum Info
-The practicum will take place on Thursday, 6/7 at time TBD.
+The practicum will take place on Thursday, 6/27 at time TBD.
 It will cover the Python topics that we have learned so far:
 data types, turtle graphics, modules, functions, selection statements, iterative statements, strings, recursion, lists, files, dictionaries, and
 object oriented programming, with a focus on topics we learned since the
