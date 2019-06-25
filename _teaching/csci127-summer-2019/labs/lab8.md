@@ -18,6 +18,9 @@ complete the assignment, submit whatever you have before the deadline so that pa
 ## Learning outcomes
 Gain experience with object oriented programming.
 
+## Hint
+Check out the [magic methods](https://www.python-course.eu/python3_magic_methods.php) for Python classes.
+
 ## Assignment
 * In this assignment, you will use object-oriented programming to
 implement a data structure called a queue. An example of a
