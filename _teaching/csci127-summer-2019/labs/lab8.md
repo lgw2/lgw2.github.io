@@ -34,17 +34,11 @@ understand it.
 class such that when the program is run, it produces this [output](https://lgw2.github.io/teaching/csci127-summer-2019/labs/lab8_output.txt).
 
 ## Grading - 10 points
-1 points - The constructor of the Queue class is correct.
+3 points - High Rolls are identified correctly.
 
-1 points - The `enqueue` method of the Queue class is correct. The method adds an item to the queue.
+3 points - Three of a Kinds are identified correctly.
 
-1 points - The `dequeue` method of the Queue class is correct. The method removes and returns the item that has been in the queue the longest.
-
-1 points - The `is_empty` method of the Queue class is correct. A queue is considered to be empty when it contains no items.
-
-2 points - The `__str__` method of the Queue class is correct.
-
-3 points - In the main function, the statement number += 15 is implemented correctly using the appropriate magic method in the Queue class.
+4 points - Large straights are identified correctly.
 
 ## Grading turnaround
 All labs graded with scores recorded in BrightSpace no later than lab time (2pm) the following day.
