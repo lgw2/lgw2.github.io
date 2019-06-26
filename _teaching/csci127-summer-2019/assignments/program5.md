@@ -1,7 +1,7 @@
 ---
 collection: teaching
 title: "Program 5"
-venue: "Due July 30"
+venue: "Due July 1"
 type: "Programming Assignment"
 date: 2019-07-01
 ---
