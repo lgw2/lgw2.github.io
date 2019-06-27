@@ -43,7 +43,7 @@ You can do this before the course starts, or come to class and I will help you.
 I am making videos to help with installation for both Mac and Windows. You can find
 them [here](https://montana.techsmithrelay.com/Users/ff0db049-dd5f-4a73-8faf-e3a6ef30d83f/#Ia6E).
 
-### Mac
+#### Mac
 Download the appropriate file at the bottom of [this page](
 https://www.python.org/downloads/release/python-367/)
 (macOS 64-bit installer for OS X 10.9 and later,
@@ -56,7 +56,7 @@ pip3 install --user matplotlib
 pip3 install --user pandas
 pip3 install --user scikit-learn
 ```
-### Windows
+#### Windows
 Download the Windows x86-64 executable installer file
 at the bottom of [this page](
 https://www.python.org/downloads/release/python-367/) and install.
