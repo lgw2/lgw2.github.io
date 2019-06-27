@@ -31,5 +31,9 @@ lectures from the Spring 2019 CSCI 127 course which address inheritance:
 * [Inheritance 2](https://montana.techsmithrelay.com/Z3vN)
 * [Inheritance 3](https://montana.techsmithrelay.com/90TP)
 
-If you'd like to test your knowledge, [here](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/inheritance.pdf) is an example question.
+You can download the [dungeons.py](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/activities/dungeons.py) file for an example of inheritance.
+
+If you'd like to test your knowledge,
+[here](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/inheritance.pdf)
+is an example question
 using inheritance.
