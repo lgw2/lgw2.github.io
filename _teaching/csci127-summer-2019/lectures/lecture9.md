@@ -22,3 +22,14 @@ two variables refer to objects that contain the same underlying
 (significant) values.
 * The method `__add__(self, other)` can be defined so that the operator
 `+` can be used.
+
+## Additional resources
+In this course, we did not cover inheritance, which is a very useful feature of object
+oriented programming. If you would like to read about it, check out [this short reading](https://www.w3schools.com/python/python_inheritance.asp). You can also watch the
+lectures from the Spring 2019 CSCI 127 course which address inheritance:
+* [Ineritance 1](https://montana.techsmithrelay.com/Bv3L)
+* [Inheritance 2](https://montana.techsmithrelay.com/Z3vN)
+* [Inheritance 3](https://montana.techsmithrelay.com/90TP)
+
+If you'd like to test your knowledge, [here](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/inheritance.pdf) is an example question.
+using inheritance.
