@@ -7,8 +7,8 @@ date: 2019-06-27
 ---
 
 ## Practicum Info
-The practicum will take place on Thursday, 6/27 from 2pm to 3pm in BH 126,
-our usual classroom.
+The practicum will take place on Thursday, 6/27 from 2pm to 3pm in BH 254,
+the computer lab.
 It will cover the Python topics that we have learned so far:
 data types, turtle graphics, modules, functions, selection statements, iterative statements, strings, recursion, lists, files, dictionaries, and
 object oriented programming, with a focus on topics we learned since the
