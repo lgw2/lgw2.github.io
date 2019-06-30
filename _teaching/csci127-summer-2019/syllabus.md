@@ -169,4 +169,4 @@ enthusiastic about course material and my role in helping you learn.
 |Tuesday 7/2|Lecture 12| |Lab 11|
 |Wednesday 7/3|[Lecture 13](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/lecture13.md)| ||
 |Thursday 7/4| | | |
-|Friday 7/5|Practicum 3| |Program 6|
+|Friday 7/5|Practicum 3 Review| |Program 6|
