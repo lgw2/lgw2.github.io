@@ -1,6 +1,6 @@
 ---
 collection: teaching
-title: "Numpy Arrays"
+title: "matplotlib"
 venue: "July 1"
 type: "Lecture"
 date: 2019-07-01
