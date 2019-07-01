@@ -33,10 +33,10 @@ as a starting point.
 corresponding numpy array that contains each college's enrollment.
 * The `main` function should produce the desired bar graph using the information contained in the numpy
 arrays named `college_names` and `college_enrollments`.
-* Write a program that matches [this graph](https://lgw2.github.io/teaching/csci127-summer-2019/labs/graph.png) as closely as possible. Hint: check out the [matplot.pyplot.bar documentation](https://matplotlib.org/3.1.0/api/_as_gen/matplotlib.pyplot.bar.html).
+* Write a program that matches [this graph](https://lgw2.github.io/teaching/csci127-summer-2019/labs/lab10.png) as closely as possible. Hint: check out the [matplot.pyplot.bar documentation](https://matplotlib.org/3.1.0/api/_as_gen/matplotlib.pyplot.bar.html).
 
 ## Grading - 10 points
-1 point - The upper gray bar contains the words Montana State University Fall 2018 Enrollments.
+1 point - The chart it titled "Montana State University Fall 2018 Enrollments".
 
 1 point - The x-axis is labeled College Name and the y-axis is labeled College Enrollment.
 
