@@ -19,9 +19,9 @@ complete the assignment, submit whatever you have before the deadline so that pa
 * Gain experience with matplotlib to display information.
 * Continue to gain experience with numpy.
 
-## Backgroun
+## Background
 * The Registrars Office at Montana State University makes [various enrollment statistics available](http://www.montana.edu/opa/enrollment/index.html).
-* The file, [fall-2018.csv](https://lgw2.github.io/teaching/csci127-summer-2019/labs/fall-2018.csv) captures some of
+* The file [fall-2018.csv](https://lgw2.github.io/teaching/csci127-summer-2019/labs/fall-2018.csv) captures some of
 the information that is available in the Fall 2018 Report G - Part A: Headcount Enrollment, All Students by Primary Major.
 The first line contains how many lines of data follow. Each subsequent line contains the name of one of MSU's colleges
 (such as CLS for the College of Letters & Science) followed by the Fall 2018 enrollment for that college.
@@ -33,7 +33,7 @@ as a starting point.
 corresponding numpy array that contains each college's enrollment.
 * The `main` function should produce the desired bar graph using the information contained in the numpy
 arrays named `college_names` and `college_enrollments`.
-* Write a program that matches [this graph](https://lgw2.github.io/teaching/csci127-summer-2019/labs/graph.png) as closely as possible.
+* Write a program that matches [this graph](https://lgw2.github.io/teaching/csci127-summer-2019/labs/graph.png) as closely as possible. Hint: check out the [matplot.pyplot.bar documentation](https://matplotlib.org/3.1.0/api/_as_gen/matplotlib.pyplot.bar.html).
 
 ## Grading - 10 points
 1 point - The upper gray bar contains the words Montana State University Fall 2018 Enrollments.
