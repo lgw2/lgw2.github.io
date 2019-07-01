@@ -34,7 +34,9 @@ and [this output file](https://lgw2.github.io/teaching/csci127-summer-2019/labs/
 
 2 - The `compute_num_women` function is correct.
 
-4 - The `plot_histogram` function is correct.
+2 - The `plot_histogram` function is correct.
+
+2 - in a comment at the top of your Python file, write a few sentences interpreting age_histogram.png.
 
 
 ## Grading turnaround
