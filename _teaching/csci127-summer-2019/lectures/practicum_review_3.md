@@ -1,9 +1,9 @@
 ---
 collection: teaching
 title: "Practicum 3 Review"
-venue: "July 3"
+venue: "July 5"
 type: "Lecture"
-date: 2019-07-03
+date: 2019-07-05
 ---
 
 ## Practicum Info
