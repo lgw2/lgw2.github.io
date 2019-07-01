@@ -27,3 +27,9 @@ same plot. Comment your function using a docstring.
 
 ### Activity 2
 Download [diceSimulator.py](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/activities/diceSimulator.py).
+
+### Acitivty 3
+Download [montana.py](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/activities/montana.py)
+and
+[montana.txt](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/activities/montana.txt).
+* What is the Python program doing?
