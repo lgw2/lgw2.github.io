@@ -24,3 +24,6 @@ Download [graph.py](https://lgw2.github.io/teaching/csci127-summer-2019/lectures
 * Modify graphs.py to draw the sine wave with 5 point size.
 * Add your own function `plot_new_func` that plots a different sort of function on the
 same plot. Comment your function using a docstring.
+
+### Activity 2
+Download [diceSimulator.py](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/activities/diceSimulator.py).
