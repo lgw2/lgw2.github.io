@@ -13,6 +13,7 @@ Read [this tutorial](https://matplotlib.org/users/pyplot_tutorial.html) up to bu
 * `plt.plot()`
 * line style and color: [https://matplotlib.org/api/pyplot_api.html#matplotlib.pyplot.plot](https://matplotlib.org/api/pyplot_api.html#matplotlib.pyplot.plot)
 * working with multiple subplots
+* histograms
 
 ## Active learning
 
@@ -22,4 +23,4 @@ Download [graph.py](https://lgw2.github.io/teaching/csci127-summer-2019/lectures
 * Modify graphs.py to plot the straight lines with magenta dashes. Hint.
 * Modify graphs.py to draw the sine wave with 5 point size.
 * Add your own function `plot_new_func` that plots a different sort of function on the
-same plot. Comment your function.
+same plot. Comment your function using a docstring.
