@@ -1,21 +1,13 @@
 ---
 collection: teaching
-title: "Machine Learning with sklearn"
-venue: "July 3"
+title: "pandas"
+venue: "July 2"
 type: "Lecture"
-date: 2019-07-03
+date: 2019-07-02
 ---
 
 ## Reading
-Browse [this tutorial](https://scikit-learn.org/stable/tutorial/basic/tutorial.html).
 
 ## Key ideas
 
-### About machine learning
-* Supervised learning
-* Feature variables and class variables
-* Classification vs. regression
-* Decision trees
-* Support vector machines
-
-We will work through [ml.py](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/activities/ml.py)
+## Active learning
