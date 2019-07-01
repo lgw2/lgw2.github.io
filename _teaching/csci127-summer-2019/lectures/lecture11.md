@@ -34,5 +34,5 @@ Download [diceSimulator.py](https://lgw2.github.io/teaching/csci127-summer-2019/
 Download [montana.py](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/activities/montana.py)
 and
 [montana.txt](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/activities/montana.txt).
-* What is the Python program doing?
+* Modify the program above so that it shows the net population increase (or decrease) from one census date to the next in a second figure. (The first figure should continue to show the original graph.)
 
