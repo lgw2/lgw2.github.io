@@ -18,7 +18,7 @@ def generate_rolls(how_many):
 # --------------------------------------
 
 def main():
-    rolls = generate_rolls(10000)
+    rolls = generate_rolls(10)
 
     plt.hist(rolls, bins=np.arange(2, 14), facecolor='g', align='left')  # generate histogram
     plt.xticks(np.arange(2, 13))
