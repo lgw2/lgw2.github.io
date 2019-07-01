@@ -21,6 +21,7 @@ complete the assignment, submit whatever you have before the deadline so that pa
 
 
 ## Assignment
+* Download billionaires.csv from the website [here](https://think.cs.vt.edu/corgis/csv/billionaires/billionaires.html).
 * Download [lab11.py](https://lgw2.github.io/teaching/csci127-summer-2019/labs/lab11.py)
 and rename it according to the instructions above.
 * Implement the missing functions to match [this transcript](https://lgw2.github.io/teaching/csci127-summer-2019/labs/lab11_output.txt)
