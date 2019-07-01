@@ -18,3 +18,8 @@ Read [this tutorial](https://matplotlib.org/users/pyplot_tutorial.html) up to bu
 
 ### Activity 1
 Download [graph.py](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/graph.py)
+* Modify graphs.py to label the x-axis as x and the y-axis as y.
+* Modify graphs.py to plot the straight lines with magenta dashes. Hint.
+* Modify graphs.py to draw the sine wave with 5 point size.
+* Modify graphs.py by replacing plt.xlim and plt.ylim (in the main function)
+with an equivalent plt.axis statement.
