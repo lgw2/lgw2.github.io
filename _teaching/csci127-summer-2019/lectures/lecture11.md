@@ -21,5 +21,5 @@ Download [graph.py](https://lgw2.github.io/teaching/csci127-summer-2019/lectures
 * Modify graphs.py to label the x-axis as x and the y-axis as y.
 * Modify graphs.py to plot the straight lines with magenta dashes. Hint.
 * Modify graphs.py to draw the sine wave with 5 point size.
-* Modify graphs.py by replacing plt.xlim and plt.ylim (in the main function)
-with an equivalent plt.axis statement.
+* Add your own function `plot_new_func` that plots a different sort of function on the
+same plot. Comment your function.
