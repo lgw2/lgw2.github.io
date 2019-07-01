@@ -17,3 +17,4 @@ Read [this tutorial](https://matplotlib.org/users/pyplot_tutorial.html) up to bu
 ## Active learning
 
 ### Activity 1
+Download [graph.py](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/graph.py)
