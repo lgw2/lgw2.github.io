@@ -35,7 +35,7 @@ sklearn package.
 10 points - Each matplotlib visualization is a different type. For example, one visualization could be a
 bar chart and the other could be a line chart.
 
-10 points - The visualizations use the underlying data from airlines.csv as input.
+10 points - The visualizations are saved in the same directory as the Python file as visualization1.png and visualization2.png.
 
 20 points - All aspects of each visualization are clearly labeled (titles, axes, etc).
 3 points for each type of improvement up to 20 points.
