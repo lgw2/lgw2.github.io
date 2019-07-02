@@ -26,4 +26,5 @@ the online python documentation or previous python programs that you wrote for t
 ## Practice Practicums
 
 [Practice Problems](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/practice_practicum_3.pdf)
+
 [More practice problems](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/practice_3.pdf)
