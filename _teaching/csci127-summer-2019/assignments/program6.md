@@ -25,7 +25,7 @@ the deadline so that partial credit can be earned.
 help a user gain insight into the airlines.csv file.
 * Optional: you can make one of your visualizations about predictions generated using the
 sklearn package.
-
+* In order to save your visualizations, you can use the `plt.savefig(output_filename.png)` command, as in Lab 11.
 
 ## Grading - 100 points
 10 points - pandas is used to load and manipulate the data.
