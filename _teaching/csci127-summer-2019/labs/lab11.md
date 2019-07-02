@@ -26,6 +26,8 @@ complete the assignment, submit whatever you have before the deadline so that pa
 and rename it according to the instructions above.
 * Implement the missing functions to match [this transcript](https://lgw2.github.io/teaching/csci127-summer-2019/labs/lab11_output.txt)
 and [this output file](https://lgw2.github.io/teaching/csci127-summer-2019/labs/age_histogram.png).
+* Hint: use plt.savefig(output_filename) to save the histogram to a file,
+rather than displaying it when the program is run.
 
 
 ## Grading - 10 points
