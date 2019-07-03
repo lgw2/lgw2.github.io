@@ -18,5 +18,5 @@ Browse [this tutorial](https://scikit-learn.org/stable/tutorial/basic/tutorial.h
 * Decision trees
 * Support vector machines
 
-Data for today: [train.csv](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/train.csv/) and
-[test.csv](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/test.csv/), both from [this Kaggle competition](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/).
+Data for today: [train.csv](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/train.csv) and
+[test.csv](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/test.csv), both from [this Kaggle competition](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/).
