@@ -28,3 +28,57 @@ See the sklearn documentation:
 
 Data for today: [train.csv](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/train.csv) and
 [test.csv](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/test.csv), both from [this Kaggle competition](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/).
+
+### Some commands we will run
+```
+
+import pandas as pd
+import matplotlib.pyplot as plt
+import numpy as np
+
+train = pd.read_csv('train.csv')
+test = pd.read_csv('test.csv')
+
+train.columns
+
+train['SalePrice'].head()
+
+train['SalePrice'].describe()
+
+plt.hist(train['SalePrice'], bins=25)
+
+train.dtypes
+
+train['Fireplaces'].describe()
+
+plt.plot(train['FullBath'], train['SalePrice'], 'bo', alpha=0.3)
+
+
+from sklearn.linear_model import LinearRegression
+
+reg_object = LinearRegression()
+
+X = np.array(train['OverallQual']).reshape(-1,1)
+y = train['SalePrice']
+
+reg_object.fit(X, y)
+reg_object.predict(np.array(1).reshape(-1,1))
+reg_object.score(X, y)
+
+X_test = np.array(test['OverallQual']).reshape(-1,1)
+
+
+#same metric as kaggle:
+# note that we must not have negatives in predictions
+
+predictions = reg_object.predict(X)
+from sklearn.metrics import mean_squared_log_error
+np.sqrt(mean_squared_log_error( y, predictions.clip(min=0)))
+
+X = np.array(list(zip(train['OverallQual'], train['FullBath'])))
+
+from sklearn.model_selection import train_test_split
+X_train, X_test, Y_train, Y_test = train_test_split (X, Y, test_size = 0.20, random_state=42)
+
+from sklearn.tree import DecisionTreeRegressor
+```
