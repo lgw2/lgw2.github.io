@@ -8,7 +8,7 @@ author_profile: true
 We are extending a flow network model of RNA short read data to account for errors in the data collection process
 and developing algorithms to use this model to determine RNA transcripts and their abundances.
 ### Posters:
-* Recomb 2019: "Decomposing inexact flows with application to RNA transcript assembly"
+* RECOMB 2019: "Decomposing inexact flows with application to RNA transcript assembly"
 
 ## Shape reconstruction using topological descriptors
 We are developing algorithms to reconstruct shapes from topological descriptors such as persistence diagrams
