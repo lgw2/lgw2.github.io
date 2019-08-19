@@ -8,5 +8,6 @@ redirect_from:
 urlcolor: blue
 ---
 
-My CV is available for download [here](http://lgw2.github.io/files/williams_cv.pdf).
+My CV is available for download [here](
+https://runestone.academy/runestone/static/thinkcspy/index.html).
 Last updated 5/21/2019.
