@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a second-year PhD student in computer science at Montana State University in Bozeman, Montana.
+I am a third-year PhD student in computer science at Montana State University in Bozeman, Montana.
 My advisor is [Brendan Mumey](https://brendanmumey.wordpress.com/).
 I am interested in the design and analysis of algorithms for all sorts of problems, especially those that can be
 represented as graphs. Currently, I have two primary areas of research: decomposing
