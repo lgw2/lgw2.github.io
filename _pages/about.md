@@ -16,7 +16,7 @@ or without a single reference genome.
 I have also worked with the [Computational Topology and
 Geometry](https://www.cs.montana.edu/tda/index.html) group at MSU to develop
 the theory behind a new method for comparing shapes without manual landmarking.
-See my [reserch page](https://lgw2.github.io/research/) for more detail on my
+See my [research page](https://lgw2.github.io/research/) for more detail on my
 research pursuits.
 
 Before starting my PhD, I worked as a data scientist at an online advertising

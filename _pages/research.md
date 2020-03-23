@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-## Maximal haplotype blocks with unknowns and "pangenome SNPs"
+## Maximal haplotype blocks with unknowns and pangenome SNPs
 We are extending recent progress on the problem of finding maximal perfect
 haplotype blocks from a set of SNP-resolved haplotypes to include unknown data
 and to work in a pangenomic setting.
