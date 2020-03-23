@@ -4,8 +4,22 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
+## Maximal haplotype blocks with unknowns and "pangenome SNPs"
+We are extending recent progress on the problem of finding maximal perfect
+haplotype blocks from a set of SNP-resolved haplotypes to include unknown data
+and to work in a pangenomic setting.
+
+### Peer reviewed publications:
+* Lucia Williams, Brendan Mumey, "Maximal Perfect Haplotype Blocks with Wildcards",
+The 10th RECOMB Satellite Workshop on Massively Parallel Sequencing
+(RECOMB-Seq), May 2020.
+* Lucia Williams, Brendan Mumey, "Extending Maximal Perfect Haplotype Blocks
+to the Realm of Pangenomics," Algorithms for Computational Biology (AlCoB)
+2020, Apr. 2020. Lecture Notes in Computer Science, vol 12099.
+
 ## Network flow decomposition with application to RNA assembly
-We are extending a flow network model of RNA short read data to account for errors in the data collection process
+We are extending a flow network model of RNA short read data to account for
+errors in the data collection process
 and developing algorithms to use this model to determine RNA transcripts and their abundances.
 
 ### Peer reviewed publications:
