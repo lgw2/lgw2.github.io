@@ -137,28 +137,6 @@ enthusiastic about course material and my role in helping you learn.
 
 ## Course schedule
 
-|Date|Lecture Outline|Lecture Video|Due|
-|:---|:---|:---|:---|
-|Monday 6/10|[Lecture 1](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/lecture1/)|[Lecture 1 Video](https://montana.techsmithrelay.com/jSE0) |[Lab 1](https://lgw2.github.io/teaching/csci127-summer-2019/labs/lab1/) |
-|Tuesday 6/11|[Lecture 2](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/lecture2/)|[Lecture 2 Video](https://montana.techsmithrelay.com/IoIi) |[Lab 2](https://lgw2.github.io/teaching/csci127-summer-2019/labs/lab2/) |
-|Wednesday 6/12|[Lecture 3](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/lecture3/)|[Lecture 3 Video](https://montana.techsmithrelay.com/x5Me) |[Program 1](https://lgw2.github.io/teaching/csci127-summer-2019/assignments/program1/)|
-|Thursday 6/13| [Lecture 4](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/lecture4/)|[Lecture 4 Video](https://montana.techsmithrelay.com/H8UQ)|[Lab 3](https://lgw2.github.io/teaching/csci127-summer-2019/labs/lab3/) |
-|Friday 6/14| | | |
-|weekend!| | |
-|Monday 6/17| [Lecture 5](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/lecture5/)|[Lecture 5 Video](https://montana.techsmithrelay.com/exUw) | [Lab 4](https://lgw2.github.io/teaching/csci127-summer-2019/labs/lab4/), [Program 2](https://lgw2.github.io/teaching/csci127-summer-2019/assignments/program2/)|
-|Tuesday 6/18| [Practicum 1 Review](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/practicum_review_1/)|[Video](https://montana.techsmithrelay.com/gneq) | |
-|Wednesday 6/19| [Lecture 6](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/lecture6/)|[Lecture 6 Video](https://montana.techsmithrelay.com/yIWk) |[Lab 5](https://lgw2.github.io/teaching/csci127-summer-2019/labs/lab5/)
-|Thursday 6/20| [Lecture 7](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/lecture7/)|[Lecture 7 Video](https://montana.techsmithrelay.com/cqha) |[Lab 6](https://lgw2.github.io/teaching/csci127-summer-2019/labs/lab6/)
-|Friday 6/21| | |[Program 3](https://lgw2.github.io/teaching/csci127-summer-2019/assignments/program3/)|
-|weekend!| | | |
-|Monday 6/24|[Lecture 8](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/lecture8/)|[Lecture 8 Video](https://montana.techsmithrelay.com/jepU) |[Lab 7](https://lgw2.github.io/teaching/csci127-summer-2019/labs/lab7/)|
-|Tuesday 6/25|[Lecture 9](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/lecture9/)|[Lecture 9 Video](https://montana.techsmithrelay.com/VT9e) | [Lab 8](https://lgw2.github.io/teaching/csci127-summer-2019/labs/lab8/)|
-|Wednesday 6/26|[Lecture 10](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/lecture10/)|[Lecture 10 Video](https://montana.techsmithrelay.com/nGV6) (forgot to start until midway through)|[Lab 9](https://lgw2.github.io/teaching/csci127-summer-2019/labs/lab9/) |
-|Thursday 6/27|[Practicum 2 Review](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/practicum_review_2/)|[Video](https://montana.techsmithrelay.com/sw3U) |[Program 4](https://lgw2.github.io/teaching/csci127-summer-2019/assignments/program4/)|
-|Friday 6/28| | | |
-|weekend!| | | |
-|Monday 7/1|[Lecture 11](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/lecture11)|[Lecture 11 Video](https://montana.techsmithrelay.com/oB5g) |[Lab 10](https://lgw2.github.io/teaching/csci127-summer-2019/labs/lab10/), [Program 5](https://lgw2.github.io/teaching/csci127-summer-2019/assignments/program5/)|
-|Tuesday 7/2|[Lecture 12](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/lecture12/)|[Lecture 12 Video](https://montana.techsmithrelay.com/ErSJ) |[Lab 11](https://lgw2.github.io/teaching/csci127-summer-2019/labs/lab11/)|
-|Wednesday 7/3|[Lecture 13](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/lecture13/)|[Lecture 13 Video](https://montana.techsmithrelay.com/hRd8) ||
-|Thursday 7/4| | | |
-|Friday 7/5|[Practicum 3 Review](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/practicum_review_3/)| |[Program 6](https://lgw2.github.io/teaching/csci127-summer-2019/assignments/program6/)|
+|Date|Topic|Due|
+|:---|:---|:---|
+|Monday 5/18|[Introductions](https://lgw2.github.io/teaching/csci127-summer-2020/days/day1/)|[Lab 1](https://lgw2.github.io/teaching/csci127-summer-2020/labs/lab1/) |
