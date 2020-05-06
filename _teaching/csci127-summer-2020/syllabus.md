@@ -27,7 +27,7 @@ There is a tutor available for this course. You can book appointments with him f
 You can paste your Python code into the tool [here](http://pythontutor.com/) and see what executes with every step.
 
 ### Checking your work
-You can compare the output of your program with a sample output using a tool like [https://www.diffchecker.com/](https://www.diffchecker.com/).
+You can compare the output of your program with a sample output using a tool like [diffchecker.com](https://www.diffchecker.com/).
 Just copy the sample output on one side and your program's output on the other.
 After you press the Find Differences button, you will see any differences between the
 text on the left and the text on the right. You should aim to get your program's
@@ -74,19 +74,20 @@ By the end of this course, students should be be able to:
 * Understand the broad area of data science and its relevance.
 
 ## Grading
-* Practicum 1: 15%
-* Practicum 2: 15%
-* Practicum 3: 25%
-* Labs: 15% (all weighted equally)
+* Quiz 1: 10%
+* Quiz 2: 10%
+* Quiz 3: 10%
+* Labs: 25% (all weighted equally)
+* Completion of interactive textbook assignments: 15% (all weighted equally)
 * Programming homework assignments: 30% (all weighted equally)
 
 After any curving, your grade will be determined by your total score as follows:
 93+: A; 90+: A-; 87+: B+; 83+: B; 80+: B-; 77+: C+; 73+: C; 70+: C-; 67+: D+; 63: D; 60: D-.
 ## Collaboration policy
 
-On both labs and programming homework assignments, you *may*:
+On labs,  programming homework assignments, and interactive textbook questions, you *may*:
 * Share ideas with other individuals or groups.
-* Help other individuals or groups troubleshoot problems
+* Help other individuals or groups troubleshoot problems.
 
 You may *not*:
 * Share code you or your partner has written with other individuals or groups.
@@ -119,20 +120,19 @@ me and the Office of Disability Services as soon as possible.
 What you can do:
 * Be physically and mentally present in all lecture periods and lab periods.
 * Be an active participant in class. This means asking and
-answering questions during lecture, asking for help when needed during labs,
-and contacting me via email
-if questions arise outside of classtime.
+answering questions using Slack, asking for help when needed during labs,
+and contacting me via Slack if you have any questions
 * Be respectful of both your classmates and me.
 * Do your own work.
 
 What I can do:
-* Grade and return labs before the following day's lab period.
+* Grade and return labs before the following day's office hours.
 * Grade and return programming assignments before Monday morning
 the following week.
-* Be available during all lab periods.
-* Respond to all emails within one business day.
+* Be available every week day during that day's office hours.
+* Respond to Slack messages within one business day.
 * Create a course atmosphere conducive to learning by respecting
-all of my students, coming to class prepared each day, and being
+all of my students and being
 enthusiastic about course material and my role in helping you learn.
 
 ## Course schedule
