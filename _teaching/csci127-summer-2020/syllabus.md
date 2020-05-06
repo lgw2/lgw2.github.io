@@ -140,3 +140,4 @@ enthusiastic about course material and my role in helping you learn.
 |Date|Topic|Due|
 |:---|:---|:---|
 |Monday 5/18|[Introductions](https://lgw2.github.io/teaching/csci127-summer-2020/days/day1/)|[Lab 1](https://lgw2.github.io/teaching/csci127-summer-2020/labs/lab1/) |
+|Tuesday 5/19|||
