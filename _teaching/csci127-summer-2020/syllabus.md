@@ -10,7 +10,7 @@ location: "Bozeman, Montana"
 Catalog description: Provides a gentle introduction to the exciting world of big data and data science. Students expand their ability to solve problems with Python by learning to deploy lists, files, dictionaries and object-oriented programming. Data science libraries are introduced that enable data to be manipulated and displayed.
 
 ## Course schedule
-The course runs May 18 through June 26..
+The course runs May 18 through June 26.
 
 ## Course resources
 ### Textbook
@@ -23,9 +23,6 @@ You can find some additional Python problems to work on [here](https://www.pract
 ### SmartyCats
 There is a tutor available for this course. You can book appointments with him for $2 an hour (groups can also use this rate) by going to the website [here](http://www.montana.edu/aycss/success/smartycats/) and clicking "book a tutor."
 
-### Exam review sessions
-There will be exam review sessios with the SmartyCats tutor before the second and third Practicums, on 6/26 and 7/3.
-
 ### Visualizing your code
 You can paste your Python code into the tool [here](http://pythontutor.com/) and see what executes with every step.
 
@@ -37,10 +34,9 @@ text on the left and the text on the right. You should aim to get your program's
 output to be identical to the sample output.
 
 ### Installing Python
-If you would like to work on programming assignments or labs on your own personal
+In order to work on labs and programming assignments on your personal
 computer, you will need to install Python and install a few packages.
-You can do this before the course starts, or come to class and I will help you.
-I am making videos to help with installation for both Mac and Windows. You can find
+I made videos to help with installation for both Mac and Windows. You can find
 them [here](https://montana.techsmithrelay.com/Users/ff0db049-dd5f-4a73-8faf-e3a6ef30d83f/#Ia6E).
 
 #### Mac
