@@ -118,10 +118,12 @@ me and the Office of Disability Services as soon as possible.
 
 ## How to succeed in this class
 What you can do:
-* Be physically and mentally present in all lecture periods and lab periods.
+* Keep up with the course by checking Slack, being aware of the course
+schedule, .
 * Be an active participant in class. This means asking and
-answering questions using Slack, asking for help when needed during labs,
-and contacting me via Slack if you have any questions
+answering questions using Slack, attending office hours to get one-on-one help
+when needed,
+and contacting me via Slack if you have any questions outside of office hours.
 * Be respectful of both your classmates and me.
 * Do your own work.
 
@@ -130,7 +132,7 @@ What I can do:
 * Grade and return programming assignments before Monday morning
 the following week.
 * Be available every week day during that day's office hours.
-* Respond to Slack messages within one business day.
+* Respond to all Slack messages within one business day.
 * Create a course atmosphere conducive to learning by respecting
 all of my students and being
 enthusiastic about course material and my role in helping you learn.
