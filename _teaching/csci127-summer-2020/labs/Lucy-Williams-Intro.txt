@@ -1,0 +1,5 @@
+Hello! My name is Lucia Williams, but I prefer to go by Lucy.
+
+I am a second-year graduate student majoring in Computer Science. I have taken a number of programming courses. As an undergraduate student, I took introductory programming courses and data structures and algorithms courses in Java. As a graduate student, none of my courses have focused exclusively on programming, but most have included a project where I needed to implement algorithms. My favorite course that I have taken at MSU is Computational Geometry, in the spring of 2019. I liked that class because I got to work with my classmates on fun and interesting and geometric problems.
+
+As an instructor, I hope to lead lecture periods and give assignments that help all students to learn the material and succeed on the three practicums. I also hope to teach a course that adequately prepares students to succeed in future computer science courses, and/or use Python to manipulate data for other courses or jobs.

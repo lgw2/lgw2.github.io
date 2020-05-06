@@ -1,0 +1,12 @@
+This program calculates some information from billionaires.csv.
+
+The data set has 2614 rows and 22 columns.
+
+The total wealth of billionaires by year was:
+year
+1996    1049.5
+2001    1728.6
+2014    6454.4
+Name: worth in billions, dtype: float64
+
+The number of female billionaires in the data set is 249.
