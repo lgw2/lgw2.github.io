@@ -139,5 +139,36 @@ enthusiastic about course material and my role in helping you learn.
 
 |Date|Topic|Due|
 |:---|:---|:---|
-|Monday 5/18|[Introductions](https://lgw2.github.io/teaching/csci127-summer-2020/days/day1/)|[Lab 1](https://lgw2.github.io/teaching/csci127-summer-2020/labs/lab1/) |
+|Monday 5/18|[Introduction to the course](https://lgw2.github.io/teaching/csci127-summer-2020/days/day1/)|[Lab 1](https://lgw2.github.io/teaching/csci127-summer-2020/labs/lab1/) |
 |Tuesday 5/19|||
+|Wednesday 5/20|||
+|Thursday 5/21|||
+|Friday 5/22|||
+|Monday 5/25|Memorial Day holiday||
+|Tuesday 5/26|||
+|Wednesday 5/27|||
+|Thursday 5/28|||
+|Friday 5/29|||
+|Monday 6/1|||
+|Tuesday 6/2|||
+|Wednesday 6/3|||
+|Thursday 6/4|||
+|Friday 6/5|||
+|Monday 6/8|||
+|Tuesday 6/9|||
+|Wednesday 6/10|||
+|Thursday 6/11|||
+|Friday 6/12|||
+|Monday 6/15|||
+|Tuesday 6/16|||
+|Wednesday 6/17|||
+|Thursday 6/18|||
+|Friday 6/19|||
+|Monday 6/22|||
+|Tuesday 6/23|||
+|Wednesday 6/24|||
+|Thursday 6/25|||
+|Friday 6/26|||
+
+
+
