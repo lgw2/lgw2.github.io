@@ -28,7 +28,7 @@ of `"z"`'s in the paramter `sentence` using the built-in `count` method (see the
 [here](https://docs.python.org/3/library/stdtypes.html?highlight=isdigit#str.count)).
 For example, if the sentence is `"Jazz music played during the movie Zootopia"`, the
 function should return `3`.
-* Rewrite the body of the `count_iterative` function to count the number of `"z`'s in
+* Rewrite the body of the `count_iterative` function to count the number of `"z"`'s in
 `sentence` using a loop. (Do not use the built-in count method.)
 * Rewrite the body of the `count_recursive` function to count the number of `"z"`'s in
 `sentence` using recursion. (Do not use the built-in count method.)

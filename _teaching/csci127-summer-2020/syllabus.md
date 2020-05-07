@@ -119,7 +119,7 @@ me and the Office of Disability Services as soon as possible.
 ## How to succeed in this class
 What you can do:
 * Keep up with the course by checking Slack, being aware of the course
-schedule, .
+schedule, and doing all assignments on time.
 * Be an active participant in class. This means asking and
 answering questions using Slack, attending office hours to get one-on-one help
 when needed,
