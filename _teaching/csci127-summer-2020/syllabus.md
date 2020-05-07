@@ -142,31 +142,32 @@ enthusiastic about course material and my role in helping you learn.
 |Date|Topic|Due|
 |:---|:---|:---|
 |Monday 5/18|[Introduction to the course](https://lgw2.github.io/teaching/csci127-summer-2020/days/day1/)|[Lab 1](https://lgw2.github.io/teaching/csci127-summer-2020/labs/lab1/) |
-|Tuesday 5/19|||
-|Wednesday 5/20|||
-|Thursday 5/21|||
-|Friday 5/22|||
+|Tuesday 5/19|Simple Python Data, Turtle Graphics, Iteration|Reading Assignment
+2|
+|Wednesday 5/20|Functions|Lab 1|
+|Thursday 5/21|Selection||
+|Friday 5/22|Iteration Revisited|Lab 2|
 |weekend!|
 |Monday 5/25|Memorial Day holiday||
-|Tuesday 5/26|||
-|Wednesday 5/27|||
-|Thursday 5/28|||
-|Friday 5/29|||
+|Tuesday 5/26||Program 1|
+|Wednesday 5/27|Modules, Strings||
+|Thursday 5/28|Recursion|Lab 3|
+|Friday 5/29|Lists|Lab 4|
 |weekend!|
-|Monday 6/1|||
-|Tuesday 6/2|||
+|Monday 6/1||Program 2|
+|Tuesday 6/2||Quiz 1|
 |Wednesday 6/3|||
-|Thursday 6/4|||
-|Friday 6/5|||
+|Thursday 6/4|Files|Lab 5|
+|Friday 6/5|Dictionaries|Lab 6|
 |weekend!|
-|Monday 6/8|||
-|Tuesday 6/9|||
-|Wednesday 6/10|||
-|Thursday 6/11|||
-|Friday 6/12|||
+|Monday 6/8||Program 3|
+|Tuesday 6/9|Objected Oriented Programming Basics||
+|Wednesday 6/10||Lab 7|
+|Thursday 6/11|Object Oriented Programming||
+|Friday 6/12|Inheritance|Lab 8|
 |weekend!|
-|Monday 6/15|||
-|Tuesday 6/16|||
+|Monday 6/15||Program 4|
+|Tuesday 6/16|Quiz 2||
 |Wednesday 6/17|||
 |Thursday 6/18|||
 |Friday 6/19|||
