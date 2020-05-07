@@ -147,7 +147,7 @@ enthusiastic about course material and my role in helping you learn.
 |Thursday 5/21|Selection||
 |Friday 5/22|Iteration Revisited|Lab 2|
 |weekend!|
-|Monday 5/25|Memorial Day holiday||
+|Memorial Day!|||
 |Tuesday 5/26||Program 1|
 |Wednesday 5/27|Modules, Strings||
 |Thursday 5/28|Recursion|Lab 3|
