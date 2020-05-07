@@ -139,11 +139,10 @@ enthusiastic about course material and my role in helping you learn.
 
 ## Course schedule
 
-|Date|Topic|Due|
+|Date|Reading Assignment|Due|
 |:---|:---|:---|
-|Monday 5/18|[Introduction to the course](https://lgw2.github.io/teaching/csci127-summer-2020/days/day1/)|[Lab 1](https://lgw2.github.io/teaching/csci127-summer-2020/labs/lab1/) |
-|Tuesday 5/19|Simple Python Data, Turtle Graphics, Iteration|Reading Assignment
-2|
+|Monday 5/18|General Introduction|Syllabus Scavenger Hunt|
+|Tuesday 5/19|Simple Python Data, Turtle Graphics, Iteration||
 |Wednesday 5/20|Functions|Lab 1|
 |Thursday 5/21|Selection||
 |Friday 5/22|Iteration Revisited|Lab 2|
