@@ -166,7 +166,7 @@ enthusiastic about course material and my role in helping you learn.
 |Friday 6/12|Inheritance|Lab 8|
 |weekend!|
 |Monday 6/15||Program 4|
-|Tuesday 6/16|Quiz 2||
+|Tuesday 6/16||Quiz 2|
 |Wednesday 6/17|||
 |Thursday 6/18|||
 |Friday 6/19|||
