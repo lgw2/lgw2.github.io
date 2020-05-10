@@ -14,7 +14,7 @@ The course runs May 18 through June 26, with assignments due at 5pm on most
 weekdays. We will have no official course meeting time and all materials will
 be available online for you to complete anytime before their due date. In place
 of full recorded lectures, I will be available for two hours per day for office hours
-to help you work through any issues you may have via messaging or video chat. I'll ask for your
+to help you work through any issues you may have. I'll ask for your
 availability in the first assignment and set the daily office hours based on
 times that work best for the most people.
 
@@ -151,12 +151,12 @@ enthusiastic about course material and my role in helping you learn.
 
 ## Course schedule
 
-|Date|Reading Assignment|Due|
-|:---|:---|:---|
-|Monday 5/18|General Introduction|Syllabus Scavenger Hunt|
-|Tuesday 5/19|Simple Python Data, Turtle Graphics, Iteration||
-|Wednesday 5/20|Functions|Lab 1|
-|Thursday 5/21|Selection||
+|Date|Reading Assignment|Due|Office Hours|
+|:---|:---|:---|:---|
+|Monday 5/18|General Introduction|Syllabus Scavenger Hunt|10-12|
+|Tuesday 5/19|Simple Python Data, Turtle Graphics, Iteration|||
+|Wednesday 5/20|Functions|Lab 1||
+|Thursday 5/21|Selection|||
 |Friday 5/22|Iteration Revisited|Lab 2|
 |weekend!|
 |Memorial Day!|||
