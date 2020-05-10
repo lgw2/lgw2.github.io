@@ -10,18 +10,27 @@ location: "Bozeman, Montana"
 Catalog description: Provides a gentle introduction to the exciting world of big data and data science. Students expand their ability to solve problems with Python by learning to deploy lists, files, dictionaries and object-oriented programming. Data science libraries are introduced that enable data to be manipulated and displayed.
 
 ## Course schedule
-The course runs May 18 through June 26.
+The course runs May 18 through June 26, with assignments due at 5pm on most
+weekdays. We will have no official course meeting time and all materials will
+be available online for you to complete anytime before their due date. In place
+of full recorded lectures, I will be available for two hours per day for office hours
+to help you work through any issues you may have via messaging or video chat. I'll ask for your
+availability in the first assignment and set the daily office hours based on
+times that work best for the most people.
 
 ## Course resources
 ### Textbook
-We will use a free, online textbook for this course. It can be found [here](
-https://runestone.academy/runestone/static/thinkcspy/index.html).
+We will use a free, online textbook for this course. You will need to sign up
+for an account [here](https://runestone.academy/runestone/default/user/register).
+
 
 ### Additional problems
 You can find some additional Python problems to work on [here](https://www.practicepython.org/).
+These will be particularly useful
+for preparing for the quizzes.
 
 ### SmartyCats
-There is a tutor available for this course. You can book appointments with him for $2 an hour (groups can also use this rate) by going to the website [here](http://www.montana.edu/aycss/success/smartycats/) and clicking "book a tutor."
+-- will be updated when I hear! --
 
 ### Visualizing your code
 You can paste your Python code into the tool [here](http://pythontutor.com/) and see what executes with every step.
@@ -128,10 +137,9 @@ and contacting me via Slack if you have any questions outside of office hours.
 * Do your own work.
 
 What I can do:
-* Grade and return labs before the following day's office hours.
-* Grade and return programming assignments before Monday morning
-the following week.
-* Be available every week day during that day's office hours.
+* Grade and return labs and programming assignments before the following day's office hours.
+* Be available every week day during that day's office hours for video meetings
+	or to answer questions via chat on Slack.
 * Respond to all Slack messages within one business day.
 * Create a course atmosphere conducive to learning by respecting
 all of my students and being
