@@ -33,6 +33,9 @@ for preparing for the quizzes.
 ### SmartyCats
 -- will be updated when I hear! --
 
+### Slack workspaces
+-- updated soon! --
+
 ### Visualizing your code
 You can paste your Python code into the tool [here](http://pythontutor.com/) and see what executes with every step.
 
