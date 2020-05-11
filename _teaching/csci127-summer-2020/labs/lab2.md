@@ -3,7 +3,7 @@ collection: teaching
 title: "Lab 2: Functions and Selection Statements"
 venue: "May 22"
 type: "Lab"
-date: 2019-05-22
+date: 2020-05-22
 ---
 
 ## Logistics
