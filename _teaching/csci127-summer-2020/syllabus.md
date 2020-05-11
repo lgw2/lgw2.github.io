@@ -22,7 +22,8 @@ times that work best for the most people.
 ### Textbook
 We will use a free, online textbook for this course. You will need to sign up
 for an account [here](https://runestone.academy/runestone/default/user/register).
-Enter `csci127summer2020` for the course name.
+Enter `csci127summer2020` for the course name. (Video on how to use the
+textbook and complete the textbook reading assignments coming soon!)
 
 
 ### Additional problems
@@ -31,10 +32,10 @@ These will be particularly useful
 for preparing for the quizzes.
 
 ### SmartyCats
--- will be updated when I hear! --
+-- will be updated when I hear whether we have a tutor for this course! --
 
 ### Slack workspaces
--- updated soon! --
+-- Instructions to join the Slack workspace coming soon! --
 
 ### Visualizing your code
 You can paste your Python code into the tool [here](http://pythontutor.com/) and see what executes with every step.
@@ -153,7 +154,8 @@ enthusiastic about course material and my role in helping you learn.
 
 |Date|Reading Assignment|Due|Office Hours|
 |:---|:---|:---|:---|
-|Monday 5/18|General Introduction|Syllabus Scavenger Hunt|10-12|
+|Monday 5/18|[General
+Introduction](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=37213)|Syllabus Scavenger Hunt|10-12|
 |Tuesday 5/19|Simple Python Data, Turtle Graphics, Iteration|||
 |Wednesday 5/20|Functions|[Lab 1](https://lgw2.github.io/teaching/csci127-summer-2020/labs/lab1/)||
 |Thursday 5/21|Selection|||
