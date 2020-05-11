@@ -2,7 +2,7 @@
 collection: teaching
 title: "General Introduction"
 venue: "May 18"
-type: "Lecture"
+type: "Reading"
 date: 2020-05-18
 ---
 
