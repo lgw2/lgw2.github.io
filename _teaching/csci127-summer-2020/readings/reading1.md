@@ -9,7 +9,8 @@ date: 2020-05-18
 ## Logistics
 * Due: Tuesday, May 18th no later than 5pm.
 * Submission instructions: complete the assigned number of activities in each
-	of the 13 subsections of Chapter 1.
+	of the 13 subsections of Chapter 1. You do not need to submit anything to
+	Brightspace.
 * Deadline reminder: once this deadline passes, Runestone Interactive will no
 	longer allow you to collect points for completing the activities.
 
