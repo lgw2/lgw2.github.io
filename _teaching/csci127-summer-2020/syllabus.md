@@ -159,7 +159,7 @@ Introduction](https://runestone.academy/runestone/assignments/doAssignment?assig
 |Tuesday 5/19|Simple Python Data, Turtle Graphics, Iteration|||
 |Wednesday 5/20|Functions|[Lab 1](https://lgw2.github.io/teaching/csci127-summer-2020/labs/lab1/)||
 |Thursday 5/21|Selection|||
-|Friday 5/22|Iteration Revisited|Lab 2|
+|Friday 5/22|Iteration Revisited|[Lab 2](https://lgw2.github.io/teaching/csci127-summer-2020/labs/lab2/)|
 |weekend!|
 |Memorial Day!|||
 |Tuesday 5/26||Program 1|
