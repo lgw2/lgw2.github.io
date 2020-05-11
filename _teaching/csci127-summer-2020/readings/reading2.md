@@ -6,7 +6,7 @@ type: "Reading"
 date: 2020-05-19
 ---
 ## Logistics
-* Due: Tuesday, May 18th no later than 5pm.
+* Due: Tuesday, May 19th no later than 5pm.
 * Submission instructions: complete the assigned number of activities in each
 	of the assigned subsections of Chapters 2 and 4. You do not need to submit
 	anything to Brightspace.
@@ -37,7 +37,7 @@ https://docs.python.org/3/library/turtle.html#module-turtle)
 
 ## Assignment
 * Complete the required number of activities for each subsection in
-[Simple Python Data, Turtle Graphics, Iteration](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=37213).
+[Simple Python Data, Turtle Graphics, Iteration](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=37214).
 
 ## Grading - 10 points
 * 10 points - the required number of activities were completed for each
