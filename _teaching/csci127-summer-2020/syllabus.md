@@ -157,8 +157,8 @@ enthusiastic about course material and my role in helping you learn.
 |Monday 5/18|[General Introduction](https://lgw2.github.io/teaching/csci127-summer-2020/readings/reading1/)|Syllabus Scavenger Hunt|10-12|
 |Tuesday 5/19|[Simple Python Data, Turtle Graphics, Iteration](https://lgw2.github.io/teaching/csci127-summer-2020/readings/reading2/)|||
 |Wednesday 5/20|[Functions](https://lgw2.github.io/teaching/csci127-summer-2020/readings/reading3/)|[Lab 1](https://lgw2.github.io/teaching/csci127-summer-2020/labs/lab1/)||
-|Thursday 5/21|Selection|||
-|Friday 5/22|Iteration Revisited|[Lab 2](https://lgw2.github.io/teaching/csci127-summer-2020/labs/lab2/)|
+|Thursday 5/21|[Selection](https://lgw2.github.io/teaching/csci127-summer-2020/readings/reading4/)|||
+|Friday 5/22|[Iteration Revisited](https://lgw2.github.io/teaching/csci127-summer-2020/readings/reading5/)|[Lab 2](https://lgw2.github.io/teaching/csci127-summer-2020/labs/lab2/)|
 |weekend!|
 |Memorial Day!|||
 |Tuesday 5/26||Program 1|
