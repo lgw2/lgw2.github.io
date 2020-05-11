@@ -6,8 +6,6 @@ type: "Reading"
 date: 2020-05-18
 ---
 
-## Reading assignment
-
 ## Logistics
 * Due: Tuesday, May 18th no later than 5pm.
 * Submission instructions: complete the assigned number of activities in each
