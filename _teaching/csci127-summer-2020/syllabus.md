@@ -22,8 +22,9 @@ times that work best for the most people.
 ### Textbook
 We will use a free, online textbook for this course. You will need to sign up
 for an account [here](https://runestone.academy/runestone/default/user/register).
-Enter `csci127summer2020` for the course name. (Video on how to use the
-textbook and complete the textbook reading assignments coming soon!)
+Enter `csci127summer2020` for the course name. Watch the video
+[here](https://youtu.be/W2UyEmPyYQ8) for help creating an account, navigating
+the textbook, and completing the assignments.
 
 
 ### Additional problems
