@@ -35,8 +35,17 @@ for preparing for the quizzes.
 ### SmartyCats
 -- will be updated when I hear whether we have a tutor for this course! --
 
-### Slack workspaces
--- Instructions to join the Slack workspace coming soon! --
+### Slack workspace
+We'll be using [Slack](https://slack.com/) for *all* course communication
+(except about grades or other sensitive information). It is very important that
+you [join the Slack
+workspace](https://join.slack.com/t/csci127-summer2020/shared_invite/zt-e78y84hi-wZlSPuoJzl_gQgOg5Phbiw)
+and check it every day of the course to keep up with announcements and to get
+help when you need it. There are [plenty of videos
+online](https://www.youtube.com/results?search_query=how+to+use+slack) that
+can help you use Slack; most importantly, [you should customize your
+notification settings](https://www.youtube.com/watch?v=cfkX8oTalDg)!
+
 
 ### Visualizing your code
 You can paste your Python code into the tool [here](http://pythontutor.com/) and see what executes with every step.
