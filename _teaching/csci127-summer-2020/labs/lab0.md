@@ -9,7 +9,7 @@ date: 2020-05-18
 ## Logistics
 * Due: Tuesday, May 18th no later than 5pm.
 * Partner information: complete this assignment individually.
-* Submission instructions: upload a Python file
+* Submission instructions: upload a .txt file
 entitled YourFirstName-YourLastName-Lab0.txt to the BrightSpace Lab 0 Dropbox.
 * Deadline reminder: once this deadline passes, BrightSpace will no longer accept your
 submission and you will no longer be able to earn credit. Thus, if you are not able to fully
