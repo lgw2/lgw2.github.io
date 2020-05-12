@@ -24,14 +24,17 @@ complete the assignment, submit whatever you have before the deadline so that pa
 * Be able to use Montana State's Course Management System, Brightspace, to submit an assignment.
 
 ## Assignment
+### Part 1: Questions to answer
 * Download [syllabus-scavenger-hunt.txt](https://lgw2.github.io/teaching/csci127-summer-2020/labs/syllabus-scavenger-hunt.txt)
 and rename it according to the instructions above.
 * Answer the questions in your own words to demonstrate the you understand the course syllabus.
+
+### Part 2: Actions to complete
 * Post in the #random channel on Slack introducing yourself to the class. At
 minimum, tell us your preferred name, your major (or intended major), and one
 thing you are looking forward to during the course (can be course-related or
 not).
-* Go to http://whenisgood.net/88bqfsh and paint over all of the time slots
+* Go to [this link](http://whenisgood.net/88bqfsh) and paint over all of the time slots
 that would work for you to attend office hours. Enter your name and click "Send
 Response".
 
