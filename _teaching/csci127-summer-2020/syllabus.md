@@ -161,7 +161,7 @@ enthusiastic about course material and my role in helping you learn.
 
 ## Course schedule
 
-|Date|Reading Assignment|Due|Office Hours|
+|Date|Reading Assignment Due|Programming Assignment Due|Office Hours|
 |:---|:---|:---|:---|
 |Monday 5/18|[General Introduction](https://lgw2.github.io/teaching/csci127-summer-2020/readings/reading1/)|Syllabus Scavenger Hunt|10-12|
 |Tuesday 5/19|[Simple Python Data, Turtle Graphics, Iteration](https://lgw2.github.io/teaching/csci127-summer-2020/readings/reading2/)|||
