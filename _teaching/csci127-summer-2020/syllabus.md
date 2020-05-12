@@ -27,6 +27,13 @@ Enter `csci127summer2020` for the course name. Watch the video
 the textbook, and completing the assignments.
 
 
+### Office hours
+I will hold daily office hours on Slack to answer any questions you have.
+Post in the #officehours channel with a question and we can chat about it in a
+thread. If needed, we can start a video call so you can share your screen. If
+you have anything that you need to ask privately, you can send me a direct
+message on Slack.
+
 ### Additional problems
 You can find some additional Python problems to work on [here](https://www.practicepython.org/).
 These will be particularly useful
