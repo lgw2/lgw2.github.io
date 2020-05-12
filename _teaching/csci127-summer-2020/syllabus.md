@@ -24,7 +24,9 @@ We will use a free, online textbook for this course. You will need to sign up
 for an account [here](https://runestone.academy/runestone/default/user/register).
 Enter `csci127summer2020` for the course name. Watch the video
 [here](https://youtu.be/W2UyEmPyYQ8) for help creating an account, navigating
-the textbook, and completing the assignments.
+the textbook, and completing the assignments. To get full credit for reading
+assignments, simply complete the assigned number of activities inside the book before
+the deadline.
 
 
 ### Office hours
