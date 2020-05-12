@@ -1,13 +1,13 @@
 ---
 collection: teaching
 title: "Lab 1: Getting Started"
-venue: "May 19"
+venue: "May 20"
 type: "Lab"
-date: 2020-05-19
+date: 2020-05-20
 ---
 
 ## Logistics
-* Due: Tuesday, May 19th no later than 5pm.
+* Due: Wednesday, May 20th no later than 5pm.
 * Partner information: complete this assignment individually.
 * Submission instructions: upload a Python file
 entitled YourFirstName-YourLastName-Lab1.py to the BrightSpace Lab 1 Dropbox.
@@ -28,9 +28,9 @@ entire square (where you click to change colors) change to the same new color.
 
 ## Grading - 10 points
 * 3 points - a Python program named YourFirstName-YourLastName-Lab1.py is submitted to the
-Brightspace Lab 1 Dropbox no later than 5pm on Tuesday, May 19th.
+Brightspace Lab 1 Dropbox no later than 5pm on Wednesday, May 20th.
 * 7 points - the Python program is correct.
 
 ## Grading turnaround
-This lab will be graded with scores in Brightspace by 12pm the following day
-(May 20th).
+This lab will be graded with scores in Brightspace before office hours the
+following day (May 21st).
