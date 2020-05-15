@@ -13,7 +13,7 @@ Catalog description: Provides a gentle introduction to the exciting world of big
 The course runs May 18 through June 26, with assignments due at 5pm on most
 weekdays. We will have no official course meeting time and all materials will
 be available online for you to complete anytime before their due date.
-I will be available for two hours per day for office hours
+One of the course assistants or I  will be available for two hours per day for office hours
 to help you work through any issues you may have. I'll ask for your
 availability in the first assignment and set the daily office hours based on
 times that work best for the most people.
@@ -28,9 +28,13 @@ the textbook, and completing the assignments. To get full credit for reading
 assignments, simply complete the assigned number of activities inside the book before
 the deadline.
 
+### Course assistants
+We are lucky to have two excellent course assistants who will be helping hold office
+hours and grade assignments: Gerard Shu Fungwi and Andrew Johnson. You can
+contact them via Slack.
 
 ### Office hours
-I will hold daily office hours on Slack to answer any questions you have.
+Gerard, Andrew, and I  will hold daily office hours on Slack to answer any questions you have.
 Post in the #officehours channel with a question and we can chat about it in a
 thread. If needed, we can start a video call so you can share your screen. If
 you have anything that you need to ask privately, you can send me a direct
@@ -42,7 +46,15 @@ These will be particularly useful
 for preparing for the quizzes.
 
 ### SmartyCats
--- will be updated when I hear whether we have a tutor for this course! --
+SmartyCats, MSU's on-campus tutoring center, is offering tutoring services over
+video, text, voice call, and email during the summer session.
+The tutor for our course is Arnold Smithson, who tutored for us last year.
+A number of students worked with him last year and found it very helpful!
+To book a session with him, go to [the
+SmartyCats webiste](http://www.montana.edu/aycss/success/smartycats/),
+click "Find a SmartyCats Tutor", and log in with your
+netid. Then select our course (CSCI 127) and choose a time. It costs $2 per
+hour for groups of 1-4 students.
 
 ### Slack workspace
 We'll be using [Slack](https://slack.com/) for *all* course communication
