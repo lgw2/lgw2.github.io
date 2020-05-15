@@ -7,7 +7,7 @@ date: 2020-05-18
 ---
 
 ## Logistics
-* Due: Tuesday, May 18th no later than 5pm.
+* Due: Monday, May 18th no later than 5pm.
 * Partner information: complete this assignment individually.
 * Submission instructions: upload a .txt file
 entitled YourFirstName-YourLastName-Lab0.txt to the BrightSpace Lab 0 Dropbox.
@@ -40,7 +40,7 @@ Response".
 
 ## Grading - 10 points
 * 1 points - a .txt file namedd YourFirstName-YourLastName-Lab0.txt is submitted to the
-Brightspace Lab 0 Dropbox no later than 5pm on Tuesday, May 18th.
+Brightspace Lab 0 Dropbox no later than 5pm on Monday, May 18th.
 * 5 points - each of the five questions in the .txt file has a correct answer.
 * 2 points - there is a post in the #random channel on Slack including the
 	information described above.
