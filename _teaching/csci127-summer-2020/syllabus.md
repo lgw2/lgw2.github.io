@@ -51,7 +51,7 @@ video, text, voice call, and email during the summer session.
 The tutor for our course is Arnold Smithson, who tutored for us last year.
 A number of students worked with him last year and found it very helpful!
 To book a session with him, go to [the
-SmartyCats webiste](http://www.montana.edu/aycss/success/smartycats/),
+SmartyCats website](http://www.montana.edu/aycss/success/smartycats/),
 click "Find a SmartyCats Tutor", and log in with your
 netid. Then select our course (CSCI 127) and choose a time. It costs $2 per
 hour for groups of 1-4 students.
