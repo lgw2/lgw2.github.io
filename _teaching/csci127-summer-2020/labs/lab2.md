@@ -23,8 +23,9 @@ complete the assignment, submit whatever you have before the deadline so that pa
 * Download [taxes.py](https://lgw2.github.io/teaching/csci127-summer-2020/labs/taxes.py)
 and rename it according to the instructions above.
 * Modify the program by adding the missing function.
-The missing function will use Python selection statements to calculate the amount
-of tax that a single (unmarried) taxpayer owes using the table below.
+The missing function will use Python selection statements to calculate the [amount
+of tax that a single (unmarried) taxpayer
+owes](https://www.nerdwallet.com/blog/taxes/federal-income-tax-brackets/) using the table below.
 
 If the missing function is implemented correctly,
 [this output](https://lgw2.github.io/teaching/csci127-summer-2020/labs/taxes-output.txt) will appear.

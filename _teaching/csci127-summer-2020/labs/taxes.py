@@ -2,10 +2,10 @@
 # CSCI 127, Joy and Beauty of Data      |
 # Lab 2: Tax Calculator                 |
 # Your Name                             |
-# Date: January 24, 2019                |
+# Date:                                 |
 # ---------------------------------------
 # Calculate the amount of tax owed by an|
-# unmarried taxpayer in tax year 2018.  |
+# unmarried taxpayer in tax year 2020.  |
 # ---------------------------------------
 
 # The missing Python function goes here.
@@ -13,7 +13,7 @@
 # ---------------------------------------
 
 def process(income):
-    print("The 2018 taxable income is ${:.2f}".format(income))
+    print("The 2020 taxable income is ${:.2f}".format(income))
     tax_owed = unmarried_individual_tax(income)
     print("An unmarried individual owes ${:.2f}\n".format(tax_owed))
 
