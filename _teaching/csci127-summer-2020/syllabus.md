@@ -188,7 +188,7 @@ enthusiastic about course material and my role in helping you learn.
 |:---|:---|:---|:---|:---|
 |Monday 5/18|[General Introduction](https://lgw2.github.io/teaching/csci127-summer-2020/readings/reading1/)|[Lab 0](https://lgw2.github.io/teaching/csci127-summer-2020/labs/lab0/)|[Using the IDLE shell](https://youtu.be/h-VnSrnbKA8)|10-12|
 |Tuesday 5/19|[Simple Python Data, Turtle Graphics, Iteration](https://lgw2.github.io/teaching/csci127-summer-2020/readings/reading2/)||[A first turtle program](https://youtu.be/7vqGRV5WlMI)||
-|Wednesday 5/20|[Functions](https://lgw2.github.io/teaching/csci127-summer-2020/readings/reading3/)|[Lab 1](https://lgw2.github.io/teaching/csci127-summer-2020/labs/lab1/)|[Unit testing on your computer](https://www.youtube.com/watch?v=f4trADQpKr8), [The accumulator pattern](https://youtu.be/ieC_4fih5Rk)||
+|Wednesday 5/20|[Functions](https://lgw2.github.io/teaching/csci127-summer-2020/readings/reading3/)|[Lab 1](https://lgw2.github.io/teaching/csci127-summer-2020/labs/lab1/)|[Unit testing on your computer](https://www.youtube.com/watch?v=f4trADQpKr8), [The accumulator pattern](https://youtu.be/ieC_4fih5Rk), [Lab 1 intro](https://youtu.be/C7DRRXMMn6A)||
 |Thursday 5/21|[Selection](https://lgw2.github.io/teaching/csci127-summer-2020/readings/reading4/)||||
 |Friday 5/22|[Iteration Revisited](https://lgw2.github.io/teaching/csci127-summer-2020/readings/reading5/)|[Lab 2](https://lgw2.github.io/teaching/csci127-summer-2020/labs/lab2/)||
 |weekend!|
