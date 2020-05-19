@@ -42,7 +42,7 @@ Each card has a color ("red", "yellow", "green" or "blue") and a value
 (0, 1, 2, 3, 4, 5, 6, 7, 8 or 9). One card can be played on top of the the
 other as long as either the numbers match, the colors match, or both.
 Complete the boolean function below so
-that it returns True if the second card can be played on the first card and False otherwise.
+that it returns `True` if the second card can be played on the first card and `False` otherwise.
 ```
 def legal_play(first_value, first_color, second_value, second_color):
 	# your commands here
