@@ -184,7 +184,7 @@ enthusiastic about course material and my role in helping you learn.
 
 ## Course schedule
 
-|Date|Reading Assignment Due|Programming Assignment Due|Optional Videos|Office Hours (in [Mountain Time](https://time.is/MT)|
+|Date|Reading Assignment Due|Programming Assignment Due|Optional Videos|Office Hours (in [Mountain Time](https://time.is/MT))|
 |:---|:---|:---|:---|:---|
 |Monday 5/18|[General Introduction](https://lgw2.github.io/teaching/csci127-summer-2020/readings/reading1/)|[Lab 0](https://lgw2.github.io/teaching/csci127-summer-2020/labs/lab0/)|[Using the IDLE shell](https://youtu.be/h-VnSrnbKA8)|10am-12pm|
 |Tuesday 5/19|[Simple Python Data, Turtle Graphics, Iteration](https://lgw2.github.io/teaching/csci127-summer-2020/readings/reading2/)||[A first turtle program](https://youtu.be/7vqGRV5WlMI)|3pm-5pm|
