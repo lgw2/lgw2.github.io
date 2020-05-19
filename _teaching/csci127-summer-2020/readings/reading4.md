@@ -1,6 +1,6 @@
 ---
 collection: teaching
-title: "Functions"
+title: "Selection"
 venue: "May 21"
 type: "Reading"
 date: 2020-05-21
