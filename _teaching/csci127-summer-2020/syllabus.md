@@ -184,13 +184,13 @@ enthusiastic about course material and my role in helping you learn.
 
 ## Course schedule
 
-|Date|Reading Assignment Due|Programming Assignment Due|Optional Videos|Office Hours|
+|Date|Reading Assignment Due|Programming Assignment Due|Optional Videos|Office Hours (in [Mountain Time](https://time.is/MT)|
 |:---|:---|:---|:---|:---|
-|Monday 5/18|[General Introduction](https://lgw2.github.io/teaching/csci127-summer-2020/readings/reading1/)|[Lab 0](https://lgw2.github.io/teaching/csci127-summer-2020/labs/lab0/)|[Using the IDLE shell](https://youtu.be/h-VnSrnbKA8)|10-12|
-|Tuesday 5/19|[Simple Python Data, Turtle Graphics, Iteration](https://lgw2.github.io/teaching/csci127-summer-2020/readings/reading2/)||[A first turtle program](https://youtu.be/7vqGRV5WlMI)||
-|Wednesday 5/20|[Functions](https://lgw2.github.io/teaching/csci127-summer-2020/readings/reading3/)|[Lab 1](https://lgw2.github.io/teaching/csci127-summer-2020/labs/lab1/)|[Unit testing on your computer](https://www.youtube.com/watch?v=f4trADQpKr8), [The accumulator pattern](https://youtu.be/ieC_4fih5Rk), [Lab 1 intro](https://youtu.be/C7DRRXMMn6A)||
-|Thursday 5/21|[Selection](https://lgw2.github.io/teaching/csci127-summer-2020/readings/reading4/)||||
-|Friday 5/22|[Iteration Revisited](https://lgw2.github.io/teaching/csci127-summer-2020/readings/reading5/)|[Lab 2](https://lgw2.github.io/teaching/csci127-summer-2020/labs/lab2/)||
+|Monday 5/18|[General Introduction](https://lgw2.github.io/teaching/csci127-summer-2020/readings/reading1/)|[Lab 0](https://lgw2.github.io/teaching/csci127-summer-2020/labs/lab0/)|[Using the IDLE shell](https://youtu.be/h-VnSrnbKA8)|10am-12pm|
+|Tuesday 5/19|[Simple Python Data, Turtle Graphics, Iteration](https://lgw2.github.io/teaching/csci127-summer-2020/readings/reading2/)||[A first turtle program](https://youtu.be/7vqGRV5WlMI)|3pm-5pm|
+|Wednesday 5/20|[Functions](https://lgw2.github.io/teaching/csci127-summer-2020/readings/reading3/)|[Lab 1](https://lgw2.github.io/teaching/csci127-summer-2020/labs/lab1/)|[Unit testing on your computer](https://www.youtube.com/watch?v=f4trADQpKr8), [The accumulator pattern](https://youtu.be/ieC_4fih5Rk), [Lab 1 intro](https://youtu.be/C7DRRXMMn6A)|8am-10am|
+|Thursday 5/21|[Selection](https://lgw2.github.io/teaching/csci127-summer-2020/readings/reading4/)|||10am-12pm and 7pm-9pm|
+|Friday 5/22|[Iteration Revisited](https://lgw2.github.io/teaching/csci127-summer-2020/readings/reading5/)|[Lab 2](https://lgw2.github.io/teaching/csci127-summer-2020/labs/lab2/)||2pm-4pm|
 |weekend!|
 |Memorial Day!|||
 |Tuesday 5/26||Program 1|
