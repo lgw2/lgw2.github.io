@@ -1,13 +1,13 @@
 ---
 collection: teaching
 title: "Program 1"
-venue: "Due June 12"
+venue: "Due May 26"
 type: "Programming Assignment"
-date: 2019-06-12
+date: 2020-05-26
 ---
 
 ## Logistics
-* Due date: Wednesday, June 12th no later than 11:59 p.m.
+* Due date: Tuesday, May 26th no later than 5 p.m.
 * Submission instructions: upload your solution, entitled YourFirstName-YourLastName-Program1.py to the BrightSpace Program 1 Dropbox.
 * Deadline Reminder: Once the submission deadline passes, BrightSpace will no longer accept your
 Python submission and you will no longer be able to earn credit.
@@ -29,7 +29,7 @@ data types, functions, selection statements, and iteration.
 and then, for each class, the letter grade received (e.g., B+) and the number
 of credits (e.g., 3). Once this information is known, the program should calculate
 and display the GPA.
-* Here is a [sample transcript](https://lgw2.github.io/teaching/csci127-summer-2019/assignments/transcript.txt).
+* Here is a [sample transcript](https://lgw2.github.io/teaching/csci127-summer-2020/assignments/transcript.txt).
 Your solution should match the output format exactly.
 
 ## Assumptions
@@ -63,7 +63,7 @@ the submission. See below for the type of information that should appear.
 # CSCI 127, Joy and Beauty of Data
 # Program 1: GPA Calculator
 # Your Name
-# Last Modified: June ??, 2019
+# Last Modified: May ??, 2020
 # ---------------------------------------
 # A brief overview of the program.
 # ---------------------------------------
