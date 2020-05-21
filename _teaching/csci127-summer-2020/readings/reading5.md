@@ -1,6 +1,6 @@
 ---
 collection: teaching
-title: "Functions"
+title: "Iteration Revisited"
 venue: "May 22"
 type: "Reading"
 date: 2020-05-22
