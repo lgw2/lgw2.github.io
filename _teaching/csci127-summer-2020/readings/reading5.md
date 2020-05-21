@@ -47,7 +47,7 @@ For example, the message might be *Congratulations! That took 6 guesses.*
 Write a Python program that asks the user to enter two integers: one for the
 number of rows and one for the number of columns. The program should then produce
 a text-based drawing where each position in the drawing is randomly determined with
-equal probability to be either a "\*" or a "-".
+equal probability to be either a `*` or a `-`.
 For example, with 4 rows and 6 columns, the drawing might look like this:
 ```
 \*\*-\*-\*
