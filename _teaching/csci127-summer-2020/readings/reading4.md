@@ -66,24 +66,3 @@ Take [key-events.py](https://lgw2.github.io/teaching/csci127-summer-2019/lecture
  and modify it so that the turtle only moves if it
  will still be visible. Use one boolean function in your solution.
 
-### Activity 3
-Write a Python program that generates a random number between 1 and 10.
-The program should repeatedly ask the user to guess what the number is until
-the user guesses correctly. When the user guesses correctly, the program should
-print a message that shows how many tries it took.
-For example, the message might be *Congratulations! That took 6 guesses.*
-
-
-### Activity 3
-Write a Python program that asks the user to enter two integers: one for the
-number of rows and one for the number of columns. The program should then produce
-a text-based drawing where each position in the drawing is randomly determined with
-equal probability to be either a "\*" or a "-".
-For example, with 4 rows and 6 columns, the drawing might look like this:
-```
-\*\*-\*-\*
---\*\*--
--\*--\*-
----\*-\*
-```
-
