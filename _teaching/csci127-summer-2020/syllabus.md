@@ -190,7 +190,7 @@ enthusiastic about course material and my role in helping you learn.
 |Tuesday 5/19|[Simple Python Data, Turtle Graphics, Iteration](https://lgw2.github.io/teaching/csci127-summer-2020/readings/reading2/)||[A first turtle program](https://youtu.be/7vqGRV5WlMI)|3pm-5pm|
 |Wednesday 5/20|[Functions](https://lgw2.github.io/teaching/csci127-summer-2020/readings/reading3/)|[Lab 1](https://lgw2.github.io/teaching/csci127-summer-2020/labs/lab1/)|[Unit testing on your computer](https://www.youtube.com/watch?v=f4trADQpKr8), [The accumulator pattern](https://youtu.be/ieC_4fih5Rk), [Lab 1 intro](https://youtu.be/C7DRRXMMn6A)|8am-10am|
 |Thursday 5/21|[Selection](https://lgw2.github.io/teaching/csci127-summer-2020/readings/reading4/)||[Activity: is an uno hand playable?](https://youtu.be/oicHvacqisg)|10am-12pm and 7pm-9pm|
-|Friday 5/22|[Iteration Revisited](https://lgw2.github.io/teaching/csci127-summer-2020/readings/reading5/)|[Lab 2](https://lgw2.github.io/teaching/csci127-summer-2020/labs/lab2/)|[Visualizing newtonSqrt in Python Tutor](https://youtu.be/wvW8cUZSDB4), [Activity: guessing game](https://youtu.be/7c8jh3lRwMw) [Lab 2 intro](https://youtu.be/TMYGdP9-sMo)|2pm-4pm|
+|Friday 5/22|[Iteration Revisited](https://lgw2.github.io/teaching/csci127-summer-2020/readings/reading5/)|[Lab 2](https://lgw2.github.io/teaching/csci127-summer-2020/labs/lab2/)|[Visualizing newtonSqrt in Python Tutor](https://youtu.be/wvW8cUZSDB4), [Activity: guessing game](https://youtu.be/7c8jh3lRwMw), [Lab 2 intro](https://youtu.be/TMYGdP9-sMo)|2pm-4pm|
 |weekend!|
 |Memorial Day!|||
 |Tuesday 5/26||[Program 1](https://lgw2.github.io/teaching/csci127-summer-2020/assignments/program1/)||3pm-5pm|
