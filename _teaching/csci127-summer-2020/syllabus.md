@@ -193,7 +193,7 @@ enthusiastic about course material and my role in helping you learn.
 |Friday 5/22|[Iteration Revisited](https://lgw2.github.io/teaching/csci127-summer-2020/readings/reading5/)|[Lab 2](https://lgw2.github.io/teaching/csci127-summer-2020/labs/lab2/)|[Visualizing newtonSqrt in Python Tutor](https://youtu.be/wvW8cUZSDB4), [Activity: guessing game](https://youtu.be/7c8jh3lRwMw), [Lab 2 intro](https://youtu.be/TMYGdP9-sMo)|2pm-4pm|
 |weekend!|
 |Memorial Day!|||
-|Tuesday 5/26||[Program 1](https://lgw2.github.io/teaching/csci127-summer-2020/assignments/program1/)||3pm-5pm|
+|Tuesday 5/26||[Program 1](https://lgw2.github.io/teaching/csci127-summer-2020/assignments/program1/)|[Program 1 intro](https://youtu.be/YGhHY9kliPw)|3pm-5pm|
 |Wednesday 5/27|Modules, Strings|||8am-10am|
 |Thursday 5/28|Recursion|Lab 3||10am-12pm and 7pm-9pm|
 |Friday 5/29|Lists|Lab 4||2pm-4pm|
