@@ -6,7 +6,7 @@ type: "Reading"
 date: 2020-05-28
 ---
 ## Logistics
-* Due: Wednesday, May 28th no later than 5pm.
+* Due: Thursday, May 28th no later than 5pm.
 * Submission instructions: complete the assigned number of activities in each
 	of the assigned subsections of Chapter 16. You do not need to submit
 	anything to Brightspace.
