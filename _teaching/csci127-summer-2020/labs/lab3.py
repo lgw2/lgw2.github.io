@@ -1,19 +1,18 @@
 # --------------------------------------
 # CSCI 127, Lab 3                      |
-# June 13, 2019                        |
-# Partner names                        |
+# May 28, 2020                         |
 # --------------------------------------
-# Calculate how many z's are in a      |
-# sentence using three techniques.     |
+# Calculate the length of a string     |
+# using three techniques.              |
 # --------------------------------------
 
-def count_built_in(sentence):
+def length_built_in(sentence):
     pass
 
-def count_iterative(sentence):
+def length_iterative(sentence):
     pass
 
-def count_recursive(sentence):
+def length_recursive(sentence):
     pass
 
 # --------------------------------------
@@ -24,11 +23,11 @@ def main():
         sentence = input("Please enter a sentence: ")
         sentence = sentence.lower()
         print()
-        print("Calculating the number of z's using ...")
+        print("Calculating length of the sentence using ...")
         print("---------------------------------------")
-        print("Built-in function =", count_built_in(sentence))
-        print("Iteration =", count_iterative(sentence))
-        print("Recursion =", count_recursive(sentence))
+        print("Built-in function =", length_built_in(sentence))
+        print("Iteration =", length_iterative(sentence))
+        print("Recursion =", length_recursive(sentence))
         print()
         answer = input("Would you like to continue: ").lower()
         print()
