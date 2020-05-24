@@ -38,7 +38,9 @@ hours the following class day.
 ## Activity 1
 The factorial of a number, written n!, is the product of the
 integers 1 through n. For example, 5! equals 1\*2\*3\*4\*5, or 120. We choose
-to define 0! to be 1, the multiplicative identity. Write two Python functions:
-`iterative_factorial` and `recursive_factorial` which take in an integer
+to define 0! to be 1, the multiplicative identity. Write two Python functions,
+`iterative_factorial` and `recursive_factorial`, which take in an integer
 greater
 than or equal to zero and return the factorial of the integer.
+`iterative_factorial` should use iteration and `recursive_factorial` should
+use recursion.
