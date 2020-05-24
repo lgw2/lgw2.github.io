@@ -33,3 +33,12 @@ than an iterative solution.
 ## Grading turnaround
 This reading assignment  will be graded with scores in Brightspace by office
 hours the following class day.
+
+### Optional activities
+## Activity 1
+The factorial of a number, written n!, is the product of the
+integers 1 through n. For example, 5! equals 1*2*3*4*5, or 120. We choose
+to define 0! to be 1, the multiplicative identity. Write two Python functions:
+`iterative_factorial` and `recursive_factorial` which take in an integer
+greater
+than or equal to zero and return the factorial of the integer.
