@@ -1,13 +1,13 @@
 ---
 collection: teaching
 title: "Lab 4: Lists"
-venue: "June 17"
+venue: "May 29"
 type: "Lab"
-date: 2019-06-17
+date: 2019-05-29
 ---
 
 ## Logistics
-* Due: Monday, June 17th no later than 5pm.
+* Due: Friday, May 29th no later than 5pm.
 * Submission instructions: have one partner upload your solution,
 entitled FirstName-LastName-Lab4.py
 to the BrightSpace Lab 4 Dropbox.
@@ -29,10 +29,10 @@ They have hired you to write a program that reports the possible
 combinations of wins, ties, and losses for each season.
 
 ## Assignment
-* Download [lab4.py](https://lgw2.github.io/teaching/csci127-summer-2019/labs/lab4.py)
+* Download [lab4.py](https://lgw2.github.io/teaching/csci127-summer-2020/labs/lab4.py)
 and rename it according to the instructions above.
 * Replace the `pass` construct in each function with the necessary
-Python code to produce [this output](https://lgw2.github.io/teaching/csci127-summer-2019/labs/lab4.out).
+Python code to produce [this output](https://lgw2.github.io/teaching/csci127-summer-2020/labs/lab4.txt).
 
 ## Assumptions
 There will always be at least one legal combination of wins, ties, and
