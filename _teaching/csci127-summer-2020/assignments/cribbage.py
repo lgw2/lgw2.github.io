@@ -1,7 +1,7 @@
 # -----------------------------------------+
 # Your name                                |
 # CSCI 127, Program 2                      |
-# Last Updated: ???, 2019                  |
+# Last Updated: ???, 2020                  |
 # -----------------------------------------|
 # A simplified Cribbage scoring system.    |
 # -----------------------------------------+
@@ -26,7 +26,7 @@ def process_hands(cribbage_input, cards_in_hand):
 # -----------------------------------------+
 
 def main():
-    cribbage_file= open("cribbage.txt", "r")
+    cribbage_file = open("cribbage.txt", "r")
     process_hands(cribbage_file, 5)
     cribbage_file.close()
 
