@@ -1,13 +1,13 @@
 ---
 collection: teaching
 title: "Program 2"
-venue: "Due June 17"
+venue: "Due June 1"
 type: "Programming Assignment"
-date: 2019-06-17
+date: 2020-06-01
 ---
 
 ## Logistics
-* Due date: Monday, June 17th no later than 11:59 p.m.
+* Due date: Monday, June 1st no later than 11:59 p.m.
 * Submission instructions: upload your solution, entitled YourFirstName-YourLastName-Program2.py to the BrightSpace Program 2 Dropbox.
 * Deadline Reminder: Once the submission deadline passes, BrightSpace will no longer accept your
 Python submission and you will no longer be able to earn credit.
@@ -28,8 +28,8 @@ cribbage hand. Here are the rules for scoring:
 * The value of a hand is the sum of anything that scores points. For example, a hand consisting of a "three", "four", "four", "six" and "nine" is worth 4 points (2 for the pair of "fours", 2 for the fifteen).
 
 ## Assignment
-* Download [cribbage.py](https://lgw2.github.io/teaching/csci127-summer-2019/assignments/cribbage.py) and modify it so that when it is run on
-[this input file](https://lgw2.github.io/teaching/csci127-summer-2019/assignments/cribbage.txt), it produces [this output](https://lgw2.github.io/teaching/csci127-summer-2019/assignments/output.txt), in the Python shell.
+* Download [cribbage.py](https://lgw2.github.io/teaching/csci127-summer-2020/assignments/cribbage.py) and modify it so that when it is run on
+[this input file](https://lgw2.github.io/teaching/csci127-summer-2020/assignments/cribbage.txt), it produces [this output](https://lgw2.github.io/teaching/csci127-summer-2020/assignments/output.txt), in the Python shell.
 Note: the input file (cribbage.txt) should be located in the same directory
 as the Python program.
 
