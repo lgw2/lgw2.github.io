@@ -199,8 +199,8 @@ enthusiastic about course material and my role in helping you learn.
 |Friday 5/29|[Lists](https://lgw2.github.io/teaching/csci127-summer-2020/readings/reading8/)|[Lab 4](https://lgw2.github.io/teaching/csci127-summer-2020/labs/lab4/)|[Lab 4 intro](https://youtu.be/uX2WRR260cQ)|2pm-4pm|
 |weekend!|
 |Monday 6/1||[Program 2](https://lgw2.github.io/teaching/csci127-summer-2020/assignments/program2/)||2-4pm and 7-9pm|
-|Tuesday 6/2||Quiz 1|
-|Wednesday 6/3|||
+|Tuesday 6/2|||
+|Wednesday 6/3||[Quiz 1](https://lgw2.github.io/teaching/csci127-summer-2020/readings/practicum_review_1/)|
 |Thursday 6/4|Files|Lab 5|
 |Friday 6/5|Dictionaries|Lab 6|
 |weekend!|
