@@ -8,7 +8,7 @@ date: 2019-05-29
 
 ## Logistics
 * Due: Friday, May 29th no later than 5pm.
-* Submission instructions: have one partner upload your solution,
+* Submission instructions: upload your solution,
 entitled FirstName-LastName-Lab4.py
 to the BrightSpace Lab 4 Dropbox.
 * Deadline reminder: once this deadline passes, BrightSpace will no longer accept your Python
