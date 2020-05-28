@@ -37,7 +37,7 @@ function should return `13`.
 ## Grading - 10 points
 * 3 points - the `length_built_in` function is implemented correctly.
 * 3 points - the `length_iterative` function is implemented correctly.
-* 4 points - the base case (2 points) and 2 general cases (1 point each) of the
+* 4 points - the base case (2 points) and general case (2 points) of the
 recursive function are implemented correctly.
 
 ## Grading turnaround
