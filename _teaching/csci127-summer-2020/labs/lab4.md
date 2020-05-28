@@ -21,7 +21,7 @@ complete the assignment, submit whatever you have before the deadline so that pa
 expressions.
 
 ## Background
-In a soccer match, a win is worth 3 points, a tie is worth 1 point, and a
+In a soccer season, a win is worth 3 points, a tie is worth 1 point, and a
 loss is worth 0 points. Due to poor record-keeping,
 the MSU KickCats knows only how many games they played and the points they
 earned in each season, but not how many games they won, lost, or tied.
