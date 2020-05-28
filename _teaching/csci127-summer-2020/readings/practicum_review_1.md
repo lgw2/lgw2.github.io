@@ -2,7 +2,7 @@
 collection: teaching
 title: "Quiz 1"
 venue: "June 3"
-type: "Lecture"
+type: "Reading"
 date: 2020-06-03
 ---
 
