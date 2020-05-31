@@ -201,22 +201,22 @@ enthusiastic about course material and my role in helping you learn.
 |Monday 6/1||[Program 2](https://lgw2.github.io/teaching/csci127-summer-2020/assignments/program2/)|[Program 2 intro](https://youtu.be/3SFSe9UM-As)|2-4pm and 7-9pm|
 |Tuesday 6/2||||3pm-5pm|
 |Wednesday 6/3||[Quiz 1](https://lgw2.github.io/teaching/csci127-summer-2020/readings/practicum_review_1/)||8am-10am|
-|Thursday 6/4|Files|Lab 5||10am-12pm and 7pm-9pm|
-|Friday 6/5|Dictionaries|Lab 6||2pm-4pm|
+|Thursday 6/4|[Files](https://lgw2.github.io/teaching/csci127-summer-2020/readings/reading9/)|[Lab 5](https://lgw2.github.io/teaching/csci127-summer-2020/labs/lab5/)||10am-12pm and 7pm-9pm|
+|Friday 6/5|[Dictionaries](https://lgw2.github.io/teaching/csci127-summer-2020/readings/reading10/)|[Lab 6](https://lgw2.github.io/teaching/csci127-summer-2020/labs/lab6/)||2pm-4pm|
 |weekend!|
-|Monday 6/8||Program 3|
-|Tuesday 6/9|Objected Oriented Programming Basics||
-|Wednesday 6/10||Lab 7|
+|Monday 6/8|||
+|Tuesday 6/9||Program 3|
+|Wednesday 6/10|Objected Oriented Programming Basics|Lab 7|
 |Thursday 6/11|Object Oriented Programming||
 |Friday 6/12|Inheritance|Lab 8|
 |weekend!|
 |Monday 6/15||Program 4|
-|Tuesday 6/16||Quiz 2|
-|Wednesday 6/17|||
+|Tuesday 6/16|||
+|Wednesday 6/17||Quiz 2|
 |Thursday 6/18|||
 |Friday 6/19|||
-|Monday 6/22|||
 |weekend!|
+|Monday 6/22|||
 |Tuesday 6/23|||
 |Wednesday 6/24|||
 |Thursday 6/25|||

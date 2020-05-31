@@ -1,13 +1,13 @@
 ---
 collection: teaching
 title: "Lab 6: Dictionaries"
-venue: "June 20"
+venue: "June 5"
 type: "Lab"
-date: 2019-06-20
+date: 2019-06-05
 ---
 
 ## Logistics
-* Due: Thursday, June 20th no later than 5pm.
+* Due: Thursday, June 5th no later than 5pm.
 * Submission instructions: upload solution,
 entitled FirstName-LastNameLab6.py
 to the BrightSpace Lab 6 Dropbox.
@@ -64,4 +64,4 @@ the dictionary are translated correctly to UNKNOWN.
 and the space character are treated differently in ascii-codes.csv.
 
 ## Grading turnaround
-All labs graded with scores recorded in BrightSpace no later than lab time (2pm) the following day.
+All labs graded with scores recorded in BrightSpace no later than office hours following class day.

@@ -19,9 +19,9 @@ that are similar to the questions found in the textbook.
 Part 2 will consist of one programming question, which will be taken
 directly from the optional activities found in the reading assignment pages.
 
-You may use a computer to develop your answers. You may only use the internet to access the interactive python textbook,
+You may use a computer to develop your answers. You may only use the internet to access the interactive Python textbook,
 the Pythontutor code visualizer,
-the online python documentation or previous python programs that you wrote for this course (Labs 1-4 and Programs 1-2).
+the online Python documentation or previous Python programs that you wrote for this course (Labs 1-4 and Programs 1-2).
 
 ## Practice quiz
 Coming soon!
