@@ -64,5 +64,6 @@ Your function: 20 points
 * 5 points. The function is non-trivial. (All or nothing.)
 * 5 points. The function is not a simple variation of one of the other three functions. (All or nothing).
 * 10 points. The function works correctly. (All or nothing.)
+
 Style and Quality: 15 points.
 The Python solution is of high quality, properly commented, easy to understand and does not contain unnecessary code. (3 points for each type of improvement up to 15 points.)
