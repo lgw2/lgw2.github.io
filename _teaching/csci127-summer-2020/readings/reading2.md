@@ -46,3 +46,10 @@ https://docs.python.org/3/library/turtle.html#module-turtle)
 ## Grading turnaround
 This reading assignment  will be graded with scores in Brightspace by 12pm the following day
 (May 20th).
+
+## Optional Activities
+### Activity 1
+Modify [this file](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/activities/draw_square.py)
+to call the `draw_square` function multiple
+times to create this image:
+![alt text](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/squares.png "Logo Title Text 1")
