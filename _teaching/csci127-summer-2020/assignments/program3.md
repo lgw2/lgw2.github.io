@@ -1,13 +1,13 @@
 ---
 collection: teaching
 title: "Program 3"
-venue: "Due June 22"
+venue: "Due June 9"
 type: "Programming Assignment"
-date: 2019-06-22
+date: 2019-06-09
 ---
 
 ## Logistics
-* Due date: Saturday, June 22nd no later than 11:59 p.m.
+* Due date: Tuesday, June 9th no later than 5 p.m.
 * Submission instructions: upload your solution, entitled YourFirstName-YourLastName-Program3.py to the BrightSpace Program 3 Dropbox.
 * Deadline Reminder: Once the submission deadline passes, BrightSpace will no longer accept your
 Python submission and you will no longer be able to earn credit.
