@@ -9,7 +9,9 @@ date: 2020-06-03
 ## Quiz Info
 Quiz 1 will take place on Wednesday, 6/3 via D2L. You can take the quiz
 any time between 12am and 11:59 pm Mountain Time on 6/3. You will have
-one hour to complete the quiz once you start it.
+one hour to complete the short answer and multiple choice portion of the quiz once you start it.
+You can turn in the coding question as a .py file to the D2L dropbox until
+11:59pm Mountain Time.
 It will cover the Python topics that we have learned so far:
 data types, turtle graphics, modules, functions, selection statements, iterative statements, strings, recursion and lists.
 
@@ -23,5 +25,9 @@ You may use a computer to develop your answers. You may only use the internet to
 the Pythontutor code visualizer,
 the online Python documentation or previous Python programs that you wrote for this course (Labs 1-4 and Programs 1-2).
 
+Once you have viewed the quiz, you may NOT discuss it with anyone until
+Thursday, June 4th. Even telling a classmate that the quiz was difficult or
+easy is not acceptable.
+
 ## Practice quiz
-Coming soon!
+Available on D2L!
