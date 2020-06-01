@@ -33,3 +33,10 @@ date: 2020-05-20
 ## Grading turnaround
 This reading assignment  will be graded with scores in Brightspace by office
 hours the following class day.
+
+## Optional Activities
+### Activity 1
+Modify [this file](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/activities/draw_square.py)
+to call the `draw_square` function multiple
+times to create this image:
+![alt text](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/squares.png "Logo Title Text 1")
