@@ -50,9 +50,9 @@ a text-based drawing where each position in the drawing is randomly determined w
 equal probability to be either a `*` or a `-`.
 For example, with 4 rows and 6 columns, the drawing might look like this:
 ```
-\*\*-\*-\*
---\*\*--
--\*--\*-
----\*-\*
+**-*-*
+--**--
+-*--*-
+---*-*
 ```
 
