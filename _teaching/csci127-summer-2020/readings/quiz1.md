@@ -21,9 +21,13 @@ that are similar to the questions found in the textbook.
 Part 2 will consist of one programming question, which will be taken
 directly from the optional activities found in the reading assignment pages.
 
-You may use a computer to develop your answers. You may only use the internet to access the interactive Python textbook,
+You may use a computer to develop your answers.
+You may only use the internet to access the interactive
+Python textbook, the course website (including videos),
 the Pythontutor code visualizer,
-the online Python documentation or previous Python programs that you wrote for this course (Labs 1-4 and Programs 1-2).
+the online Python documentation or previous
+Python programs that you wrote for this course (Labs 1-4 and Programs 1-2).
+You are encourage to use the IDLE shell and run Python source code.
 
 Once you have viewed the quiz, you may NOT discuss it with anyone until
 Thursday, June 4th. Even telling a classmate that the quiz was difficult or
@@ -31,3 +35,6 @@ easy is not acceptable.
 
 ## Practice quiz
 Available on D2L!
+
+This practice quiz is to get you familiar with the quiz format. It will not be
+graded. Answers will be posted on Slack on Tuesday evening.
