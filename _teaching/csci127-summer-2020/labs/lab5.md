@@ -21,8 +21,7 @@ Gain experience with files.
 
 ## Assignment
 * Download the file [earthquakes.csv](https://lgw2.github.io/teaching/csci127-summer-2019/labs/earthquakes.csv).
-This input file is described in detail [here](https://think.cs.vt.edu/corgis/csv/earthquakes/).
-* Download [lab5.py](https://lgw2.github.io/teaching/csci127-summer-2019/labs/lab5.py) into the same directory where the
+* Download [lab5.py](https://lgw2.github.io/teaching/csci127-summer-2020/labs/lab5.py) into the same directory where the
 earthquakes.csv file is located and rename it according to the instructions in the Logistics section.
 * Implement the `average_magnitude` function such that it calculates and returns the average magnitude
 of the recorded earthquakes.
