@@ -38,3 +38,10 @@ Available on D2L!
 
 This practice quiz is to get you familiar with the quiz format. It will not be
 graded. Answers will be posted on Slack on Tuesday evening.
+
+Practice quiz answers:
+1. 19
+2. 0, 1, 2, 3, 4, 5, 6, 7, 8, 9.
+3. return num_squared
+4. False
+5. alist[0][1][1]
