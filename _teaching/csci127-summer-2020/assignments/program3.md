@@ -18,8 +18,9 @@ the deadline so that partial credit can be earned.
 * To solve this problem, you need to understand the following Python concepts: files.
 
 ## Background Information
-The input file for this assignment, [weather.csv](https://lgw2.github.io/teaching/csci127-summer-2019/assignments/weather.csv),
-is described [here](https://corgis-edu.github.io/corgis/csv/weather/).
+The input file for this assignment is
+[weather.csv](https://lgw2.github.io/teaching/csci127-summer-2019/assignments/weather.csv). It contains weekly
+weather data from 2016.
 
 ## Assignment
 * Using [weather.py](https://lgw2.github.io/teaching/csci127-summer-2019/assignments/weather.py)
