@@ -32,15 +32,15 @@ there are two exceptions: " " is represented by space and "," is represented by 
 
 
 ## Assignment
-* Take the program above and modify it by adding the `create_dictionary function`.
+* Take the program above and modify it by adding the `create_dictionary` function.
 The parameter `file_name` is the name of a csv file that contains an unknown number of lines that reflect ASCII encodings.
 The format of this file is described in the bullet above. The function should return a dictionary where the keys are
-characters and the values are the 8 bit representations. Note: use " " and "," as keys instead of space and comma.
+characters and the values are the 8 bit representations. Note: use `" "` and `","` as keys instead of `space` and `comma`.
 * Take the program above and modify it by adding the `translate` function.
-The parameter sentence consists of an unknown number of characters. The parameter dictionary is the dictionary that was
+The parameter `sentence` consists of an unknown number of characters. The parameter dictionary is the dictionary that was
 created by the `create_dictionary` function. The parameter `file_name` is the name of the output file where all output should be sent.
-In the output file, each character in sentence should appear on its own line, followed by a space,
-followed by its 8 bit representation. If a character does not appear in the dictionary, the word UNKNOWN should
+In the output file, each character in `sentence` should appear on its own line, followed by a space,
+followed by its 8 bit representation. If a character does not appear in the dictionary, the word `UNKNOWN` should
 appear instead of an 8 bit representation.
 * When the program is run, it should produce the following three output files: [output-1.txt](https://lgw2.github.io/teaching/csci127-summer-2019/labs/output-1.txt),
 [output-2.txt](https://lgw2.github.io/teaching/csci127-summer-2019/labs/output-2.txt)
