@@ -7,7 +7,7 @@ date: 2019-06-05
 ---
 
 ## Logistics
-* Due: Thursday, June 5th no later than 5pm.
+* Due: Friday, June 5th no later than 5pm.
 * Submission instructions: upload solution,
 entitled FirstName-LastNameLab6.py
 to the BrightSpace Lab 6 Dropbox.
