@@ -19,7 +19,7 @@ the deadline so that partial credit can be earned.
 
 ## Background Information
 The input file for this assignment, [weather.csv](https://lgw2.github.io/teaching/csci127-summer-2019/assignments/weather.csv),
-is described [here](https://think.cs.vt.edu/corgis/csv/weather/weather.html).
+is described [here](https://corgis-edu.github.io/corgis/csv/weather/).
 
 ## Assignment
 * Using [weather.py](https://lgw2.github.io/teaching/csci127-summer-2019/assignments/weather.py)
