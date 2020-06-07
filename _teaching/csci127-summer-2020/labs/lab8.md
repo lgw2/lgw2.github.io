@@ -1,13 +1,13 @@
 ---
 collection: teaching
 title: "Lab 8: Object Oriented Programming"
-venue: "June 25"
+venue: "June 12"
 type: "Lab"
-date: 2019-06-25
+date: 2020-06-12
 ---
 
 ## Logistics
-* Due: Tuesday, June 25th no later than 5pm.
+* Due: Friday, June 12th no later than 5pm.
 * Submission instructions: upload solution,
 entitled FirstName-LastNameLab8.py
 to the BrightSpace Lab 8 Dropbox.
@@ -27,18 +27,28 @@ implement a data structure called a queue. An example of a
 queue is a concert line for tickets (with no cutting allowed):
 the first person to arrive goes first, the second person to arrive
 goes second, etc. The line can grow and shrink dynamically over time.
-* Download [lab8.py](https://lgw2.github.io/teaching/csci127-summer-2019/labs/lab8.py),
+* Download [lab8.py](https://lgw2.github.io/teaching/csci127-summer-2020/labs/lab8.py),
 rename it according to the instructions above, and make sure you
 understand it.
 * Take the program above and modify it by adding the missing `Queue`
-class such that when the program is run, it produces this [output](https://lgw2.github.io/teaching/csci127-summer-2019/labs/lab8_output.txt).
+class such that when the program is run, it produces this [output](https://lgw2.github.io/teaching/csci127-summer-2020/labs/lab8_output.txt).
 
 ## Grading - 10 points
-3 points - High Rolls are identified correctly.
+1 point - The constructor of the `Queue` class is correct.
 
-3 points - Three of a Kinds are identified correctly.
+1 point - The `enqueue` method of the `Queue` class is correct. The method adds an
+item to the queue.
 
-4 points - Large straights are identified correctly.
+1 point - The `dequeue` method of the `Queue` class is correct. The method removes
+and returns the item that has been in the queue the longest.
+
+1 points - The `is_empty` method of the `Queue` class is correct. A queue is
+considered to be empty when it contains no items.
+
+2 points - The `__str__` method of the `Queue` class is correct.
+
+3 points - In the main function, the statement `number += 15` is implemented
+correctly using the appropriate magic method in the Queue class.
 
 ## Grading turnaround
 All labs graded with scores recorded in BrightSpace no later than lab time (2pm) the following day.
