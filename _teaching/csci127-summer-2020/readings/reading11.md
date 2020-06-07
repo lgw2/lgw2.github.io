@@ -75,9 +75,9 @@ eight of diamonds, nine of hearts, two of spades evaluates to 19
 
 ### Activity 3
 Download [carddeck.py](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/activities/carddeck.py).
-* With your partner, answer the following questions:
+* Answer the following questions:
 	1. What is `cards` in the program?
 	2. What does the `Deck` constructor do?
 * Uncomment the two commented statements at the bottom
-and supply the missing shuffle method.
+and supply the missing `shuffle` method.
 * Split the solution into three files: Card.py, Deck.py and carddeck.py.
