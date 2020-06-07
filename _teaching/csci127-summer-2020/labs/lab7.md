@@ -1,13 +1,13 @@
 ---
 collection: teaching
 title: "Lab 7: Object Oriented Programming"
-venue: "June 24"
+venue: "June 10"
 type: "Lab"
-date: 2019-06-24
+date: 2019-06-10
 ---
 
 ## Logistics
-* Due: Monday, June 24th no later than 5pm.
+* Due: Wednesday, June 10th no later than 5pm.
 * Submission instructions: upload solution,
 entitled FirstName-LastNameLab7.py
 to the BrightSpace Lab 7 Dropbox.
@@ -22,11 +22,11 @@ Gain experience with object oriented programming.
 * A smart phone has the ability to save contact information.
 In this assignment, you will simulate the contact list for a
 very simple smart phone.
-* Download [lab7.py](https://lgw2.github.io/teaching/csci127-summer-2019/labs/lab7.py), rename it according to the instructions above,
+* Download [lab7.py](https://lgw2.github.io/teaching/csci127-summer-2020/labs/lab7.py), rename it according to the instructions above,
 and make sure you understand it.
 * Take the program above and modify it by adding the missing
 `Contact` class such that when the program is run, it produces
-[this](https://lgw2.github.io/teaching/csci127-summer-2019/labs/lab7_output.txt)
+[this](https://lgw2.github.io/teaching/csci127-summer-2020/labs/lab7_output.txt)
 output.
 
 ## Grading - 10 points
@@ -41,4 +41,4 @@ output.
 2 points - Your program's output matches the output format of the transcript above (1 point for each type of difference up to 2 points).
 
 ## Grading turnaround
-All labs graded with scores recorded in BrightSpace no later than lab time (2pm) the following day.
+All labs graded with scores recorded in BrightSpace no later than office hours the following class day.
