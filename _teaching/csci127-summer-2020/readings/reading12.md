@@ -1,6 +1,6 @@
 ---
 collection: teaching
-title: "Dictionaries"
+title: "Object Oriented Programming"
 venue: "June 11"
 type: "Reading"
 date: 2020-06-11
