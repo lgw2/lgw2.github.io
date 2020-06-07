@@ -51,4 +51,4 @@ considered to be empty when it contains no items.
 correctly using the appropriate magic method in the Queue class.
 
 ## Grading turnaround
-All labs graded with scores recorded in BrightSpace no later than lab time (2pm) the following day.
+All labs graded with scores recorded in BrightSpace no later than office hours the following day.
