@@ -1,12 +1,12 @@
 ---
 collection: teaching
 title: "Dictionaries"
-venue: "June 10"
+venue: "June 11"
 type: "Reading"
-date: 2020-06-10
+date: 2020-06-11
 ---
 ## Logistics
-* Due: Wednesday, June 10th no later than 5pm.
+* Due: Thursday, June 11th no later than 5pm.
 * Submission instructions: complete the assigned number of activities in each
 	of the assigned subsections of Chapter 17. You do not need to submit
 	anything to Brightspace.
