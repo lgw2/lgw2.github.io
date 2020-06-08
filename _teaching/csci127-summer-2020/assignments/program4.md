@@ -26,7 +26,13 @@ missing functions such that interaction with a user could produce this
 [transcript](https://lgw2.github.io/teaching/csci127-summer-2020/assignments/pokedex_transcript.txt).
 
 ## Grading - 100 points
-20 points. The class `Pokemon` is defined (2 points) with the appropriate six methods (3 points each).
+20 points. The class `Pokemon` is defined (2 points) with the appropriate six methods (3 points each):
+* the constructor
+* the `__str__` method
+* a method that returns the Pokemon's name
+* a method that returns the Pokemon's number
+* a method that returns the Pokemon's combat points
+* a method that returns the Pokemon's types
 
 5 points. The function `print_menu` is correct.
 
