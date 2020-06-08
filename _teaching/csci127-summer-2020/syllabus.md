@@ -204,7 +204,7 @@ enthusiastic about course material and my role in helping you learn.
 |Thursday 6/4|[Files](https://lgw2.github.io/teaching/csci127-summer-2020/readings/files/)|[Lab 5](https://lgw2.github.io/teaching/csci127-summer-2020/labs/lab5/)|[Lab 5 intro](https://youtu.be/BAoCv3htqDY)|10am-12pm and 7pm-9pm|
 |Friday 6/5|[Dictionaries](https://lgw2.github.io/teaching/csci127-summer-2020/readings/reading10/)|[Lab 6](https://lgw2.github.io/teaching/csci127-summer-2020/labs/lab6/)|[Lab 6 intro](https://www.youtube.com/watch?v=T8ARaqL49zk), [Dictionaries activity](https://www.youtube.com/watch?v=Pdkd2dzSSCg)|2pm-4pm|
 |weekend!|
-|Monday 6/8||||2-4pm and 7-9pm|
+|Monday 6/8||||2-4pm and ~~7-9pm~~8-10pm|
 |Tuesday 6/9||[Program 3](https://lgw2.github.io/teaching/csci127-summer-2020/assignments/program3/)|[Program 3 intro](https://youtu.be/TK1dE8dedcA)|3-5pm|
 |Wednesday 6/10|[Objected Oriented Programming Basics](https://lgw2.github.io/teaching/csci127-summer-2020/readings/reading11/)|[Lab 7](https://lgw2.github.io/teaching/csci127-summer-2020/labs/lab7/)||8-10am|
 |Thursday 6/11|[Object Oriented Programming](https://lgw2.github.io/teaching/csci127-summer-2020/readings/reading12/)|||10am-12pm and 7-9pm|
