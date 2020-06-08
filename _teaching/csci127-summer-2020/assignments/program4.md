@@ -1,13 +1,13 @@
 ---
 collection: teaching
 title: "Program 4"
-venue: "Due June 27"
+venue: "Due June 15"
 type: "Programming Assignment"
-date: 2019-06-27
+date: 2019-06-15
 ---
 
 ## Logistics
-* Due date: Thursday, June 27nd no later than 11:59 p.m.
+* Due date: Monday, June 15th no later than 11:59 p.m.
 * Submission instructions: upload your solution, entitled YourFirstName-YourLastName-Program4.py to the BrightSpace Program 4 Dropbox.
 * Deadline Reminder: Once the submission deadline passes, BrightSpace will no longer accept your
 Python submission and you will no longer be able to earn credit.
@@ -18,12 +18,12 @@ the deadline so that partial credit can be earned.
 * To solve this problem, you need to understand the following Python concepts: object-oriented programming and lists.
 
 ## Background Information
-The file [pokedex.txt](https://lgw2.github.io/teaching/csci127-summer-2019/assignments/pokedex.txt) contains partial information about 31 Pokémon that mostly come from [this Pokédex](https://pokemondb.net/pokedex/all).
+The file [pokedex.txt](https://lgw2.github.io/teaching/csci127-summer-2029/assignments/pokedex.txt) contains partial information about 31 Pokémon that mostly come from [this Pokédex](https://pokemondb.net/pokedex/all).
 
 ## Assignment
-* Using [pokedex.py](https://lgw2.github.io/teaching/csci127-summer-2019/assignments/pokedex.py) as a starting point, supply the
+* Using [pokedex.py](https://lgw2.github.io/teaching/csci127-summer-2020/assignments/pokedex.py) as a starting point, supply the
 missing functions such that interaction with a user could produce this
-[transcript](https://lgw2.github.io/teaching/csci127-summer-2019/assignments/pokedex_transcript.txt).
+[transcript](https://lgw2.github.io/teaching/csci127-summer-2020/assignments/pokedex_transcript.txt).
 
 ## Grading - 100 points
 20 points. The class `Pokemon` is defined (2 points) with the appropriate six methods (3 points each).

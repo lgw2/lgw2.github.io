@@ -210,7 +210,7 @@ enthusiastic about course material and my role in helping you learn.
 |Thursday 6/11|[Object Oriented Programming](https://lgw2.github.io/teaching/csci127-summer-2020/readings/reading12/)|||10am-12pm and 7-9pm|
 |Friday 6/12|[Inheritance](https://lgw2.github.io/teaching/csci127-summer-2020/readings/reading13/)|[Lab 8](https://lgw2.github.io/teaching/csci127-summer-2020/labs/lab8/)||2-4pm|
 |weekend!|
-|Monday 6/15||Program 4|
+|Monday 6/15||[Program 4](https://lgw2.github.io/teaching/csci127-summer-2020/assignments/program4/)|
 |Tuesday 6/16|||
 |Wednesday 6/17||Quiz 2|
 |Thursday 6/18|||
