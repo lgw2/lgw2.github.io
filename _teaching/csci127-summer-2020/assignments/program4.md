@@ -18,7 +18,7 @@ the deadline so that partial credit can be earned.
 * To solve this problem, you need to understand the following Python concepts: object-oriented programming and lists.
 
 ## Background Information
-The file [pokedex.txt](https://lgw2.github.io/teaching/csci127-summer-2029/assignments/pokedex.txt) contains partial information about 31 Pokémon that mostly come from [this Pokédex](https://pokemondb.net/pokedex/all).
+The file [pokedex.txt](https://lgw2.github.io/teaching/csci127-summer-2020/assignments/pokedex.txt) contains partial information about 31 Pokémon that mostly come from [this Pokédex](https://pokemondb.net/pokedex/all).
 
 ## Assignment
 * Using [pokedex.py](https://lgw2.github.io/teaching/csci127-summer-2020/assignments/pokedex.py) as a starting point, supply the
