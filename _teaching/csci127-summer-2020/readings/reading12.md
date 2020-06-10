@@ -41,7 +41,9 @@ hours the following class day.
 ## Optional activities
 ### Activity 1
 Create a `Card` class that holds a rank (e.g., `"seven"`), a suit
-(e.g., `"hearts"`), and a value (e.g., `7`). Use a magic method so cards
+(e.g., `"hearts"`), and a value (e.g., `7`). Then,
+
+1. Use a magic method so cards
 are comparable using the less than opeartor, `<`. For example,
 ```
 card1 = Card("Seven", "Hearts")
@@ -58,3 +60,19 @@ True
 Assume that aces have value 1 (are the lowest card) and kings
 have value 13 (are the highest card). If two cards have the same rank,
 ties are broken by suit alphabetically.
+
+2. Use another magic method to test two cards for deep equality
+(do the cards have the same rank and suit?) instead of shallow
+equality (are the cards pointing to the same object?).
+If `card2` and `card3` are defined above,
+```
+card4 = Card("Queen", "Diamonds")
+print(card2 == card3)
+print(card3 == card4)
+```
+should output
+```
+False
+True
+```
+
