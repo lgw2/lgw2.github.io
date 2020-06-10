@@ -37,3 +37,20 @@ two variables refer to objects that contain the same underlying
 ## Grading turnaround
 This reading assignment  will be graded with scores in Brightspace by office
 hours the following class day.
+
+## Optional activities
+### Activity 1
+Create a `Card` class that holds a rank (e.g., seven), a suit
+(e.g., hearts), and a value (e.g., 7). Use a magic method so that
+```
+card1 = Card("Seven", "Hearts")
+card2 = Card("Queen", "Spades")
+print(card1 < card2)
+```
+outputs
+```
+False
+```
+Assume that aces have value 1 (are the lowest card) and kings
+have value 13 (are the highest card). If two cards have the same rank,
+ties are broken by suit alphabetically.
