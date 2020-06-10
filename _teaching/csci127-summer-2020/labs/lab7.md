@@ -29,8 +29,8 @@ and make sure you understand it.
 [this](https://lgw2.github.io/teaching/csci127-summer-2020/labs/lab7_output.txt)
 output.
 * Hint: one way to get the correct spacing in your `print_entry` method is to
-	use the `ljust` method on strings. Read the documentation
-	[here](https://docs.python.org/3/library/stdtypes.html#str.ljust).
+	use the `rjust` method on strings. Read the documentation
+	[here](https://docs.python.org/3/library/stdtypes.html#str.rjust).
 
 ## Grading - 10 points
 2 points - The constructor of the `Contact` class is correct.
