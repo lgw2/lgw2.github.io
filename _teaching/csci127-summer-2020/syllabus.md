@@ -206,7 +206,7 @@ enthusiastic about course material and my role in helping you learn.
 |weekend!|
 |Monday 6/8||||2-4pm and ~~7-9pm~~8-10pm|
 |Tuesday 6/9||[Program 3](https://lgw2.github.io/teaching/csci127-summer-2020/assignments/program3/)|[Program 3 intro](https://youtu.be/TK1dE8dedcA)|3-5pm|
-|Wednesday 6/10|[Objected Oriented Programming Basics](https://lgw2.github.io/teaching/csci127-summer-2020/readings/reading11/)|[Lab 7](https://lgw2.github.io/teaching/csci127-summer-2020/labs/lab7/)|[Lab 7 intro](https://youtu.be/kdxV7IKFC1k), [Pokemon activity](), [2019 Object Oriented Programming Basics video](https://youtu.be/QmLXsCGPD-g)|8-10am|
+|Wednesday 6/10|[Objected Oriented Programming Basics](https://lgw2.github.io/teaching/csci127-summer-2020/readings/reading11/)|[Lab 7](https://lgw2.github.io/teaching/csci127-summer-2020/labs/lab7/)|[Lab 7 intro](https://youtu.be/kdxV7IKFC1k), [Pokemon activity](https://youtu.be/FqelTgBARzs), [2019 Object Oriented Programming Basics video](https://youtu.be/QmLXsCGPD-g)|8-10am|
 |Thursday 6/11|[Object Oriented Programming](https://lgw2.github.io/teaching/csci127-summer-2020/readings/reading12/)|||10am-12pm and 7-9pm|
 |Friday 6/12|[Inheritance](https://lgw2.github.io/teaching/csci127-summer-2020/readings/reading13/)|[Lab 8](https://lgw2.github.io/teaching/csci127-summer-2020/labs/lab8/)||2-4pm|
 |weekend!|
