@@ -40,16 +40,20 @@ hours the following class day.
 
 ## Optional activities
 ### Activity 1
-Create a `Card` class that holds a rank (e.g., seven), a suit
-(e.g., hearts), and a value (e.g., 7). Use a magic method so that
+Create a `Card` class that holds a rank (e.g., `"seven"`), a suit
+(e.g., `"hearts"`), and a value (e.g., `7`). Use a magic method so cards
+are comparable using the less than opeartor, `<`. For example,
 ```
 card1 = Card("Seven", "Hearts")
 card2 = Card("Queen", "Spades")
+card3 = Card("Queen", "Diamonds")
 print(card1 < card2)
+print(card3 < card3)
 ```
-outputs
+should output
 ```
 False
+True
 ```
 Assume that aces have value 1 (are the lowest card) and kings
 have value 13 (are the highest card). If two cards have the same rank,
