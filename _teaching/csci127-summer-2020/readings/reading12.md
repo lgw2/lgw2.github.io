@@ -50,12 +50,14 @@ card1 = Card("Seven", "Hearts")
 card2 = Card("Queen", "Spades")
 card3 = Card("Queen", "Diamonds")
 print(card1 < card2)
+print(card2 < card3)
 print(card3 < card3)
 ```
 should output
 ```
-False
 True
+False
+False
 ```
 Assume that aces have value 1 (are the lowest card) and kings
 have value 13 (are the highest card). If two cards have the same rank,
