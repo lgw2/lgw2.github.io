@@ -38,4 +38,4 @@ Thursday, June 18th. Even telling a classmate that the quiz was difficult or
 easy is not acceptable.
 
 ## Practice quiz
-Coming soon on D2L!
+Available on D2L!
