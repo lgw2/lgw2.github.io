@@ -1,13 +1,13 @@
 ---
 collection: teaching
-title: "Quiz 1"
+title: "Quiz 2"
 venue: "June 17"
 type: "Quiz"
 date: 2020-06-17
 ---
 
 ## Quiz Info
-Quiz 1 will take place on Tuesday and Wednesday, 6/16 and 6/17, via D2L.
+Quiz 2 will take place on Tuesday and Wednesday, 6/16 and 6/17, via D2L.
 You can take the quiz
 any time between 12am on Tuesday, 6/16 and 11:59 pm Mountain Time on Wednesday, 6/17. You will have
 one hour to complete the short answer and multiple choice portion of the quiz once you start it.
