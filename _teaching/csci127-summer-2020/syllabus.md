@@ -212,8 +212,7 @@ enthusiastic about course material and my role in helping you learn.
 |weekend!|
 |Monday 6/15||[Program 4](https://lgw2.github.io/teaching/csci127-summer-2020/assignments/program4/)|[Program 4 intro](https://youtu.be/ouUZ9pJ-v2c)|2-4pm and 7-9pm|
 |Tuesday 6/16||||3-5pm|
-|Wednesday 6/17||[Quiz
-2](https://lgw2.github.io/teaching/csci127-summer-2020/readings/quiz2/)||8-10am|
+|Wednesday 6/17||[Quiz 2](https://lgw2.github.io/teaching/csci127-summer-2020/readings/quiz2/)||8-10am|
 |Thursday 6/18||||10am-12pm and 7-9pm|
 |Friday 6/19||||2-4pm|
 |weekend!|
