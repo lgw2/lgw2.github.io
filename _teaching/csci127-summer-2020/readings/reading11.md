@@ -58,7 +58,9 @@ Download [card.py](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/
 [blackjack.py](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/activities/blackjack.py)
 onto your local machine. Complete method `assign_value` and
 function `process_hand` such that the following output is produced when
-the program is run.
+the program is run. Note: if you prefer, you can use the file
+[card_blackjack.py](https://lgw2.github.io/teaching/csci127-summer-2020/readings/activities/card_blackjack.py),
+which includes the `Card` class and the Blackjack functionality in one file.
 ```
 ace of spades, king of diamonds evaluates to 21
 
