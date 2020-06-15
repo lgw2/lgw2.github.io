@@ -39,3 +39,14 @@ easy is not acceptable.
 
 ## Practice quiz
 Available on D2L!
+
+Answers:
+1. `__str__`
+2. `class Square(Shape)`
+3. `a = [1, 2, 3, 4, 5]` is creating a list called `a`,
+`a = "1, 2, 3, 4, 5"` is creating a string called `a`,
+`a =A(1, 2, 3, 4, 5)` is creating an objected called `a`, and
+`a = {"One": 1, "Two": 2, "Three": 3, "Four": 4, "Five": 5}` is creating
+a dictionary called `a`.
+4. 18
+5. `my_list = file.readlines()`
