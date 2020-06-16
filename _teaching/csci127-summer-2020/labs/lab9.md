@@ -19,7 +19,7 @@ complete the assignment, submit whatever you have before the deadline so that pa
 Gain experience with numpy arrays and contine to practice
 object oriented programming.
 
-## Backgroun
+## Background
 In a modified game of Yahtzee, five six-sided dice are rolled once.
 
 For this assignment, you will simulate this modified game of Yahtzee to
@@ -36,8 +36,15 @@ show this number. For example, 4-5-4-1-4 is a three of a kind, but
 
 In this modified version of Yahtzee, a large straight occurs when
 the five numbers can be arranged consecutively (for example,
-1-3-4-2-5 or 2-5-4-6-3). Hint: the numpy library contains a
-sort function.
+1-3-4-2-5 or 2-5-4-6-3).
+
+## Hints
+Numpy arrays have a lot of methods and the Numpy library contains a lot of
+functions that can take in arrays. You might want to look up the `max`, `min`,
+and `sort` methods, and the `bincounts` function. Or you might find even more
+useful functionality! Check out the documentation
+[here](https://numpy.org/doc/stable/). You may want to search the
+documentation.
 
 ## Assignment
 * Download [lab9.py](https://lgw2.github.io/teaching/csci127-summer-2020/labs/lab9.py),
