@@ -20,23 +20,23 @@ Gain experience with numpy arrays and contine to practice
 object oriented programming.
 
 ## Backgroun
-In a modified game of Yahtzee, five eight-sided dice are rolled once.
+In a modified game of Yahtzee, five six-sided dice are rolled once.
 
 For this assignment, you will simulate this modified game of Yahtzee to
 determine how likely certain outcomes are.
 
 In this modified version of Yahtzee, a High Roll occurs when each of
-the five dice is either a 7 or an 8. For example, 7-7-7-7-7 or 8-8-7-8-7
+the five dice is either a 5 or an 6. For example, 5-5-5-5-5 or 5-6-6-5-5
 are High Rolls.
 
 In this modified version of Yahtzee, a Three of a Kind occurs when
 three of the dice show the same number. The other two dice must not
-show this number and must also be different from one another.
-For example, 4-7-4-4-2 but not 4-7-4-4-7.
+show this number. For example, 4-5-4-1-4 is a three of a kind, but
+4-5-4-4-4 is not.
 
 In this modified version of Yahtzee, a large straight occurs when
 the five numbers can be arranged consecutively (for example,
-1-3-4-2-5 or 5-7-4-6-3). Hint: the numpy library contains a
+1-3-4-2-5 or 2-5-4-6-3). Hint: the numpy library contains a
 sort function.
 
 ## Assignment
