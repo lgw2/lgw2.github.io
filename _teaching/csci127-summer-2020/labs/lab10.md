@@ -7,7 +7,7 @@ date: 2019-06-19
 ---
 
 ## Logistics
-* Due: Friday, June 19th no later than 5pm.
+* Due: Friday, June 19th no later than 11:59pm.
 * Submission instructions: upload solution,
 entitled FirstName-LastNameLab10.py
 to the BrightSpace Lab 10 Dropbox.
@@ -27,20 +27,20 @@ The first line contains how many lines of data follow. Each subsequent line cont
 (such as CLS for the College of Letters & Science) followed by the Spring 2020 enrollment for that college.
 
 ## Assignment
-* Use [lab10.py](https://lgw2.github.io/teaching/csci127-summer-2019/labs/lab10.py), renamed according to the instructions above,
+* Use [lab10.py](https://lgw2.github.io/teaching/csci127-summer-2020/labs/lab10.py), renamed according to the instructions above,
 as a starting point.
 * The `read_file` function should return (1) a numpy array that contains each college name and (2) a
 corresponding numpy array that contains each college's enrollment.
 * The `main` function should produce the desired bar graph using the information contained in the numpy
 arrays named `college_names` and `college_enrollments`.
-* Write a program that matches [this graph](https://lgw2.github.io/teaching/csci127-summer-2019/labs/lab10.png) as closely as possible. Hint: check out the [matplot.pyplot.bar documentation](https://matplotlib.org/3.1.0/api/_as_gen/matplotlib.pyplot.bar.html).
+* Write a program that matches [this graph](https://lgw2.github.io/teaching/csci127-summer-2020/labs/lab10.png) as closely as possible. Hint: check out the [matplot.pyplot.bar documentation](https://matplotlib.org/3.1.0/api/_as_gen/matplotlib.pyplot.bar.html).
 
 ## Grading - 10 points
-1 point - The chart it titled "Montana State University Fall 2020 Enrollments".
+1 point - The chart it titled "MSU Spring 2020 Enrollments by College".
 
-1 point - The x-axis is labeled College Name and the y-axis is labeled College Enrollment.
+1 point - The x-axis is labeled "College Name" and the y-axis is labeled "College Enrollment".
 
-1 point - The y-axis goes from 0 to 4400 in increments of 400.
+1 point - The y-axis goes from 0 to 4500 in increments of 500.
 
 1 point - The x-axis contains the same college names that appear in the input file.
 
