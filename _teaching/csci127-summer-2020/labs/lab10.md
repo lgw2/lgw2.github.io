@@ -1,13 +1,13 @@
 ---
 collection: teaching
 title: "Lab 10: matplotlib"
-venue: "July 1"
+venue: "June 19"
 type: "Lab"
-date: 2019-07-01
+date: 2019-06-19
 ---
 
 ## Logistics
-* Due: Monday, July 1 no later than 5pm.
+* Due: Friday, June 19th no later than 5pm.
 * Submission instructions: upload solution,
 entitled FirstName-LastNameLab10.py
 to the BrightSpace Lab 10 Dropbox.
@@ -21,7 +21,7 @@ complete the assignment, submit whatever you have before the deadline so that pa
 
 ## Background
 * The Registrars Office at Montana State University makes [various enrollment statistics available](http://www.montana.edu/opa/enrollment/index.html).
-* The file [fall-2018.csv](https://lgw2.github.io/teaching/csci127-summer-2019/labs/fall-2018.csv) captures some of
+* The file [spring-2020.csv](https://lgw2.github.io/teaching/csci127-summer-2020/labs/spring-2020.csv) captures some of
 the information that is available in the Fall 2018 Report G - Part A: Headcount Enrollment, All Students by Primary Major.
 The first line contains how many lines of data follow. Each subsequent line contains the name of one of MSU's colleges
 (such as CLS for the College of Letters & Science) followed by the Fall 2018 enrollment for that college.
