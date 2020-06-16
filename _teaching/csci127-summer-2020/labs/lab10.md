@@ -22,9 +22,9 @@ complete the assignment, submit whatever you have before the deadline so that pa
 ## Background
 * The Registrars Office at Montana State University makes [various enrollment statistics available](http://www.montana.edu/opa/enrollment/index.html).
 * The file [spring-2020.csv](https://lgw2.github.io/teaching/csci127-summer-2020/labs/spring-2020.csv) captures some of
-the information that is available in the Fall 2018 Report G - Part A: Headcount Enrollment, All Students by Primary Major.
+the information that is available in the Spring 2020 Report G - Part A: Headcount Enrollment, All Students by Primary Major.
 The first line contains how many lines of data follow. Each subsequent line contains the name of one of MSU's colleges
-(such as CLS for the College of Letters & Science) followed by the Fall 2018 enrollment for that college.
+(such as CLS for the College of Letters & Science) followed by the Spring 2020 enrollment for that college.
 
 ## Assignment
 * Use [lab10.py](https://lgw2.github.io/teaching/csci127-summer-2019/labs/lab10.py), renamed according to the instructions above,
@@ -36,7 +36,7 @@ arrays named `college_names` and `college_enrollments`.
 * Write a program that matches [this graph](https://lgw2.github.io/teaching/csci127-summer-2019/labs/lab10.png) as closely as possible. Hint: check out the [matplot.pyplot.bar documentation](https://matplotlib.org/3.1.0/api/_as_gen/matplotlib.pyplot.bar.html).
 
 ## Grading - 10 points
-1 point - The chart it titled "Montana State University Fall 2018 Enrollments".
+1 point - The chart it titled "Montana State University Fall 2020 Enrollments".
 
 1 point - The x-axis is labeled College Name and the y-axis is labeled College Enrollment.
 
@@ -54,4 +54,5 @@ and (2) a second numpy array that contains the enrollments of the colleges.
 1 point - The bar graph is created and plotted entirely in the main function.
 
 ## Grading turnaround
-All labs graded with scores recorded in BrightSpace no later than lab time (2pm) the following day.
+All labs graded with scores recorded in BrightSpace no later than office hours
+the following day.

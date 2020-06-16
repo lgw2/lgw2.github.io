@@ -213,7 +213,7 @@ enthusiastic about course material and my role in helping you learn.
 |Monday 6/15||[Program 4](https://lgw2.github.io/teaching/csci127-summer-2020/assignments/program4/)|[Program 4 intro](https://youtu.be/ouUZ9pJ-v2c)|2-4pm and 7-9pm|
 |Tuesday 6/16||||3-5pm|
 |Wednesday 6/17||[Quiz 2](https://lgw2.github.io/teaching/csci127-summer-2020/readings/quiz2/)|[Practice quiz coding problem](https://youtu.be/_dxXLOSGCaU)|8-10am|
-|Thursday 6/18|[Numpy Arrays and Python Notebooks](https://lgw2.github.io/teaching/csci127-summer-2020/readings/reading14/)|[Lab 9](https://lgw2.github.io/teaching/csci127-summer-2020/labs/lab9/)|Numpy arrays intro, Lab 9 intro|10am-12pm and 7-9pm|
+|Thursday 6/18|[Numpy Arrays and Python Notebooks](https://lgw2.github.io/teaching/csci127-summer-2020/readings/reading14/)|[Lab 9](https://lgw2.github.io/teaching/csci127-summer-2020/labs/lab9/)|Numpy arrays intro, [Installing Numpy](https://youtu.be/y8Q4eJmbsnY), Lab 9 intro|10am-12pm and 7-9pm|
 |Friday 6/19|Matplotlib|Lab 10|Matplotlib intro, Lab 10 intro|2-4pm|
 |weekend!|
 |Monday 6/22||||2-4pm and 7-9pm|
