@@ -1,13 +1,13 @@
 ---
 collection: teaching
 title: "Lab 9: Numpy Arrays"
-venue: "June 26"
+venue: "June 18"
 type: "Lab"
-date: 2019-06-26
+date: 2019-06-18
 ---
 
 ## Logistics
-* Due: Wednesday, June 26th no later than 5pm.
+* Due: Thursday, June 18th no later than 5pm.
 * Submission instructions: upload solution,
 entitled FirstName-LastNameLab9.py
 to the BrightSpace Lab 9 Dropbox.
@@ -40,11 +40,11 @@ the five numbers can be arranged consecutively (for example,
 sort function.
 
 ## Assignment
-* Download [lab9.py](https://lgw2.github.io/teaching/csci127-summer-2019/labs/lab9.py),
+* Download [lab9.py](https://lgw2.github.io/teaching/csci127-summer-2020/labs/lab9.py),
 rename it according to the instructions above, and make sure you
 understand it.
 * Take the program above and modify it by adding the missing methods
-such that when the program is run, it produces this [output](https://lgw2.github.io/teaching/csci127-summer-2019/labs/lab9_output.txt).
+such that when the program is run, it produces this [output](https://lgw2.github.io/teaching/csci127-summer-2020/labs/lab9_output.txt).
 
 ## Grading - 10 points
 3 points - High Rolls are identified correctly.
@@ -54,4 +54,4 @@ such that when the program is run, it produces this [output](https://lgw2.github
 4 points - Large straights are identified correctly.
 
 ## Grading turnaround
-All labs graded with scores recorded in BrightSpace no later than lab time (2pm) the following day.
+All labs graded with scores recorded in BrightSpace no later than office hours the following day.
