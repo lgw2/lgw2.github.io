@@ -19,3 +19,5 @@ About Python notebooks:
 
 ## Assignment
 * Read through the [Numpy Tutorial](https://colab.research.google.com/drive/1a2ephx6o1xPjM3yUjvFEhCZsmcxL_UHe?usp=sharin://colab.research.google.com/drive/1a2ephx6o1xPjM3yUjvFEhCZsmcxL_UHe?usp=sharing) and do the Tasks.
+* In order to run the code cells, you should make a copy of the notebook (see
+    the Intro to Python notebooks video).
