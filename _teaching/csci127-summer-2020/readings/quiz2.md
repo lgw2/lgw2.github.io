@@ -41,7 +41,7 @@ easy is not acceptable.
 Available on D2L!
 
 Answers:
-1. `__str__`
+1. `__init__`
 2. `class Square(Shape):`
 3. `a = [1, 2, 3, 4, 5]` is creating a list called `a`,
 `a = "1, 2, 3, 4, 5"` is creating a string called `a`,
