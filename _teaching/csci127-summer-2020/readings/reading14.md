@@ -6,7 +6,6 @@ type: "Reading"
 date: 2020-06-18
 ---
 ## Logistics
-* Due: Thursday, June 18th no later than 5pm.
 * Submission instructions: you do not need to submit this reading.
 
 ## Key ideas
