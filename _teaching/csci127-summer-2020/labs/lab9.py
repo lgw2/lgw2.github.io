@@ -50,7 +50,7 @@ def main(how_many):
     high_rolls = 0
     three_of_a_kinds = 0
     large_straights = 0
-    game = Yahtzee(8)       # 8-sided dice
+    game = Yahtzee(6)       # 6-sided dice
 
     for i in range(how_many):
         game.roll_dice()
