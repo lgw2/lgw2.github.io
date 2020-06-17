@@ -21,7 +21,7 @@ date: 2020-06-19
 * Creating subplots.
 * Color and line style abbreviations in documetation [here](https://matplotlib.org/api/pyplot_api.html#matplotlib.pyplot.plot).
 
-## Assignment
+## Reading
 Read [Vizualization With
 Matplotlib](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.00-Introduction-To-Matplotlib.ipynb) (you can ignore any mentions of Pandas and the IPython shell),
 [Simple Line

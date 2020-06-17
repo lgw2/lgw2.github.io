@@ -17,7 +17,7 @@ About Python notebooks:
 * Python notebooks include code cells and text cells.
 * They are useful for exploring data and for sharing your code with others.
 
-## Assignment
+## Reading
 * Read through the [Numpy Tutorial](https://colab.research.google.com/drive/1a2ephx6o1xPjM3yUjvFEhCZsmcxL_UHe?usp=sharin://colab.research.google.com/drive/1a2ephx6o1xPjM3yUjvFEhCZsmcxL_UHe?usp=sharing) and do the Tasks.
 * In order to run the code cells, you should make a copy of the notebook (see
     the Intro to Python notebooks video).
