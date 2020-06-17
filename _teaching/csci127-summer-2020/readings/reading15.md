@@ -19,6 +19,7 @@ date: 2020-06-19
 * `plt.scatter`.
 * Creating histograms with `plt.hist`.
 * Creating subplots.
+* Color and line style abbreviations in documetation [here](https://matplotlib.org/api/pyplot_api.html#matplotlib.pyplot.plot).
 
 ## Assignment
 Read [Vizualization With
