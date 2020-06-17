@@ -39,7 +39,7 @@ signed into a Google account to run the code cells.
 ### Activity 1
 Download [graph.py](https://lgw2.github.io/teaching/csci127-summer-2019/lectures/graph.py)
 * Modify graphs.py to label the x-axis as x and the y-axis as y.
-* Modify graphs.py to plot the straight lines with magenta dashes. Hint.
+* Modify graphs.py to plot the straight lines with magenta dashes.
 * Modify graphs.py to draw the sine wave with 5 point size.
 * Add your own function `plot_new_func` that plots a different sort of function on the
 same plot. Comment your function using a docstring.
