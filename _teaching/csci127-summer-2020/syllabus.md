@@ -216,7 +216,7 @@ enthusiastic about course material and my role in helping you learn.
 |Thursday 6/18|[Numpy Arrays and Python Notebooks](https://lgw2.github.io/teaching/csci127-summer-2020/readings/reading14/)|[Lab 9](https://lgw2.github.io/teaching/csci127-summer-2020/labs/lab9/)|[Python notebooks intro](https://youtu.be/nSp_3zSnyXw), [Numpy arrays intro](https://youtu.be/BbFbhZ0OUBA), [Installing Numpy](https://youtu.be/y8Q4eJmbsnY), [Lab 9 intro](https://youtu.be/X5ciTs1Wdoc)|10am-12pm and 7-9pm|
 |Friday 6/19|[matplotlib](https://lgw2.github.io/teaching/csci127-summer-2020/readings/reading15/)|[Lab 10](https://lgw2.github.io/teaching/csci127-summer-2020/labs/lab10/)|[A first plot](https://youtu.be/TLtbmoB1MN8), [Activity 1](https://youtu.be/AN5MlZT-wc0), [Subplots](https://youtu.be/9LzK33FFFFQ), [Histograms](https://youtu.be/4iKoB1XAIu4), [Activity 3](https://youtu.be/GGggJvEKvvo), [Lab 10 intro](https://youtu.be/Gx1R7xxGN6o)|2-4pm|
 |weekend!|
-|Monday 6/22|pandas|Lab 11||2-4pm and 7-9pm|
+|Monday 6/22|pandas|[Lab 11](https://lgw2.github.io/teaching/csci127-summer-2020/labs/lab11/)||2-4pm and 7-9pm|
 |Tuesday 6/23|more pandas|||3-5pm|
 |Wednesday 6/24|optional: scikit-learn|||8-10am|
 |Thursday 6/25||||10am-12pm and 7-9pm|
