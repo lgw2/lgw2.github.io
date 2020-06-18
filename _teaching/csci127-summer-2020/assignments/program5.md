@@ -41,9 +41,11 @@ bar chart and the other could be a line chart.
 3 points for each type of improvement up to 20 points.
 
 15 points - The first visualization contains at least two insights that are explained carefully
-in a comment at the top of your program. For example, when we did the Montana population example in
-class, the graph enabled us to see that something interesting (e.g. drought and depression!) happened from
-1920 through 1940 that caused the population growth to flatten or even decrease.
+in a comment at the top of your program. For example, in the [matplotlib
+activity 3
+video](https://www.youtube.com/watch?v=GGggJvEKvvo&feature=youtu.be), we saw
+that Montana's population growth slowed in the 1920s through 1940s  and posited that this was
+due to drought and depression.
 5 points per explained insight.
 
 15 points - same as above for the second visualization.
