@@ -1,14 +1,14 @@
 ---
 collection: teaching
 title: "Program 6"
-venue: "Due July 5"
+venue: "Due June 25"
 type: "Programming Assignment"
-date: 2019-07-05
+date: 2020-06-25
 ---
 
 ## Logistics
-* Due date: Friday, July 5th no later than 11:59 p.m.
-* Submission instructions: upload your solution, entitled YourFirstName-YourLastName-Program6.py to the BrightSpace Program 6 Dropbox.
+* Due date: Thursday, June 25th no later than 11:59 p.m.
+* Submission instructions: upload your solution, entitled YourFirstName-YourLastName-Program5.py to the BrightSpace Program 5 Dropbox.
 * Deadline Reminder: Once the submission deadline passes, BrightSpace will no longer accept your
 Python submission and you will no longer be able to earn credit.
 Thus, if you are not able to fully complete the assignment, submit whatever you have before
@@ -17,10 +17,10 @@ the deadline so that partial credit can be earned.
 ## Learning Outcomes
 * Design and implement a solution from scratch.
 * Use the pandas library to load, manipulate, and analyze data.
-* Use the matplotlib library to create visualizations highlighting a specific insight
+* Use the matplotlib library to create visualizations highlighting a specific insight.
 
 ## Assignment
-* Use the [Airlines CSV](https://think.cs.vt.edu/corgis/csv/airlines/airlines.html) for this assignment.
+* Use the [Airlines CSV](https://think.cs.vt.edu/corgis/csv/airlines/) for this assignment.
 * Use the pandas library and the matplotlib library to create two different visualizations to
 help a user gain insight into the airlines.csv file.
 * Optional: you can make one of your visualizations about predictions generated using the

@@ -1,13 +1,13 @@
 ---
 collection: teaching
 title: "Lab 11: pandas"
-venue: "June 22"
+venue: "June 23"
 type: "Lab"
-date: 2020-06-22
+date: 2020-06-23
 ---
 
 ## Logistics
-* Due: Tuesday, June 22nd no later than 11:59pm.
+* Due: Tuesday, June 23rd no later than 11:59pm.
 * Submission instructions: upload solution,
 entitled FirstName-LastNameLab11.py
 to the BrightSpace Lab 11 Dropbox.
