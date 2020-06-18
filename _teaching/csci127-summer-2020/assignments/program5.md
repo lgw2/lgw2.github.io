@@ -1,6 +1,6 @@
 ---
 collection: teaching
-title: "Program 6"
+title: "Program 5"
 venue: "Due June 25"
 type: "Programming Assignment"
 date: 2020-06-25
