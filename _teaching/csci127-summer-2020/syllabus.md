@@ -218,6 +218,6 @@ enthusiastic about course material and my role in helping you learn.
 |weekend!|
 |Monday 6/22|pandas|||2-4pm and 7-9pm|
 |Tuesday 6/23|more pandas|[Lab 11](https://lgw2.github.io/teaching/csci127-summer-2020/labs/lab11/)||3-5pm|
-|Wednesday 6/24|optional: scikit-learn|||8-10am|
+|Wednesday 6/24|optional: scikit-learn|[Lab 12 (course evaluation)](https://lgw2.github.io/teaching/csci127-summer-2020/labs/lab12/)||8-10am|
 |Thursday 6/25||[Program 5](https://lgw2.github.io/teaching/csci127-summer-2020/assignments/program5/)||10am-12pm and 7-9pm|
 |Friday 6/26||[Quiz 3](https://lgw2.github.io/teaching/csci127-summer-2020/readings/quiz3/)||2-4pm|
