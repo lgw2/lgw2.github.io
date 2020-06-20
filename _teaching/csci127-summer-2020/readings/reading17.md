@@ -20,7 +20,7 @@ follow along with the video.
 Read [Aggregation and Grouping](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.08-Aggregation-and-Grouping.ipynb) up to "Dispatch methods."
 
 ## Optional activities
-1. Download [planet.csv](https://lgw2.github.io/teaching/csci127-summer-2020/readings/planet.csv) and
+1. Download [planets.csv](https://lgw2.github.io/teaching/csci127-summer-2020/readings/planets.csv) and
 [planets.py](https://lgw2.github.io/teaching/csci127-summer-2020/readings/planets.py). Then,
 * print the shape of the data set
 * print the average orbital period in the data set.
