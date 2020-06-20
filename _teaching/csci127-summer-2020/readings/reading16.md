@@ -26,3 +26,12 @@ and [Operating on Data in Pandas](https://colab.research.google.com/github/jakev
 Note: the book uses some deprecated Pandas functionality! In particular, the
 `.ix` way to index and the `density` attribute of data frames are no longer
 used, and any cells that use those will not run.
+
+## Optional activities
+1. Download [bridger_snowfall.py](https://lgw2.github.io/teaching/csci127-summer-2020/readings/bridger_snowfall.py). Then:
+* create a dataframe with three columns: `Year`, `Total`, and `Largest`.
+* write the dataframe to a csv using the `to_csv` method for data frames.
+* print the shape of the data frame.
+* create a second data frame, `big_snow_years`, which includes only years with
+    at least 250 inches of snow.
+* create a bar chart showing total snowfall per year.
