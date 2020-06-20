@@ -9,6 +9,7 @@ date: 2020-06-22
 * Submission instructions: you do not need to submit this reading.
 
 ## Key ideas
+* To read in a data frame from csv, us `pd.read_csv(filename)`
 * data_frame.shape
 * data_frame.head(), data_frame.tail()
 * accessing columns: data_frame.column or data_frame['column']
