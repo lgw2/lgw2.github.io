@@ -16,7 +16,7 @@ date: 2020-06-22
 * filtering data: data_frame[data_frame.column == condition]
 * selecting a subset of colunmns
 * the pandas documentation is [here](https://pandas.pydata.org/).
-* An example file to practice using pandas with is [imdb_1000.csv](/Users/lucywilliams/lgw2.github.io/_teaching/csci127-summer-2020/readings/imbd_1000.csv).
+* An example file to practice using pandas with is [imdb_1000.csv](lgw2.github.io/teaching/csci127-summer-2020/readings/imbd_1000.csv).
 
 
 ## Reading
