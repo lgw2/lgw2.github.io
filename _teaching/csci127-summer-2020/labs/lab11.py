@@ -3,7 +3,7 @@ import pandas as pd
 
 # -------------------------------------------------
 # CSCI 127, Lab 11                                |
-# July 2, 2019                                    |
+# June 23, 2020                                   |
 # Your Name                                       |
 # -------------------------------------------------
 
@@ -22,7 +22,7 @@ def main():
     plot_histogram(data, "age_histogram.png")
 
     print("The data set has {} rows and {} columns.".format(rows, columns))
-    print("\nThe total wealth of billionaires by year was:")
+    print("\nThe total wealth of billionaires (in billions) by year was:")
     print(total_wealth_by_year)
     print("\nThe number of female billionaires in the data set is {}.".format(num_women))
 
