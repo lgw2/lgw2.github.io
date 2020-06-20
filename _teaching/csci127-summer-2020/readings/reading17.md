@@ -12,6 +12,8 @@ date: 2020-06-23
 * data_frame.value_counts()
 * data_frame.column.sort_values()
 * groupby
+* Use [imbd_1000.csv](https://lgw2.github.io/teaching/csci127-summer-2020/readings/imbd_1000.csv) to
+follow along with the video.
 
 
 ## Reading
