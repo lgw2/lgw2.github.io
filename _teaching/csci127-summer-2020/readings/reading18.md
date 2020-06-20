@@ -9,11 +9,11 @@ date: 2020-06-24
 * Submission instructions: you do not need to submit this reading.
 
 ## Key ideas
-* Supervised learning
-* Feature variables and target variable
-* Classification vs. regression
+* Supervised learning: classification and regression
+* Unsupervised learning: clustering and dimensionality regression
+* Features matrix and target array
 * Linear regression
-* Decision trees
 
 
 ## Reading
+Read [What is Machine Learning](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.01-What-Is-Machine-Learning.ipynb) and [Introducing Scikit-Learn](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.02-Introducing-Scikit-Learn.ipynb).
