@@ -13,6 +13,7 @@ date: 2020-06-24
 * Unsupervised learning: clustering and dimensionality regression
 * Features matrix and target array
 * Linear regression
+* The scikit-learn documentation is [here](https://scikit-learn.org/stable/).
 
 
 ## Reading

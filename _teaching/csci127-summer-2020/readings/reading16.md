@@ -15,6 +15,7 @@ date: 2020-06-22
 * accessing columns: data_frame.column or data_frame['column']
 * filtering data: data_frame[data_frame.column == condition]
 * selecting a subset of colunmns
+* the pandas documentation is [here](https://pandas.pydata.org/).
 
 
 ## Reading
