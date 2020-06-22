@@ -40,4 +40,8 @@ Saturday, June 27th. Even telling a classmate that the quiz was difficult or
 easy is not acceptable.
 
 ## Practice quiz
-Coming soon on D2L!
+Now on D2L!
+
+## Practice quiz coding question
+Download [snow_report.py](https://lgw2.github.io/teaching/csci127-summer-2020/readings/snow_report.py). Add the missing code so that [this plot is
+produced](https://lgw2.github.io/teaching/csci127-summer-2020/readings/two_plots.png).
