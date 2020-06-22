@@ -219,5 +219,5 @@ enthusiastic about course material and my role in helping you learn.
 |Monday 6/22|[Pandas 1](https://lgw2.github.io/teaching/csci127-summer-2020/readings/reading16/)||[Intro to Pandas](https://youtu.be/LAnK4i0WgD4), [Bridger snowfall activity](https://youtu.be/k_LQpaEV1IU)|2-4pm and 7-9pm|
 |Tuesday 6/23|[Pandas 2](https://lgw2.github.io/teaching/csci127-summer-2020/readings/reading17/)|[Lab 11](https://lgw2.github.io/teaching/csci127-summer-2020/labs/lab11/)|[Sorting and aggregating in Pandas](https://youtu.be/KQvY0xmox9s), [Planets activity](https://youtu.be/GTmhfyreJLU), [Lab 11 intro](https://youtu.be/iA99gSyVeBo)|3-5pm|
 |Wednesday 6/24|[Optional material: scikit-learn](https://lgw2.github.io/teaching/csci127-summer-2020/readings/reading18/)|[Lab 12 (course evaluation)](https://lgw2.github.io/teaching/csci127-summer-2020/labs/lab12/)||8-10am|
-|Thursday 6/25||[Program 5](https://lgw2.github.io/teaching/csci127-summer-2020/assignments/program5/)||10am-12pm and 7-9pm|
+|Thursday 6/25||[Program 5](https://lgw2.github.io/teaching/csci127-summer-2020/assignments/program5/)|[Program 5 intro](https://youtu.be/Q5KaBU1qCkw)|10am-12pm and 7-9pm|
 |Friday 6/26||[Quiz 3](https://lgw2.github.io/teaching/csci127-summer-2020/readings/quiz3/)||2-4pm|
