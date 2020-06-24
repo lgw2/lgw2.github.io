@@ -42,6 +42,15 @@ easy is not acceptable.
 ## Practice quiz
 Now on D2L!
 
+Practice quiz answers:
+1. `forward` is a Turtle method, `=` is the assignment operator,
+`Turtle()` is the Turtle constructor, and `alex` is a Turtle object.
+2. While loops, for loops, and recursion all let you repeat execution of the
+   same code multiple times.
+3. `data.head()` is a Pandas data frame.
+4. `arr = np.arange(9)`
+5. False.
+
 ## Practice quiz coding question
 Download [snow_report.py](https://lgw2.github.io/teaching/csci127-summer-2020/readings/snow_report.py). Add the missing code so that [this plot is
 produced](https://lgw2.github.io/teaching/csci127-summer-2020/readings/two_plots.png).
