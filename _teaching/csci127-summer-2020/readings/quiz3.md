@@ -1,6 +1,6 @@
 ---
 collection: teaching
-title: "Quiz 2"
+title: "Quiz 3"
 venue: "June 26"
 type: "Quiz"
 date: 2020-06-26
