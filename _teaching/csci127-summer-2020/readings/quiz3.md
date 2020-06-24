@@ -59,8 +59,8 @@ produced](https://lgw2.github.io/teaching/csci127-summer-2020/readings/two_plots
 
 Download the billionaires dataset
 from [this website](https://corgis-edu.github.io/corgis/csv/billionaires/).
-Download [quiz3.py](https://lgw2.github.io/teaching/csci127-summer-2020/readings/quiz3.png).
-Add the missing code so that [this plot is produced](https://lgw2.github.io/teaching/csci127-summer-2020/readings/quiz3.png). Hint: you can add a legend to your plot by including labels and calling `legend()`.
+Download [quiz3.py](https://lgw2.github.io/teaching/csci127-summer-2020/readings/quiz3.py).
+Add the missing code so that [this plot is produced](https://lgw2.github.io/teaching/csci127-summer-2020/readings/quiz3_plot.png). Hint: you can add a legend to your plot by including labels and calling `legend()`.
 ```
 plt.plot(some_data, label="Label for this data")
 plt.legend()
