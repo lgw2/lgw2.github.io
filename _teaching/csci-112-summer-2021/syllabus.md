@@ -14,7 +14,8 @@ syllabus, which included C++ as well.*
 
 ## Course schedule
 The course runs May 10 through June 4.
-The course will meet synchronously 11am-1:35pm [Mountain Time](https://time.is/MT).
+The course will meet synchronously 11am-1:35pm [Mountain Time](https://time.is/MT)
+Mondays through Thursdays.
 *I am stil deciding whether synchronous course meetings will be required;
 please email me if you have preferences.*
 
