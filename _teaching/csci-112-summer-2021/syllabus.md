@@ -9,8 +9,7 @@ location: "Bozeman, Montana"
 
 Catalog description: C Programming knowledge. Introduces imperative programming
 and the C standard library. Course covers pointers, memory management and
-structure. *Note: depending on student preparation, we may cover some C++
-topics as well.*
+structure.
 
 ## Course schedule
 The course runs May 10 through June 4.
