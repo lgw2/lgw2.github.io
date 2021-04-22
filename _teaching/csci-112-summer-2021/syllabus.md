@@ -27,8 +27,9 @@ The textbook is optional for this course, but is a great resource.
 
 I [rented it from
 Amazon](https://www.amazon.com/Problem-Solving-Program-Design-C-ebook-dp-B00XIH482S/dp/B00XIH482S/ref=mt_other?_encoding=UTF8&me=&qid=)
-for $35 to use on the Kindle App on my iPad.
-
+for $35 to use on the Kindle App on my iPad. Other options for renting or
+buying the textbook exist. If anyone finds any particularly good ones, let me
+know and I'll put them up here.
 
 ### Office hours
 
@@ -73,6 +74,14 @@ After any curving, your grade will be determined by your total score as follows:
 93+: A; 90+: A-; 87+: B+; 83+: B; 80+: B-; 77+: C+; 73+: C; 70+: C-; 67+: D+; 63: D; 60: D-.
 
 ## Collaboration policy
+On all assignments, you may:
+* Share ideas with others.
+* Help other debug their code (or receive help debugging your code from someone
+	else).
+You may not:
+* Share your code with other people.
+* Submit code that you did not write.
+* Modify someone else's solution and claim it as your own.
 
 ## Diversity statement
 Montana State University's campuses are committed to
