@@ -133,6 +133,11 @@ enthusiastic about course material and my role in helping you learn.
 |Date|Lecture Summary|Lecture Videos|Classwork Due|Lab Due|Program Due|Quiz|
 |:---|:---|:---|:---|:---|:---|:---|
 |Monday 5/10|[Getting Started: Linux, Vim, Git]()||||||
+|Tuesday 5/11|[]()||||||
+|Wednesday 5/12|[]()||||||
+|Thursday 5/13|[]()||||||
+|weekend!|
+
 
 ## Acknowledgments
 
