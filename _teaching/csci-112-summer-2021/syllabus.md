@@ -149,18 +149,18 @@ enthusiastic about course material and my role in helping you learn.
 
 |Date|Lecture Summary|Lecture Videos|Classwork Due|Lab Due|Program Due|Quiz|
 |:---|:---|:---|:---|:---|:---|:---|
-|Monday 5/10|[Getting Started: Linux, Vim, Git]()||[Classwork 0]()||||
-|Tuesday 5/11|[C Basics pt. 1]()||[Classwork 1]()||||
-|Wednesday 5/12|[C Basics pt. 2]()||[Classwork 2]()|[Lab 1]()|||
-|Thursday 5/13|[]()||[Classwork 3]()||||
+|Monday 5/10|[Getting Started: Linux, Vim, Git]()||[Classwork 1]()||||
+|Tuesday 5/11|[C Basics pt. 1]()||[Classwork 2]()||||
+|Wednesday 5/12|[C Basics pt. 2]()||[Classwork 3]()|[Lab 1]()|||
+|Thursday 5/13|[]()||[Classwork 4]()||||
 |Friday 5/14||||||[Quiz 1]()|
 |Saturday 5/15|||||||
 |Saturday 5/16|||||[Lab 2]()||
-|Monday 5/17|[]()||||||
-|Tuesday 5/18|[]()||||||
-|Wednesday 5/19|[]()||||||
-|Thursday 5/20|[]()||||||
-|Friday 5/21|[]()||||||
+|Monday 5/17|[]()||[Classwork 5]()||||
+|Tuesday 5/18|[]()||[Classwork 6]()|[Lab 3]()|||
+|Wednesday 5/19|[]()||[Classwork 7]()||||
+|Thursday 5/20|[]()||[Classwork 8]()||||
+|Friday 5/21|[]()||||[Program 1]()||
 |weekend!|
 |Monday 5/24|[]()||||||
 |Tuesday 5/25|[]()||||||
