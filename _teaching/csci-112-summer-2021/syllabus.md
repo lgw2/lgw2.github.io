@@ -7,6 +7,8 @@ date: 2021-04-22
 location: "Bozeman, Montana"
 ---
 
+_Note, April 2021: this course webpage is under construction and may change._
+
 Catalog description: C Programming knowledge. Introduces imperative programming
 and the C standard library. Course covers pointers, memory management and
 structure. *Note: I am currently planning to follow the Spring 2021 CSCI 112
@@ -82,6 +84,7 @@ You may not:
 * Share your code with other people.
 * Submit code that you did not write.
 * Modify someone else's solution and claim it as your own.
+
 
 ## Diversity statement
 Montana State University's campuses are committed to
