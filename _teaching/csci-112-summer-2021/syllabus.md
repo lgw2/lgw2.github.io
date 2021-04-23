@@ -129,10 +129,10 @@ all of my students and being
 enthusiastic about course material and my role in helping you learn.
 
 ## Course schedule
+
 |Date|Lecture Summary|Lecture Videos|Classwork Due|Lab Due|Program Due|Quiz|
 |:---|:---|:---|:---|:---|:---|:---|
 |Monday 5/10|[Getting Started: Linux, Vim, Git]()||||||
-|weekend!|
 
 ## Acknowledgments
 
