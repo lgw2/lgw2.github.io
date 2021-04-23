@@ -136,7 +136,25 @@ enthusiastic about course material and my role in helping you learn.
 |Tuesday 5/11|[]()||||||
 |Wednesday 5/12|[]()||||||
 |Thursday 5/13|[]()||||||
+|Friday 5/14|[]()||||||
 |weekend!|
+|Monday 5/17|[]()||||||
+|Tuesday 5/18|[]()||||||
+|Wednesday 5/19|[]()||||||
+|Thursday 5/20|[]()||||||
+|Friday 5/21|[]()||||||
+|weekend!|
+|Monday 5/24|[]()||||||
+|Tuesday 5/25|[]()||||||
+|Wednesday 5/26|[]()||||||
+|Thursday 5/27|[]()||||||
+|Friday 5/28|[]()||||||
+|weekend!|
+|Memorial Day|
+|Tuesday 6/1|[]()||||||
+|Wednesday 6/2|[]()||||||
+|Thursday 6/3|[]()||||||
+|Friday 6/4|[]()||||||
 
 
 ## Acknowledgments
