@@ -155,7 +155,7 @@ enthusiastic about course material and my role in helping you learn.
 |Thursday 5/13|[]()||[Classwork 4]()||||
 |Friday 5/14||||||[Quiz 1]()|
 |Saturday 5/15|||||||
-|Saturday 5/16|||||[Lab 2]()||
+|Saturday 5/16||||[Lab 2]()|||
 |Monday 5/17|[]()||[Classwork 5]()||||
 |Tuesday 5/18|[]()||[Classwork 6]()|[Lab 3]()|||
 |Wednesday 5/19|[]()||[Classwork 7]()||||
