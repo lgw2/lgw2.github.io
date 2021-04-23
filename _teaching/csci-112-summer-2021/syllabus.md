@@ -15,15 +15,18 @@ structure. *Note: I am currently planning to follow the Spring 2021 CSCI 112
 syllabus, which included C++ as well.*
 
 ## Course schedule
-The course runs May 10 through June 4.
+The course runs Mondays through Thursdays May 10 through June 4.
 The course will meet synchronously 11am-1:35pm [Mountain Time](https://time.is/MT)
 Mondays through Thursdays.
+We will not have class on Memorial Day, Monday, May 31st. Instead, we will have
+class the Friday of that week (June 4th).
 *I am stil deciding whether synchronous course meetings will be required;
 please email me if you have preferences.*
 
 ## Course resources
 ### Textbook
-The textbook is optional for this course, but is a great resource.
+The textbook is optional for this course, but is a resource for those who like
+textbooks.
 
 *Problem Solving and Program Design in C*, by Jeri R. Hanley& Elliot B. Koffman, Eighth Edition.
 
@@ -34,6 +37,10 @@ buying the textbook exist. If anyone finds any particularly good ones, let me
 know and I'll put them up here.
 
 ### Office hours
+Because there will be plenty of time for one-on-one help during the entirety of our
+class period (11am-1:35pm), I am not scheduling additional office hours.
+However, you are welcome to send me a message anytime on Slack, and I will get
+back to you as soon as I can.
 
 ### SmartyCats
 
@@ -56,7 +63,9 @@ time using it to teach C. If you encounter anything fishy, let me know.*
 
 ### Checking your work
 
-### Writing C code
+### Writing C code on the server
+For this course, you will develop all of your programs on our MSU CSCI 112
+Linux server.
 
 ## Course outcomes
 
@@ -71,6 +80,14 @@ By the end of the course, students should be able to:
 * Explain the difference between procedural programming and object oriented programming
 
 ## Grading
+
+You will be graded on the following:
+* 15 classwork assignments (small programming problems; full credit for good
+	attempts): 15%
+* 6 labs: 36%
+* 3 programs: 30%
+* 3 quizes: 20%
+(Yes, it adds up to 101%. You get a point just for existing.)
 
 After any curving, your grade will be determined by your total score as follows:
 93+: A; 90+: A-; 87+: B+; 83+: B; 80+: B-; 77+: C+; 73+: C; 70+: C-; 67+: D+; 63: D; 60: D-.
@@ -132,12 +149,13 @@ enthusiastic about course material and my role in helping you learn.
 
 |Date|Lecture Summary|Lecture Videos|Classwork Due|Lab Due|Program Due|Quiz|
 |:---|:---|:---|:---|:---|:---|:---|
-|Monday 5/10|[Getting Started: Linux, Vim, Git]()||||||
-|Tuesday 5/11|[]()||||||
-|Wednesday 5/12|[]()||||||
-|Thursday 5/13|[]()||||||
-|Friday 5/14|[]()||||||
-|weekend!|
+|Monday 5/10|[Getting Started: Linux, Vim, Git]()||[Classwork 0]()||||
+|Tuesday 5/11|[C Basics pt. 1]()||[Classwork 1]()||||
+|Wednesday 5/12|[C Basics pt. 2]()||[Classwork 2]()|[Lab 1]()|||
+|Thursday 5/13|[]()||[Classwork 3]()||||
+|Friday 5/14||||||[Quiz 1]()|
+|Saturday 5/15|||||||
+|Saturday 5/16|||||[Lab 2]()||
 |Monday 5/17|[]()||||||
 |Tuesday 5/18|[]()||||||
 |Wednesday 5/19|[]()||||||
