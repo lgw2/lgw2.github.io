@@ -30,7 +30,7 @@ date: 2021-05-10
 ## Assignment
 
 ### Part 1: Introduce yourself and explore the syllabus
-* Post in the #random channel on Slack introducing yourself to the class. At
+* Post in the `#random` channel on Slack introducing yourself to the class. At
 minimum, tell us your preferred name, your major (or intended major), and one
 thing you are looking forward to during the course (can be course-related or
 just something you've got going on during May or June).
@@ -51,6 +51,25 @@ just something you've got going on during May or June).
 	in your `/home/netid/` directory.
 * Inside the `csci112-2021-firstname-lastname` directory, create
 	following directories: `classwork`, `labs`, and `programs`.
+* Inside the `classwork` directory, create another directory called
+	`classwork1`. Inside that directory, create a file called `cw.c`.
+	In that file, put the following:
+
+```
+#include <stdio.h>
+/* <put your name>
+* Classwork 1, CSCI 112
+* <current date>
+*/
+
+int main(void) {
+	// prints “Hello World”
+	printf(“Hello World\n”);
+	// exit with no errors
+	return(0);
+}
+```
+* Compile your program into an executable called `cw` and run it using `./cw`.
 
 ## Grading - 10 points
 * 1 point - there is a directory called `csci112-2021-firstname-lastname` in
