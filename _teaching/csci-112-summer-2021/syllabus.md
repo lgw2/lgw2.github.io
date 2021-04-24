@@ -87,6 +87,7 @@ You will be graded on the following:
 * 6 labs: 36%
 * 3 programs: 30%
 * 3 quizes: 20%
+
 (Yes, it adds up to 101%. You get a point just for existing.)
 
 After any curving, your grade will be determined by your total score as follows:
