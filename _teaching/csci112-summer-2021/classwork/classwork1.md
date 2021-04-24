@@ -1,9 +1,6 @@
 ---
 collection: teaching
 title: "Classwork 1: Hello, World!"
-venue: "May 10"
-type: "Classwork"
-date: 2021-05-10
 ---
 
 ## Logistics
