@@ -149,7 +149,7 @@ enthusiastic about course material and my role in helping you learn.
 
 |Date|Lecture Summary|Lecture Videos|Classwork Due|Lab Due|Program Due|Quiz|
 |:---|:---|:---|:---|:---|:---|:---|
-|Monday 5/10|[Getting Started: Linux, Vim, Git]()||[Classwork 1]()||||
+|Monday 5/10|[Getting Started: Linux, Vim, Git]()||[Classwork 1](https://lgw2.github.io/teaching/csci112-summer-2021/classwork/classwork1/)||||
 |Tuesday 5/11|[C Basics pt. 1]()||[Classwork 2]()||||
 |Wednesday 5/12|[C Basics pt. 2]()||[Classwork 3]()|[Lab 1]()|||
 |Thursday 5/13|[]()||[Classwork 4]()||||
