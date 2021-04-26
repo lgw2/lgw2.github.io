@@ -11,22 +11,28 @@ _Note, April 2021: this course webpage is under construction and may change._
 
 Catalog description: C Programming knowledge. Introduces imperative programming
 and the C standard library. Course covers pointers, memory management and
-structure. *Note: I am currently planning to follow the Spring 2021 CSCI 112
-syllabus, which included C++ as well.*
+structures. *Note: we may introduce some C++ topics as well.*
 
-## Course schedule
-The course runs Mondays through Thursdays May 10 through June 4.
-The course will meet synchronously 11am-1:35pm [Mountain Time](https://time.is/MT)
-Mondays through Thursdays.
-We will not have class on Memorial Day, Monday, May 31st. Instead, we will have
-class the Friday of that week (June 4th).
-*I am stil deciding whether synchronous course meetings will be required;
-please email me if you have preferences.*
+## Course format
+The course runs May 10 through June 4, with synchronous meetings
+We will meet synchronously from 11am-1:35pm [Mountain Time](https://time.is/MT)
+Mondays through Thursdays (except during the week of May 31, when we will meet
+on Friday instead of Monday.) Every class day, there will be a lecture summary
+posted with a list of topics for the day, links to lecture videos,
+and links to extra resources to help
+you practice. There will also be a classwork assignment posted that you will
+need to complete before 1:35pm. From 11am-1:35pm, the course will meet on Zoom, and we
+will all work through the classwork assignment together. Because we will have students from different
+backgrounds, if you are able to complete the classwork on your own, you are not
+required to come to the course meeting. However, you are welcome to come to
+help your fellow students and learn from the group. There are a lot of
+different ways to use Linux, `vim`, `git`, and to program in C, and so you might
+learn a better way by seeing how someone else does it.
 
 ## Course resources
 ### Textbook
-The textbook is optional for this course, but is a resource for those who like
-textbooks.
+The textbook is optional for this course, but is a good resource for anyone who
+is interested.
 
 *Problem Solving and Program Design in C*, by Jeri R. Hanley& Elliot B. Koffman, Eighth Edition.
 
@@ -40,9 +46,12 @@ know and I'll put them up here.
 Because there will be plenty of time for one-on-one help during the entirety of our
 class period (11am-1:35pm), I am not scheduling additional office hours.
 However, you are welcome to send me a message anytime on Slack, and I will get
-back to you as soon as I can.
+back to you as soon as I am available to answer your question or set up an
+additional meeting time.
 
 ### SmartyCats
+In the past, there have been SmartyCats tutors available for this course. I
+will update this if we are assigned one.
 
 ### Slack workspace
 We'll be using [Slack](https://slack.com/) for *all* course communication
@@ -70,20 +79,24 @@ Linux server.
 ## Course outcomes
 
 By the end of the course, students should be able to:
+* Navigate a Linux operating system using the command line.
+* Use `vim` to edit files.
+* Use `git` to version control their work.
 * Write code using C syntax.
-* Build computer programs using the C language
+* Build computer programs using the C language.
 * Take advantage of major capabilities of the C language, including pointers, dynamic memory allocation and structs.
 * Apply the power of pointers, structs and strings to C programs.
+* Apply the programming knowledge you learned to solve basic real-world problems.
+
+*If we have time to cover C++, students will also be able to:*
 * Write object oriented code in C++.
 * Build object oriented computer programs using C++.
-* Apply the programming knowledge you learned to solve basic real-world problems.
-* Explain the difference between procedural programming and object oriented programming
+* Explain the difference between procedural programming and object oriented programming.
 
 ## Grading
 
 You will be graded on the following:
-* 15 classwork assignments (small programming problems; full credit for good
-	attempts): 15%
+* 15 classwork assignments: 15%
 * 6 labs: 36%
 * 3 programs: 30%
 * 3 quizes: 20%

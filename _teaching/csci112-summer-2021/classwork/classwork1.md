@@ -16,9 +16,9 @@ title: "Classwork 1: Hello, World!"
 	and your classmates.
 * Understand the course format and the resources that are available for you to
 	succeed.
-* Be able to use git to version control your work.
 * Be able to `ssh` into the course server and use basic Linux commands to
 	navigate and perform basic tasks.
+* Be able to use `git` to version control your work.
 * Be able to read and edit files using vim.
 * Understand the general course structure and the resources available to help
 	you succeed.
@@ -29,8 +29,8 @@ title: "Classwork 1: Hello, World!"
 ### Part 1: Introduce yourself and explore the syllabus
 * Post in the `#random` channel on Slack introducing yourself to the class. At
 minimum, tell us your preferred name, your major (or intended major), and one
-thing you are looking forward to during the course (can be course-related or
-just something you've got going on during May or June).
+thing you are looking forward to during the course This can be course-related or
+just something fun you've got going on during May or June.
 * In a direct message to Lucy on Slack, send answers to the following
 	questions:
 	1. What time is classwork due?
@@ -44,6 +44,7 @@ just something you've got going on during May or June).
 	   their code to you while you talk them through debugging it?
 
 ### Part 2:
+* TODO: vimrc.
 * Create a git repository named `csci112-2021-firstname-lastname` and clone it
 	in your `/home/netid/` directory.
 * Inside the `csci112-2021-firstname-lastname` directory, create
@@ -60,8 +61,8 @@ just something you've got going on during May or June).
 */
 
 int main(void) {
-	// prints “Hello World”
-	printf(“Hello World\n”);
+	// prints "Hello, World"
+	printf("Hello, World\n");
 	// exit with no errors
 	return(0);
 }
