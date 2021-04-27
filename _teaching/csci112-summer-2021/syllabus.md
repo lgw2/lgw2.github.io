@@ -96,12 +96,10 @@ By the end of the course, students should be able to:
 ## Grading
 
 You will be graded on the following:
-* 15 classwork assignments: 15%
+* 14 classwork assignments: 14%
 * 6 labs: 36%
 * 3 programs: 30%
 * 3 quizes: 20%
-
-(Yes, it adds up to 101%. You get a point just for existing.)
 
 After any curving, your grade will be determined by your total score as follows:
 93+: A; 90+: A-; 87+: B+; 83+: B; 80+: B-; 77+: C+; 73+: C; 70+: C-; 67+: D+; 63: D; 60: D-.
@@ -165,7 +163,7 @@ enthusiastic about course material and my role in helping you learn.
 |:---|:---|:---|:---|:---|:---|:---|
 |Monday 5/10|[Getting Started: Linux, Vim, Git]()||[Classwork 1](https://lgw2.github.io/teaching/csci112-summer-2021/classwork/classwork1/)||||
 |Tuesday 5/11|[C Basics pt. 1]()||[Classwork 2](https://lgw2.github.io/teaching/csci112-summer-2021/classwork/classwork2/)||||
-|Wednesday 5/12|[C Basics pt. 2]()||[Classwork 3]()|[Lab 1]()|||
+|Wednesday 5/12|[C Basics pt. 2]()||[Classwork 3](https://lgw2.github.io/teaching/csci112-summer-2021/classwork/classwork3/)|[Lab 1](https://lgw2.github.io/teaching/csci112-summer-2021/labs/lab3/)|||
 |Thursday 5/13|[]()||[Classwork 4]()||||
 |Friday 5/14||||||[Quiz 1]()|
 |Saturday 5/15|||||||

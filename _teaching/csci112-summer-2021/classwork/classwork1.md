@@ -57,7 +57,7 @@ This is my first classwork assignment!
 ```
 * Add lgw2 as a collaborator (so that I can pull your work to grade it).
 * Commit `first_file.txt` and add a tag of `classwork1`.
-* Push your file to GitHub.
+* Push your changes to GitHub.
 
 ## Grading - 10 points
 * 2 points - there is a post in the #random channel on Slack including the
