@@ -1,6 +1,6 @@
 ---
 collection: teaching
-title: "Classwork 1: Hello, World!"
+title: "Classwork 1: Getting started with Linux, vim, and git"
 ---
 
 ## Logistics
@@ -22,7 +22,6 @@ title: "Classwork 1: Hello, World!"
 * Be able to read and edit files using vim.
 * Understand the general course structure and the resources available to help
 	you succeed.
-* Write, compile, and run a basic C program.
 
 ## Assignment
 
@@ -43,39 +42,36 @@ just something fun you've got going on during May or June.
 	   To get on a video call with them, have them share their screen, and show
 	   their code to you while you talk them through debugging it?
 
-### Part 2:
+### Part 2: Create a file, edit it with vim, and push to GitHub
 * TODO: vimrc.
 * Create a git repository named `csci112-2021-firstname-lastname` and clone it
 	in your `/home/netid/` directory.
 * Inside the `csci112-2021-firstname-lastname` directory, create
 	following directories: `classwork`, `labs`, and `programs`.
 * Inside the `classwork` directory, create another directory called
-	`classwork1`. Inside that directory, create a file called `cw.c`.
-	In that file, put the following:
+	`classwork1`. Inside that directory, create a file called `first_file.txt`.
+	In that file, put whatever you want. For example:
 
 ```
-#include <stdio.h>
-/* <put your name>
-* Classwork 1, CSCI 112
-* <current date>
-*/
-
-int main(void) {
-	// prints "Hello, World"
-	printf("Hello, World\n");
-	// exit with no errors
-	return(0);
-}
+This is my first classwork assignment!
 ```
-* Compile your program into an executable called `cw` and run it using `./cw`.
+* Add lgw2 as a collaborator (so that I can pull your work to grade it).
+* Commit `first_file.txt` and add a tag of `classwork1`.
+* Push your file to GitHub.
 
 ## Grading - 10 points
+* 2 points - there is a post in the #random channel on Slack including the
+	information described above.
+* 3 points - there is a direct message to Lucy in Slack answering all five
+	questions listed above.
 * 1 point - there is a directory called `csci112-2021-firstname-lastname` in
 	your `/home/netid/` directory on the course server, containing the three
 	directories listed above.
-* 5 points -
-* 2 points - there is a post in the #random channel on Slack including the
-	information described above.
+* 1 point - you have a GitHub repository called
+	`csci112-2021-firstname-lastname` and lgw2 (Lucy) is added as a
+	collaborator
+* 4 points - there is a file called `first_file.txt` in your
+	`classwork/classwork1` directory.
 
 ## Grading turnaround
 This classwork will be graded with scores in Brightspace by 5pm the day it is

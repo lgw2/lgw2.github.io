@@ -14,7 +14,7 @@ and the C standard library. Course covers pointers, memory management and
 structures. *Note: we may introduce some C++ topics as well.*
 
 ## Course format
-The course runs May 10 through June 4, with synchronous meetings
+The course runs May 10 through June 4.
 We will meet synchronously from 11am-1:35pm [Mountain Time](https://time.is/MT)
 Mondays through Thursdays (except during the week of May 31, when we will meet
 on Friday instead of Monday.) Every class day, there will be a lecture summary
@@ -26,7 +26,7 @@ will all work through the classwork assignment together. Because we will have st
 backgrounds, if you are able to complete the classwork on your own, you are not
 required to come to the course meeting. However, you are welcome to come to
 help your fellow students and learn from the group. There are a lot of
-different ways to use Linux, `vim`, `git`, and to program in C, and so you might
+different ways to use Linux, `vim`, `git`, and to program in C, so you might
 learn a better way by seeing how someone else does it.
 
 ## Course resources
@@ -161,10 +161,10 @@ enthusiastic about course material and my role in helping you learn.
 
 ## Course schedule
 
-|Date|Lecture Summary|Lecture Videos|Classwork Due|Lab Due|Program Due|Quiz|
+|Date|Lecture Summary|Classwork Due|Lab Due|Program Due|Quiz|
 |:---|:---|:---|:---|:---|:---|:---|
 |Monday 5/10|[Getting Started: Linux, Vim, Git]()||[Classwork 1](https://lgw2.github.io/teaching/csci112-summer-2021/classwork/classwork1/)||||
-|Tuesday 5/11|[C Basics pt. 1]()||[Classwork 2]()||||
+|Tuesday 5/11|[C Basics pt. 1]()||[Classwork 2](https://lgw2.github.io/teaching/csci112-summer-2021/classwork/classwork2/)||||
 |Wednesday 5/12|[C Basics pt. 2]()||[Classwork 3]()|[Lab 1]()|||
 |Thursday 5/13|[]()||[Classwork 4]()||||
 |Friday 5/14||||||[Quiz 1]()|
