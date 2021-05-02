@@ -172,7 +172,7 @@ enthusiastic about course material and my role in helping you learn.
 |Tuesday 5/18|[]()|[Classwork 6]()|[Lab 3]()|||
 |Wednesday 5/19|[]()|[Classwork 7]()||||
 |Thursday 5/20|[]()|[Classwork 8]()||||
-|Friday 5/21|[]()||||[Program 1]()||
+|Friday 5/21|[]()|||[Program 1]()||
 |weekend!|
 |Monday 5/24|[]()|||||
 |Tuesday 5/25|[]()|||||
