@@ -4,7 +4,10 @@ title: "Lecture 1: Getting started with Linux, vim, and git"
 ---
 
 Today, we are covering the course syllabus and the basic tools we need to
-complete the work for the course: Linux, vim, and git.
+complete the work for the course: Linux, vim, and git. These aren't hard, but
+they are not intuitive and it will take practice before you get comfortable.
+Take the time now to go through the tutorials that I point to and you'll set
+yourself up for success throughout the course.
 
 ### Course intro
 [video]()
@@ -12,13 +15,22 @@ complete the work for the course: Linux, vim, and git.
 ### Using the course server and basic Linux
 [video]()
 
-Additional links:
+Additional links and resources:
 * For Windows users, you can use Putty to access the server: [https://www.putty.org/](https://www.putty.org/)
 * A list of some of the basic Linux commands: [https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners](https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners)
 
-### Using vim
+### Using vim and creating your vimrc
 [video]()
 
-[Vim and your vimrc]()
+Additional links and resources:
+* Browser-based vim game to practice the vim keystrokes: [https://vim-adventures.com/](https://vim-adventures.com/) (if you
+	get stuck, feel free to use Google to see how you're supposed to get
+	through a section...)
+* A vimrc tutoril: [https://linuxhint.com/vimrc_tutorial/](https://linuxhint.com/vimrc_tutorial/)
 
-[Git and Github]()
+### Using git and GitHub
+[video]()
+
+
+Additional links and resources:
+*

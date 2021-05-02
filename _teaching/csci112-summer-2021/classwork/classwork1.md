@@ -34,7 +34,8 @@ just something fun you've got going on during May or June.
 	questions:
 	1. What time is classwork due?
 	2. What time are labs and programs due?
-	3. What is your github username?
+	3. What is your github username? (If you don't already have one, just do Part 2 of
+	   the assignment first, where you will create one.)
 	4. What part of the course makes up the most of your grade?
 	5. Someone asks you for help with a lab because they are getting an error they don't understand.
 	Is either of the following is okay?
@@ -43,24 +44,30 @@ just something fun you've got going on during May or June.
 	   their code to you while you talk them through debugging it?
 
 ### Part 2: Create a file, edit it with vim, and push to GitHub
-* TODO: vimrc.
-* Create a git repository named `csci112-2021-firstname-lastname` and clone it
+* Create a `.vimrc` file in your home directory and customize it however you
+	like. See the Lecture 1 videos for more details.
+* Create a git repository for the class and push a file to it, as shown in the
+	Lecture 1 video. You can follow the video to accomplish all of these steps.
+	If you are still having trouble, we will also go through them together
+	during class.
+1. If you do not have a GitHub account, create one.
+2. Create a git repository named `csci112-2021-firstname-lastname` and clone it
 	in your `/home/netid/` directory.
-* Inside the `csci112-2021-firstname-lastname` directory, create
+3. Inside the `csci112-2021-firstname-lastname` directory, create
 	following directories: `classwork`, `labs`, and `programs`.
-* Inside the `classwork` directory, create another directory called
+4. Inside the `classwork` directory, create another directory called
 	`classwork1`. Inside that directory, create a file called `first_file.txt`.
 	In that file, put whatever you want. For example:
 
 ```
 This is my first classwork assignment!
 ```
-* Add lgw2 as a collaborator (so that I can pull your work to grade it).
-* Commit `first_file.txt` and add a tag of `classwork1`.
-* Push your changes to GitHub.
+5. Add lgw2 as a collaborator (so that I can pull your work to grade it).
+6. Commit `first_file.txt` and add a tag of `classwork1`.
+7. Push your changes to GitHub.
 
 ## Grading - 10 points
-* 2 points - there is a post in the #random channel on Slack including the
+* 2 points - there is a post in the `#random` channel on Slack including the
 	information described above.
 * 3 points - there is a direct message to Lucy in Slack answering all five
 	questions listed above.
@@ -69,7 +76,7 @@ This is my first classwork assignment!
 	directories listed above.
 * 1 point - you have a GitHub repository called
 	`csci112-2021-firstname-lastname` and lgw2 (Lucy) is added as a
-	collaborator
+	collaborator.
 * 4 points - there is a file called `first_file.txt` in your
 	`classwork/classwork1` directory.
 
