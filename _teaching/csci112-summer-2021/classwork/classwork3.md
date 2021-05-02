@@ -43,7 +43,7 @@ Write your program in the `classwork` directory, inside another directory called
 * Develop your program in steps, checking that it compiles and runs after every
 	change.
 * Use comments to organize your program.
-* Format your output to print only one or two decimal places using `.mf`, where
+* Format your output to print only one or two decimal places using `%.mf` instead of `%f`, where
 	`m` is the number of decimal places.
 
 ## Grading - 10 points
