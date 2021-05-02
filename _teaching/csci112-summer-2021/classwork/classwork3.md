@@ -1,6 +1,6 @@
 ---
 collection: teaching
-title: "Classwork 3: Hello, World!"
+title: "Classwork 3"
 ---
 
 ## Logistics
@@ -20,6 +20,7 @@ title: "Classwork 3: Hello, World!"
 ## Assignment
 
 *This comes from problem 7, chapter 2 on page 104.*
+
 One barrel of oil provides 5.8 million BTU (British Thermal Units) of heat at maximum efficiency
 A barrel contains 42 gallons of oil.
 You are to determine how many BTU’s of heat are delivered to a house that is heated by an oil furnace.
