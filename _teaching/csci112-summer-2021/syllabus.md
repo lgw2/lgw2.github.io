@@ -165,7 +165,7 @@ enthusiastic about course material and my role in helping you learn.
 |Tuesday 5/11|[C Basics pt. 1](https://lgw2.github.io/teaching/csci112-summer-2021/lectures/lecture2/)||[Classwork 2](https://lgw2.github.io/teaching/csci112-summer-2021/classwork/classwork2/)||||
 |Wednesday 5/12|[C Basics pt. 2]()||[Classwork 3](https://lgw2.github.io/teaching/csci112-summer-2021/classwork/classwork3/)|[Lab 1](https://lgw2.github.io/teaching/csci112-summer-2021/labs/lab1/)|||
 |Thursday 5/13|[]()||[Classwork 4]()||||
-|Friday 5/14||||||[Quiz 1]()|
+|Friday 5/14|||||[Quiz 1]()|
 |Saturday 5/15|||||||
 |Saturday 5/16||||[Lab 2]()|||
 |Monday 5/17|[]()||[Classwork 5]()||||
