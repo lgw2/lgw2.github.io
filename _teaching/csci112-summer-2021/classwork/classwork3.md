@@ -19,28 +19,35 @@ title: "Classwork 3"
 
 ## Assignment
 
-*This comes from problem 7, chapter 2 on page 104.*
+*This comes from problem 1, chapter 2 on page 102.*
 
-One barrel of oil provides 5.8 million BTU (British Thermal Units) of heat at maximum efficiency
-A barrel contains 42 gallons of oil.
-You are to determine how many BTU’s of heat are delivered to a house that is heated by an oil furnace.
-This furnace is not perfect so it has some percentage of efficiency which will reduce the BTU’s to that percentage of the input.
-Input from the user: amount of oil burned and efficiency of the furnace (both input as integers)
-Output to screen: Amount of BTUs per million delivered to the house (printed as a doublewith 2 decimal places)
+Write a program that calculates mileage reimbursement for a salesperson at a
+rate of $.35 per mile. Your program should interact with the user in this
+manner:
+
+```
+MILEAGE REIMBURSEMENT CALCULATOR
+Enter beginning odometer reading=> 13505.2
+Enter ending odometer reading=> 13810.6
+You traveled 305.4 miles. At $0.35 per mile, your reimbursement is $106.89.
+```
 
 ### Requirements
 
 Write your program in the `classwork` directory, inside another directory called
-	`classwork3`, in  a file called `heat.c`.
-* Compile your program into an executable called `heat` and run it using
-	`./heat`.
-* Do not use globals.
+	`classwork3`, in  a file called `calculator.c`.
+* Compile your program into an executable called `calculator` and run it using
+	`./calculator`.
 
-### Hint
-When dividing, use a real number, not an integer.
+### Hints
+* Develop your program in steps, checking that it compiles and runs after every
+	change.
+* Use comments to organize your program.
+* Format your output to print only one or two decimal places using `.mf`, where
+	`m` is the number of decimal places.
 
 ## Grading - 10 points
-* 1 point - there is a file called `heat.c` in your
+* 1 point - there is a file called `calculator.c` in your
 	`classwork/classwork3` directory.
 * 9 points - it can be compiled and runs.
 
