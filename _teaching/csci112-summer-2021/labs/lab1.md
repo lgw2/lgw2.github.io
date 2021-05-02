@@ -12,7 +12,6 @@ title: "Lab 1"
 	order to earn partial credit.
 
 ## Learning outcomes
-* Write your first C program.
 * Practice using `if` statements.
 * Practice using functions to organize your code.
 * Get input from the user.
