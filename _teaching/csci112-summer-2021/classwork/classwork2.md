@@ -1,11 +1,11 @@
 ---
 collection: teaching
-title: "Classwork 3"
+title: "Classwork 2"
 ---
 
 ## Logistics
-* Due: Wednesday, May 12th no later than 1:35pm.
-* Submission instructions: push a commit with the tag `classwork3` to your git
+* Due: Tuesday, May 11th no later than 1:35pm.
+* Submission instructions: push a commit with the tag `classwork2` to your git
 	repository.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
 	this assignment. If the deadline is approaching, submit what you have in
@@ -35,7 +35,7 @@ You traveled 305.4 miles. At $0.35 per mile, your reimbursement is $106.89.
 ### Requirements
 
 Write your program in the `classwork` directory, inside another directory called
-	`classwork3`, in  a file called `calculator.c`.
+	`classwork2`, in  a file called `calculator.c`.
 * Compile your program into an executable called `calculator` and run it using
 	`./calculator`.
 
@@ -48,12 +48,12 @@ Write your program in the `classwork` directory, inside another directory called
 
 ## Grading - 10 points
 * 1 point - there is a file called `calculator.c` in your
-	`classwork/classwork3` directory.
+	`classwork/classwork2` directory.
 * 9 points - it can be compiled and runs.
 
 Note: you will not earn any points if your work is not committed and pushed to
-Github with the tag `classwork3`.
+Github with the tag `classwork2`.
 
 ## Grading turnaround
 This classwork will be graded with scores in Brightspace by 5pm the day it is
-due (May 12th).
+due (May 11th).
