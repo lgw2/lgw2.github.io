@@ -21,7 +21,8 @@ title: "Lab 1"
 
 *This comes from problem 1, chapter 4 on page 232-233.*
 
-A store provides discounts for the military based on the amount.
+A store provides discounts for the military based on the dollar amount of the
+purchase..
 In this program, you will prompt the user for the dollar amount purchased and whether they are in the military or not.
 It will then determine the discount, sales tax cost and total.
 It will print out this information in a neat way.
@@ -29,7 +30,8 @@ It will print out this information in a neat way.
 If a person is in the military, they get a 15% discount if they spend $150 or more.
 The discount for military is 10% otherwise.
 If they are not in the military, they get no discount. Everyone pays a 5% sales
-tax on purchases of any amount.
+tax on purchases of any amount, but the 5% sale tax is applied after any
+discount.
 
 ### Requirements
 * Write your program in a file called `lab1.c` in your
@@ -37,7 +39,9 @@ tax on purchases of any amount.
 * Do not use globals.
 * Accept only `n`, `N`, `y`, and `Y` for input as to whether the person is in
 	the military or not. For any other input, print `Error: bad input` and end
-	the program.
+	the program. (Note: actually, you can accept any inputs beginning with
+	those four characters; for example, `no` would also work. If you can
+	explain why this is, you can get extra credit. See the Grading section.)
 * You may assume your user will always enter an integer when prompted for the
 	dollar amount of their purchase.
 * Use a separate function to compute the discount.
@@ -46,10 +50,41 @@ tax on purchases of any amount.
 
 ### Example output
 ```
-TODO
+[p19t655@csci112 lab1]$ ./lab1
+Cost of purchase?		$217
+In military (y or n)?		y
+Military discount (15%):	$32.55
+Discounted total:		$184.45
+Sales tax (5%):			$9.22
+Total:				$193.67
+[p19t655@csci112 lab1]$ ./lab1
+Cost of purchase?		$80
+In military (y or n)?		Y
+Military discount (10%):	$8.00
+Discounted total:		$72.00
+Sales tax (5%):			$3.60
+Total:				$75.60
+[p19t655@csci112 lab1]$ ./lab1
+Cost of purchase?		$115
+In military (y or n)?		n
+Sales tax (5%):			$5.75
+Total:				$120.75
+[p19t655@csci112 lab1]$ ./lab1
+Cost of purchase?		$20
+In military (y or n)?		x
+Error: bad input
+[p19t655@csci112 lab1]$ ./lab1
+Cost of purchase?		$20
+In military (y or n)?		No
+Sales tax (5%):			$1.00
+Total:				$21.00
 ```
 
 ### Hints
+* If you are having trouble reading in a `char`, you may need to add a space so
+	that `scanf` doesn't consume whitepsace from a previous `printf`. See [this
+	stackoverlow
+	post](https://stackoverflow.com/questions/13542055/how-to-do-scanf-for-single-char-in-c/13543113).
 * Use `\t` to add tabs to your output.
 * To print a `%`, use the format `%%`.
 
@@ -62,6 +97,9 @@ TODO
 * 5 points – reads in the input to exactly match the sample
 * 10 points – allows `y`, `Y`, `n`, `N` as input for military question
 * 10 points – prints error message if any other input for military question, exactly matching example
+* BONUS: 5 points - in a comment in your program, explain why your program can
+	accept longer strings of characters as long as they begin with `y`, `Y`,
+	`n`, or `N`.
 
 ## Grading turnaround
 This classwork will be graded with scores in Brightspace by 5pm on May 13th.
