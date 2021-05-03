@@ -38,7 +38,7 @@ learn a better way by seeing how someone else does it.
 The textbook is optional for this course, but is a good resource for anyone who
 is interested.
 
-*Problem Solving and Program Design in C*, by Jeri R. Hanley& Elliot B. Koffman, Eighth Edition.
+*Problem Solving and Program Design in C*, by Jeri R. Hanley & Elliot B. Koffman, Eighth Edition.
 
 I [rented it from
 Amazon](https://www.amazon.com/Problem-Solving-Program-Design-C-ebook-dp-B00XIH482S/dp/B00XIH482S/ref=mt_other?_encoding=UTF8&me=&qid=)
