@@ -9,5 +9,8 @@ title: "Lecture 4: Loops"
 ### `for` loops
 [video]()
 
+### Lab 2 intro
+[video]()
+
 ### Quiz review
 [video]()
