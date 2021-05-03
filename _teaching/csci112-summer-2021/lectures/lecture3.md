@@ -18,7 +18,7 @@ Optional reading: chapter 4.3
 ### `switch` statements
 [video]()
 
-Optional reading: chapter 4.3
+Optional reading: chapter 4.8
 
 ### Lab 1 intro
 [video]()
