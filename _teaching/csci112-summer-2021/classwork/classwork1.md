@@ -65,7 +65,6 @@ git clone https://github.com/test-msu-student/csci112-2021-lucy-williams.git
 4. Inside the `classwork` directory, create another directory called
 	`classwork1`. Inside that directory, create a file called `first_file.txt`.
 	In that file, put whatever you want. For example:
-
 ```
 This is my first classwork assignment!
 ```
