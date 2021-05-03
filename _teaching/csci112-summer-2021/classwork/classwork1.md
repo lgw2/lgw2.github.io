@@ -52,7 +52,14 @@ just something fun you've got going on during May or June.
 	during class.
 1. If you do not have a GitHub account, create one.
 2. Create a **private** git repository named `csci112-2021-firstname-lastname` and clone it
-	in your `/home/netid/` directory.
+	in your `/home/netid/` directory using
+```
+git clone https://github.com/test-msu-student/csci112-2021-lucy-williams.git
+```
+	*Note:
+	if you prefer, you can use a SSH key rather than HTTPS to communicate with
+	GitHub. It's a litle more complicated to set up but I'm happy to help if
+	you are interested.*
 3. Inside the `csci112-2021-firstname-lastname` directory, create
 	following directories: `classwork`, `labs`, and `programs`.
 4. Inside the `classwork` directory, create another directory called
@@ -64,7 +71,22 @@ This is my first classwork assignment!
 ```
 5. Add lgw2 as a collaborator (so that I can pull your work to grade it).
 6. Commit `first_file.txt` and add a tag of `classwork1`.
-7. Push your changes to GitHub.
+7. To save your credentials so that you don't need to reenter them every time
+   you push, you can run
+```
+git config credential.helper store
+```
+*Note: this is not a very secure way to store your credentials, because
+this command will cause them to be stored in plaintext in a file called
+`.git-credentials` in your home directory, so if someone gained access to your
+computer, they could see your GitHub login information. Other students cannot
+see any of the files in your home directory, but I can -- though I won't look
+at your stored password. If you would like a more secure way to store your
+credentials so that you don't need to reenter them every time, go back and
+clone using SSH instead.*
+8. Push your changes to GitHub. (The first time you do this, you will need to
+   enter your credentials, but if you store them as above you will not need to
+   after this)
 
 ## Grading - 10 points
 * 2 points - there is a post in the `#random` channel on Slack including the
