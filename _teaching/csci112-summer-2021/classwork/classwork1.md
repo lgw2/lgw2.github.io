@@ -95,10 +95,11 @@ clone using SSH instead.*
 * 1 point - there is a directory called `csci112-2021-firstname-lastname` in
 	your `/home/netid/` directory on the course server, containing the three
 	directories listed above.
+* 1 point - there is a `.vimrc` file in your home directory.
 * 1 point - you have a GitHub repository called
 	`csci112-2021-firstname-lastname` and lgw2 (Lucy) is added as a
 	collaborator.
-* 4 points - there is a file called `first_file.txt` in your
+* 3 points - there is a file called `first_file.txt` in your
 	`classwork/classwork1` directory.
 
 ## Grading turnaround
