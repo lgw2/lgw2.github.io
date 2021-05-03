@@ -15,15 +15,19 @@ structures. *Note: we may introduce some C++ topics as well.*
 
 ## Course format
 The course runs May 10 through June 4.
-We will meet synchronously from 11am-1:35pm [Mountain Time](https://time.is/MT)
-Mondays through Thursdays (except during the week of May 31, when we will meet
-on Friday instead of Monday.) Every class day, there will be a lecture summary
+Every class day, there will be a lecture summary
 posted with a list of topics for the day, links to lecture videos,
 and links to extra resources to help
-you practice. There will also be a classwork assignment posted that you will
-need to complete before 1:35pm. From 11am-1:35pm, the course will meet on Zoom, and we
-will all work through the classwork assignment together. Because we will have students from different
-backgrounds, if you are able to complete the classwork on your own, you are not
+you practice or key ideas that you should make sure you understand.
+There will also be a classwork assignment posted that you will
+need to complete before 1:35pm.
+We will meet synchronously from 11am-1:35pm [Mountain Time](https://time.is/MT)
+Mondays through Thursdays (except during the week of May 31, when we will meet
+on Friday instead of Monday) to work through the classwork together, review any
+topics that anyone is struggling with, or talk about labs and programs.
+Because we will have students from different
+backgrounds, if you are able to complete the classwork on your own and do not
+have any questions, you are not
 required to come to the course meeting. However, you are welcome to come to
 help your fellow students and learn from the group. There are a lot of
 different ways to use Linux, `vim`, `git`, and to program in C, so you might
@@ -44,10 +48,12 @@ know and I'll put them up here.
 
 ### Office hours
 Because there will be plenty of time for one-on-one help during the entirety of our
-class period (11am-1:35pm), I am not scheduling additional office hours.
-However, you are welcome to send me a message anytime on Slack, and I will get
+class period (11am-1:35pm), I am not scheduling regular additional office hours.
+However, if you would like to meet with me outside of class time to ask a
+question or work through a problem, you are welcome to send me a message anytime on Slack, and I will get
 back to you as soon as I am available to answer your question or set up an
-additional meeting time.
+additional meeting time. This course moves quickly and I encourage you to get
+help as soon as you need it!
 
 ### SmartyCats
 In the past, there have been SmartyCats tutors available for this course. I
@@ -71,10 +77,14 @@ You can paste your C code into the tool [here](http://pythontutor.com/c.html) an
 time using it to teach C. If you encounter anything fishy, let me know.*
 
 ### Checking your work
+For most labs and programs, you will be required to match the example output.
+To check that your program is working correctly, you should paste the example
+output and your output into a tool like [diffchecker](diffchecker.com).
 
 ### Writing C code on the server
 For this course, you will develop all of your programs on our MSU CSCI 112
-Linux server.
+Linux server. We cover how to use the server in the first lecture; see the
+videos posted there.
 
 ## Course outcomes
 
