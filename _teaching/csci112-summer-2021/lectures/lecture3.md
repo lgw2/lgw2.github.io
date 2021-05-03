@@ -10,7 +10,12 @@ Today, we continue learning some basic C programming concepts..
 
 Optional reading: chapter 4.1-4.2
 
-### If statements
+### `if` statements
+[video]()
+
+Optional reading: chapter 4.3
+
+### `switch` statements
 [video]()
 
 Optional reading: chapter 4.3
