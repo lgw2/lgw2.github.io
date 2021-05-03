@@ -27,7 +27,7 @@ P(t) = 52.966 + 2.184t
 where `t` is years after 1990, and `P` is population in thousands. Thus, `P(0)`
 represents the population in 1990, which was 52.966 thousand people. Write a
 program that defines a function named `get_population` that takes in a an `int` for the
-year and returns a `double` for the population (in thousands). Your program should call
+years after 1990 and returns a `double` for the population (in thousands). Your program should call
 the function and interact with the user as follows:
 ```
 Enter a year after 1990> 2015
