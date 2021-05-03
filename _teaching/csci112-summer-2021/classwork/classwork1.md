@@ -51,7 +51,7 @@ just something fun you've got going on during May or June.
 	If you are still having trouble, we will also go through them together
 	during class.
 1. If you do not have a GitHub account, create one.
-2. Create a git repository named `csci112-2021-firstname-lastname` and clone it
+2. Create a **private** git repository named `csci112-2021-firstname-lastname` and clone it
 	in your `/home/netid/` directory.
 3. Inside the `csci112-2021-firstname-lastname` directory, create
 	following directories: `classwork`, `labs`, and `programs`.
