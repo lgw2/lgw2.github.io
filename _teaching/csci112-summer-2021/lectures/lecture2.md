@@ -40,3 +40,7 @@ Key ideas:
 [video]()
 
 Optional reading: chapter 3.1
+
+Key ideas:
+* Use functions to organize your program and to reuse code
+* Input (one or multiple) and output (only one) of functions
