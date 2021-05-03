@@ -22,9 +22,9 @@ title: "Lab 1"
 *This comes from problem 1, chapter 4 on page 232-233.*
 
 A store provides discounts for the military based on the dollar amount of the
-purchase..
+purchase.
 In this program, you will prompt the user for the dollar amount purchased and whether they are in the military or not.
-It will then determine the discount, sales tax cost and total.
+The program will then determine the discount, sales tax cost and total.
 It will print out this information in a neat way.
 
 If a person is in the military, they get a 15% discount if they spend $150 or more.
@@ -36,17 +36,17 @@ discount.
 ### Requirements
 * Write your program in a file called `lab1.c` in your
 	`csci112-firstname-lastname/labs/lab1/` directory.
-* Do not use globals.
 * Accept only `n`, `N`, `y`, and `Y` for input as to whether the person is in
 	the military or not. For any other input, print `Error: bad input` and end
 	the program. (Note: actually, you can accept any inputs beginning with
 	those four characters; for example, `no` would also work. If you can
 	explain why this is, you can get extra credit. See the Grading section.)
-* You may assume your user will always enter an integer when prompted for the
-	dollar amount of their purchase.
 * Use a separate function to compute the discount.
 * Use a separate function to print the results. (This function can call the
 	function that computes the discount if you like.)
+* Your output formatting must match the example. Use a tool like
+	[diffchecker](diffchecker.com) to compare your output with the sample
+	output. Don't worry about trailing spaces.
 
 ### Example output
 ```
@@ -86,7 +86,8 @@ Total:				$21.00
 	stackoverlow
 	post](https://stackoverflow.com/questions/13542055/how-to-do-scanf-for-single-char-in-c/13543113).
 * Use `\t` to add tabs to your output.
-* To print a `%`, use the format `%%`.
+* To print a `%`, use the format `%%`. For example, `printf(5%%)` would print
+	`5%`.
 
 ## Grading - 100 points
 * 10 points – includes comments explaining what your program does
