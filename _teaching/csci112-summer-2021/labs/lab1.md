@@ -38,7 +38,9 @@ discount.
 	`csci112-firstname-lastname/labs/lab1/` directory.
 * Accept only `n`, `N`, `y`, and `Y` for input as to whether the person is in
 	the military or not. For any other input, print `Error: bad input` and end
-	the program. (Note: actually, you can accept any inputs beginning with
+	the program. (Note: actually, as long as you are using only the data types
+	that we have learned about so far (`int`, `double`, and `char`,
+	you can accept any inputs beginning with
 	those four characters; for example, `no` would also work. If you can
 	explain why this is, you can get extra credit. See the Grading section.)
 * Use a separate function to compute the discount.
