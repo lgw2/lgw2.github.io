@@ -63,7 +63,7 @@ will update this if we are assigned one.
 We'll be using [Slack](https://slack.com/) for *all* course communication
 (except about grades or other sensitive information). It is very important that
 you [join the Slack
-workspace]()
+workspace]() *(link not active yet)*
 and check it every day of the course to keep up with announcements and to get
 help when you need it. There are [plenty of videos
 online](https://www.youtube.com/results?search_query=how+to+use+slack) that
@@ -79,7 +79,7 @@ time using it to teach C. If you encounter anything fishy, let me know.*
 ### Checking your work
 For most labs and programs, you will be required to match the example output.
 To check that your program is working correctly, you should paste the example
-output and your output into a tool like [diffchecker](diffchecker.com).
+output and your output into a tool like [diffchecker](https://www.diffchecker.com/).
 
 ### Writing C code on the server
 For this course, you will develop all of your programs on our MSU CSCI 112
