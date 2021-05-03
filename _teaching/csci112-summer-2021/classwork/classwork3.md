@@ -26,8 +26,8 @@ P(t) = 52.966 + 2.184t
 ```
 where `t` is years after 1990, and `P` is population in thousands. Thus, `P(0)`
 represents the population in 1990, which was 52.966 thousand people. Write a
-program that defines a function named `population` that predicts Gotham's
-population in the year provided as an input argument. Your program should call
+program that defines a function named `get_population` that takes in a an `int` for the
+year and returns a `double` for the population (in thousands). Your program should call
 the function and interact with the user as follows:
 ```
 Enter a year after 1990> 2015
@@ -37,7 +37,7 @@ Predicted Gotham City population for 2015 (in thousands):
 
 ### Requirements
 
-Write your program in the `classwork` directory, inside another directory called
+* Write your program in the `classwork` directory, inside another directory called
 	`classwork3`, in  a file called `population.c`.
 * Compile your program into an executable called `population` and run it using
 	`./population`.
