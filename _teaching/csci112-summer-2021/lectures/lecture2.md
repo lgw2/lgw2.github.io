@@ -12,6 +12,7 @@ Optional reading: chapter 1
 
 ### C overview
 [video 1]()
+
 [video 2 (developing a program)]()
 
 Optional reading: chapter 2.1-2.6
