@@ -28,6 +28,7 @@ average temperature.
 ### Requirements
 * Write your program in a file called `lab2.c` in your
 	`csci112-firstname-lastname/labs/lab2/` directory.
+* You can assume that the user will only enter integers.
 * Your output formatting must match the example. Use a tool like
 	[diffchecker](https://www.diffchecker.com/) to compare your output with the sample
 	output. Don't worry about trailing spaces.
@@ -74,7 +75,15 @@ The average temperature was 66.00 degrees.
 * 10 points – includes comments explaining what your program does
 * 10 points – code is indented so it is readable
 * 20 points – compiles successfully with `-Wall` – no warnings
-* 5 points – prints the output to exactly match the sample output
+* 10 points - the program stops collecting data when the user enters -99, and
+	-99 is not counted as a temperature
+* 5 points - hot temperatures are counted correctly
+* 5 points - pleasant temperatures are counted correctly
+* 5 points - cold temperatures are counted correctly
+* 20 points - the average computation is correct
+* 5 points - the average temperatures is printed with exactly two decimal
+	places
+* 10 points – prints the output to exactly match the sample output
 
 ## Grading turnaround
 This classwork will be graded with scores in Brightspace by 5pm on May 17th.
