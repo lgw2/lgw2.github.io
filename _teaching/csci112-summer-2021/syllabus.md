@@ -174,10 +174,10 @@ enthusiastic about course material and my role in helping you learn.
 |Monday 5/10|[Getting Started: Linux, Vim, Git](https://lgw2.github.io/teaching/csci112-summer-2021/lectures/lecture1/)|[Classwork 1](https://lgw2.github.io/teaching/csci112-summer-2021/classwork/classwork1/)||||
 |Tuesday 5/11|[C Basics pt. 1](https://lgw2.github.io/teaching/csci112-summer-2021/lectures/lecture2/)|[Classwork 2](https://lgw2.github.io/teaching/csci112-summer-2021/classwork/classwork2/)||||
 |Wednesday 5/12|[C Basics pt. 2](https://lgw2.github.io/teaching/csci112-summer-2021/lectures/lecture3/)|[Classwork 3](https://lgw2.github.io/teaching/csci112-summer-2021/classwork/classwork3/)|[Lab 1](https://lgw2.github.io/teaching/csci112-summer-2021/labs/lab1/)|||
-|Thursday 5/13|[Loops](https://lgw2.github.io/teaching/csci112-summer-2021/lectures/lecture4/)|[Classwork 4]()||||
+|Thursday 5/13|[Loops](https://lgw2.github.io/teaching/csci112-summer-2021/lectures/lecture4/)|[Classwork 4](https://lgw2.github.io/teaching/csci112-summer-2021/classwork/classwork4/)||||
 |Friday 5/14|||||[Quiz 1]()|
 |Saturday 5/15||||||
-|Saturday 5/16|||[Lab 2]()|||
+|Sunday 5/16|||[Lab 2]()|||
 |Monday 5/17|[]()|[Classwork 5]()||||
 |Tuesday 5/18|[]()|[Classwork 6]()|[Lab 3]()|||
 |Wednesday 5/19|[]()|[Classwork 7]()||||
