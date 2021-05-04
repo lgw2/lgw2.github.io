@@ -177,7 +177,7 @@ enthusiastic about course material and my role in helping you learn.
 |Thursday 5/13|[Loops](https://lgw2.github.io/teaching/csci112-summer-2021/lectures/lecture4/)|[Classwork 4](https://lgw2.github.io/teaching/csci112-summer-2021/classwork/classwork4/)||||
 |Friday 5/14|||||[Quiz 1]()|
 |Saturday 5/15||||||
-|Sunday 5/16|||[Lab 2]()|||
+|Sunday 5/16|||[Lab 2](https://lgw2.github.io/teaching/csci112-summer-2021/labs/lab2/)|||
 |Monday 5/17|[]()|[Classwork 5]()||||
 |Tuesday 5/18|[]()|[Classwork 6]()|[Lab 3]()|||
 |Wednesday 5/19|[]()|[Classwork 7]()||||
