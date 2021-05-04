@@ -61,7 +61,7 @@ will update this if we are assigned one.
 We'll be using [Slack](https://slack.com/) for *all* course communication
 (except about grades or other sensitive information). It is very important that
 you [join the Slack
-workspace]() *(link not active yet)*
+workspace](https://join.slack.com/t/uw-ahq1567/shared_invite/zt-ptaqsozq-9bCEQWoPx7gu0iDE2GXeTw)
 and check it every day of the course to keep up with announcements and to get
 help when you need it. There are [plenty of videos
 online](https://www.youtube.com/results?search_query=how+to+use+slack) that
