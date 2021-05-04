@@ -29,7 +29,7 @@ average temperature.
 * Write your program in a file called `lab2.c` in your
 	`csci112-firstname-lastname/labs/lab2/` directory.
 * Your output formatting must match the example. Use a tool like
-	[diffchecker](diffchecker.com) to compare your output with the sample
+	[diffchecker](https://www.diffchecker.com/) to compare your output with the sample
 	output. Don't worry about trailing spaces.
 
 ### Example output

@@ -47,7 +47,7 @@ discount.
 * Use a separate function to print the results. (This function can call the
 	function that computes the discount if you like.)
 * Your output formatting must match the example. Use a tool like
-	[diffchecker](diffchecker.com) to compare your output with the sample
+	[diffchecker](https://www.diffchecker.com/) to compare your output with the sample
 	output. Don't worry about trailing spaces.
 
 ### Example output
