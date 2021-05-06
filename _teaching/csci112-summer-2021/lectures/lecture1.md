@@ -14,6 +14,7 @@ yourself up for success throughout the course.
 
 ### Using the course server and basic Linux
 [video]()
+[additional video for Windows users]()
 
 Additional links and resources:
 * For Windows users, you can use Putty to access the server: [https://www.putty.org/](https://www.putty.org/)
@@ -30,7 +31,3 @@ Additional links and resources:
 
 ### Using git and GitHub
 [video]()
-
-
-Additional links and resources:
-*
