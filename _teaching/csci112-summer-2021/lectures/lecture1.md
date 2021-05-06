@@ -17,6 +17,14 @@ yourself up for success throughout the course.
 
 [additional video for Windows users]()
 
+Key topics:
+* Using `ssh` to get to the server:
+```
+ssh [netid]@csci112.cs.montana.edu
+```
+* Linux commands: `pwd`, `ls` (`ls -a`), `cd`, `mkdir`, `rm`, `touch`, `man`,
+	`cp`, `mv`
+
 Additional links and resources:
 * For Windows users, you can use Putty to access the server: [https://www.putty.org/](https://www.putty.org/)
 * A list of some of the basic Linux commands: [https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners](https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners)
