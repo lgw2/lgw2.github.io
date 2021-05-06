@@ -15,8 +15,6 @@ yourself up for success throughout the course.
 ### Using the course server and basic Linux
 [video]()
 
-[additional video for Windows users]()
-
 Key topics:
 * Using `ssh` to get to the server:
 ```
@@ -26,8 +24,10 @@ ssh [netid]@csci112.cs.montana.edu
 	`cp`, `mv`, Ctrl `c`, ctrl `d`, tab completion
 
 Additional links and resources:
-* For Windows users, you can use Putty to access the server: [https://www.putty.org/](https://www.putty.org/)
-* A list of some of the basic Linux commands: [https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners](https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners)
+* For Windows users, download [Cygwin](https://www.cygwin.com/) (see
+	"Installing Cygwin" section), open it, and use as you would the Mac/Linux
+	terminal in the video.
+* Some basic Linux commands: [https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners](https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners)
 
 ### Using vim and creating your vimrc
 [video]()
