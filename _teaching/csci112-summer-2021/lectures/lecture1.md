@@ -10,10 +10,10 @@ Take the time now to go through the tutorials that I point to and you'll set
 yourself up for success throughout the course.
 
 ### Course intro
-[video]()
+[video](https://youtu.be/MG9M99SuXok)
 
 ### Using the course server and basic Linux
-[video]()
+[video](https://youtu.be/ommt_vrgG5c)
 
 Key topics:
 * Using `ssh` to get to the server:
@@ -30,7 +30,7 @@ Additional links and resources:
 * Some basic Linux commands: [https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners](https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners)
 
 ### Using vim and creating your vimrc
-[video]()
+[video](https://youtu.be/JVhTdwBzywU)
 
 Key ideas:
 * Run `vimtutor` and get through Lesson 4 to practice vim commands
@@ -43,4 +43,4 @@ Additional links and resources:
 * A vimrc tutorial: [https://linuxhint.com/vimrc_tutorial/](https://linuxhint.com/vimrc_tutorial/)
 
 ### Using git and GitHub
-[video]()
+[video](https://youtu.be/Hh05Gsu_ZcA)
