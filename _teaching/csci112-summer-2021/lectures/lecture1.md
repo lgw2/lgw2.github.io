@@ -23,7 +23,7 @@ Key topics:
 ssh [netid]@csci112.cs.montana.edu
 ```
 * Linux commands: `pwd`, `ls` (`ls -a`), `cd`, `mkdir`, `rm`, `touch`, `man`,
-	`cp`, `mv`
+	`cp`, `mv`, Ctrl `c`, ctrl `d`, tab completion
 
 Additional links and resources:
 * For Windows users, you can use Putty to access the server: [https://www.putty.org/](https://www.putty.org/)
