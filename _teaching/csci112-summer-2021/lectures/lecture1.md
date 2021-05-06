@@ -32,6 +32,10 @@ Additional links and resources:
 ### Using vim and creating your vimrc
 [video]()
 
+Key ideas:
+* Run `vimtutor` and get through Lesson 4 to practice vim commands
+* `.vimrc` file holds all of your `vim` configuration
+
 Additional links and resources:
 * Browser-based vim game to practice the vim keystrokes: [https://vim-adventures.com/](https://vim-adventures.com/) (if you
 	get stuck, feel free to use Google to see how you're supposed to get
