@@ -14,6 +14,7 @@ yourself up for success throughout the course.
 
 ### Using the course server and basic Linux
 [video]()
+
 [additional video for Windows users]()
 
 Additional links and resources:
