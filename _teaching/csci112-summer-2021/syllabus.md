@@ -26,15 +26,20 @@ topics that anyone is struggling with, or talk about labs and programs.
 Because we will have students from different
 backgrounds, if you are able to complete the classwork on your own and do not
 have any questions, you are not
-required to come to the course meeting. However, you are welcome to come to
+required to come to the course meeting. However, you are encouraged to come to
 help your fellow students and learn from the group. There are a lot of
 different ways to use Linux, `vim`, `git`, and to program in C, so you might
 learn a better way by seeing how someone else does it.
 
+You should call into class from a computer that you can use to access the
+course server and develop your C programs from. Please let me know ASAP if you
+need assistance to make this happen and we will find a way to help you.
+
 ## Course resources
 ### Textbook
 The textbook is optional for this course, but is a good resource for anyone who
-is interested.
+is interested. Most classwork and lab programming assignments will come from
+the book, and lectures are based on the content in the book as well.
 
 *Problem Solving and Program Design in C*, by Jeri R. Hanley & Elliot B. Koffman, Eighth Edition.
 
@@ -150,17 +155,15 @@ What you can do:
 checking Slack, being aware of the course
 schedule, and doing all assignments on time.
 * Be an active participant in class. This means asking and
-answering questions in class and on Slack, attending labs to get one-on-one help
+answering questions in class and on Slack, seeking help
 when needed,
-and contacting me via Slack if you have any questions outside of class and lab
+and contacting me via Slack if you have any questions outside of class
 time.
 * Be respectful of both your classmates and me.
 * Do your own work.
 
 What I can do:
-* Grade and return labs and programming assignments before the following day's lab.
-* Be available every week day during that day's lab time for video meetings
-	or to answer questions via chat on Slack.
+* Grade and return classwork the day it is due and lab and programs before the next course meeting.
 * Respond to all Slack messages within one business day.
 * Create a course atmosphere conducive to learning by respecting
 all of my students and being
