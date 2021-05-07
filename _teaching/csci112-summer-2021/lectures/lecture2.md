@@ -23,7 +23,7 @@ Key ideas:
 ### C overview
 [video 1]()
 
-[video 2 (developing a program)]()
+[video 2]()
 
 Optional reading: chapter 2.1-2.6
 
@@ -31,13 +31,13 @@ Key ideas:
 * Parts of a C program: preprocessor directives (`#include` and `#define`), main function, declarations vs
 	executable statements
 * Variable declarations and data types
+* Use `gcc -o [executable_filename] -Wall [c_filename]` to compile your program
+	and `./[executable_filename]` to run
 * Assignment statements
 * `printf` and `scanf`
 * Comments and whitespace
 * Arithmetic expressions
 * Formatting output
-* Use `gcc -o [executable_filename] -Wall [c_filename]` to compile your program
-	and `./[executable_filename]` to run
 
 
 ### Programming errors
