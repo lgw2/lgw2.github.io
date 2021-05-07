@@ -28,7 +28,7 @@ Key ideas:
 Optional reading: chapter 2.1-2.6
 
 Key ideas:
-* Parts of a C program: preprocessor directives, main function, declarations vs
+* Parts of a C program: preprocessor directives (`#include` and `#define`), main function, declarations vs
 	executable statements
 * Variable declarations and data types
 * Assignment statements
@@ -36,6 +36,8 @@ Key ideas:
 * Comments and whitespace
 * Arithmetic expressions
 * Formatting output
+* Use `gcc -o [executable_filename] -Wall [c_filename]` to compile your program
+	and `./[executable_filename]` to run
 
 
 ### Programming errors
