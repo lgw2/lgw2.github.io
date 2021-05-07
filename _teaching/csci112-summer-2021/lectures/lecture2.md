@@ -8,6 +8,8 @@ Today, we start to learn about the C programming language.
 ### Hardware and software
 [video]()
 
+[slides](https://lgw2.github.io/teaching/csci112-summer-2021/lectures/ch1.pdf)
+
 Optional reading: chapter 1
 
 Key ideas:
