@@ -10,6 +10,14 @@ Today, we start to learn about the C programming language.
 
 Optional reading: chapter 1
 
+Key ideas:
+* Hardware: memory cells, bits, bytes, memory addresses, RAM vs. ROM, CPU
+* Software: operating systems, application software
+* Computer languages: machine language, assembly language, high level
+	languages
+* Compiling your C programs: source file, compiler, object file, linker,
+	executable file
+
 ### C overview
 [video 1]()
 
