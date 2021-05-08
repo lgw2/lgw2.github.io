@@ -8,7 +8,7 @@ Today, we continue learning some basic C programming concepts.
 ### Functions
 [video]()
 
-Optional reading: chapter 3.1
+Optional reading: chapter 3.1-3.5
 
 Key ideas:
 * Use functions to organize your program and to reuse code
