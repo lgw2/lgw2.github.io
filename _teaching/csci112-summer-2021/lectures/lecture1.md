@@ -41,6 +41,8 @@ Additional links and resources:
 	get stuck, feel free to use Google to see how you're supposed to get
 	through a section...)
 * A vimrc tutorial: [https://linuxhint.com/vimrc_tutorial/](https://linuxhint.com/vimrc_tutorial/)
+* Some more vim commands:
+	[https://dev.to/prodopsio/vim-a-to-z-literally-1iah](https://dev.to/prodopsio/vim-a-to-z-literally-1iah)
 
 ### Using git and GitHub
 [video](https://youtu.be/Hh05Gsu_ZcA)

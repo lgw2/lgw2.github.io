@@ -34,11 +34,10 @@ Key ideas:
 * Use `gcc -o [executable_filename] -Wall [c_filename]` to compile your program
 	and `./[executable_filename]` to run
 * Assignment statements
-* `printf` and `scanf`
 * Comments and whitespace
+* `printf` and `scanf`: placeholders (`%`), float formating
+* Newline and tab: `\n` and `\t`
 * Arithmetic expressions
-* Formatting output
-
 
 ### Programming errors
 [video]()
