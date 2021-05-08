@@ -6,7 +6,7 @@ title: "Lecture 2: C basics"
 Today, we start to learn about the C programming language.
 
 ### Hardware and software
-[video]()
+[video](https://youtu.be/7TJ-VBRwopE)
 
 [slides](https://lgw2.github.io/teaching/csci112-summer-2021/lectures/ch1.pdf)
 
@@ -21,9 +21,9 @@ Key ideas:
 	executable file
 
 ### C overview
-[video 1]()
+[video 1](https://youtu.be/8iNA6w1m6eU)
 
-[video 2]()
+[video 2](https://youtu.be/J8MlBPkDA5I)
 
 Optional reading: chapter 2.1-2.6
 
@@ -40,19 +40,10 @@ Key ideas:
 * Arithmetic expressions
 
 ### Programming errors
-[video]()
+[video](https://youtu.be/qLK5_JZtTq8)
 
 Optional reading: chapter 2.8
 
 Key ideas:
 * Four different types of errors: syntax errors, runtime errors, undetected
 	errors, and logic errors
-
-### Functions
-[video]()
-
-Optional reading: chapter 3.1
-
-Key ideas:
-* Use functions to organize your program and to reuse code
-* Input (one or multiple) and output (only one) of functions

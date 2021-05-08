@@ -120,7 +120,7 @@ After any curving, your grade will be determined by your total score as follows:
 ## Collaboration policy
 On all assignments, you may:
 * Share ideas with others.
-* Help other debug their code (or receive help debugging your code from someone
+* Help others debug their code (or receive help debugging your code from someone
 	else).
 
 You may not:
