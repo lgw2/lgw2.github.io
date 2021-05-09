@@ -41,7 +41,7 @@ Key ideas:
 Optional reading: chapter 4.3
 
 ### `switch` statements
-[video]()
+[video](https://youtu.be/YXSK8tnyH4w)
 
 Key ideas:
 * Alternative to `if` statements to select one of many alternatives
