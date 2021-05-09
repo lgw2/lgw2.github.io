@@ -12,5 +12,5 @@ title: "Lecture 4: Loops"
 ### Lab 2 intro
 [video]()
 
-### Quiz review
+### Quiz info
 [video]()
