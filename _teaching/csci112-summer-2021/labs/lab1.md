@@ -98,8 +98,8 @@ Total:				$21.00
 * 5 points – discount is computed in own function
 * 5 points - a separate function is used to print the results
 * 20 points – uses proper math equations to compute taxes and discount
-* 5 points – prints the output to exactly match the sample output
-* 5 points – reads in the input to exactly match the sample
+* 10 points – prints the output to exactly match the sample output
+* 10 points – reads in the input to exactly match the sample
 * 10 points – allows `y`, `Y`, `n`, `N` as input for military question
 * 10 points – prints error message if any other input for military question, exactly matching example
 * BONUS: 5 points - in a comment in your program, explain why your program can
