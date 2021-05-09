@@ -12,7 +12,7 @@ title: "Lab 1"
 	order to earn partial credit.
 
 ## Learning outcomes
-* Practice using `if` statements.
+* Practice using `if` and/or `switch` statements.
 * Practice using functions to organize your code.
 * Get input from the user.
 * Practice writing complicated output.

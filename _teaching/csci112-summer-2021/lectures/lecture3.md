@@ -43,6 +43,11 @@ Optional reading: chapter 4.3
 ### `switch` statements
 [video]()
 
+Key ideas:
+* Alternative to `if` statements to select one of many alternatives
+* Only works with `char` and `int` data types for controlling expression
+* Must include `break` statement for each alternative
+
 Optional reading: chapter 4.8
 
 ### Lab 1 intro
