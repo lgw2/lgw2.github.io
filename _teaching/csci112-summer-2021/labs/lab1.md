@@ -88,13 +88,15 @@ Total:				$21.00
 	stackoverlow
 	post](https://stackoverflow.com/questions/13542055/how-to-do-scanf-for-single-char-in-c/13543113).
 * Use `\t` to add tabs to your output.
-* To print a `%`, use the format `%%`. For example, `printf(5%%)` would print
+* To print a `%`, use the format `%%`. For example, `printf("5%%")` would print
 	`5%`.
 
 ## Grading - 100 points
 * 10 points – includes comments explaining what your program does
 * 10 points – code is indented so it is readable
-* 20 points – compiles successfully with `-Wall` – no warnings
+* 10 points – compiles successfully with `-Wall` – no warnings
+* 5 points – discount is computed in own function
+* 5 points - a separate function is used to print the results
 * 20 points – uses proper math equations to compute taxes and discount
 * 5 points – prints the output to exactly match the sample output
 * 5 points – reads in the input to exactly match the sample
