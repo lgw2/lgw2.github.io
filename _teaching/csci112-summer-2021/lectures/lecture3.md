@@ -51,4 +51,4 @@ Key ideas:
 Optional reading: chapter 4.8
 
 ### Lab 1 intro
-[video]()
+[video](https://youtu.be/sK7RWBdLppA)
