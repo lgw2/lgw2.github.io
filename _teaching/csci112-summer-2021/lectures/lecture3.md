@@ -32,7 +32,7 @@ not `-10 < x < 100`.
 Optional reading: chapter 4.1-4.2
 
 ### `if` statements
-[video]()
+[video](https://youtu.be/bLYZnz0Ryx0)
 
 Key ideas:
 * Single alternative or multiple alternative
