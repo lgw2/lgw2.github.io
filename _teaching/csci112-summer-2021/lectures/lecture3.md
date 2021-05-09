@@ -17,6 +17,19 @@ Key ideas:
 ### Relational, equality, and logical operators
 [video]()
 
+Key ideas:
+* relational (`>`, `<`, `>=`, `<=`) and equality operators (`==`, `!=`, `!`)
+* logical operators (`&&`, `||`)
+* writing conditions in C: to write that `x` is in the range -9 to 99, we need
+	to say
+```
+x > 10 && x < 100
+```
+not `-10 < x < 100`.
+* operator precedence:
+	[https://devdocs.io/c/language/operator_precedence](https://devdocs.io/c/language/operator_precedence)
+*
+
 Optional reading: chapter 4.1-4.2
 
 ### `if` statements
