@@ -22,6 +22,6 @@ Finally, you can write and run your own C code to check your answers.
 
 You may *not* ask anyone else for help or google anything.
 
-You can watch the [quiz intro video] that is also linked from Lecture 4 for
+You can watch the [quiz intro video](https://youtu.be/zev2O2x29Ag) that is also linked from Lecture 4 for
 more information.
 

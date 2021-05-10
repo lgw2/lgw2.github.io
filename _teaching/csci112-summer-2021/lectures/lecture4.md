@@ -25,4 +25,4 @@ Key ideas:
 [video](https://youtu.be/UqjEoeqjDhI)
 
 ### Quiz info
-[video]()
+[video](https://youtu.be/zev2O2x29Ag)
