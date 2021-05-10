@@ -22,7 +22,7 @@ Key ideas:
 * nested loops
 
 ### Lab 2 intro
-[video]()
+[video](https://youtu.be/UqjEoeqjDhI)
 
 ### Quiz info
 [video]()
