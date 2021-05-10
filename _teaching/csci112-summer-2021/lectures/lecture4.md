@@ -16,6 +16,9 @@ Key ideas:
 ### `for` loops
 [video]()
 
+Key ideas:
+* when to use `for` vs. `while`: when stopping point is known vs. not
+
 ### Lab 2 intro
 [video]()
 
