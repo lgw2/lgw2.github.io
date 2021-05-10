@@ -9,7 +9,8 @@ title: "Lecture 4: Loops"
 Key ideas:
 * loop control variable
 * accumulator variables
-* compound assignment statements (`+=, -=, *=, /-, %, ++, --`)
+* compound assignment statements (`+=`, `-=`, `*=`, `/=`, `%=`)
+* `++a` vs. `a++`
 * `while` vs. `do while`
 
 ### `for` loops
