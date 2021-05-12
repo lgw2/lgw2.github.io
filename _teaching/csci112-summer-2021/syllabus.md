@@ -185,14 +185,15 @@ enthusiastic about course material and my role in helping you learn.
 |Wednesday 5/19|[]()|Classwork 7||||
 |Thursday 5/20|[]()|Classwork 8||||
 |Friday 5/21|[]()||||Quiz 2|
-|weekend!|
+|Saturday 5/22||||||
+|Sunday 5/23||||Program 1||
 |Monday 5/24|[]()|Classwork 9||||
-|Tuesday 5/25|[]()|Classwork 10||||
-|Wednesday 5/26|[]()|Classwork 11|Lab 4|||
-|Thursday 5/27|[]()|Classwork 12||||
+|Tuesday 5/25|[]()|Classwork 10|Lab 4|||
+|Wednesday 5/26|[]()|Classwork 11||||
+|Thursday 5/27|[]()|Classwork 12|Lab 5|||
 |Friday 5/28|[]()||||Quiz 3|
 |Saturday 5/29||||||
-|Sunday 5/30|||Lab 5|||
+|Sunday 5/30||||Program 2||
 |Memorial Day|
 |Tuesday 6/1|[]()|Classwork 13||||
 |Wednesday 6/2|[]()|Classwork 14|Lab 6|||
