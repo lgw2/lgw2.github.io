@@ -180,24 +180,24 @@ enthusiastic about course material and my role in helping you learn.
 |Friday 5/14|||||[Quiz 1](https://lgw2.github.io/teaching/csci112-summer-2021/quizzes/quiz1/)|
 |Saturday 5/15||||||
 |Sunday 5/16|||[Lab 2](https://lgw2.github.io/teaching/csci112-summer-2021/labs/lab2/)|||
-|Monday 5/17|[]()|[Classwork 5]()||||
-|Tuesday 5/18|[]()|[Classwork 6]()|[Lab 3]()|||
-|Wednesday 5/19|[]()|[Classwork 7]()||||
-|Thursday 5/20|[]()|[Classwork 8]()||||
+|Monday 5/17|[]()|Classwork 5||||
+|Tuesday 5/18|[]()|Classwork 6|Lab 3|||
+|Wednesday 5/19|[]()|Classwork 7||||
+|Thursday 5/20|[]()|Classwork 8||||
 |Friday 5/21|[]()||||Quiz 2|
 |weekend!|
-|Monday 5/24|[]()|||||
-|Tuesday 5/25|[]()|||||
-|Wednesday 5/26|[]()||Lab 4|||
-|Thursday 5/27|[]()|||||
+|Monday 5/24|[]()|Classwork 9||||
+|Tuesday 5/25|[]()|Classwork 10||||
+|Wednesday 5/26|[]()|Classwork 11|Lab 4|||
+|Thursday 5/27|[]()|Classwork 12||||
 |Friday 5/28|[]()||||Quiz 3|
 |Saturday 5/29||||||
 |Sunday 5/30|||Lab 5|||
 |Memorial Day|
-|Tuesday 6/1|[]()|||||
-|Wednesday 6/2|[]()||Lab 6|||
-|Thursday 6/3|[]()|||||
-|Friday 6/4|[]()|||Program 3||
+|Tuesday 6/1|[]()|Classwork 13||||
+|Wednesday 6/2|[]()|Classwork 14|Lab 6|||
+|Thursday 6/3|[]()|Optional classwork||||
+|Friday 6/4|[]()|Optional classwork||Program 3||
 
 
 ## Acknowledgments
