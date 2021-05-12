@@ -184,19 +184,20 @@ enthusiastic about course material and my role in helping you learn.
 |Tuesday 5/18|[]()|[Classwork 6]()|[Lab 3]()|||
 |Wednesday 5/19|[]()|[Classwork 7]()||||
 |Thursday 5/20|[]()|[Classwork 8]()||||
-|Friday 5/21|[]()|||[Program 1]()||
+|Friday 5/21|[]()||||Quiz 2|
 |weekend!|
 |Monday 5/24|[]()|||||
 |Tuesday 5/25|[]()|||||
-|Wednesday 5/26|[]()|||||
+|Wednesday 5/26|[]()||Lab 4|||
 |Thursday 5/27|[]()|||||
-|Friday 5/28|[]()|||||
-|weekend!|
+|Friday 5/28|[]()||||Quiz 3|
+|Saturday 5/29||||||
+|Sunday 5/30|||Lab 5|||
 |Memorial Day|
 |Tuesday 6/1|[]()|||||
-|Wednesday 6/2|[]()|||||
+|Wednesday 6/2|[]()||Lab 6|||
 |Thursday 6/3|[]()|||||
-|Friday 6/4|[]()|||||
+|Friday 6/4|[]()|||Program 3||
 
 
 ## Acknowledgments
