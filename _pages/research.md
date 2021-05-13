@@ -1,5 +1,5 @@
 ---
-layout: archive
+collection: teaching
 title: "Research"
 permalink: /research/
 author_profile: true
