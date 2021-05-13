@@ -33,7 +33,7 @@ IEEE International Conference on Bioinformatics and Biomedicine (BIBM),
 Nov. 2019.
 
 ### Posters:
-* RECOMB 2019: "Decomposing inexact flows with application to RNA transcript assembly"
+* RECOMB 2019: "[Decomposing inexact flows with application to RNA transcript assembly](inexact_flows_poster.pdf)"
 
 ## Shape reconstruction using topological descriptors
 We are developing algorithms to reconstruct shapes from topological descriptors such as persistence diagrams
@@ -47,5 +47,6 @@ Anna Schenfisch, Jordan Schupbach, Lucia Williams,
 
 ### Workshop papers:
 * Brittany Terese Fasy, Samuel Micka, David L. Millman, Anna Schefisch, Lucia Williams,
-"Challenges in Reconstructing Shapes from Euler Characteristic Curves",
+"[Challenges in Reconstructing Shapes from Euler Characteristic
+Curves](ecc.pdf)",
 in 28th Annual Fall Workshop on Computational Geometry.
