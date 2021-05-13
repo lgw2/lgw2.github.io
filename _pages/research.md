@@ -27,8 +27,7 @@ and developing algorithms to use this model to determine RNA transcripts and the
 
 ### Peer reviewed publications:
 * Lucia Williams, Gillian Reynold, Brendan Mumey,
-“[RNA Transcript Assembly Using Inexact Flows](RNA Transcript Assembly Using
-Inexact Flows),”
+“[RNA Transcript Assembly Using Inexact Flows](inexact_flows.pdf),”
 IEEE International Conference on Bioinformatics and Biomedicine (BIBM),
 Nov. 2019.
 
