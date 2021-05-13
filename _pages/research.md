@@ -10,7 +10,7 @@ haplotype blocks from a set of SNP-resolved haplotypes to include unknown data
 and to work in a pangenomic setting.
 
 ### Peer reviewed publications:
-* Lucia Williams, Brendan Mumey, "\textcolor{[Maximal Perfect Haplotype Blocks with Wildcards]}{blue}(wildcard_haplotype_blocks.pdf),"
+* Lucia Williams, Brendan Mumey, "[Maximal Perfect Haplotype Blocks with Wildcards](wildcard_haplotype_blocks.pdf),"
 iScience, vol 101149. 2020.
 * Lucia Williams, Brendan Mumey, "[Extending Maximal Perfect Haplotype Blocks
 to the Realm of Pangenomics](pangenome_haplotype_blocks)," Algorithms for Computational Biology (AlCoB)
