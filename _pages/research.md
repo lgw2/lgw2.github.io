@@ -46,6 +46,5 @@ Anna Schenfisch, Jordan Schupbach, Lucia Williams,
 
 ### Workshop papers:
 * Brittany Terese Fasy, Samuel Micka, David L. Millman, Anna Schefisch, Lucia Williams,
-"[Challenges in Reconstructing Shapes from Euler Characteristic
-Curves](ecc.pdf)",
+"[Challenges in Reconstructing Shapes from Euler Characteristic Curves](ecc.pdf)",
 in 28th Annual Fall Workshop on Computational Geometry.
