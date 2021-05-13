@@ -12,8 +12,8 @@ and to work in a pangenomic setting.
 ### Peer reviewed publications:
 * Lucia Williams, Brendan Mumey, "[Maximal Perfect Haplotype Blocks with Wildcards](wildcard_haplotype_blocks.pdf),"
 iScience, vol 101149. 2020.
-* Lucia Williams, Brendan Mumey, "Extending Maximal Perfect Haplotype Blocks
-to the Realm of Pangenomics," Algorithms for Computational Biology (AlCoB)
+* Lucia Williams, Brendan Mumey, "[Extending Maximal Perfect Haplotype Blocks
+to the Realm of Pangenomics](pangenome_haplotype_blocks)," Algorithms for Computational Biology (AlCoB)
 2020, Apr. 2020. Lecture Notes in Computer Science, vol 12099.
 
 ## Network flow decomposition with application to RNA assembly
