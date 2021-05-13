@@ -6,11 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a third-year PhD student in computer science at Montana State University
-in Bozeman, Montana.  My advisor is [Brendan
-Mumey](https://www.cs.montana.edu/bmumey/).  I am interested in the design and
-analysis of algorithms and data structures for problems in computational
-biology. I have worked on flow network based methods for RNA sequencing and on
+I am a fourth-year PhD student in computer science at Montana State University
+in Bozeman, Montana, advised by [Brendan
+Mumey](https://www.cs.montana.edu/bmumey/).  I design and
+analyze algorithms and data structures for problems in computational
+biology. Specifically, I study flow network based methods for DNA sequencing and assembly and on
 methods for finding conserved genomic regions in the presence of missing data
 or without a single reference genome.
 I have also worked with the [Computational Topology and
