@@ -16,6 +16,10 @@ iScience, vol 101149. 2020.
 to the Realm of Pangenomics](pangenome_haplotype_blocks)," Algorithms for Computational Biology (AlCoB)
 2020, Apr. 2020. Lecture Notes in Computer Science, vol 12099.
 
+### Recorded talks:
+* Sequencing, Finishing and Analysis in the Future meeting, December 2020.
+	"[Investigating Selection in Pangenomes with Haplotype Blocks](https://youtu.be/A8NKUs8oVI4)."
+
 ## Network flow decomposition with application to RNA assembly
 We are extending a flow network model of RNA short read data to account for
 errors in the data collection process
