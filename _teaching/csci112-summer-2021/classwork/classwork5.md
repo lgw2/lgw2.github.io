@@ -33,6 +33,10 @@ Sum was 236.
 but for classwork assignments you are not required to match the output
 formatting.
 
+If you'd like, you can assume that you will get no more than 20 numbers and use
+arrays to store the numbers you read in before summing them up. But we will get
+more practice with arrays in future assignments.
+
 ### Requirements
 
 * Write your program in the `classwork` directory, inside another directory called

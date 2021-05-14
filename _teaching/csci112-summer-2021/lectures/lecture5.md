@@ -13,3 +13,11 @@ Key ideas:
 
 ### Arrays
 [video]
+
+Key ideas:
+* Declaring arrays
+* How arrays are stored in memory
+* Accessing array elements using loops
+* Using arrays in functions
+* `const`
+* conditional operator
