@@ -14,6 +14,8 @@ Key ideas:
 ### Arrays
 [video]
 
+Optional reading: 7.1-7.5
+
 Key ideas:
 * Declaring arrays
 * How arrays are stored in memory

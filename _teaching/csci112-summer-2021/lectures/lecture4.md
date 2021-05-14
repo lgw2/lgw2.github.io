@@ -3,6 +3,8 @@ collection: teaching
 title: "Lecture 4: Loops"
 ---
 
+Optional reading: chapter 5.
+
 ### `while` and `do while` loops
 [video](https://youtu.be/9wfGipLJ4PA)
 
