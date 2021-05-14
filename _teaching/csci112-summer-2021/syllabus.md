@@ -180,7 +180,7 @@ enthusiastic about course material and my role in helping you learn.
 |Friday 5/14|||||[Quiz 1](https://lgw2.github.io/teaching/csci112-summer-2021/quizzes/quiz1/)|
 |Saturday 5/15||||||
 |Sunday 5/16|||[Lab 2](https://lgw2.github.io/teaching/csci112-summer-2021/labs/lab2/)|||
-|Monday 5/17|[]()|Classwork 5||||
+|Monday 5/17|[Input/output file redirection and arrays](https://lgw2.github.io/teaching/csci112-summer-2021/lectures/lecture5/)|[Classwork 5](https://lgw2.github.io/teaching/csci112-summer-2021/classwork/classwork5/)||||
 |Tuesday 5/18|[]()|Classwork 6|Lab 3|||
 |Wednesday 5/19|[]()|Classwork 7||||
 |Thursday 5/20|[]()|Classwork 8||||
