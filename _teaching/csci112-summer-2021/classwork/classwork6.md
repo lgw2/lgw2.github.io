@@ -4,7 +4,7 @@ title: "Classwork 6"
 ---
 
 ## Logistics
-* Due: Monday, May 18th no later than 1:35pm.
+* Due: Tuesday, May 18th no later than 1:35pm.
 * Submission instructions: push a commit with the tag `classwork6` to your git
 	repository.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
