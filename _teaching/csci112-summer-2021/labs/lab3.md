@@ -12,8 +12,8 @@ title: "Lab 3"
 	order to earn partial credit.
 
 ## Learning outcomes
-* Practice using `if` statements.
-* Practice using loops.
+* Practice using file redirection.
+* Practice using arrays.
 
 ## Assignment
 
@@ -43,6 +43,7 @@ order that they were passed in), and a count of the number of students who
 missed each question. For example, your program should output the following
 given the provided `testdata.txt` file.
 ```
+[p19t655@csci112 lab3]$ ./lab3 < testdata.txt 
 Question	1 2 3 4 5 6 7 8 
 Answer		c c d d a b c e 
 
