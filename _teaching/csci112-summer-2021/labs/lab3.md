@@ -63,7 +63,7 @@ Missed By	2 2 2 1 1 0 2 5
 	`csci112-firstname-lastname/labs/lab3/` directory.
 * Your output formatting must match the example. Use a tool like
 	[diffchecker](https://www.diffchecker.com/) to compare your output with the sample
-	output.
+	output. You do not need to worry about trailing spaces.
 
 ### Example output
 ```
