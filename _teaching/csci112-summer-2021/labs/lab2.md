@@ -86,4 +86,4 @@ The average temperature was 66.00 degrees.
 * 10 points – prints the output to exactly match the sample output
 
 ## Grading turnaround
-This classwork will be graded with scores in Brightspace by 5pm on May 17th.
+This lab will be graded with scores in Brightspace by 5pm on May 17th.
