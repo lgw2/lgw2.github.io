@@ -18,6 +18,20 @@ title: "Classwork 5"
 Write a program that reads in an unknown number of integers from a file and
 prints their sum.
 
+Using the two example input files from `/public/classwork5/`, running your
+program could look like
+
+```
+[p19t655@csci112 classwork5]$ ./add_nums < nums1.txt
+Finished reading file.
+Sum was 210.
+[p19t655@csci112 classwork5]$ ./add_nums < nums2.txt
+Finished reading file.
+Sum was 236.
+```
+
+but for classwork assignments you are not required to match the output
+formatting.
 
 ### Requirements
 
