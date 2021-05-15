@@ -1,9 +1,9 @@
 ---
 collection: teaching
-title: "Lecture 6: Arrays"
+title: "Lecture 6: Arrays continued"
 ---
 
-### Arrays
+### Arrays continued
 [video]
 
 Optional reading: 7.8-7.9
