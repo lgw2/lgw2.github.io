@@ -20,7 +20,7 @@ In your `classwork/classwork7` directory, copy your Lab 1 C source file, and
 then separate it into at least three files, one containing your `main`
 function, one countaining your compute discount function, and one containing
 your print results function. (If you had more than three functions, you can
-make one file for each put more than one function in the files.)
+make one file for each or put more than one function in the files.)
 
 Create a makefile so that all of the C source code files are compiled
 separately. Make sure to use the `-Wall` flag to catch any warnings.
