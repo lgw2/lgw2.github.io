@@ -47,8 +47,10 @@ In order to help you develop your program, here is a rough idea of how you
 might structure your program.
 
 1. Convert the command line argument into an `int`. If there is no command line
-   argument, print an error and end the program.
-2. Read each address into a 2 dimensional array of 4 unsigned chars.
+   argument, print an error and end the program. This argument is the number of
+   network addresses that will be in the file.
+2. Read each address into a 2 dimensional array of 4 unsigned chars. The size
+   of the first array dimension in the command line argument.
 3. Sort the array. (You will need to implement a sorting algorithm of your
    choice.)
 4. Use the sorted array to count the number of networks in each class for A, B,
@@ -81,40 +83,6 @@ Here is what your output should look like when you run your program on the
 * Your output formatting must match the example. Use a tool like
 	[diffchecker](https://www.diffchecker.com/) to compare your output with the sample
 	output. Don't worry about trailing spaces.
-
-### Example output
-```
-[p19t655@csci112 lab1]$ ./lab1
-Cost of purchase?		$217
-In military (y or n)?		y
-Military discount (15%):	$32.55
-Discounted total:		$184.45
-Sales tax (5%):			$9.22
-Total:				$193.67
-[p19t655@csci112 lab1]$ ./lab1
-Cost of purchase?		$80
-In military (y or n)?		Y
-Military discount (10%):	$8.00
-Discounted total:		$72.00
-Sales tax (5%):			$3.60
-Total:				$75.60
-[p19t655@csci112 lab1]$ ./lab1
-Cost of purchase?		$115
-In military (y or n)?		n
-Sales tax (5%):			$5.75
-Total:				$120.75
-[p19t655@csci112 lab1]$ ./lab1
-Cost of purchase?		$20
-In military (y or n)?		x
-Error: bad input
-[p19t655@csci112 lab1]$ ./lab1
-Cost of purchase?		$20
-In military (y or n)?		No
-Sales tax (5%):			$1.00
-Total:				$21.00
-```
-
-### Hints
 
 ## Grading - 100 points
 * 5 points – comments explaining what your program does
