@@ -53,10 +53,7 @@ might structure your program.
    of the first array dimension in the command line argument.
 3. Sort the array. (You will need to implement a sorting algorithm of your
    choice.)
-4. Use the sorted array to count the number of networks in each class for A, B,
-   and C. Ignore networks in classes D and E.
-5. Use the sorted array to determine the network address that has the most
-   hosts and the number of hosts in that network.
+4. Use the sorted array to compute the information you need.
 
 ### Sample input and output
 
