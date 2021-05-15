@@ -66,10 +66,6 @@ Missed By	2 2 2 1 1 0 2 5
 	[diffchecker](https://www.diffchecker.com/) to compare your output with the sample
 	output. You do not need to worry about trailing spaces.
 
-### Example output
-```
-```
-
 ## Grading - 100 points
 * 10 points – includes comments to explain what the program does
 * 10 points – code is indented so that it is readable
