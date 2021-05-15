@@ -20,8 +20,9 @@ title: "Lab 3"
 *This problem comes from problem 1, chapter 7 on page 445-446 of the book.*
 
 Write a proram to grade an n-question multiple-choice exam, where n is between
-1 and 10. You receive the information about the exam from standard in (so you
-should use `scanf`), but you should read it using file redirection.
+1 and 10. You receive the information about the exam from standard input (so you
+should use `scanf`), but you should read it using file redirection instead of
+typing the input.
 The first line contains the number of questions followed by the correct
 answer for each question. All of the following lines contain a student id
 number followed by that student's answers to each question. An example input
