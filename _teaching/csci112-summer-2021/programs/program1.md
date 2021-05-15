@@ -40,8 +40,8 @@ to be processed.
 
 The statistics you must compute are:
 * The number of Class A, Class B, and Class C networks
-* For each of Class A, Class B, and Class C, determine the network with the
-	most hosts and count the number of hosts int contains.
+* For each of Class A, Class B, and Class C, the network with the
+	most hosts and the number of hosts it contains.
 
 In order to help you develop your program, here is a rough idea of how you
 might structure your program.
