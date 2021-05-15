@@ -63,6 +63,10 @@ Here is what your output should look like when you run your program on the
 ```
 ```
 
+### Hints
+* If you prefer, you can write your entire program in one single file and just
+	separate it into four different files before you turn it in.
+
 
 ### Requirements
 * Write your program in a file called `program1.c` in your
