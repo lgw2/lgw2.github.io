@@ -12,7 +12,10 @@ title: "Program 1"
 	order to earn partial credit.
 
 ## Learning outcomes
-* Use arrays
+* Read a command line argument
+* Create and manipulate arrays
+* Sort arrays
+* Organize your program into separate files
 * Use makefiles
 
 ## Assignment
