@@ -16,7 +16,7 @@ Key ideas:
 ### Arrays
 [video 1](https://youtu.be/NghUTNQgc-E)
 
-[video 2]
+[video 2](https://youtu.be/l6IGWrBw8wo)
 
 Optional reading: 7.1-7.5
 
@@ -27,7 +27,7 @@ Key ideas:
 * Can initialize elements using `{}`
 * Arrays are stored contiguously in memory
 * Common error: overlowing array (and will not be detected by the compiler!)
-* Array indexing using `[]`
+* Array indexing using `[]`; argument must resolve to `int`
 * Accessing array elements using loops
 * Using arrays in functions: we pass arrays by reference because they are
 	actually pointers
