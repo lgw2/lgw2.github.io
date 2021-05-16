@@ -14,7 +14,8 @@ Key ideas:
 	to read lines of a file until end 
 
 ### Arrays
-[video 1]
+[video 1](https://youtu.be/NghUTNQgc-E)
+
 [video 2]
 
 Optional reading: 7.1-7.5
@@ -33,4 +34,5 @@ Key ideas:
 * To create an array in a function, create it, pass it in (actually passing a
 	pointer to the start of it), and then fill it
 * `const` for input array arguments
-* conditional operator
+* conditional operator:
+	[https://www.geeksforgeeks.org/conditional-or-ternary-operator-in-c-c/](https://www.geeksforgeeks.org/conditional-or-ternary-operator-in-c-c/)
