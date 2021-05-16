@@ -12,7 +12,7 @@ in program 1 if you like!
 Optional reading: 7.6
 
 ### Makefiles
-[video]
+[video](https://youtu.be/O6qceqyYzeM)
 
 Key ideas:
 * makefiles organize dependencies
