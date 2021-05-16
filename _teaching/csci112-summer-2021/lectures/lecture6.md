@@ -6,11 +6,10 @@ title: "Lecture 6: Arrays continued"
 ### Arrays continued
 [video]
 
-Optional reading: 7.8-7.9
+Optional reading: 7.8
 
 Key ideas:
-* Multiple dimensional arrays
-* Out of range errors
+* Two-dimensional dimensional arrays
 
 ### Lab 3 intro
 [video]
