@@ -4,7 +4,7 @@ title: "Lecture 6: Arrays continued"
 ---
 
 ### Arrays continued
-[video]
+[video](https://youtu.be/CjYSiNl9HcA)
 
 Optional reading: 7.8
 
