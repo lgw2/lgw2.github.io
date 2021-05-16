@@ -12,4 +12,4 @@ Key ideas:
 * Two-dimensional dimensional arrays
 
 ### Lab 3 intro
-[video]
+[video](https://youtu.be/X51AIS2xAIU)
