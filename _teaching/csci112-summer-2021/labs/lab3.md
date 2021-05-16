@@ -34,7 +34,7 @@ file can be found in `/public/lab3/testdata.txt`. It looks like this:
 107 ccddcbab
 112 ccddabcc
 115 bbccabcd
-120 cdcdabcf
+120 cdcdabde
 ```
 meaning that there were 8 questions on the exam and five students took it.
 
@@ -53,10 +53,10 @@ ID	Grade(%)
 107	62.50
 112	87.50
 115	37.50
-120	50.00
+120	62.50
 
 Question	1 2 3 4 5 6 7 8 
-Missed By	2 2 2 1 1 0 2 5 
+Missed By	2 2 2 1 1 0 2 4 
 ```
 
 ### Requirements
