@@ -3,6 +3,14 @@ collection: teaching
 title: "Lecture 7: Arrays continued, again, and makefiles"
 ---
 
+### Sorting arrays
+[video](https://youtu.be/GhRG26kSyBA)
+
+We use selection sort in this video. Feel free to try another sorting algorithm
+in program 1 if you like!
+
+Optional reading: 7.6
+
 ### Makefiles
 [video]
 
@@ -14,8 +22,4 @@ Key ideas:
 Additional resources:
 * [https://makefiletutorial.com/](https://makefiletutorial.com/) if you'd like
 	a more in-depth tutorial beyond what was covered in lecture
-
-### Sorting arrays
-
-Optional reading: 7.6
 
