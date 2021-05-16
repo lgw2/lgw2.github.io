@@ -19,8 +19,13 @@ Key ideas:
 Optional reading: 7.1-7.5
 
 Key ideas:
-* Declaring arrays
-* How arrays are stored in memory
+* Declaring arrays: `datatype name[size]`, e.g., `int nums[10]` to store 10
+	ints
+* Arrays can only store data of one type and have fixed size
+* Can initialize elements using `{}`
+* Arrays are stored contiguously in memory
+* Common error: overlowing array (and will not be detected by the compiler!)
+* Array indexing using `[]`
 * Accessing array elements using loops
 * Using arrays in functions
 * `const`
