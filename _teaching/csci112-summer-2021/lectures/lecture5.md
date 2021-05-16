@@ -4,7 +4,7 @@ title: "Lecture 5: Input/Output File Redirection and Arrays"
 ---
 
 ### Input/output file redirection
-[video]
+[video](https://youtu.be/GsHwmxoSdeo)
 
 Key ideas:
 * `<` and `>` on Linux redirect standard input and standard output
@@ -14,7 +14,8 @@ Key ideas:
 	to read lines of a file until end 
 
 ### Arrays
-[video]
+[video 1]
+[video 2]
 
 Optional reading: 7.1-7.5
 
@@ -27,6 +28,9 @@ Key ideas:
 * Common error: overlowing array (and will not be detected by the compiler!)
 * Array indexing using `[]`
 * Accessing array elements using loops
-* Using arrays in functions
-* `const`
+* Using arrays in functions: we pass arrays by reference because they are
+	actually pointers
+* To create an array in a function, create it, pass it in (actually passing a
+	pointer to the start of it), and then fill it
+* `const` for input array arguments
 * conditional operator
