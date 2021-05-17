@@ -23,7 +23,7 @@ A network address is made up of 4 sections – each an integer from 0-255.
 Each section is separated by a period (.) when shown to the user.
 Depending on the class of the address, one or more sections identify the network and one or
 more sections identify the host within the network.
-For the IP addresses from Class A, the first 8 bits (the first number) represent the network part, while the remaining 24 bits (last 3 numbers) represent the host part. For Class B, the first 16 bits (the first two numbers) represent the network part, while the remaining 16 bits (last 2 numbers) represent the host part. For Class C, the first 24 bits represent the network part (the first 3 numbers), while the remaining 8 bits (the last number) represent the host part.
+For an IP addresses from Class A, the first 8 bits (the first number) represent the network part, while the remaining 24 bits (last 3 numbers) represent the host part. For Class B, the first 16 bits (the first two numbers) represent the network part, while the remaining 16 bits (last 2 numbers) represent the host part. For Class C, the first 24 bits represent the network part (the first 3 numbers), while the remaining 8 bits (the last number) represent the host part.
 To idenfity which class a network is, we can look at the first number.
 
 * A: 0-127
@@ -50,8 +50,8 @@ might structure your program.
    argument, print an error and end the program. This argument is the number of
    network addresses that will be in the file.
 2. Read each address into a 2 dimensional array of 4 unsigned chars. The size
-   of the first array dimension in the command line argument. (Note: you can
-   use the `int` data type instead, but you will use 5 points. If you feel more
+   of the first array dimension is the command line argument. (Note: you can
+   use the `int` data type instead, but you will lose 5 points. If you feel more
    comfortable with `int`, you could write your program with `int` first and
    change it to `unsigned char` after it is working.)
 3. Sort the array. (You will need to implement a sorting algorithm of your
@@ -99,6 +99,8 @@ Largest C network is 216.2449 with 2 hosts
 ### Hints
 * If you prefer, you can write your entire program in one single file and just
 	separate it into four different files before you turn it in.
+* Print an `unsigned char` using the placeholder `%hhu`.
+* Start early!
 
 
 ### Requirements
