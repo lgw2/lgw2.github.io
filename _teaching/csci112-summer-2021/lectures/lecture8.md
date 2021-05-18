@@ -27,4 +27,4 @@ Key points:
 
 
 ### Program 1 intro
-[video]
+[video](https://youtu.be/B07mYxhXH1Y)
