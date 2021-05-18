@@ -13,7 +13,7 @@ Key points:
 * To read command line input, define main with two input arguments: number of
 	command line arguments and list of command line arguments, e.g. `int
 	main(int argc, char** argv) { }`
-* Here `argc` is the number of command line argumentsand `argv` is an array of
+* Here `argc` is the number of command line argument sand `argv` is an array of
 	character pointers containing all of the arguments.
 * To read one argument as an integer, use `atoi(argv[1])`. `atoi` is part of
 	the standard library, so use `#import <stdlib.h>`
