@@ -3,9 +3,6 @@ collection: teaching
 title: "Lecture 8: Getting ready for program 1: unsigned chars and command line inputs"
 ---
 
-### Unsigned char data type
-[video]
-
 ### Reading command line inputs
 [video]
 
@@ -17,6 +14,10 @@ Key points:
 	character pointers containing all of the arguments.
 * To read one argument as an integer, use `atoi(argv[1])`. `atoi` is part of
 	the standard library, so use `#import <stdlib.h>`
+
+### Unsigned char data type
+[video]
+
 
 ### Program 1 intro
 [video]
