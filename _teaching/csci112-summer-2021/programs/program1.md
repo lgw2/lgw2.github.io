@@ -72,7 +72,7 @@ Largest A network is 106 with 3 hosts
 Class B has 5 networks
 Largest B network is 137.249 with 2 hosts
 Class C has 2 networks
-Largest C network is 215.11626 with 2 hosts
+Largest C network is 215.116.26 with 2 hosts
 [p19t655@csci112 program1]$ ./pg1 2000 < inp2000.txt 
 Class A has 128 networks
 Largest A network is 38 with 16 hosts
@@ -93,7 +93,7 @@ Largest A network is 106 with 50 hosts
 Class B has 1961 networks
 Largest B network is 141.175 with 4 hosts
 Class C has 987 networks
-Largest C network is 216.2449 with 2 hosts
+Largest C network is 216.24.49 with 2 hosts
 ```
 
 ### Hints
