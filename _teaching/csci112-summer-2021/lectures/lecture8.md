@@ -18,6 +18,11 @@ Key points:
 ### Unsigned char data type
 [video]
 
+Key points:
+* `char` data type is actually one of many integer data types
+* `unsigned char` stores integers 0 to 255 using only 1 byte
+* use `%hhu` placeholder in strings for `printf` and `scanf`
+
 
 ### Program 1 intro
 [video]
