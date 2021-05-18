@@ -16,7 +16,7 @@ Key points:
 	the standard library, so use `#import <stdlib.h>`
 
 ### Unsigned char data type
-[video]
+[video](https://youtu.be/HZJP7UjT5-A)
 
 Key points:
 * `char` data type is actually one of many integer data types (see "Intege
