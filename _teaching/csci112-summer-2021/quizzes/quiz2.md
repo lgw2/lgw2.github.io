@@ -3,7 +3,8 @@ collection: teaching
 title: "Quiz 2"
 ---
 
-Quizzes will be on Brightspace and can be done on your own time. The second quiz
+Quizzes will be on Brightspace and can be done on your own time. They will be available the day before the quiz (Thursday).
+The second quiz
 will cover everything we discussed through the second week, including things
 covered in the first week. A practice quiz is available.
 
