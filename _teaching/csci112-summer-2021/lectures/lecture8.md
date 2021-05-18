@@ -4,7 +4,7 @@ title: "Lecture 8: Getting ready for program 1: unsigned chars and command line 
 ---
 
 ### Reading command line inputs
-[video]
+[video](https://youtu.be/wFOwc6jXA-s)
 
 Key points:
 * To read command line input, define main with two input arguments: number of
@@ -19,7 +19,9 @@ Key points:
 [video]
 
 Key points:
-* `char` data type is actually one of many integer data types
+* `char` data type is actually one of many integer data types (see "Intege
+	Types" here:
+	[https://www.tutorialspoint.com/cprogramming/c_data_types.htm](https://www.tutorialspoint.com/cprogramming/c_data_types.htm))
 * `unsigned char` stores integers 0 to 255 using only 1 byte
 * use `%hhu` placeholder in strings for `printf` and `scanf`
 
