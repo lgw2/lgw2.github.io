@@ -13,7 +13,7 @@ Key points:
 * Here `argc` is the number of command line argument sand `argv` is an array of
 	character pointers containing all of the arguments.
 * To read one argument as an integer, use `atoi(argv[1])`. `atoi` is part of
-	the standard library, so use `#import <stdlib.h>`
+	the standard library, so use `#include <stdlib.h>`
 
 ### Unsigned char data type
 [video](https://youtu.be/HZJP7UjT5-A)
