@@ -121,8 +121,9 @@ Largest C network is 216.24.49 with 2 hosts
 ## Grading - 100 points
 * 5 points – comments explaining what your program does
 * 5 points - code is indented so that it is readable
+* 5 points - there are no global variables
 * 10 points – compiles successfully with -Wall – no warnings
-* 10 points – successfully reads in and uses a command line parameter
+* 5 points – successfully reads in and uses a command line parameter
 * 5 points - has error msg if no command line parameter
 * 10 points – reads all input into a 2 dimensional array of size command line number x 4
 * 5 points - the array is of `unsigned char` data type
