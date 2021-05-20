@@ -114,6 +114,7 @@ Largest C network is 216.24.49 with 2 hosts
 	they only take 1 byte (8 bits) instead of 4 bytes, meaning that your
 	program will take only a quarter of the memory.
 * You must use a makefile to compile and link your separate files.
+* You may not use global variables.
 * Your output formatting must match the example. Use a tool like
 	[diffchecker](https://www.diffchecker.com/) to compare your output with the sample
 	output. Don't worry about trailing spaces.
