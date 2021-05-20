@@ -139,4 +139,4 @@ Largest C network is 216.24.49 with 2 hosts
 	(which was shown in the lecture video)
 
 ## Grading turnaround
-This classwork will be graded with scores in Brightspace by 5pm on May 13th.
+This program will be graded with scores in Brightspace by 5pm on May 25th.
