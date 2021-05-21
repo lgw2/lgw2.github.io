@@ -14,3 +14,7 @@ Key ideas:
 Optional reading:
 
 Key ideas:
+* `strncpy`
+* `strtok`
+* string comparison using `strcmp`. (And what is being compared if we do `str1 <
+	str2`?)
