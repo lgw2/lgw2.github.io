@@ -29,6 +29,7 @@ include the following query options:
 * Quit
 * Print all classes
 * Print all classes by course id (e.g., `CSCI 112`)
+* Print all classes by days of course meeting (e.g., `MWF`)
 * Print all classes under a certain number of seats
 
 You should also add at least one more option that is different from all the
