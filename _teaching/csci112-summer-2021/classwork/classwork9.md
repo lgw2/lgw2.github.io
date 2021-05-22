@@ -12,7 +12,7 @@ title: "Classwork 9"
 	order to earn partial credit.
 
 ## Learning outcomes
-* Practice using pointers to pass by reference to a function.
+* Practice using strings and understand their relationship to chars.
 
 ## Assignment
 
