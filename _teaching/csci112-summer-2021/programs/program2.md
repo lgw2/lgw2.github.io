@@ -22,9 +22,9 @@ title: "Program 2"
 ## Assignment
 
 Create a program that reads in a list of CSCI classes from a file.  Store the
-list in an array of data structures. Then, allow the user to have a number of
+list in an array of structures. Then, give the user to have a number of
 options to query the list of classes and get information about them. You must
-include the following options:
+include the following query options:
 * Quit
 * Print all classes
 * Print all classes by course id (e.g., `CSCI 112`)
@@ -198,7 +198,15 @@ Bye!
 	variable declaration/initialization).
 * Start early!
 
-### Requirements
+### Extras
+
+If you want, you can include the following requirements in your program. They
+are ungraded, though, so ignore if you want.
+* Allow your program to read files containing any number of classes, rather
+	than hard-coding the number of lines from the file.
+* Give a warning if the file doesn't exist.
+* Provide a nice output if the user enters a disallowed choice.
+* Don't use `gets`.
 
 ## Grading - 100 points
 * 5 points – comments explaining what your program does
