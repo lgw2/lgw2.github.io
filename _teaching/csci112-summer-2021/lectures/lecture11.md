@@ -22,12 +22,11 @@ Optional reading: 10.
 Key ideas:
 * In procedural programming language like C, we *can* put data together (but
 	can't tie logic to it). 
-* Example:
+* Syntax:
 ```
 typedef struct {
-	char name[10];
-	double diameter;
-	int moons;
-	double orbit_time, rotation_time;
-} planet_t;
+	<type> <id>;
+	<type> <id>;
+	...
+} <name of structure datatype>;
 ```
