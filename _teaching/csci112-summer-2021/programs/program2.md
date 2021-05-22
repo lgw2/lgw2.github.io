@@ -161,7 +161,6 @@ Embedded Systems: Robotics              CSCI 455    Lloyd Hunter S
 84    MWF   1200-1250   
 Compilers                               CSCI 468    Kahanda Indika M
 80    MWF   1510-1600   
-Please enter a valid choice.
 Choices:
 a - print all available classes
 n - print class given course id
@@ -176,7 +175,6 @@ Social & Ethical Issues in CS           CSCI 215    Cummings Mary A
 60    TR    1505-1555   
 Computer Systems                        CSCI 366    Wittie Mike
 60    MWF   0900-0950   
-Please enter a valid choice.
 Choices:
 a - print all available classes
 n - print class given course id
