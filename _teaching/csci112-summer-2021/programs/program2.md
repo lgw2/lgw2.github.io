@@ -196,6 +196,7 @@ Bye!
 	can add a `getchar()` before your `gets`.
 * Remember that string assignment must be done with `strcpy` (unless it's in a
 	variable declaration/initialization).
+* Use `strtok` to separate parts of the input strings.
 * Start early!
 
 ### Extras
