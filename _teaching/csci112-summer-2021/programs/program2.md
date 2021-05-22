@@ -35,6 +35,8 @@ options listed above.
 
 ### Sample output
 
+You do *not* need to match the sample output formatting.
+
 ```
 Choices:
 a - print all available classes
@@ -202,21 +204,20 @@ Bye!
 * 5 points – comments explaining what your program does
 * 5 points - code is indented so that it is readable
 * 5 points - there are no global variables
-* 10 points – compiles successfully with -Wall – no warnings except for about
+* 5 points – compiles successfully with -Wall – no warnings except for about
 	`get`
-* 5 points – successfully reads in and uses a command line parameter
-* 5 points - has error msg if no command line parameter
-* 10 points – reads all input into a 2 dimensional array of size command line number x 4
-* 5 points - the array is of `unsigned char` data type
+* 5 points – successfully reads all classes from file
+* 10 points – stores info for all classes in an arry of structs
 * 5 points – compiles and links  with makefile
-* 5 points - four functions are stored in different files
-* 10 points – computes the number of networks for class A, B, C correctly.
-* 15 points – identifies the largest networks for class A, B, C correctly,
-	prints the largest network, and prints the correct largest count
-* 5 points – sorts addresses in order to count them
-* 10 points - correctly implements a sorting algorithm
-* BONUS 5 points - uses a different sorting algorithm other than selection sort
-	(which was shown in the lecture video)
+* 5 points - there are at least four different files
+* 5 points - implements printing all classes correctly
+* 5 points - implements printing class by id correctly
+* 5 points - implements printing class days of week correctly
+* 10 points - implements printing classes under certain # seats correctly
+* 5 points - offers one more option to users
+* 10 points - extra option is implemented correctly
+* 10 points - `struct` is in its own header file
+* 5 points - output is printed neatly
 
 ## Grading turnaround
 This program will be graded with scores in Brightspace by 5pm on May 25th.
