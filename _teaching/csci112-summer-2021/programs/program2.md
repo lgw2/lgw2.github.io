@@ -21,7 +21,8 @@ title: "Program 2"
 
 ## Assignment
 
-Create a program that reads in a list of CSCI classes from a file.  Store the
+Create a program that reads in a list of CSCI classes from a file found at
+`/public/pgm2/classes.csv`.  Store the
 list in an array of structures. Then, give the user to have a number of
 options to query the list of classes and get information about them. You must
 include the following query options:
