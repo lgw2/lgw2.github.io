@@ -187,10 +187,10 @@ enthusiastic about course material and my role in helping you learn.
 |Friday 5/21|[]()||||[Quiz 2](https://lgw2.github.io/teaching/csci112-summer-2021/quizzes/quiz2/)|
 |Saturday 5/22||||||
 |Sunday 5/23||||||
-|Monday 5/24|[]()|Classwork 8||[Program 1](https://lgw2.github.io/teaching/csci112-summer-2021/programs/program1/)||
-|Tuesday 5/25|[]()|Classwork 9||||
-|Wednesday 5/26|[]()|Classwork 10||||
-|Thursday 5/27|[]()|Work on program 2|Lab 4|||
+|Monday 5/24|[]()|[Classwork 8](https://lgw2.github.io/teaching/csci112-summer-2021/classwork/classwork8/)||[Program 1](https://lgw2.github.io/teaching/csci112-summer-2021/programs/program1/)||
+|Tuesday 5/25|[]()|[Classwork 9](https://lgw2.github.io/teaching/csci112-summer-2021/classwork/classwork9/)||||
+|Wednesday 5/26|[]()|[Classwork 10](https://lgw2.github.io/teaching/csci112-summer-2021/classwork/classwork10/)|[Lab 4](https://lgw2.github.io/teaching/csci112-summer-2021/labs/lab4/)|||
+|Thursday 5/27|[]()|Work on program 2||||
 |Friday 5/28|[]()||||Quiz 3|
 |Saturday 5/29||||||
 |Sunday 5/30||||Program 2||

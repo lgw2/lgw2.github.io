@@ -21,5 +21,4 @@ Key ideas:
 * Why do we use pointers? To pass values by reference, to access arrays
 	effectively, to allocate memory dynamically, and to define complex data
 	structures.
-* `malloc` and `calloc`
-* `free`
+* `malloc`, `calloc`, and `free` (may be moving these to a later lecture)
