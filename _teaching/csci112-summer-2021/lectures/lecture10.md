@@ -14,9 +14,13 @@ Key ideas:
 Optional reading:
 
 Key ideas:
+* Strings are arrays of `char`
+* String initialization (can be done with assignment operator `=`)
+* String assignment must be done with `strncpy`
 * `strlen` (difference from `sizeof`)
 * string comparison using `strcmp`. (And what is being compared if we do `str1 <
 	str2`?)
 * `strncpy`
 * `strtok`
 * Converting a string to a number and vice versa
+
