@@ -214,7 +214,7 @@ are ungraded, though, so ignore if you want.
 * 5 points - there are no global variables
 * 5 points – compiles successfully with -Wall – no warnings except for about
 	`get`
-* 5 points – successfully reads all classes from file
+* 5 points – successfully reads all classes from `classes.csv`
 * 10 points – stores info for all classes in an arry of structs
 * 5 points – compiles and links  with makefile
 * 5 points - there are at least four different files
