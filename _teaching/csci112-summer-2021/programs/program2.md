@@ -33,7 +33,157 @@ include the following options:
 You should also add at least one more option that is different from all the
 options listed above.
 
-### Sample input and output
+### Sample output
+
+```
+Choices:
+a - print all available classes
+n - print class given course id
+d - print all classes given day of week combo
+s - print all classes under certain # seats
+q - quit
+a
+Joy and Beauty of Computing             CSCI 107    Paxton John T
+62    MWF   1000-1050   
+Programming with C I                    CSCI 112    Cummings Mary A
+175   MWF   0900-0950   
+Joy and Beauty of Data                  CSCI 127    DeFrance Daniel Louis
+155   MWF   0900-0950   
+Bsc Data Structures/Algorithms          CSCI 132    DeFrance Daniel Louis
+156   MWF   1510-1600   
+Social & Ethical Issues in CS           CSCI 215    Cummings Mary A
+60    TR    1505-1555   
+Data Structures and Algorithms          CSCI 232    Lloyd Hunter S
+128   TR    1050-1205   
+Discrete Structures                     CSCI 246    Zhu Binhai
+84    MWF   0800-0850   
+Concepts/Programming Languages          CSCI 305    Lloyd Hunter S
+144   MWF   0800-0850   
+Computer Science Theory                 CSCI 338    Zhu Binhai
+140   MWF   1100-1150   
+Data Mining                             CSCI 347    Neeley Veronika
+75    MWF   1310-1400   
+Computer Systems                        CSCI 366    Wittie Mike
+60    MWF   0900-0950   
+Computer Graphics                       CSCI 441    Millman David
+65    TR    1630-1745   
+Artificial Intelligence                 CSCI 446    Sheppard John W
+63    TR    0925-1040   
+Embedded Systems: Robotics              CSCI 455    Lloyd Hunter S
+84    MWF   1200-1250   
+Compilers                               CSCI 468    Kahanda Indika M
+80    MWF   1510-1600   
+Choices:
+a - print all available classes
+n - print class given course id
+d - print all classes given day of week combo
+s - print all classes under certain # seats
+q - quit
+n
+Enter class id: CSCI 112
+Programming with C I                    CSCI 112    Cummings Mary A
+175   MWF   0900-0950   
+Choices:
+a - print all available classes
+n - print class given course id
+d - print all classes given day of week combo
+s - print all classes under certain # seats
+q - quit
+n
+Enter class id: CSCI 456
+Choices:
+a - print all available classes
+n - print class given course id
+d - print all classes given day of week combo
+s - print all classes under certain # seats
+q - quit
+d
+Enter day of week combo: MWF
+Joy and Beauty of Computing             CSCI 107    Paxton John T
+62    MWF   1000-1050   
+Programming with C I                    CSCI 112    Cummings Mary A
+175   MWF   0900-0950   
+Joy and Beauty of Data                  CSCI 127    DeFrance Daniel Louis
+155   MWF   0900-0950   
+Bsc Data Structures/Algorithms          CSCI 132    DeFrance Daniel Louis
+156   MWF   1510-1600   
+Discrete Structures                     CSCI 246    Zhu Binhai
+84    MWF   0800-0850   
+Concepts/Programming Languages          CSCI 305    Lloyd Hunter S
+144   MWF   0800-0850   
+Computer Science Theory                 CSCI 338    Zhu Binhai
+140   MWF   1100-1150   
+Data Mining                             CSCI 347    Neeley Veronika
+75    MWF   1310-1400   
+Computer Systems                        CSCI 366    Wittie Mike
+60    MWF   0900-0950   
+Embedded Systems: Robotics              CSCI 455    Lloyd Hunter S
+84    MWF   1200-1250   
+Compilers                               CSCI 468    Kahanda Indika M
+80    MWF   1510-1600   
+Choices:
+a - print all available classes
+n - print class given course id
+d - print all classes given day of week combo
+s - print all classes under certain # seats
+q - quit
+s
+Enter maximum number of seats: 200
+Joy and Beauty of Computing             CSCI 107    Paxton John T
+62    MWF   1000-1050   
+Programming with C I                    CSCI 112    Cummings Mary A
+175   MWF   0900-0950   
+Joy and Beauty of Data                  CSCI 127    DeFrance Daniel Louis
+155   MWF   0900-0950   
+Bsc Data Structures/Algorithms          CSCI 132    DeFrance Daniel Louis
+156   MWF   1510-1600   
+Social & Ethical Issues in CS           CSCI 215    Cummings Mary A
+60    TR    1505-1555   
+Data Structures and Algorithms          CSCI 232    Lloyd Hunter S
+128   TR    1050-1205   
+Discrete Structures                     CSCI 246    Zhu Binhai
+84    MWF   0800-0850   
+Concepts/Programming Languages          CSCI 305    Lloyd Hunter S
+144   MWF   0800-0850   
+Computer Science Theory                 CSCI 338    Zhu Binhai
+140   MWF   1100-1150   
+Data Mining                             CSCI 347    Neeley Veronika
+75    MWF   1310-1400   
+Computer Systems                        CSCI 366    Wittie Mike
+60    MWF   0900-0950   
+Computer Graphics                       CSCI 441    Millman David
+65    TR    1630-1745   
+Artificial Intelligence                 CSCI 446    Sheppard John W
+63    TR    0925-1040   
+Embedded Systems: Robotics              CSCI 455    Lloyd Hunter S
+84    MWF   1200-1250   
+Compilers                               CSCI 468    Kahanda Indika M
+80    MWF   1510-1600   
+Please enter a valid choice.
+Choices:
+a - print all available classes
+n - print class given course id
+d - print all classes given day of week combo
+s - print all classes under certain # seats
+q - quit
+s
+Enter maximum number of seats: 62
+Joy and Beauty of Computing             CSCI 107    Paxton John T
+62    MWF   1000-1050   
+Social & Ethical Issues in CS           CSCI 215    Cummings Mary A
+60    TR    1505-1555   
+Computer Systems                        CSCI 366    Wittie Mike
+60    MWF   0900-0950   
+Please enter a valid choice.
+Choices:
+a - print all available classes
+n - print class given course id
+d - print all classes given day of week combo
+s - print all classes under certain # seats
+q - quit
+q
+Bye!
+```
 
 ### Hints
 * You can use `gets` to read in input with spaces without a newline character.
