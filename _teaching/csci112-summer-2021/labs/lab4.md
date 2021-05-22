@@ -26,7 +26,11 @@ to read it in.
 
 You will write the list sorted by name to a file.
 Only print the number of the category, not the whole phrase that is in the file
-for category.
+for category. For example, the first hurricane info line you print to your file
+should look like
+```
+Agnes     1    19-Jun,1972
+```
 
 ### Sample output
 
