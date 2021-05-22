@@ -18,5 +18,8 @@ Key ideas:
 * `*` and `&`
 * Equivalence of arrays and pointers
 * Pointer arithmetic for arrays
+* Why do we use pointers? To pass values by reference, to access arrays
+	effectively, to allocate memory dynamically, and to define complex data
+	structures.
 * `malloc` and `calloc`
 * `free`

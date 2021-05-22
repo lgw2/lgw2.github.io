@@ -14,7 +14,9 @@ Key ideas:
 Optional reading:
 
 Key ideas:
-* `strncpy`
-* `strtok`
+* `strlen` (difference from `sizeof`)
 * string comparison using `strcmp`. (And what is being compared if we do `str1 <
 	str2`?)
+* `strncpy`
+* `strtok`
+* Converting a string to a number and vice versa
