@@ -4,7 +4,11 @@ title: "Lecture 9: Pointers"
 ---
 
 ### Intro to pointers
-[video]
+Declaring and using pointers [video](https://youtu.be/YpUBUIvZNI0)
+
+Using pointers to pass by reference [video](https://youtu.be/EiIRFqiASM8)
+
+Arrays as pointers [video](https://youtu.be/X5U-ytj5JOw)
 
 Optional reading:
 
@@ -24,4 +28,3 @@ Key ideas:
 * Why do we use pointers? To pass values by reference, to access arrays
 	effectively, to allocate memory dynamically, and to define complex data
 	structures.
-* `malloc`, `calloc`, and `free` (may be moving these to a later lecture)
