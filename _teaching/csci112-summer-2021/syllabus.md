@@ -193,7 +193,7 @@ enthusiastic about course material and my role in helping you learn.
 |Thursday 5/27|[]()|Work on program 2||||
 |Friday 5/28|[]()||||Quiz 3|
 |Saturday 5/29||||||
-|Sunday 5/30||||Program 2||
+|Sunday 5/30||||[Program 2](https://lgw2.github.io/teaching/csci112-summer-2021/programs/program2/)||
 |Memorial Day|
 |Tuesday 6/1|[]()|Classwork 11||||
 |Wednesday 6/2|[]()|Classwork 12|Lab 5|||
