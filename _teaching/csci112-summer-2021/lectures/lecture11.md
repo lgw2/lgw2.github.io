@@ -34,4 +34,4 @@ typedef struct {
 * Assigning component values using `=` vs. `strcpy` for strings
 * Precedence of `.`
 * structs as pointers and using `->` 
-* creating header files to define your own structs
+* putting a struct in its own header file

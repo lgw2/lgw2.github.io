@@ -225,7 +225,7 @@ are ungraded, though, so ignore if you want.
 * 10 points - implements printing classes under certain # seats correctly
 * 5 points - offers one more option to users
 * 10 points - extra option is implemented correctly
-* 10 points - `struct` is in its own header file
+* 10 points - your `struct` is in its own header file
 * 5 points - output is printed neatly
 
 ## Grading turnaround
