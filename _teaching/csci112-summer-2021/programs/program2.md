@@ -208,6 +208,7 @@ are ungraded, though, so ignore if you want.
 * Give a warning if the file doesn't exist.
 * Provide a nice output if the user enters a disallowed choice.
 * Don't use `gets`.
+* If no class is returned by a query, print a special message.
 
 ## Grading - 100 points
 * 5 points – comments explaining what your program does

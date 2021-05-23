@@ -3,9 +3,6 @@ collection: teaching
 title: "Lecture 9: Pointers"
 ---
 
-### Hex numbers in C
-[video]
-
 ### Intro to pointers
 [video]
 
