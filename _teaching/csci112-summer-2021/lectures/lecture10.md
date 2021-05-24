@@ -14,9 +14,12 @@ Key ideas:
 * To create a file pointer, `FILE *var_name`
 * To point it to a file, `var_name = fopen("file_name", ["r" or "w"])`
 * Then, use `fscanf` and `fprintf` to read and write
+* If a file for reading does not exist, trying to use its pointer will give a
+	segmentation fault
 
 ### Strings
-Declaring and initializing strings; reading with `scanf` [video]
+Declaring and initializing strings; reading with `scanf` [video](
+String library functions [video](
 
 Optional reading:
 
@@ -24,11 +27,12 @@ Key ideas:
 * Strings are arrays of `char` with a `\0` at end (`hello` needs 6 elements to
 	store, not 5)
 * String initialization (can be done with assignment operator `=`)
-* String assignment must be done with `strncpy`
-* `strlen` (difference from `sizeof`)
-* string comparison using `strcmp`. (And what is being compared if we do `str1 <
-	str2`?)
-* `strncpy`
-* `strtok`
+* String assignment must be done with `strcpy`
+* String library functions (reference:
+	[https://www.tutorialspoint.com/c_standard_library/string_h.htm](https://www.tutorialspoint.com/c_standard_library/string_h.htm))
+1. `strcpy`
+2. `strncpy`
+3. `strcmpr`
+3. `strtok`
 * Converting a string to a number and vice versa
 
