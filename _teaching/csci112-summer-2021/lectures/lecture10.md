@@ -6,6 +6,8 @@ title: "Lecture 10: Reading from files; strings"
 ### Reading from files
 [video]
 
+Optional reading: 6.1
+
 Key ideas:
 
 ### Strings

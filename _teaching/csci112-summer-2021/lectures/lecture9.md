@@ -10,7 +10,9 @@ Using pointers to pass by reference [video](https://youtu.be/EiIRFqiASM8)
 
 Arrays as pointers [video](https://youtu.be/X5U-ytj5JOw)
 
-Optional reading:
+Segementation fault [video](https://youtu.be/Ca7zVQUAenc)
+
+Optional reading: chapter 6
 
 Key ideas:
 * What is a pointer?
