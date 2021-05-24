@@ -4,11 +4,14 @@ title: "Lecture 10: Reading from files; strings"
 ---
 
 ### Reading from files
-[video]
+[video](https://youtu.be/crW2pCMMUBM)
 
 Optional reading: 6.1
 
 Key ideas:
+* To create a file pointer, `FILE *var_name`
+* To point it to a file, `var_name = fopen("file_name", ["r" or "w"])`
+* Then, use `fscanf` and `fprintf` to read and write
 
 ### Strings
 [video]
