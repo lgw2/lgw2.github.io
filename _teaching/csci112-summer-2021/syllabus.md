@@ -190,7 +190,7 @@ enthusiastic about course material and my role in helping you learn.
 |Monday 5/24|[Pointers](https://lgw2.github.io/teaching/csci112-summer-2021/lectures/lecture9/)|[Classwork 8](https://lgw2.github.io/teaching/csci112-summer-2021/classwork/classwork8/)||[Program 1](https://lgw2.github.io/teaching/csci112-summer-2021/programs/program1/)||
 |Tuesday 5/25|[Reading from files; strings](https://lgw2.github.io/teaching/csci112-summer-2021/lectures/lecture10/)|[Classwork 9](https://lgw2.github.io/teaching/csci112-summer-2021/classwork/classwork9/)||||
 |Wednesday 5/26|[User-defined types; structs](https://lgw2.github.io/teaching/csci112-summer-2021/lectures/lecture11/)|[Classwork 10](https://lgw2.github.io/teaching/csci112-summer-2021/classwork/classwork10/)|[Lab 4](https://lgw2.github.io/teaching/csci112-summer-2021/labs/lab4/)|||
-|Thursday 5/27|[]()|Work on program 2||||
+|Thursday 5/27|[Examples of developing C programs using pointers, strings, and structs ](https://lgw2.github.io/teaching/csci112-summer-2021/lectures/lecture12/)|Work on program 2||||
 |Friday 5/28|[]()||||Quiz 3|
 |Saturday 5/29||||||
 |Sunday 5/30||||[Program 2](https://lgw2.github.io/teaching/csci112-summer-2021/programs/program2/)||
