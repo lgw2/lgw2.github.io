@@ -6,6 +6,8 @@ title: "Lecture 10: Reading from files; strings"
 ### Reading from files
 [video](https://youtu.be/crW2pCMMUBM)
 
+Segmentation fault [video](https://youtu.be/ZegUxWCMThI)
+
 Optional reading: 6.1
 
 Key ideas:
@@ -14,12 +16,13 @@ Key ideas:
 * Then, use `fscanf` and `fprintf` to read and write
 
 ### Strings
-[video]
+Declaring and initializing strings; reading with `scanf` [video]
 
 Optional reading:
 
 Key ideas:
-* Strings are arrays of `char`
+* Strings are arrays of `char` with a `\0` at end (`hello` needs 6 elements to
+	store, not 5)
 * String initialization (can be done with assignment operator `=`)
 * String assignment must be done with `strncpy`
 * `strlen` (difference from `sizeof`)
