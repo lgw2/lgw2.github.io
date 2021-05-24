@@ -198,7 +198,7 @@ enthusiastic about course material and my role in helping you learn.
 |Tuesday 6/1|[]()|Classwork 11||||
 |Wednesday 6/2|[]()|Classwork 12|Lab 5|||
 |Thursday 6/3|[]()|Classwork 13||||
-|Friday 6/4|[]()|Classwork 14||Program 3||
+|Friday 6/4|[]()|Classwork 14||Lab 6||
 
 
 ## Acknowledgments
