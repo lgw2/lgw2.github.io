@@ -110,7 +110,7 @@ By the end of the course, students should be able to:
 
 You will be graded on the following:
 * 14 classwork assignments: 14%
-* ~~6 labs: ~~ 5 labs: 36%
+* ~~6 labs:~~ 5 labs: 36%
 * ~~3 programs:~~ 2 programs 30%
 * 3 quizzes: 20%
 
