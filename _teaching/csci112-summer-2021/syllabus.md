@@ -189,16 +189,16 @@ enthusiastic about course material and my role in helping you learn.
 |Sunday 5/23||||||
 |Monday 5/24|[Pointers](https://lgw2.github.io/teaching/csci112-summer-2021/lectures/lecture9/)|[Classwork 8](https://lgw2.github.io/teaching/csci112-summer-2021/classwork/classwork8/)||[Program 1](https://lgw2.github.io/teaching/csci112-summer-2021/programs/program1/)||
 |Tuesday 5/25|[Reading from files; strings](https://lgw2.github.io/teaching/csci112-summer-2021/lectures/lecture10/)|[Classwork 9](https://lgw2.github.io/teaching/csci112-summer-2021/classwork/classwork9/)||||
-|Wednesday 5/26|[User-defined types; structs](https://lgw2.github.io/teaching/csci112-summer-2021/lectures/lecture11/)|[Classwork 10](https://lgw2.github.io/teaching/csci112-summer-2021/classwork/classwork10/)|[Lab 4](https://lgw2.github.io/teaching/csci112-summer-2021/labs/lab4/)|||
-|Thursday 5/27|[Examples of developing C programs using pointers, strings, and structs ](https://lgw2.github.io/teaching/csci112-summer-2021/lectures/lecture12/)|Work on program 2||||
+|Wednesday 5/26|[User-defined types; structs](https://lgw2.github.io/teaching/csci112-summer-2021/lectures/lecture11/)|[Classwork 10](https://lgw2.github.io/teaching/csci112-summer-2021/classwork/classwork10/)||||
+|Thursday 5/27|[Examples of developing C programs using pointers, strings, and structs ](https://lgw2.github.io/teaching/csci112-summer-2021/lectures/lecture12/)|Work on program 2|[Lab 4](https://lgw2.github.io/teaching/csci112-summer-2021/labs/lab4/)|||
 |Friday 5/28|[]()||||Quiz 3|
 |Saturday 5/29||||||
-|Sunday 5/30||||[Program 2](https://lgw2.github.io/teaching/csci112-summer-2021/programs/program2/)||
+|Sunday 5/30||||||
 |Memorial Day|
-|Tuesday 6/1|[]()|Classwork 11||||
-|Wednesday 6/2|[]()|Classwork 12|Lab 5|||
+|Tuesday 6/1|[]()|Classwork 11|[Program 2](https://lgw2.github.io/teaching/csci112-summer-2021/programs/program2/)|||
+|Wednesday 6/2|[]()|Classwork 12||||
 |Thursday 6/3|[]()|Classwork 13||||
-|Friday 6/4|[]()|Classwork 14|Lab 6|||
+|Friday 6/4|[]()|Classwork 14|Lab 5|||
 
 
 ## Acknowledgments
