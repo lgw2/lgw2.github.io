@@ -47,8 +47,8 @@ A sample output file can be found at `/public/lab4/out.txt`.
 * In previous labs, we have used tabs (`\t`) to space our output. For this
 	assignment, you may want to use padding instead. For example, if the
 	character array `var` held `Montana`,
-	`printf("%10s", var)` would print `   Montana`, so that the output took up
-	exactly 10 characters. To print `Montana   ` (with the spaces on the right,
+	`printf("%10s", var)` would print so that the output took up
+	exactly 10 characters. To print with the spaces on the right,
 	we could do `printf("%-10s", var)`.
 * Consider structuring your program like so: store each line in an array of
 	strings. Sort it. (Or sort an array of pointers to strings in your original
