@@ -18,10 +18,13 @@ Key ideas:
 	segmentation fault
 
 ### Strings
-Declaring and initializing strings; reading with `scanf` [video](
-String library functions [video](
+Declaring and initializing strings; reading with `scanf` [video](https://youtu.be/y0Um7J5-rO0)
 
-Optional reading:
+`strcpy` and `strtok` [video](https://youtu.be/CA3P9iVOo4E)
+
+More string library functions; reading whole lines [video]
+
+Optional reading: Chapter 8
 
 Key ideas:
 * Strings are arrays of `char` with a `\0` at end (`hello` needs 6 elements to
@@ -34,5 +37,6 @@ Key ideas:
 2. `strncpy`
 3. `strcmpr`
 3. `strtok`
+* `gets` and `fgets`
 * Converting a string to a number and vice versa
 
