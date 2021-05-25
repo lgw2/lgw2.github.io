@@ -15,8 +15,8 @@ Key ideas:
 * Can use the types as integers for readability of code
 
 ### Structs
-Intro [video](https://youtu.be/uujZ4KSDA0A)
-More on structs [video](https://youtu.be/V9dXeYfcVa4)
+Intro to  structs [video](https://youtu.be/V9dXeYfcVa4)
+More on structs [video]
 
 
 Optional reading: 10.
