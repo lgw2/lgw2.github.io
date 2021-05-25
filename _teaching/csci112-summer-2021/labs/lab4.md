@@ -4,7 +4,7 @@ title: "Lab 4"
 ---
 
 ## Logistics
-* Due: Wednesday, May 26th no later than 11:59pm.
+* Due: Thursday, May 27th no later than 11:59pm.
 * Submission instructions: push a commit with the tag `lab4` to your git
 	repository.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
@@ -54,6 +54,8 @@ A sample output file can be found at `/public/lab4/out.txt`.
 	strings. Sort it. (Or sort an array of pointers to strings in your original
 	array.) Then use `strtok` only when you go to print out the lines in sorted
 	order.
+* Look at `/public/examples/chap8/fig_8_14.c`, which also sorts an array of
+	strings
 
 ## Grading - 100 points
 * 5 points – comments explaining what your program does
@@ -70,4 +72,4 @@ A sample output file can be found at `/public/lab4/out.txt`.
 * 10 points - matches the sample output formatting exactly
 
 ## Grading turnaround
-This lab will be graded with scores in Brightspace by 5pm on May 27th.
+This lab will be graded with scores in Brightspace by 5pm on May 28th.
