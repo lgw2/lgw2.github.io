@@ -22,7 +22,7 @@ Declaring and initializing strings; reading with `scanf` [video](https://youtu.b
 
 `strcpy` and `strtok` [video](https://youtu.be/CA3P9iVOo4E)
 
-More string library functions; reading whole lines [video]
+More string library functions; reading whole lines; example [video](https://youtu.be/83jCQl2-NPw)
 
 Optional reading: Chapter 8
 
