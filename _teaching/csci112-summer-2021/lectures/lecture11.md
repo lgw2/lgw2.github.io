@@ -4,7 +4,7 @@ title: "Lecture 11: User defined types and structs"
 ---
 
 ### User-defined types
-[video]
+[video](https://youtu.be/uujZ4KSDA0A)
 
 Optional reading: Chapter 7.7
 
@@ -15,7 +15,9 @@ Key ideas:
 * Can use the types as integers for readability of code
 
 ### Structs
-[video]
+Intro [video](https://youtu.be/uujZ4KSDA0A)
+More on structs [video](https://youtu.be/V9dXeYfcVa4)
+
 
 Optional reading: 10.
 
