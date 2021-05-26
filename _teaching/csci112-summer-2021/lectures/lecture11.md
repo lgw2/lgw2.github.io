@@ -34,7 +34,7 @@ typedef struct {
 * Accessing components using the direct component selection operator `.` 
 * Assigning component values using `=` vs. `strcpy` for strings
 * Precedence of `.`
-* structs as pointers and using `->` 
+* Passing structs as pointers and using `->` 
 * putting a struct in its own header file
 
 ### Lab 4 intro

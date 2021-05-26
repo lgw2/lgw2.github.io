@@ -191,7 +191,7 @@ enthusiastic about course material and my role in helping you learn.
 |Tuesday 5/25|[Reading from files; strings](https://lgw2.github.io/teaching/csci112-summer-2021/lectures/lecture10/)|[Classwork 9](https://lgw2.github.io/teaching/csci112-summer-2021/classwork/classwork9/)||||
 |Wednesday 5/26|[User-defined types; structs](https://lgw2.github.io/teaching/csci112-summer-2021/lectures/lecture11/)|[Classwork 10](https://lgw2.github.io/teaching/csci112-summer-2021/classwork/classwork10/)||||
 |Thursday 5/27|[Examples of developing C programs using pointers, strings, and structs ](https://lgw2.github.io/teaching/csci112-summer-2021/lectures/lecture12/)|Work on program 2|[Lab 4](https://lgw2.github.io/teaching/csci112-summer-2021/labs/lab4/)|||
-|Friday 5/28|office hours with Seraj 10:30-11:30||||Quiz 3|
+|Friday 5/28|office hours with Seraj 10:30-11:30||||[Quiz 3](https://lgw2.github.io/teaching/csci112-summer-2021/quizzes/quiz3/)|
 |Saturday 5/29||||||
 |Sunday 5/30||||||
 |Memorial Day|

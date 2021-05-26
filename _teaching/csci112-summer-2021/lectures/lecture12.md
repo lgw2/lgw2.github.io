@@ -3,12 +3,12 @@ collection: teaching
 title: "Lecture 12: Examples"
 ---
 
+### Program 2 intro
+[video]
+
 ### Examples of developing C programs using pointers, strings, and structs
 
-Reading from a file into a struct: [video]
+Problem 1 (recorded during class) [video]
 
-Printing data from a struct: [video]
+Problem 2 (recorded during class) [video]
 
-Writing a struct in a header file: [video]
-
-Converting a string to an int: [video]
