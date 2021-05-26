@@ -16,8 +16,7 @@ Key ideas:
 
 ### Structs
 Intro to  structs [video](https://youtu.be/V9dXeYfcVa4)
-More on structs [video]
-
+More on structs [video](https://youtu.be/6CsmXcQl61w)
 
 Optional reading: 10.
 
@@ -37,3 +36,7 @@ typedef struct {
 * Precedence of `.`
 * structs as pointers and using `->` 
 * putting a struct in its own header file
+
+### Lab 4 intro
+
+[video](https://youtu.be/8LDCCBVz0oU)
