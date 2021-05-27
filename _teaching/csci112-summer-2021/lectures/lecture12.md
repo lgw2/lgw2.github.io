@@ -10,7 +10,8 @@ title: "Lecture 12: Examples"
 
 #### Problem 1 (recorded during class) [video]
 
-Read the `classes.csv`. Create an array of structs containing the course number
+Write in a prgraom to read `classes.csv` (in `/public/pgm2/`).
+Create an array of structs containing the course number
 and the coures name. Include a function to print the struct so that you can
 check your work.
 
