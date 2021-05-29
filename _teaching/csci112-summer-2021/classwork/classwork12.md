@@ -26,7 +26,8 @@ Length is 7
 ```
 
 Optional: ask the user for a maximum number of expected letters and allocate
-space for your string dynamically. In this case, interaction with the user
+space for your string dynamically. Before ending your program, use `free` to
+free the space used by your string. In this case, interaction with the user
 might look like:
 ```
 Enter a max word length> 20
