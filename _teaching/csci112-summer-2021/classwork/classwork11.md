@@ -48,7 +48,6 @@ int main(void) {
 }
 ```
 
-
 ## Grading - 10 points
 * 1 point - there is a file called `classwork11.c` in your
 	`classwork/classwork11/` directory.
