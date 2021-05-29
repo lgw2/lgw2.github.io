@@ -26,7 +26,7 @@ operator `->`. Finally, at the end of your program, free the memory using
 # preprocessor directives
 
 # user-defined types
-typdef struct {
+typedef struct {
 	# components for point
 } point;
 
