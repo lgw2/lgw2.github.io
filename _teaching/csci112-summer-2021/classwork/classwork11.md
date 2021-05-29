@@ -19,11 +19,13 @@ title: "Classwork 11"
 Write a program called `classwork11.c` containing a struct that representing a
 two-dimensional point. Use `malloc` to dynamically allocate a point struct. Set
 the x and y coordinates of your point using the indirect component selection
-operator `->`. Finally, at the end of your program, free the memory using
+operator `->`. Print info about your point, again using `->`. 
+Finally, at the end of your program, free the memory using
 `free`. A skeleton for your code may look something like this:
 
 ```
-# preprocessor directives
+#include <stdio.h>
+#include <stdlib.h>
 
 # user-defined types
 typedef struct {
@@ -37,6 +39,8 @@ int main(void) {
 	to
 
 	# set x and y coordinates to values of your choice
+
+	# print info about the point
 
 	# free the memory for the point
 
