@@ -4,6 +4,7 @@ title: "Lecture 14: Recursion"
 ---
 
 ### Recursion
-[video]
+Intro to recursion [video]
+Example [video]
 
-Optional reading:
+Optional reading: chapter 9
