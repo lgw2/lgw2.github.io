@@ -37,8 +37,6 @@ You can assume the number given will not have more than 4 digits.
 
 ## Grading - 100 points
 
-You will get a 0 if you don’t write the code with only C++ headers.
-
 * 5 points – comments explaining what your program does
 * 5 points – indent your code so it is readable
 * 10 points – compiles successfully

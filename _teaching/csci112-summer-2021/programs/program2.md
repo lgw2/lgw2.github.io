@@ -4,7 +4,7 @@ title: "Program 2"
 ---
 
 ## Logistics
-* Due: Sunday, May 30th no later than 11:59pm.
+* Due: Tuesday, June 1st no later than 11:59pm.
 * Submission instructions: push a commit with the tag `program2` to your git
 	repository.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
