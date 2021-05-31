@@ -197,7 +197,7 @@ enthusiastic about course material and my role in helping you learn.
 |Memorial Day|
 |Tuesday 6/1|[Dynamic memory allocation](https://lgw2.github.io/teaching/csci112-summer-2021/lectures/lecture13/)|[Classwork 11](https://lgw2.github.io/teaching/csci112-summer-2021/classwork/classwork11/)||[Program 2](https://lgw2.github.io/teaching/csci112-summer-2021/programs/program2/)||
 |Wednesday 6/2|[Recursion](https://lgw2.github.io/teaching/csci112-summer-2021/lectures/lecture14/)|[Classwork 12](https://lgw2.github.io/teaching/csci112-summer-2021/classwork/classwork12/)||||
-|Thursday 6/3|[]()|Classwork 13||||
+|Thursday 6/3|[Intro to C++](https://lgw2.github.io/teaching/csci112-summer-2021/lectures/lecture15/)|[Classwork 13](https://lgw2.github.io/teaching/csci112-summer-2021/classwork/classwork13/)||||
 |Friday 6/4|[]()|Classwork 14|Lab 5|||
 
 

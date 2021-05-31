@@ -17,7 +17,7 @@ title: "Classwork 13"
 ## Assignment
 
 Take your classwork 2 code (the mileage reimbursement calculator) and translate
-it to C++. 
+it to C++.
 
 ## Grading - 10 points
 * 1 point - there is a file called `classwork13.c` in your
