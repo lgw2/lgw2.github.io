@@ -30,10 +30,6 @@ You can assume the number given will not have more than 4 digits.
 ```
 [p19t655@csci112 lab5]$ ./process 123
 Number 123 is written as one hundred twenty three 
-[p19t655@csci112 lab5]$ ./process4375
--bash: ./process4375: No such file or directory
-[p19t655@csci112 lab5]$ ./process 123
-Number 123 is written as one hundred twenty three 
 [p19t655@csci112 lab5]$ ./process 4375
 Number 4375 is written as four thousand three hundred seventy five 
 [p19t655@csci112 lab5]$ ./process 5
