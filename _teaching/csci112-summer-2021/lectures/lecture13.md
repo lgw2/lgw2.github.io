@@ -4,9 +4,9 @@ title: "Lecture 13: Dynamic memory allocation"
 ---
 
 ### Dynamic memory allocation
-Review of type casting [video]
+Review of type casting [video](https://youtu.be/KiGcCVYelyE)
 
-Dynamic memory allocation [video]
+Dynamic memory allocation [video](https://youtu.be/7C7Y5p0Eak8)
 
 Optional reading: chapter 2.5 (for type casting); 13.1-13.2
 
