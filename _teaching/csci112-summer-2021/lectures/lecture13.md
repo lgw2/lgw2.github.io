@@ -8,7 +8,7 @@ Review of type casting [video]
 
 Dynamic memory allocation [video]
 
-Optional reading: chapter 13.1-13.2
+Optional reading: chapter 2.5 (for type casting); 13.1-13.2
 
 Key ideas:
 * Type casting: [https://www.tutorialspoint.com/cprogramming/c_type_casting.htm](https://www.tutorialspoint.com/cprogramming/c_type_casting.htm)
