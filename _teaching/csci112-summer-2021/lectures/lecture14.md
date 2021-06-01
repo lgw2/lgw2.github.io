@@ -9,3 +9,20 @@ Intro to recursion [video]
 String example [video]
 
 Optional reading: chapter 9
+
+Key ideas:
+* A function that calls itself is said to be recursive.
+* Problems that
+	1. Have one or more simple cases with straightforward solutions
+	2. Have other cases which can be redefined in terms of problems that are
+	   closer to the simple cases
+lend themselves well to recursive solutions.
+* Basic pseudocode for recursive solutions:
+```
+if this is a simple case
+	solve it
+else
+	redefine the problem using recursion
+```
+* We often call the simple case the *base case* and the other case the
+	*recursive case*
