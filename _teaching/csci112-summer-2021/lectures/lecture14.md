@@ -4,11 +4,13 @@ title: "Lecture 14: Recursion"
 ---
 
 ### Recursion
-Intro to recursion [video]
+Intro to recursion [video](https://youtu.be/wuYzP4Yv2d4)
 
-String example [video]
+String example [video](https://youtu.be/kHoh2OqEvgE)
 
 Optional reading: chapter 9
+
+Note: code used in videos is available at `/public/examples/chap9/`.
 
 Key ideas:
 * A function that calls itself is said to be recursive.
