@@ -8,6 +8,7 @@ title: "Lecture 15: Intro to C++"
 [video]
 
 [Slides 1](https://lgw2.github.io/teaching/csci112-summer-2021/lectures/CSCI112_c++_intro.pdf)
+
 [Slides 2](https://lgw2.github.io/teaching/csci112-summer-2021/lectures/helloworld.pdf)
 
 Key ideas:
