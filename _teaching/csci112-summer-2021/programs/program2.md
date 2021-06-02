@@ -230,4 +230,4 @@ are ungraded, though, so ignore if you want.
 * 5 points - output is printed neatly
 
 ## Grading turnaround
-This program will be graded with scores in Brightspace by 5pm on June 1st.
+This program will be graded with scores in Brightspace by 5pm on June 2nd.
