@@ -4,7 +4,7 @@ title: "Lab 5"
 ---
 
 ## Logistics
-* Due: Friday, June 4th no later than 11:59pm.
+* Due: Saturday, June 5th no later than 11:59pm.
 * Submission instructions: push a commit with the tag `lab5` to your git
 	repository.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
