@@ -20,7 +20,7 @@ Take your classwork 2 code (the mileage reimbursement calculator) and translate
 it to C++.
 
 ## Grading - 10 points
-* 1 point - there is a file called `classwork13.c` in your
+* 1 point - there is a file called `classwork13.cpp` in your
 	`classwork/classwork13/` directory.
 * The file compiles and runs.
 * Note: you will not earn any points if your work is not committed and pushed to

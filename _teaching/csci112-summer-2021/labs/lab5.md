@@ -45,7 +45,7 @@ Oops! Entered a 0 in the number
 ```
 
 ### Requirements
-* Write your program in a file called `lab5.c` in your
+* Write your program in a file called `lab5.cpp` in your
 	`csci112-firstname-lastname/labs/lab5/` directory.
 * You must write the program using C++ constructs.
 
