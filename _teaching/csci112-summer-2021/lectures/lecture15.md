@@ -22,4 +22,4 @@ Key ideas:
 ### Data types in C++
 
 [Slides](https://lgw2.github.io/teaching/csci112-summer-2021/lectures/3_types.pdf)
-[video](
+[video](https://youtu.be/IMAfeJp9RSM)
