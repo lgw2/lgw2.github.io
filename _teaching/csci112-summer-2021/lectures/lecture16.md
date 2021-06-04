@@ -9,4 +9,4 @@ title: "Lecture 16: More intro to C++"
 
 ### Error checking
 
-[video] [Slides](https://lgw2.github.io/teaching/csci112-summer-2021/lectures/5_errors.pdf)
+[video1](https://youtu.be/i5Y0hcKPJ0Q) [video2](https://youtu.be/gd72cmKcQiM) [Slides](https://lgw2.github.io/teaching/csci112-summer-2021/lectures/5_errors.pdf)
