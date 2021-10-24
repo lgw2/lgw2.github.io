@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a fourth-year PhD student in computer science at Montana State University
+I am a fifth-year PhD student in computer science at Montana State University
 in Bozeman, Montana, advised by [Brendan
 Mumey](https://www.cs.montana.edu/bmumey/).  I design and
 analyze algorithms and data structures for problems in computational
