@@ -7,4 +7,4 @@ redirect_from:
 ---
 
 My CV is available for download [here](http://lgw2.github.io/files/williams_cv.pdf).
-Last updated February 2021.
+Last updated October 2021.

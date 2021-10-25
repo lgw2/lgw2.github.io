@@ -4,6 +4,26 @@ permalink: /research/
 author_profile: true
 ---
 
+## Network flow decomposition with application to RNA assembly
+We are extending a flow network model of RNA short read data to account for
+errors in the data collection process
+and developing algorithms to use this model to determine RNA transcripts and their abundances.
+
+### Peer reviewed publications:
+* Lucia Williams, Alexandru I. Tomescu, Brendan Mumey,
+“[Flow Decomposition With Subpath Constraints](subpath_constraints.pdf),”
+21st International Workshop on Algorithms in Bioinformatics (WABI),
+Aug. 20212.
+
+* Lucia Williams, Gillian Reynold, Brendan Mumey,
+“[RNA Transcript Assembly Using Inexact Flows](inexact_flows.pdf),”
+IEEE International Conference on Bioinformatics and Biomedicine (BIBM),
+Nov. 2019.
+
+### Posters:
+* RECOMB 2019: "[Decomposing inexact flows with application to RNA transcript assembly](inexact_flows_poster.pdf)"
+
+
 ## Maximal haplotype blocks with unknowns and pangenome SNPs
 We are extending recent progress on the problem of finding maximal perfect
 haplotype blocks from a set of SNP-resolved haplotypes to include unknown data
@@ -19,20 +39,6 @@ to the Realm of Pangenomics](pangenome_haplotype_blocks.pdf)," Algorithms for Co
 ### Recorded talks:
 * Sequencing, Finishing and Analysis in the Future meeting, December 2020.
 	"[Investigating Selection in Pangenomes with Haplotype Blocks](https://youtu.be/A8NKUs8oVI4)."
-
-## Network flow decomposition with application to RNA assembly
-We are extending a flow network model of RNA short read data to account for
-errors in the data collection process
-and developing algorithms to use this model to determine RNA transcripts and their abundances.
-
-### Peer reviewed publications:
-* Lucia Williams, Gillian Reynold, Brendan Mumey,
-“[RNA Transcript Assembly Using Inexact Flows](inexact_flows.pdf),”
-IEEE International Conference on Bioinformatics and Biomedicine (BIBM),
-Nov. 2019.
-
-### Posters:
-* RECOMB 2019: "[Decomposing inexact flows with application to RNA transcript assembly](inexact_flows_poster.pdf)"
 
 ## Shape reconstruction using topological descriptors
 We are developing algorithms to reconstruct shapes from topological descriptors such as persistence diagrams
