@@ -8,4 +8,4 @@ location: "Bozeman, Montana"
 ---
 
 On October 25th, 2021 I gave a teaching demonstration to the CSCI 107 course at
-Montana State University. My slides are [here](security_teaching_demo.pdf).
+Montana State University. My slides are [here](http://lgw2.github.io/files/security_teaching_demo.pdf).
