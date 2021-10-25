@@ -1,7 +1,7 @@
 ---
-title: "Teaching Demo: Cybersecurity"
+title: "Data Breaches Teaching Demo"
 collection: teaching
-type: "Undergraduate course"
+type: "Teaching Demo"
 venue: "Montana State University, Computer Science"
 date: 2021-10-25
 location: "Bozeman, Montana"
