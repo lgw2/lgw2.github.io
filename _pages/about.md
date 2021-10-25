@@ -6,6 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+*In fall 2021, I am visiting the [graph algorithms team](https://www2.helsinki.fi/en/researchgroups/algorithmic-bioinformatics/teams/graph-algorithms) within the [algorithmic bioinformatics group](https://www2.helsinki.fi/en/researchgroups/algorithmic-bioinformatics) at the University of Helsinki in Finland.*
+
 I am a fifth-year PhD student in computer science at Montana State University
 in Bozeman, Montana, advised by [Brendan
 Mumey](https://www.cs.montana.edu/bmumey/).  I design and
