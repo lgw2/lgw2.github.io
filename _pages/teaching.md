@@ -1,6 +1,6 @@
 ---
 title: "Research"
-permalink: /research/
+permalink: /teaching/
 author_profile: true
 ---
 
@@ -12,7 +12,7 @@ beginning computer science students. My slides are [here](http://lgw2.github.io/
 ## CSCI 112: Programming With C
 
 I taught this course in the summer of 2021. All course information can be found
-[here](http://lgw2.github.io/teaching/csci-112-summer-2021/syllabus/).
+[here](https://lgw2.github.io/teaching/csci112-summer-2021/syllabus/).
 
 ## CSCI 127: The Joy & Beauty of Data
 
