@@ -7,7 +7,8 @@ author_profile: true
 ## Teaching demonstration
 
 On October 25, 2021, I gave a cybersecurity-related teaching demonstration to
-beginning computer science students. My slides are [here](http://lgw2.github.io/files/security_teaching_demo.pdf).
+beginning computer science students in Montana State University's CSCI 107 course.
+My slides are [here](http://lgw2.github.io/files/security_teaching_demo.pdf).
 
 ## CSCI 112: Programming With C
 
@@ -16,4 +17,6 @@ I taught this course in the summer of 2021. All course information can be found
 
 ## CSCI 127: The Joy & Beauty of Data
 
-I taught this course in the summers of 2019 and 2020. 2019 course information can be found
+I taught this course in the summers of 2020 and 2019. 2020 course information can be found
+[here](https://lgw2.github.io/teaching/csci127-summer-2020/syllabus/) and 2019
+course information [here](https://lgw2.github.io/teaching/csci127-summer-2019/syllabus/).
