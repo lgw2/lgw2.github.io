@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
@@ -7,7 +7,7 @@ author_profile: true
 ## Teaching demonstration
 
 On October 25, 2021, I gave a cybersecurity-related teaching demonstration to
-beginning computer science students. My slides are [here](http://lgw2.github.io/files/security_teaching_demo.pdf)
+beginning computer science students. My slides are [here](http://lgw2.github.io/files/security_teaching_demo.pdf).
 
 ## CSCI 112: Programming With C
 
