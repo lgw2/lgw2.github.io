@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 The focus of my work is the design and analysis of algorithms for practical
-problems in computational biology.
+problems in bioinformatics.
 
 ## Network flow decomposition with application to multiassembly
 My dissertation is on extending and designing algorithms for a flow network model
@@ -14,7 +14,7 @@ assembly.
 
 ### Peer reviewed publications:
 * Fernando Dias, Lucia Williams, Alexandru I. Tomescu, Brendan Mumey.
-"[Fast, Flexible, and Exact Flow Decomposition via ILP.](ilp.pdf),"
+"[Fast, Flexible, and Exact Flow Decompositions via ILP](ilp.pdf),"
 Accepted at RECOMB 2022.
 
 * Shahbaz Khan,  Milla Kortelainen, Manuel Caceres, Lucia Williams, Alexandru I. Tomescu,
