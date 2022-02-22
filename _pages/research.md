@@ -4,12 +4,23 @@ permalink: /research/
 author_profile: true
 ---
 
-## Network flow decomposition with application to RNA assembly
-We are extending a flow network model of RNA short read data to account for
-errors in the data collection process
-and developing algorithms to use this model to determine RNA transcripts and their abundances.
+The focus of my work is the design and analysis of algorithms for practical
+problems in computational biology.
+
+## Network flow decomposition with application to multiassembly
+My dissertation is on extending and designing algorithms for a flow network model
+for assembling read data for tasks like RNA assembly and viral quasispecies
+assembly.
 
 ### Peer reviewed publications:
+* Fernando Dias, Lucia Williams, Alexandru I. Tomescu, Brendan Mumey.
+"[Fast, Flexible, and Exact Flow Decomposition via ILP.](ilp.pdf),"
+Accepted at RECOMB 2022.
+
+* Shahbaz Khan,  Milla Kortelainen, Manuel Caceres, Lucia Williams, Alexandru I. Tomescu,
+"[Safety and Completeness in Flow Decompositions for RNA Assembly](safety.pdf),"
+Accepted at RECOMB 2022.
+
 * Lucia Williams, Alexandru I. Tomescu, Brendan Mumey,
 “[Flow Decomposition With Subpath Constraints](subpath_constraints.pdf),”
 21st International Workshop on Algorithms in Bioinformatics (WABI),
