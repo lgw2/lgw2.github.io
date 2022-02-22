@@ -34,6 +34,10 @@ Nov. 2019.
 ### Posters:
 * RECOMB 2019: "[Decomposing inexact flows with application to RNA transcript assembly](inexact_flows_poster.pdf)"
 
+### General-audience presentations:
+* I was a finalist  at the Montana State University [Three Minute Thesis](https://threeminutethesis.uq.edu.au/higher-degrees-researchstart-your-3mt-journey-here) competition in February 2022.
+Here is my [single slide](slide.pdf) and [three minute talk script](script.pdf).
+
 
 ## Maximal haplotype blocks with unknowns and pangenome SNPs
 We are extending recent progress on the problem of finding maximal perfect
