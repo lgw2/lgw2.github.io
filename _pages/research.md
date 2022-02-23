@@ -1,7 +1,7 @@
 ---
 title: "Research"
 permalink: /research/
-author_profile: true
+author_profile: false
 ---
 The focus of my work is the design and analysis of algorithms for practical
 problems, mostly in bioinformatics.
