@@ -6,15 +6,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-*In fall 2021, I am visiting the [graph algorithms team](https://www2.helsinki.fi/en/researchgroups/algorithmic-bioinformatics/teams/graph-algorithms) within the [algorithmic bioinformatics group](https://www2.helsinki.fi/en/researchgroups/algorithmic-bioinformatics) at the University of Helsinki in Finland.*
 
 I am a fifth-year PhD student in computer science at Montana State University
 in Bozeman, Montana, advised by [Brendan
 Mumey](https://www.cs.montana.edu/bmumey/).  I design and
-analyze algorithms and data structures for problems in computational
-biology. Specifically, I study flow-network based methods for DNA sequencing and
-methods for finding conserved genomic regions in the presence of missing data
-or without a single reference genome.
+analyze algorithms and data structures for problems in bioinformatics.
+In fall 2021, I visited the [graph algorithms team](https://www2.helsinki.fi/en/researchgroups/algorithmic-bioinformatics/teams/graph-algorithms) within the [algorithmic bioinformatics group](https://www2.helsinki.fi/en/researchgroups/algorithmic-bioinformatics) at the University of Helsinki in Finland.
 Early in my PhD I also worked with the [Computational Topology and
 Geometry](https://www.cs.montana.edu/tda/index.html) group at MSU to develop
 the theory behind a new method for comparing shapes without manual landmarking.

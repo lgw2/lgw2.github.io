@@ -3,14 +3,19 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-
 The focus of my work is the design and analysis of algorithms for practical
-problems in bioinformatics.
+problems, mostly in bioinformatics.
 
 ## Network flow decomposition with application to multiassembly
-My dissertation is on extending and designing algorithms for a flow network model
-for assembling read data for tasks like RNA assembly and viral quasispecies
-assembly.
+The decomposition of flow networks into a minimum number of paths is a NP-hard problem
+that is also a natural model for multiassembly problems like RNA transcript and viral
+quasispecies assembly. My dissertation addresses both practical and theoretical
+sides of this problem.
+
+### Under review:
+
+* Manuel Caceres, Massimo Cairo, Andreas Grigorjew, Shahbaz Khan, Brendan Mumey, Romeo Rizzi, Alexandru I. Tomescu, Lucia Williams.
+"Width Helps and Hinders When Splitting Flows."
 
 ### Peer reviewed publications:
 * Fernando Dias, Lucia Williams, Alexandru I. Tomescu, Brendan Mumey.
