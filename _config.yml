@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Lucia Williams"
   avatar           : "profile.png"
-  location         : "Bozeman, Montana"
+  bio              : "Computer science PhD student studying algorithms"
   employer         :
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "lgw2@uw.edu"
