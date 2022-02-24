@@ -10,7 +10,7 @@ redirect_from:
 I am a fifth-year PhD student in computer science at Montana State University
 in Bozeman, Montana, advised by [Brendan
 Mumey](https://www.cs.montana.edu/bmumey/).  I design and
-analyze algorithms and data structures for problems in bioinformatics.
+analyze algorithms and for problems in bioinformatics.
 In fall 2021, I visited the [graph algorithms team](https://www2.helsinki.fi/en/researchgroups/algorithmic-bioinformatics/teams/graph-algorithms) within the [algorithmic bioinformatics group](https://www2.helsinki.fi/en/researchgroups/algorithmic-bioinformatics) at the University of Helsinki in Finland.
 Early in my PhD I also worked with the [Computational Topology and
 Geometry](https://www.cs.montana.edu/tda/index.html) group at MSU to develop
