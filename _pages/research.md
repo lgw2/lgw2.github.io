@@ -7,7 +7,7 @@ The focus of my work is the design and analysis of algorithms for practical
 problems, mostly in bioinformatics.
 
 ## Network flow decomposition with application to multiassembly
-The decomposition of flow networks into a minimum number of paths is a NP-hard problem
+The decomposition of a flow network into a minimum number of paths is a NP-hard problem
 that is also a natural model for multiassembly problems like RNA transcript and viral
 quasispecies assembly. My dissertation addresses both practical and theoretical
 sides of this problem.
