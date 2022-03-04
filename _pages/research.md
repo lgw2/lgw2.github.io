@@ -22,7 +22,7 @@ sides of this problem.
 "[Fast, Flexible, and Exact Flow Decompositions via ILP](ilp.pdf),"
 Accepted at RECOMB 2022.
 
-* Shahbaz Khan,  Milla Kortelainen, Manuel Caceres, Lucia Williams, Alexandru I. Tomescu,
+* Shahbaz Khan,  Milla Kortelainen, Manuel Cáceres, Lucia Williams, Alexandru I. Tomescu,
 "[Safety and Completeness in Flow Decompositions for RNA Assembly](safety.pdf),"
 Accepted at RECOMB 2022.
 
