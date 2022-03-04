@@ -14,7 +14,7 @@ sides of this problem.
 
 ### Under review:
 
-* Manuel Caceres, Massimo Cairo, Andreas Grigorjew, Shahbaz Khan, Brendan Mumey, Romeo Rizzi, Alexandru I. Tomescu, Lucia Williams.
+* Manuel Cáceres, Massimo Cairo, Andreas Grigorjew, Shahbaz Khan, Brendan Mumey, Romeo Rizzi, Alexandru I. Tomescu, Lucia Williams.
 "Width Helps and Hinders When Splitting Flows."
 
 ### Peer reviewed publications:
