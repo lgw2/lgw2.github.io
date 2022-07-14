@@ -4,6 +4,19 @@ permalink: /teaching/
 author_profile: false
 ---
 
+## CSCI 132: Basic Data Structures & Algorithms
+
+I am teaching this course in the fall of 2022. All course information can be found
+[here](https://lgw2.github.io/teaching/csci132-fall-2022/syllabus/).
+
+Description from course catalog: *An examination of advanced Java and basic
+data structures and their application in problem solving. Data structures
+include stacks, queues and lists. An introduction to algorithms employing the
+data structures to solve various problems including searching and sorting, and
+recursion. Understanding and using Java class libraries. The laboratory uses
+Java. Introduces Big-O Notation.*
+
+
 ## Teaching demonstration
 
 On October 25, 2021, I gave a cybersecurity-related teaching demonstration to
@@ -13,7 +26,9 @@ My slides are [here](http://lgw2.github.io/files/security_teaching_demo.pdf).
 ## CSCI 112: Programming With C
 
 I taught this course in the summer of 2021. All course information can be found
-[here](https://lgw2.github.io/teaching/csci112-summer-2021/syllabus/).
+[here](https://lgw2.github.io/teaching/csci112-summer-2021/syllabus/). I am
+also co-teaching this course in fall 2022  with Dr. Mary Ann Cummings; course information through
+D2L.
 
 Description from course catalog: *C Programming knowledge. Introduces imperative programming
 and the C standard library. Course covers pointers, memory management and
