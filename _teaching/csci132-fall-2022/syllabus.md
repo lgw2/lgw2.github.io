@@ -107,6 +107,18 @@ enthusiastic about course material and my role in helping you learn.
 |Tuesday 8/30||||||
 |Wednesday 8/31||||||
 |Friday 9/2||||||
+|Labor Day - no class||||||
+|Tuesday 9/6||||||
+|Wednesday 9/7||||||
+|Friday 9/9||||||
+|Monday 9/12||||||
+|Tuesday 9/13||||||
+|Wednesday 9/14||||||
+|Friday 9/16||||||
+|Monday 9/19||||||
+|Tuesday 9/20||||||
+|Wednesday 9/21||||||
+|Friday 9/23||||||
 
 ## Acknowledgments
 
