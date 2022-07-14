@@ -119,6 +119,54 @@ enthusiastic about course material and my role in helping you learn.
 |Tuesday 9/20||||||
 |Wednesday 9/21||||||
 |Friday 9/23||||||
+|Monday 9/26||||||
+|Tuesday 9/27||||||
+|Wednesday 9/28||||||
+|Friday 9/30||||||
+|Monday 10/3||||||
+|Tuesday 10/4||||||
+|Wednesday 10/5||||||
+|Friday 10/7||||||
+|Monday 10/10||||||
+|Tuesday 10/11|||||
+|Wednesday 10/12||||||
+|Friday 10/14||||||
+|Monday 10/17||||||
+|Tuesday 10/18|||||
+|Wednesday 10/19||||||
+|Friday 10/21||||||
+|Monday 10/17||||||
+|Tuesday 10/18|||||
+|Wednesday 10/19||||||
+|Friday 10/21||||||
+|Monday 10/24||||||
+|Tuesday 10/25|||||
+|Wednesday 10/26||||||
+|Friday 10/28||||||
+|Monday 10/31||||||
+|Tuesday 11/1|||||
+|Wednesday 11/2||||||
+|Friday 11/4||||||
+|Monday 11/7||||||
+|Election day - no lab|||||
+|Wednesday 11/9||||||
+|Veteran's day - no class||||||
+|Monday 11/14||||||
+|Tuesday 11/15|||||
+|Wednesday 11/16||||||
+|Friday 11/18||||||
+|Fall break||||||
+|Monday 11/28||||||
+|Tuesday 11/29|||||
+|Wednesday 11/30||||||
+|Friday 12/2||||||
+|Monday 12/5||||||
+|Tuesday 12/6|||||
+|Wednesday 12/7||||||
+|Friday 12/9||||||
+|Final - Monday 12/12, 2:00pm-3:50pm||||||
+
+
 
 ## Acknowledgments
 
