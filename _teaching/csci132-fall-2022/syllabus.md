@@ -101,7 +101,7 @@ enthusiastic about course material and my role in helping you learn.
 
 |Date|Lecture Summary|Classwork Due|Lab Due|Program Due|Quiz|
 |:---|:---|:---|:---|:---|:---|:---|
-|Wednesday 8/24|[Getting Started: Linux, Vim, Git](https://lgw2.github.io/teaching/csci112-summer-2021/lectures/lecture1/)|[Classwork 1](https://lgw2.github.io/teaching/csci112-summer-2021/classwork/classwork1/)||||
+|Wednesday 8/24||||||
 
 
 ## Acknowledgments
