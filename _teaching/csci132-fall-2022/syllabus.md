@@ -99,10 +99,14 @@ enthusiastic about course material and my role in helping you learn.
 
 ## Course schedule
 
-|Date|Lecture Summary|Classwork Due|Lab Due|Program Due|Quiz|
+|Date|Lecture Summary|Classwork Due|Lab Due|Project Due|Quiz|
 |:---|:---|:---|:---|:---|:---|:---|
 |Wednesday 8/24||||||
-
+|Friday 8/26||||||
+|Monday 8/29||||||
+|Tuesday 8/30||||||
+|Wednesday 8/31||||||
+|Friday 9/2||||||
 
 ## Acknowledgments
 
