@@ -116,7 +116,7 @@ enthusiastic about course material and my role in helping you learn.
 |Wednesday 9/14||||||
 |Friday 9/16||||||
 |Monday 9/19||||||
-|Tuesday 9/20||||||
+|Tuesday 9/20|||Lab 4|||
 |Wednesday 9/21||||||
 |Friday 9/23||||||
 |Monday 9/26||||||
