@@ -104,15 +104,15 @@ enthusiastic about course material and my role in helping you learn.
 |Wednesday 8/24||||||
 |Friday 8/26||||||
 |Monday 8/29||||||
-|Tuesday 8/30||||||
+|Tuesday 8/30|||Lab 1|||
 |Wednesday 8/31||||||
 |Friday 9/2||||||
 |Labor Day - no class||||||
-|Tuesday 9/6||||||
+|Tuesday 9/6|||Lab 2|||
 |Wednesday 9/7||||||
 |Friday 9/9||||||
 |Monday 9/12||||||
-|Tuesday 9/13||||||
+|Tuesday 9/13|||Lab 3|||
 |Wednesday 9/14||||||
 |Friday 9/16||||||
 |Monday 9/19||||||
