@@ -99,13 +99,13 @@ enthusiastic about course material and my role in helping you learn.
 
 ## Course schedule
 
-|Date|Lecture Summary|Classwork Due|Lab Due|Project Due|Quiz|
+|Date|Lecture Topic|Classwork Due|Lab Due|Project Due|Quiz|
 |:---|:---|:---|:---|:---|:---|:---|
-|Wednesday 8/24||||||
-|Friday 8/26||||||
-|Monday 8/29||||||
+|Wednesday 8/24|Syllabus & set up|||||
+|Friday 8/26|Java vs. Python|||||
+|Monday 8/29|Arrays; for loops|||||
 |Tuesday 8/30|||Lab 1|||
-|Wednesday 8/31||||||
+|Wednesday 8/31|Reference data types vs. primitive data types|||||
 |Friday 9/2||||||
 |Labor Day - no class||||||
 |Tuesday 9/6|||Lab 2|||
