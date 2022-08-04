@@ -21,7 +21,8 @@ This course meets for lectures on Mondays, Wednesdays, and Fridays from
 3:10pm-4pm in Reid Hall 103. Please bring a laptop to class so that you can
 participate in the classwork exercises.  Lectures will be recorded and available if you
 would like to rewatch them. On Thursdays, there is a two-hour lab period in
-which you can complete the week's lab assignment and get help. We will use
+which you can complete the week's lab assignment and get help from the course
+assistants. We will use
 Discord as the primary method of course communication, and all course
 information will be posted on this website or on the Discord server; D2L will
 be used *only* to turn in assignments.
@@ -57,13 +58,35 @@ By the end of this course, students should be able to:
 ## Grading
 
 You will be graded on the following:
-*  classwork assignments: 14%
 * 11 labs: 33%
 * 5 projects: 40%
 * 3 quizzes: 18%
+* interactive textbook assignments: 7%
+* 2 course surveys: 2%
 
 After any curving, your grade will be determined by your total score as follows:
 93+: A; 90+: A-; 87+: B+; 83+: B; 80+: B-; 77+: C+; 73+: C; 70+: C-; 67+: D+; 63: D; 60: D-.
+
+### Late assignment policies
+To run a course of this size we cannot accommodate individual requests for
+extensions on assignemnts; therefore, we have strict rules for when assignments
+are due, but have some leeway built in. Please read the bullet points below carefully,
+respect the policy, and *get help early if
+you are having any problems.* We want you to succeed!
+
+* You are responsible for any announcements made in class, on Discord, and here
+	on the course website.
+* All assignments must be turned in by 11pm on the due date. If you submit a
+	lab or program between 11:01pm and 12 midnight, you get 25% off. If you
+	submit after midnight on the due date but within four days of the due date
+	(Monday at 11pm for labs; Thursday at 11pm for programs) you get 50%.
+	Otherwise, no points are possible.
+* One free late pass for labs: every student gets one free late pass with no
+	questions asked for labs (not programs). This means you can submit up to
+	four days late (by Monday at 11pm) with no penalty. Use this wisely! If you
+	use this early in the semester and something unforseen happens, you will
+	still need to submit the lab on time.
+*
 
 ## Collaboration policy
 On all assignments, you may:
