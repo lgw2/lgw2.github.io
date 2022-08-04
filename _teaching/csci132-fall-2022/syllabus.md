@@ -20,10 +20,10 @@ Java. Introduces Big-O Notation.
 
 
 ## Course Resources
-### Interactive Textbook
-### Optional Textbook
+### Interactive textbook
+### Optional textbook
 
-### Labs & Course Assistants
+### Labs & course assistants
 
 There are four lab sections, all of which meet on Thursdays.
 * 001: 10am-11:50am
@@ -36,7 +36,7 @@ There are four lab sections, all of which meet on Thursdays.
 ### Computer Science Success Center
 There are free tutors available in Barnard 259. More information [here](https://www.cs.montana.edu/student-success-center.html).
 
-### Discord Server
+### Discord server
 
 ### Checking your work
 
@@ -185,3 +185,4 @@ enthusiastic about course material and my role in helping you learn.
 
 ## Acknowledgments
 
+Thanks to Daniel DeFrance for sharing his syllabus with me.
