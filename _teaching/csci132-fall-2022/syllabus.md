@@ -13,7 +13,7 @@ data structures and their application in problem solving. Data structures
 include stacks, queues and lists. An introduction to algorithms employing the
 data structures to solve various problems including searching and sorting, and
 recursion. Understanding and using Java class libraries. The laboratory uses
-Java. Introduces Big-O Notation
+Java. Introduces Big-O Notation.
 
 ## Course Info
 
@@ -33,6 +33,14 @@ There are free tutors available in Barnard 259. More information [here](https://
 ### Discord Server
 
 ### Checking your work
+
+### Course outcomes
+By the end of this course, students should be able to:
+* Design and implement a class in Java
+* Explain the concept of an ADT
+* Implement linked lists, stacks, queues, and deques
+* Apply consistent documentation and program style standards in Java
+* Be able to determine the time complexity of simple algorithms
 
 ## Grading
 
@@ -102,67 +110,68 @@ enthusiastic about course material and my role in helping you learn.
 |Date|Lecture Topic|Classwork Due|Lab Due|Project Due|Quiz|
 |:---|:---|:---|:---|:---|:---|:---|
 |Wednesday 8/24|Syllabus & set up|||||
+|Thursday 8/25|||Lab 0 (ungraded)|||
 |Friday 8/26|Java vs. Python|||||
 |Monday 8/29|Arrays; for loops|||||
-|Tuesday 8/30|||Lab 1|||
 |Wednesday 8/31|Reference data types vs. primitive data types|||||
+|Thursday 9/1|||Lab 1|||
 |Friday 9/2|Modifiers|||||
 |Labor Day - no class||||||
-|Tuesday 9/6|||Lab 2|||
-|Wednesday 9/7||||||
-|Friday 9/9||||||
-|Monday 9/12||||||
-|Tuesday 9/13|||Lab 3|||
+|Wednesday 9/7|Controlling the flow|||||
+|Thursday 9/8|||Lab 2|||
+|Friday 9/9|Example program: CreditCard class|||||
+|Monday 9/12|Data Structures; Javadoc|||||
 |Wednesday 9/14||||||
-|Friday 9/16||||||
+|Thursday 9/15|||Lab 3|||
+|Friday 9/16||||Project 1||
 |Monday 9/19||||||
-|Tuesday 9/20|||Lab 4|||
 |Wednesday 9/21||||||
+|Thursday 9/22|||Lab 4|||
 |Friday 9/23||||||
 |Monday 9/26||||||
-|Tuesday 9/27||||||
 |Wednesday 9/28||||||
+|Thursday 9/29|||Lab 5|||
 |Friday 9/30||||||
 |Monday 10/3||||||
-|Tuesday 10/4||||||
 |Wednesday 10/5||||||
+|Tuesday 10/6||||||
 |Friday 10/7||||||
 |Monday 10/10||||||
-|Tuesday 10/11|||||
 |Wednesday 10/12||||||
+|Tuesday 10/13|||||
 |Friday 10/14||||||
 |Monday 10/17||||||
-|Tuesday 10/18|||||
 |Wednesday 10/19||||||
+|Thursday 10/20|||||
 |Friday 10/21||||||
 |Monday 10/17||||||
-|Tuesday 10/18|||||
 |Wednesday 10/19||||||
+|Thursday 10/20|||||
 |Friday 10/21||||||
 |Monday 10/24||||||
-|Tuesday 10/25|||||
 |Wednesday 10/26||||||
+|Thursday 10/27|||||
 |Friday 10/28||||||
 |Monday 10/31||||||
-|Tuesday 11/1|||||
 |Wednesday 11/2||||||
+|Thursday 11/3|||||
 |Friday 11/4||||||
 |Monday 11/7||||||
-|Election day - no lab|||||
 |Wednesday 11/9||||||
+|Thursday 11/10|||||
 |Veteran's day - no class||||||
 |Monday 11/14||||||
-|Tuesday 11/15|||||
 |Wednesday 11/16||||||
+|Thursday 11/17|||||
 |Friday 11/18||||||
 |Fall break||||||
 |Monday 11/28||||||
-|Tuesday 11/29|||||
 |Wednesday 11/30||||||
+|Thursday 12/1|||||
 |Friday 12/2||||||
 |Monday 12/5||||||
-|Tuesday 12/6|||||
 |Wednesday 12/7||||||
+|Thursday 12/8|||||
 |Friday 12/9||||||
 |Final - Monday 12/12, 2:00pm-3:50pm||||||
 
