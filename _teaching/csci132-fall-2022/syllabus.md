@@ -25,6 +25,12 @@ Java. Introduces Big-O Notation.
 
 ### Labs & Course Assistants
 
+There are four lab sections, all of which meet on Thursdays.
+* 001: 10am-11:50am
+* 002: 12pm-2pm
+* 003: 2:10pm-4pm
+* 004: 4:10pm-6pm
+
 ### SmartyCats
 
 ### Computer Science Success Center
