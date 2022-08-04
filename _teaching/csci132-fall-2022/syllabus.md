@@ -106,7 +106,7 @@ enthusiastic about course material and my role in helping you learn.
 |Monday 8/29|Arrays; for loops|||||
 |Tuesday 8/30|||Lab 1|||
 |Wednesday 8/31|Reference data types vs. primitive data types|||||
-|Friday 9/2||||||
+|Friday 9/2|Modifiers|||||
 |Labor Day - no class||||||
 |Tuesday 9/6|||Lab 2|||
 |Wednesday 9/7||||||

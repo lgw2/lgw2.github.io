@@ -7,10 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth-year PhD student in computer science at Montana State University
-in Bozeman, Montana, advised by [Brendan
-Mumey](https://www.cs.montana.edu/bmumey/).  I design and
-analyze algorithms for problems in bioinformatics.
+I am an assistant teaching & research professor in computer science at Montana
+State University in Bozeman, Montana.
+I earned my PhD at Montana State as well,
+ advised by [Brendan
+Mumey](https://www.cs.montana.edu/bmumey/). My research focuses on the design
+and analysis of algorithms for DNA sequencing and analysis..
 In fall 2021, I visited the [graph algorithms team](https://www2.helsinki.fi/en/researchgroups/algorithmic-bioinformatics/teams/graph-algorithms) within the [algorithmic bioinformatics group](https://www2.helsinki.fi/en/researchgroups/algorithmic-bioinformatics) at the University of Helsinki in Finland.
 Early in my PhD I also worked with the [Computational Topology and
 Geometry](https://www.cs.montana.edu/tda/index.html) group at MSU to develop
