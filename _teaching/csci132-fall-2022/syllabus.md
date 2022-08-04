@@ -17,7 +17,14 @@ Java. Introduces Big-O Notation.
 
 ## Course Info
 
-
+This course meets for lectures on Mondays, Wednesdays, and Fridays from
+3:10pm-4pm in Reid Hall 103. Please bring a laptop to class so that you can
+participate in the classwork exercises.  Lectures will be recorded and available if you
+would like to rewatch them. On Thursdays, there is a two-hour lab period in
+which you can complete the week's lab assignment and get help. We will use
+Discord as the primary method of course communication, and all course
+information will be posted on this website or on the Discord server; D2L will
+be used *only* to turn in assignments.
 
 ## Course Resources
 ### Interactive textbook
@@ -25,7 +32,8 @@ Java. Introduces Big-O Notation.
 
 ### Labs & course assistants
 
-There are four lab sections, all of which meet on Thursdays.
+There are four lab sections, all of which meet on Thursdays in Roberts Hall
+111.
 * 001: 10am-11:50am
 * 002: 12pm-2pm
 * 003: 2:10pm-4pm
@@ -37,8 +45,6 @@ There are four lab sections, all of which meet on Thursdays.
 There are free tutors available in Barnard 259. More information [here](https://www.cs.montana.edu/student-success-center.html).
 
 ### Discord server
-
-### Checking your work
 
 ### Course outcomes
 By the end of this course, students should be able to:
