@@ -85,10 +85,11 @@ you are having any problems.* We want you to succeed!
 	questions asked for labs (not programs). This means you can submit up to
 	four days late (by Monday at 11pm) with no penalty. Use this wisely! If you
 	use this early in the semester and something unforseen happens, you will
-	still need to submit the lab on time.
-*
+	still need to submit the lab on time or the penalties above apply. Please
+	message the course assistant for your section on Discord to let them know
+	you are using your late pass.
 
-## Collaboration policy
+### Collaboration policy
 On all assignments, you may:
 * Share ideas with others.
 * Help others debug their code (or receive help debugging your code from someone
@@ -142,10 +143,10 @@ enthusiastic about course material and my role in helping you learn.
 
 ## Course schedule
 
-|Date|Lecture Topic|Classwork Due|Lab Due|Project Due|Quiz|
+|Date|Lecture Topic|Classwork|Lab Due|Project Due|Quiz|
 |:---|:---|:---|:---|:---|:---|:---|
-|Wednesday 8/24|Syllabus & set up|||||
-|Thursday 8/25|||Lab 0 (ungraded)|||
+|Wednesday 8/24|Syllabus & set up|Get set up to use Java||||
+|Thursday 8/25|||Lab 0|||
 |Friday 8/26|Java vs. Python|||||
 |Monday 8/29|Arrays; for loops|||||
 |Wednesday 8/31|Reference data types vs. primitive data types|||||
