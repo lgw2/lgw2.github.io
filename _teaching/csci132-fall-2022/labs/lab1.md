@@ -1,110 +1,44 @@
 ---
 collection: teaching
-title: "Lab 1"
+title: "Lab 0"
 ---
 
 ## Logistics
-* Due: Wednesday, May 12th no later than 11:59pm.
-* Submission instructions: push a commit with the tag `lab1` to your git
-	repository.
-* Deadline reminder: after the deadline passes, you cannot earn any points for
-	this assignment. If the deadline is approaching, submit what you have in
-	order to earn partial credit.
+* Due: Thursday, August 25th no later than 11:00pm. (Penalties from [the
+	syllabus](https://lgw2.github.io/teaching/csci132-fall-2022/syllabus/)
+	apply if you turn it in any later.)
+* Submission instructions: send a message to Lucy on Discord. The assignment on
+	D2L will be used for reporting your grade only.
+
 
 ## Learning outcomes
-* Practice using `if` and/or `switch` statements.
-* Practice using functions to organize your code.
-* Get input from the user.
-* Practice writing complicated output.
+* Introduce yourself to the professor
+* Make sure you understand the syllabus
+* Set up your system to run Java
 
 ## Assignment
 
-*This comes from problem 1, chapter 4 on page 232-233.*
+1. [Change your Discord nickname](https://support.discord.com/hc/en-us/articles/219070107-Server-Nicknames#:~:text=If%20you're%20on%20the,new%20nickname%20of%20your%20choice!) to whatever you prefer to be called,
+   *including last name*. For example, if I was a student, I would put Lucy
+   Williams, because my given first name is Lucia but I usually use Lucy.
+In a direct message to Dr. Williams, answer the following questions.
+2. What previous programming courses have you taken, and/or what other
+   programming experience do you have?
+3. What time and day of the week are labs due? What time and day of the week
+   are programs due?
+4. Were you able to install Java and the IDE of your choice?
+5. Somene asks you for help with a lab because they are getting an error they
+   don't understand. Are either of the following okay? (a) For them to send you
+   a copy of their code so you can help them undersatnd they error message. (b)
+   For them to sit with you and have them run the code on their own computer
+   while you talk them through debuggin it (without sending you a
+   copy of their code). (c) To get on a video call with them, have them share
+   their screen, and show their code to you while you talk them through
+   debugging it (again without sending you a copy).
 
-A store provides discounts for the military based on the dollar amount of the
-purchase.
-In this program, you will prompt the user for the dollar amount purchased and whether they are in the military or not.
-The program will then determine the discount, sales tax cost and total.
-It will print out this information in a neat way.
 
-If a person is in the military, they get a 15% discount if they spend $150 or more.
-The discount for military is 10% otherwise.
-If they are not in the military, they get no discount. Everyone pays a 5% sales
-tax on purchases of any amount, but the 5% sale tax is applied after any
-discount.
-
-### Requirements
-* Write your program in a file called `lab1.c` in your
-	`csci112-firstname-lastname/labs/lab1/` directory.
-* Accept only `n`, `N`, `y`, and `Y` for input as to whether the person is in
-	the military or not. For any other input, print `Error: bad input` and end
-	the program. (Note: actually, as long as you are using only the data types
-	that we have learned about so far (`int`, `double`, and `char`,
-	you can accept any inputs beginning with
-	those four characters; for example, `no` would also work. If you can
-	explain why this is, you can get extra credit. See the Grading section.)
-* Use a separate function to compute the discount.
-* Use a separate function to print the results. (This function can call the
-	function that computes the discount if you like.)
-* Your output formatting must match the example. Use a tool like
-	[diffchecker](https://www.diffchecker.com/) to compare your output with the sample
-	output. Don't worry about trailing spaces.
-
-### Example output
-```
-[p19t655@csci112 lab1]$ ./lab1
-Cost of purchase?		$217
-In military (y or n)?		y
-Military discount (15%):	$32.55
-Discounted total:		$184.45
-Sales tax (5%):			$9.22
-Total:				$193.67
-[p19t655@csci112 lab1]$ ./lab1
-Cost of purchase?		$80
-In military (y or n)?		Y
-Military discount (10%):	$8.00
-Discounted total:		$72.00
-Sales tax (5%):			$3.60
-Total:				$75.60
-[p19t655@csci112 lab1]$ ./lab1
-Cost of purchase?		$115
-In military (y or n)?		n
-Sales tax (5%):			$5.75
-Total:				$120.75
-[p19t655@csci112 lab1]$ ./lab1
-Cost of purchase?		$20
-In military (y or n)?		x
-Error: bad input
-[p19t655@csci112 lab1]$ ./lab1
-Cost of purchase?		$20
-In military (y or n)?		No
-Sales tax (5%):			$1.00
-Total:				$21.00
-```
-
-### Hints
-* If you are having trouble reading in a `char`, you may need to add a space so
-	that `scanf` doesn't consume whitepsace from a previous `printf`. See [this
-	stackoverlow
-	post](https://stackoverflow.com/questions/13542055/how-to-do-scanf-for-single-char-in-c/13543113).
-* Use `\t` to add tabs to your output.
-* To print a `%`, use the format `%%`. For example, `printf("5%%")` would print
-	`5%`.
-
-## Grading - 100 points
-* 10 points – includes comments explaining what your program does
-* 10 points – code is indented so it is readable
-* 10 points – compiles successfully with `-Wall` – no warnings
-* 5 points – discount is computed in own function
-* 5 points - a separate function is used to print the results
-* 20 points – uses proper math equations to compute taxes and discount
-* 10 points – prints the output to exactly match the sample output
-* 10 points – reads in the input to exactly match the sample
-* 10 points – allows `y`, `Y`, `n`, `N` as input for military question
-* 10 points – prints error message if any other input for military question, exactly matching example
-* BONUS: 5 points - in a comment in your program, explain why your program can
-	accept longer strings of characters as long as they begin with `y`, `Y`,
-	`n`, or `N`.
+## Grading - 10 points
+2 points for addressing each of the five questions.
 
 ## Grading turnaround
 This classwork will be graded with scores in Brightspace by 5pm on May 13th.
