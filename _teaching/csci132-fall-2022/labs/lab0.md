@@ -31,7 +31,7 @@ In a direct message to Dr. Williams, answer the following questions.
 * Were you able to install Java and the IDE of your choice?
 * Somene asks you for help with a lab because they are getting an error they
    don't understand. Are either of the following okay? (a) For them to send you
-   a copy of their code so you can help them undersatnd they error message. (b)
+   a copy of their code so you can run it on your own computer to help them undersatnd they error message. (b)
    For them to sit with you and have them run the code on their own computer
    while you talk them through debuggin it (without sending you a
    copy of their code). (c) To get on a video call with them, have them share
