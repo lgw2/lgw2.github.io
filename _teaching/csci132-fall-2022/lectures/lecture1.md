@@ -8,3 +8,8 @@ our machines.
 
 [lecture video]() (available after class)
 
+### Getting set up to write Java programs
+
+Download and install:
+* [Eclipse](https://www.eclipse.org/)
+
