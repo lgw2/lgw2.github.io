@@ -74,7 +74,7 @@ are due, but have some leeway built in. Please read the bullet points below care
 respect the policy, and *get help early if
 you are having any problems.* We want you to succeed!
 
-* You are responsible for any announcements made in class, on Discord, and here
+* You are responsible for any announcements about assignments  made in class, on Discord, on D2L,  and here
 	on the course website.
 * All assignments must be turned in by 11pm on the due date. If you submit a
 	lab or program between 11:01pm and 12 midnight, you get 25% off. If you
