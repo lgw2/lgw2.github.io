@@ -21,7 +21,9 @@ title: "Lab 0"
 1. [Change your Discord nickname](https://support.discord.com/hc/en-us/articles/219070107-Server-Nicknames#:~:text=If%20you're%20on%20the,new%20nickname%20of%20your%20choice!) to whatever you prefer to be called,
    *including last name*. For example, if I was a student, I would put Lucy
    Williams, because my given first name is Lucia but I usually use Lucy.
+
 In a direct message to Dr. Williams, answer the following questions.
+
 2. What previous programming courses have you taken, and/or what other
    programming experience do you have?
 3. What time and day of the week are labs due? What time and day of the week
