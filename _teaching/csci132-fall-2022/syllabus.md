@@ -28,8 +28,12 @@ information will be posted on this website or on the Discord server; D2L will
 be used *only* to turn in assignments and for grading.
 
 ## Course Resources
-### Interactive textbook
+### Java documentation & tutorials
+You can find the official java documentation [here](https://docs.oracle.com/en/java/javase/11/docs/api/#JavaSE).
 ### Optional textbook
+Data Structures and Algorithms in Java; 6th edition, Goodrich, Tamassia, Goldwasser. It is available in the bookstore.
+I [rented the eBook from Amazon from the semester](https://www.amazon.com/Data-Structures-Algorithms-Michael-Goodrich/dp/1118771338/ref=d_pd_sbs_sccl_2_5/130-3299806-3656911?pd_rd_w=jeeqS&content-id=amzn1.sym.2dc9b33d-bf98-4c85-be26-75af626c0551&pf_rd_p=2dc9b33d-bf98-4c85-be26-75af626c0551&pf_rd_r=7ANTF6MGH1JPP6V86T2J&pd_rd_wg=BPMww&pd_rd_r=bddaaf8b-597e-4252-8635-740434fcff9d&pd_rd_i=1118771338&psc=1).
+### Interactive textbook
 
 ### Labs & course assistants
 
