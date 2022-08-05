@@ -81,7 +81,7 @@ you are having any problems.* We want you to succeed!
 	submit after midnight on the due date but within four days of the due date
 	(Monday at 11pm for labs; Thursday at 11pm for programs) you get 50%.
 	Otherwise, no points are possible.
-* One free late pass for labs: every student gets one free late pass with no
+* Every student gets one free late pass with no
 	questions asked for labs (not programs). This means you can submit up to
 	four days late (by Monday at 11pm) with no penalty. Use this wisely! If you
 	use this early in the semester and something unforseen happens, you will
