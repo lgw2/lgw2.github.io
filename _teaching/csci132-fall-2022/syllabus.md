@@ -25,7 +25,7 @@ which you can complete the week's lab assignment and get help from the course
 assistants. We will use
 Discord as the primary method of course communication, and all course
 information will be posted on this website or on the Discord server; D2L will
-be used *only* to turn in assignments.
+be used *only* to turn in assignments and for grading.
 
 ## Course Resources
 ### Interactive textbook
