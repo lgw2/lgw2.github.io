@@ -1,49 +1,20 @@
 ---
 collection: teaching
-title: "Lecture 2: C basics"
+title: "Lecture 2: Java vs. Python"
 ---
 
-Today, we start to learn about the C programming language.
+Today, we'll learn more about Java by comparing it to what we already know
+about Python.
 
-### Hardware and software
-[video](https://youtu.be/7TJ-VBRwopE)
+[lecture video]
 
-[slides](https://lgw2.github.io/teaching/csci112-summer-2021/lectures/ch1.pdf)
+### What's going on behind the IDE?
+* You can run Python in the interpreter...but not Java programs
+* Java is compiled
+* running Java programs from the command line
 
-Optional reading: chapter 1
+### What we need for a Java program
+* Every Java program must define a class, and all code is inside a class
+* Everything in Java must have a type
+* Every Java program must have a function called 'public static void main(String[] args)'
 
-Key ideas:
-* Hardware: memory cells, bits, bytes, memory addresses, RAM vs. ROM, CPU
-* Software: operating systems, application software
-* Computer languages: machine language, assembly language, high level
-	languages
-* Compiling your C programs: source file, compiler, object file, linker,
-	executable file
-
-### C overview
-[video 1](https://youtu.be/8iNA6w1m6eU)
-
-[video 2](https://youtu.be/J8MlBPkDA5I)
-
-Optional reading: chapter 2.1-2.6
-
-Key ideas:
-* Parts of a C program: preprocessor directives (`#include` and `#define`), main function, declarations vs
-	executable statements
-* Variable declarations and data types
-* Use `gcc -o [executable_filename] -Wall [c_filename]` to compile your program
-	and `./[executable_filename]` to run
-* Assignment statements
-* Comments and whitespace
-* `printf` and `scanf`: placeholders (`%`), float formating
-* Newline and tab: `\n` and `\t`
-* Arithmetic expressions
-
-### Programming errors
-[video](https://youtu.be/qLK5_JZtTq8)
-
-Optional reading: chapter 2.8
-
-Key ideas:
-* Four different types of errors: syntax errors, runtime errors, undetected
-	errors, and logic errors
