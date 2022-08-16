@@ -37,12 +37,12 @@ learn Java. Check it out [here](https://runestone.academy/ns/books/published/jav
 The textbook is optional for this course. *Data Structures and Algorithms in Java*; 6th edition, Goodrich, Tamassia, Goldwasser. It is available in the bookstore.
 You can also [rent the eBook from Amazon for the semester](https://www.amazon.com/Data-Structures-Algorithms-Michael-Goodrich/dp/1118771338/ref=d_pd_sbs_sccl_2_5/130-3299806-3656911?pd_rd_w=jeeqS&content-id=amzn1.sym.2dc9b33d-bf98-4c85-be26-75af626c0551&pf_rd_p=2dc9b33d-bf98-4c85-be26-75af626c0551&pf_rd_r=7ANTF6MGH1JPP6V86T2J&pd_rd_wg=BPMww&pd_rd_r=bddaaf8b-597e-4252-8635-740434fcff9d&pd_rd_i=1118771338&psc=1).
 
-### Interactive textbook
-
 ### Labs & course assistants
 
 There are four lab sections, all of which meet on Thursdays in Roberts Hall
-111.
+111. There will be a TA to help you. This TA will also grade your work, so
+	 please go to your assigned section.
+
 * 001: 10am-11:50am
 * 002: 12pm-2pm
 * 003: 2:10pm-4pm
