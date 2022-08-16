@@ -11,7 +11,7 @@ our machines. We'll also see our first Java program.
 ### Getting set up to write Java programs
 
 Download and install:
-* Java JDK
+* [Java JDK](https://www.oracle.com/java/technologies/downloads/#java17) (17 recommended
 * [Eclipse](https://www.eclipse.org/)
 
 Note: you can use other IDEs such as [Netbeans](https://netbeans.apache.org/)
@@ -23,3 +23,10 @@ Eclipse, so the easiest way to keep up with the class will be to use that.
 
 [HelloWorld.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/HelloWorld.java)
 
+### Why Java?
+
+* Learn a new language
+* Used in industry
+* Good for collaboration
+* Fast
+* Large standard library
