@@ -215,7 +215,7 @@ enthusiastic about course material and my role in helping you learn.
 |Wednesday 12/7|||||
 |Thursday 12/8||Lab 15|||
 |Friday 12/9|Review for final quiz||||
-|Monday 12/12, 2:00pm-3:50pm||||Quiz 3|
+|Final - Monday 12/12, 2:00pm-3:50pm||||Quiz 3|
 
 ## Acknowledgments
 
