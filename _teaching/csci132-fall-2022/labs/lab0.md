@@ -39,7 +39,7 @@ In a direct message to Lucy, answer the following questions.
    policies? (a) For them to send you
    a copy of their code so you can run it on your own computer to help them undersatnd they error message. (b)
    For them to sit with you and have them run the code on their own computer
-   while you talk them through debuggin it (without sending you a
+   while you talk them through debugging it (without sending you a
    copy of their code). (c) To get on a video call with them, have them share
    their screen, and show their code to you while you talk them through
    debugging it (again without sending you a copy).
@@ -50,7 +50,7 @@ In a direct message to Lucy, answer the following questions.
 
 
 ## Grading - 10 points
-2 points for addressing each of the five required questions.
+2 points for addressing each of the five required bullet points.
 
 ## Grading turnaround
 This lab will be graded with scores in Brightspace by 5pm on Friday, August
