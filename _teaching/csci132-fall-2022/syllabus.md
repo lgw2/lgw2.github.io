@@ -150,75 +150,73 @@ enthusiastic about course material and my role in helping you learn.
 
 ## Course schedule
 
-|Date|Lecture Topic|Classwork|Lab Due|Project Due|Quiz|
+|Date|Lecture Topic|Lab Due|Project Due|Quiz|
 |:---|:---|:---|:---|:---|:---|:---|
-|Wednesday 8/24|Syllabus & set up|Get set up to use Java||||
-|Thursday 8/25|||Lab 0|||
-|Friday 8/26|Java vs. Python|||||
-|Monday 8/29|Arrays; for loops|||||
-|Wednesday 8/31|Reference data types vs. primitive data types|||||
-|Thursday 9/1|||Lab 1|||
-|Friday 9/2|Modifiers|||||
-|Labor Day - no class||||||
-|Wednesday 9/7|Controlling the flow|||||
-|Thursday 9/8|||Lab 2|||
-|Friday 9/9|Example program: CreditCard class|||||
-|Monday 9/12|Data Structures; Javadoc|||||
-|Wednesday 9/14||||||
-|Thursday 9/15|||Lab 3|||
-|Friday 9/16||||Project 1||
-|Monday 9/19||||||
-|Wednesday 9/21||||||
-|Thursday 9/22|||Lab 4|||
-|Friday 9/23||||||
-|Monday 9/26||||||
-|Wednesday 9/28||||||
-|Thursday 9/29|||Lab 5|||
-|Friday 9/30||||||
-|Monday 10/3||||||
-|Wednesday 10/5||||||
-|Tuesday 10/6||||||
-|Friday 10/7||||||
-|Monday 10/10||||||
-|Wednesday 10/12||||||
-|Tuesday 10/13|||||
-|Friday 10/14||||||
-|Monday 10/17||||||
-|Wednesday 10/19||||||
-|Thursday 10/20|||||
-|Friday 10/21||||||
-|Monday 10/17||||||
-|Wednesday 10/19||||||
-|Thursday 10/20|||||
-|Friday 10/21||||||
-|Monday 10/24||||||
-|Wednesday 10/26||||||
-|Thursday 10/27|||||
-|Friday 10/28||||||
-|Monday 10/31||||||
-|Wednesday 11/2||||||
-|Thursday 11/3|||||
-|Friday 11/4||||||
-|Monday 11/7||||||
-|Wednesday 11/9||||||
-|Thursday 11/10|||||
-|Veteran's day - no class||||||
-|Monday 11/14||||||
-|Wednesday 11/16||||||
-|Thursday 11/17|||||
-|Friday 11/18||||||
-|Fall break||||||
-|Monday 11/28||||||
-|Wednesday 11/30||||||
-|Thursday 12/1|||||
-|Friday 12/2||||||
-|Monday 12/5||||||
-|Wednesday 12/7||||||
-|Thursday 12/8|||||
-|Friday 12/9||||||
-|Final - Monday 12/12, 2:00pm-3:50pm||||||
-
-
+|Wednesday 8/24|Syllabus & set up|Get set up to use Java|||
+|Thursday 8/25||Lab 0|||
+|Friday 8/26|Java vs. Python||||
+|Monday 8/29|Arrays; for loops||||
+|Wednesday 8/31|Reference data types vs. primitive data types||||
+|Thursday 9/1||Lab 1|||
+|Friday 9/2|Modifiers||||
+|Labor Day - no class|||||
+|Wednesday 9/7|Controlling the flow||||
+|Thursday 9/8||Lab 2|||
+|Friday 9/9|Example program: CreditCard class||||
+|Monday 9/12|Data Structures; Javadoc||||
+|Wednesday 9/14|||||
+|Thursday 9/15||Lab 3|||
+|Friday 9/16|||Project 1||
+|Monday 9/19|||||
+|Wednesday 9/21|||||
+|Thursday 9/22||Lab 4|||
+|Friday 9/23|||||
+|Monday 9/26|||||
+|Wednesday 9/28|||||
+|Thursday 9/29||Lab 5|||
+|Friday 9/30|||||
+|Monday 10/3|||||
+|Wednesday 10/5|||||
+|Tuesday 10/6|||||
+|Friday 10/7|||||
+|Monday 10/10|||||
+|Wednesday 10/12|||||
+|Tuesday 10/13||||
+|Friday 10/14|||||
+|Monday 10/17|||||
+|Wednesday 10/19|||||
+|Thursday 10/20||||
+|Friday 10/21|||||
+|Monday 10/17|||||
+|Wednesday 10/19|||||
+|Thursday 10/20||||
+|Friday 10/21|||||
+|Monday 10/24|||||
+|Wednesday 10/26|||||
+|Thursday 10/27||||
+|Friday 10/28|||||
+|Monday 10/31|||||
+|Wednesday 11/2|||||
+|Thursday 11/3||||
+|Friday 11/4|||||
+|Monday 11/7|||||
+|Wednesday 11/9|||||
+|Thursday 11/10||||
+|Veteran's day - no class|||||
+|Monday 11/14|||||
+|Wednesday 11/16|||||
+|Thursday 11/17||||
+|Friday 11/18|||||
+|Fall break|||||
+|Monday 11/28|||||
+|Wednesday 11/3||||||
+|Thursday 12/1||||
+|Friday 12/2|||||
+|Monday 12/5|||||
+|Wednesday 12/7|||||
+|Thursday 12/8||||
+|Friday 12/9|||||
+|Final - Monday 12/12, 2:00pm-3:50pm|||||
 
 ## Acknowledgments
 
