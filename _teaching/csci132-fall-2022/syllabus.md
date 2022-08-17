@@ -71,7 +71,7 @@ By the end of this course, students should be able to:
 You will be graded on the following:
 * 16 labs: 40%
 * 5 projects: 40%
-* 3 quizzes: 18%
+* 3 quizzes (including final): 18%
 * 2 course surveys: 2%
 
 After any curving, your grade will be determined by your total score as follows:
@@ -154,7 +154,7 @@ enthusiastic about course material and my role in helping you learn.
 ## Course schedule
 
 |Date|Lecture Topic|Lab Due|Project Due|Quiz|
-|:---|:---|:---|:---|:---|:---|
+|:---|:---|:---|:---|:---|
 |Wednesday 8/24|Syllabus & set up|Get set up to use Java|||
 |Thursday 8/25||Lab 0|||
 |Friday 8/26|Java vs. Python||||
@@ -219,7 +219,7 @@ enthusiastic about course material and my role in helping you learn.
 |Wednesday 12/7|||||
 |Thursday 12/8||Lab 15|||
 |Friday 12/9|||||
-|Final - Monday 12/12, 2:00pm-3:50pm|||||
+|Final - Monday 12/12, 2:00pm-3:50pm||||Quiz 3|
 
 ## Acknowledgments
 
