@@ -197,7 +197,7 @@ enthusiastic about course material and my role in helping you learn.
 |Monday 10/24||||Quiz 2|
 |Wednesday 10/26|Deques||||
 |Thursday 10/27||Lab 10|||
-|Friday 10/28||||Project 3|
+|Friday 10/28|||Project 3||
 |Monday 10/31|Lists||||
 |Wednesday 11/2|Dynamic arrays, amortized analysis||||
 |Thursday 11/3||Lab 11|||
