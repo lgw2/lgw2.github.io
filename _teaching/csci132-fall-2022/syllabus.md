@@ -40,9 +40,7 @@ You can also [rent the eBook from Amazon for the semester](https://www.amazon.co
 
 ### Labs & course assistants
 
-There are four lab sections, all of which meet on Thursdays in Roberts Hall
-111. There will be a TA to help you. This TA will also grade your work, so
-	 please go to your assigned section.
+There are four lab sections, all of which meet on Thursdays in Roberts Hall 111. There will be a TA to help you. This TA will also grade your work, so please go to your assigned section.
 
 * 001: 10am-11:50am
 * 002: 12pm-2pm
