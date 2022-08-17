@@ -211,6 +211,15 @@ enthusiastic about course material and my role in helping you learn.
 |Thursday 11/17||Lab 13|||
 |Friday 11/18|||Project 4||
 |Fall break|||||
+|Monday 11/28|||||
+|Wednesday 11/3||||||
+|Thursday 12/1||Lab 14|||
+|Friday 12/2|||Project 5||
+|Monday 12/5|||||
+|Wednesday 12/7|||||
+|Thursday 12/8||Lab 15|||
+|Friday 12/9|Review for final quiz||||
+|Final - Monday 12/12, 2:00pm-3:50pm||||Quiz 3|
 
 ## Acknowledgments
 
