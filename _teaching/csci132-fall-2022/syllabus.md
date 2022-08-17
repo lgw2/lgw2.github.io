@@ -213,6 +213,8 @@ enthusiastic about course material and my role in helping you learn.
 |Fall break|||||
 |Monday 12/5|||||
 |Wednesday 12/7|||||
+|Thursday 12/8||Lab 15|||
+|Friday 12/9|Review for final quiz||||
 
 ## Acknowledgments
 
