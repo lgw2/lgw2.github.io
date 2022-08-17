@@ -190,6 +190,27 @@ enthusiastic about course material and my role in helping you learn.
 |Wednesday 10/19|Growth rates||||
 |Thursday 10/20||Lab 8|||
 |Friday 10/21|Big O notation||||
+|Monday 10/17|Recursion||||
+|Wednesday 10/19|Stacks, queues||||
+|Thursday 10/20||Lab 9|||
+|Friday 10/21|Quiz 2 review||Project 3||
+|Monday 10/24||||Quiz 2|
+|Wednesday 10/26|Deques||||
+|Thursday 10/27||Lab 10|||
+|Friday 10/28|||||
+|Monday 10/31|Lists||||
+|Wednesday 11/2|Dynamic arrays, amortized analysis||||
+|Thursday 11/3||Lab 11|||
+|Friday 11/4|ArrayLists||||
+|Monday 11/7|Positional Lists, Java Collections||||
+|Wednesday 11/9|Iterators, Comparators||||
+|Thursday 11/10||Lab 12|||
+|Veteran's day - no class|||||
+|Monday 11/14|||||
+|Wednesday 11/16|||||
+|Thursday 11/17||Lab 13|||
+|Friday 11/18|||Project 4||
+|Fall break|||||
 
 ## Acknowledgments
 
