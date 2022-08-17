@@ -209,7 +209,7 @@ enthusiastic about course material and my role in helping you learn.
 |Monday 11/14|||||
 |Wednesday 11/16|||||
 |Thursday 11/17||Lab 13|||
-|Friday 11/18|||Project 4||
+|Friday 11/18|||Project 5||
 |Fall break|||||
 |Monday 12/5|||||
 |Wednesday 12/7|||||
