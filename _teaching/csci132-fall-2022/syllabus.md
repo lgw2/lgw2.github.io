@@ -49,10 +49,14 @@ There are four lab sections, all of which meet on Thursdays in Roberts Hall 111.
 
 ### SmartyCats
 
+I will post information about SmartyCats tutoring here when it is available.
+
 ### Computer Science Success Center
 There are free tutors available in Barnard 259. More information [here](https://www.cs.montana.edu/student-success-center.html).
 
 ### Discord server
+
+All course communication will be through our course Discord server.
 
 ### Course outcomes
 By the end of this course, students should be able to:
@@ -65,10 +69,9 @@ By the end of this course, students should be able to:
 ## Grading
 
 You will be graded on the following:
-* 11 labs: 33%
+* 16 labs: 40%
 * 5 projects: 40%
 * 3 quizzes: 18%
-* interactive textbook assignments: 7%
 * 2 course surveys: 2%
 
 After any curving, your grade will be determined by your total score as follows:
@@ -177,44 +180,44 @@ enthusiastic about course material and my role in helping you learn.
 |Friday 9/30|||||
 |Monday 10/3|||||
 |Wednesday 10/5|||||
-|Tuesday 10/6|||||
+|Thursday 10/6||Lab 6|||
 |Friday 10/7|||||
 |Monday 10/10|||||
 |Wednesday 10/12|||||
-|Tuesday 10/13||||
+|Thursday 10/13||Lab 7|||
 |Friday 10/14|||||
 |Monday 10/17|||||
 |Wednesday 10/19|||||
-|Thursday 10/20||||
+|Thursday 10/20||Lab 8|||
 |Friday 10/21|||||
 |Monday 10/17|||||
 |Wednesday 10/19|||||
-|Thursday 10/20||||
+|Thursday 10/20||Lab 9|||
 |Friday 10/21|||||
 |Monday 10/24|||||
 |Wednesday 10/26|||||
-|Thursday 10/27||||
+|Thursday 10/27||Lab 10|||
 |Friday 10/28|||||
 |Monday 10/31|||||
 |Wednesday 11/2|||||
-|Thursday 11/3||||
+|Thursday 11/3||Lab 11|||
 |Friday 11/4|||||
 |Monday 11/7|||||
 |Wednesday 11/9|||||
-|Thursday 11/10||||
+|Thursday 11/10||Lab 12|||
 |Veteran's day - no class|||||
 |Monday 11/14|||||
 |Wednesday 11/16|||||
-|Thursday 11/17||||
+|Thursday 11/17||Lab 13|||
 |Friday 11/18|||||
 |Fall break|||||
 |Monday 11/28|||||
 |Wednesday 11/3||||||
-|Thursday 12/1||||
+|Thursday 12/1||Lab 14|||
 |Friday 12/2|||||
 |Monday 12/5|||||
 |Wednesday 12/7|||||
-|Thursday 12/8||||
+|Thursday 12/8||Lab 15|||
 |Friday 12/9|||||
 |Final - Monday 12/12, 2:00pm-3:50pm|||||
 
