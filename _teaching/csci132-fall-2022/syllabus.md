@@ -167,17 +167,17 @@ enthusiastic about course material and my role in helping you learn.
 |Thursday 9/8||Lab 2|||
 |Friday 9/9|Example program: CreditCard class||||
 |Monday 9/12|Data Structures; Javadoc||||
-|Wednesday 9/14|||||
+|Wednesday 9/14|OOP: Abstraction||||
 |Thursday 9/15||Lab 3|||
-|Friday 9/16|||Project 1||
-|Monday 9/19|||||
-|Wednesday 9/21|||||
+|Friday 9/16|UML, OOP, Polymorphism||Project 1||
+|Monday 9/19|Progression Class, Command line args||||
+|Wednesday 9/21|Interfaces||||
 |Thursday 9/22||Lab 4|||
-|Friday 9/23|||||
-|Monday 9/26|||||
-|Wednesday 9/28|||||
+|Friday 9/23|Using exceptions||||
+|Monday 9/26|Review for Quiz||||
+|Wednesday 9/28||||Quiz 1|
 |Thursday 9/29||Lab 5|||
-|Friday 9/30|||||
+|Friday 9/30|||Project 2||
 |Monday 10/3|||||
 |Wednesday 10/5|||||
 |Thursday 10/6||Lab 6|||
