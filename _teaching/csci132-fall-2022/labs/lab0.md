@@ -22,15 +22,19 @@ title: "Lab 0"
    *including last name*. For example, if I was a student, I would put Lucy
    Williams, because my given first name is Lucia but I usually use Lucy.
 
-In a direct message to Dr. Williams, answer the following questions.
+In a direct message to Lucy, answer the following questions.
 
 * What previous programming courses have you taken, and/or what other
    programming experience do you have?
 * What time and day of the week are labs due? What time and day of the week
    are programs due?
-* Were you able to install Java and the IDE of your choice?
-* Somene asks you for help with a lab because they are getting an error they
-   don't understand. Are either of the following okay? (a) For them to send you
+* Were you able to install Java and the IDE of your choice? If not, what is the
+	next step you will take to get help? (For example, post in the
+	`#java-setup` channel on Discord, visit the Computer Science Success
+	Center, ask a friend.)
+* Someone asks you for help with a lab because they are getting an error they
+   don't understand. Which of the following are okay according to the course
+   policies? (a) For them to send you
    a copy of their code so you can run it on your own computer to help them undersatnd they error message. (b)
    For them to sit with you and have them run the code on their own computer
    while you talk them through debuggin it (without sending you a
@@ -43,4 +47,5 @@ In a direct message to Dr. Williams, answer the following questions.
 2 points for addressing each of the five questions.
 
 ## Grading turnaround
-This classwork will be graded with scores in Brightspace by 5pm on May 13th.
+This lab will be graded with scores in Brightspace by 5pm on Friday, August
+26th.
