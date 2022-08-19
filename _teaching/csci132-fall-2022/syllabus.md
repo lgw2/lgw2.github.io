@@ -56,7 +56,8 @@ There are free tutors available in Barnard 259. More information [here](https://
 
 ### Discord server
 
-All course communication will be through our course Discord server.
+All course communication will be through our course Discord server. Join with
+[this link](https://discord.gg/KTMAb8Bwgg).
 
 ### Course outcomes
 By the end of this course, students should be able to:
