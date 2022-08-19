@@ -166,23 +166,14 @@ Lecture topics are subject to change, but quiz and assignment dates are set.
 |Wednesday 8/24|Syllabus & set up||||
 |Thursday 8/25||[Lab 0](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab0/)|||
 |Friday 8/26|Java vs. Python||||
-
----
-
 |Monday 8/29|Arrays; for loops||||
 |Wednesday 8/31|Reference data types vs. primitive data types||||
 |Thursday 9/1||Lab 1|||
 |Friday 9/2|Modifiers||||
-
----
-
 |Labor Day - no class|||||
 |Wednesday 9/7|Controlling the flow||||
 |Thursday 9/8||Lab 2|||
 |Friday 9/9|Example program: CreditCard class||||
-
----
-
 |Monday 9/12|Data Structures; Javadoc||||
 |Wednesday 9/14|OOP: Abstraction||||
 |Thursday 9/15||Lab 3|||
