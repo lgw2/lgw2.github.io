@@ -193,36 +193,32 @@ Lecture topics are subject to change, but quiz and assignment dates are set.
 |Monday 10/10|Linked lists||||
 |Wednesday 10/12|Linked lists data structure||||
 |Thursday 10/13||Lab 7|||
-|Friday 10/14|Circular, doubly linked lists|||Project 3|
+|Friday 10/14|Circular, doubly linked lists||Project 3||
 |Monday 10/17|Equivalence and cloning||||
 |Wednesday 10/19|Growth rates||||
 |Thursday 10/20||Lab 8|||
 |Friday 10/21|Big O notation||||
-|Monday 10/17|Recursion||||
-|Wednesday 10/19|Stacks, queues||||
-|Thursday 10/20||Lab 9|||
-|Friday 10/21|Quiz 2 review||||
-|Monday 10/24||||Quiz 2|
-|Wednesday 10/26|Deques||||
+|Monday 10/24|Recursion||||
+|Wednesday 10/26|Stacks, queues||||
 |Thursday 10/27||Lab 10|||
-|Friday 10/28||||Project 4|
-|Monday 10/31|Lists||||
-|Wednesday 11/2|Dynamic arrays, amortized analysis||||
+|Friday 10/28|Quiz review||||
+|Monday 10/31||||Quiz 2|
+|Wednesday 11/2|D||||
 |Thursday 11/3||Lab 11|||
-|Friday 11/4|ArrayLists||||
-|Monday 11/7|Positional Lists, Java Collections||||
-|Wednesday 11/9|Iterators, Comparators||||
+|Friday 11/4||||Project 4|
+|Monday 11/7|||||
+|Wednesday 11/9|||||
 |Thursday 11/10||Lab 12|||
 |Veteran's day - no class|||||
 |Monday 11/14|||||
 |Wednesday 11/16|||||
 |Thursday 11/17||Lab 13|||
-|Friday 11/18|||Project 5||
+|Friday 11/18|||||
 |Fall break|||||
 |Monday 12/5|||||
 |Wednesday 12/7|||||
 |Thursday 12/8||Lab 15|||
-|Friday 12/9|Review for final quiz||||
+|Friday 12/9|Review for final quiz|||Project 5|
 |Final - Monday 12/12, 2:00pm-3:50pm||||Quiz 3|
 
 ## Acknowledgments
