@@ -157,7 +157,7 @@ enthusiastic about course material and my role in helping you learn.
 |Date|Lecture Topic|Lab Due|Project Due|Quiz|
 |:---|:---|:---|:---|:---|
 |Wednesday 8/24|Syllabus & set up||||
-|Thursday 8/25||Lab 0|||
+|Thursday 8/25||[Lab 0](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab0/)|||
 |Friday 8/26|Java vs. Python||||
 |Monday 8/29|Arrays; for loops||||
 |Wednesday 8/31|Reference data types vs. primitive data types||||
