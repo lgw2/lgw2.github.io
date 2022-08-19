@@ -159,7 +159,7 @@ enthusiastic about course material and my role in helping you learn.
 
 ## Course schedule
 
-Lecture topics are subject to change, but quiz and assignment dates are set.
+Schedule subject to change.
 
 |Date|Lecture Topic|Lab Due|Project Due|Quiz|
 |:---|:---|:---|:---|:---|
