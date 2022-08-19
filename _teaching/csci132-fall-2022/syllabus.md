@@ -232,7 +232,7 @@ Wk 14
 |Monday 12/5|Regex, file I/O, merge sort||||
 |Wednesday 12/7|More sorting||||
 |Thursday 12/8||Lab 15|||
-|Friday 12/9|Review for final quiz|||Project 5|
+|Friday 12/9|Review for final quiz||Project 5||
 |Final - Monday 12/12, 2:00pm-3:50pm||||Quiz 3|
 
 ## Acknowledgments
