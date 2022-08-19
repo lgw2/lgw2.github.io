@@ -203,17 +203,17 @@ Lecture topics are subject to change, but quiz and assignment dates are set.
 |Thursday 10/27||Lab 10|||
 |Friday 10/28|Quiz review||||
 |Monday 10/31||||Quiz 2|
-|Wednesday 11/2|D||||
+|Wednesday 11/2|||||
 |Thursday 11/3||Lab 11|||
-|Friday 11/4||||Project 4|
-|Monday 11/7|||||
-|Wednesday 11/9|||||
+|Friday 11/4|Deques|||Project 4|
+|Monday 11/7|Lists||||
+|Wednesday 11/9|Dynamic arrays, amortized analysis||||
 |Thursday 11/10||Lab 12|||
 |Veteran's day - no class|||||
-|Monday 11/14|||||
-|Wednesday 11/16|||||
+|Monday 11/14|ArrayLists||||
+|Wednesday 11/16|Positional Lists, Java Collections||||
 |Thursday 11/17||Lab 13|||
-|Friday 11/18|||||
+|Friday 11/18|Iterators, Comparators||||
 |Fall break|||||
 |Monday 12/5|||||
 |Wednesday 12/7|||||
