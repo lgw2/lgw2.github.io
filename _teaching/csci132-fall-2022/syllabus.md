@@ -205,7 +205,7 @@ Lecture topics are subject to change, but quiz and assignment dates are set.
 |Monday 10/31||||Quiz 2|
 |Wednesday 11/2|||||
 |Thursday 11/3||Lab 11|||
-|Friday 11/4|Deques|||Project 4|
+|Friday 11/4|Deques||Project 4||
 |Monday 11/7|Lists||||
 |Wednesday 11/9|Dynamic arrays, amortized analysis||||
 |Thursday 11/10||Lab 12|||
