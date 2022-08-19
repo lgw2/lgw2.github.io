@@ -193,7 +193,7 @@ Lecture topics are subject to change, but quiz and assignment dates are set.
 |Monday 10/10|Linked lists||||
 |Wednesday 10/12|Linked lists data structure||||
 |Thursday 10/13||Lab 7|||
-|Friday 10/14|Circular, doubly linked lists||||
+|Friday 10/14|Circular, doubly linked lists|||Project 3|
 |Monday 10/17|Equivalence and cloning||||
 |Wednesday 10/19|Growth rates||||
 |Thursday 10/20||Lab 8|||
@@ -201,11 +201,11 @@ Lecture topics are subject to change, but quiz and assignment dates are set.
 |Monday 10/17|Recursion||||
 |Wednesday 10/19|Stacks, queues||||
 |Thursday 10/20||Lab 9|||
-|Friday 10/21|Quiz 2 review||Project 3||
+|Friday 10/21|Quiz 2 review||||
 |Monday 10/24||||Quiz 2|
 |Wednesday 10/26|Deques||||
 |Thursday 10/27||Lab 10|||
-|Friday 10/28|||||
+|Friday 10/28||||Project 4|
 |Monday 10/31|Lists||||
 |Wednesday 11/2|Dynamic arrays, amortized analysis||||
 |Thursday 11/3||Lab 11|||
