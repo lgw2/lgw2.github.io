@@ -163,60 +163,74 @@ Lecture topics are subject to change, but quiz and assignment dates are set.
 
 |Date|Lecture Topic|Lab Due|Project Due|Quiz|
 |:---|:---|:---|:---|:---|
+Wk 1
 |Wednesday 8/24|Syllabus & set up||||
 |Thursday 8/25||[Lab 0](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab0/)|||
 |Friday 8/26|Java vs. Python||||
+Wk 2
 |Monday 8/29|Arrays; for loops||||
 |Wednesday 8/31|Reference data types vs. primitive data types||||
 |Thursday 9/1||Lab 1|||
 |Friday 9/2|Modifiers||||
+Wk 3
 |Labor Day - no class|||||
 |Wednesday 9/7|Controlling the flow||||
 |Thursday 9/8||Lab 2|||
 |Friday 9/9|Example program: CreditCard class||||
+Wk 4
 |Monday 9/12|Data Structures; Javadoc||||
 |Wednesday 9/14|OOP: Abstraction||||
 |Thursday 9/15||Lab 3|||
 |Friday 9/16|UML, OOP, Polymorphism||Project 1||
+Wk 5
 |Monday 9/19|Progression Class, Command line args||||
 |Wednesday 9/21|Interfaces||||
 |Thursday 9/22||Lab 4|||
 |Friday 9/23|Using exceptions||||
+Wk 6
 |Monday 9/26|Review for Quiz||||
 |Wednesday 9/28||||Quiz 1|
 |Thursday 9/29||Lab 5|||
 |Friday 9/30|Generics||Project 2||
+Wk 7
 |Monday 10/3|||||
 |Wednesday 10/5|java.util.Arrays||||
 |Thursday 10/6||Lab 6|||
 |Friday 10/7|Insertion Sort, Debugging||||
+Wk 8
 |Monday 10/10|Linked lists||||
 |Wednesday 10/12|Linked lists data structure||||
 |Thursday 10/13||Lab 7|||
 |Friday 10/14|Circular, doubly linked lists||Project 3||
+Wk 9
 |Monday 10/17|Equivalence and cloning||||
 |Wednesday 10/19|Growth rates||||
 |Thursday 10/20||Lab 8|||
 |Friday 10/21|Big O notation||||
+Wk 10
 |Monday 10/24|Recursion||||
 |Wednesday 10/26|Stacks, queues||||
 |Thursday 10/27||Lab 10|||
 |Friday 10/28|Quiz review||||
+Wk 11
 |Monday 10/31||||Quiz 2|
-|Wednesday 11/2|||||
+|Wednesday 11/2|Deques||||
 |Thursday 11/3||Lab 11|||
-|Friday 11/4|Deques||Project 4||
-|Monday 11/7|Lists||||
-|Wednesday 11/9|Dynamic arrays, amortized analysis||||
+|Friday 11/4|Lists||Project 4||
+Wk 12
+|Monday 11/7|Dynamic arrays, amortized analysis||||
+|Wednesday 11/9|Arraylists||||
 |Thursday 11/10||Lab 12|||
 |Veteran's day - no class|||||
+Wk 13
 |Monday 11/14|ArrayLists||||
 |Wednesday 11/16|Positional Lists, Java Collections||||
 |Thursday 11/17||Lab 13|||
 |Friday 11/18|Iterators, Comparators||||
 |Fall break|||||
-|Monday 12/5|||||
-|Wednesday 12/7|||||
+Wk 14
+|Monday 12/5|Regex, file I/O, merge sort||||
+|Wednesday 12/7|More sorting||||
 |Thursday 12/8||Lab 15|||
 |Friday 12/9|Review for final quiz|||Project 5|
 |Final - Monday 12/12, 2:00pm-3:50pm||||Quiz 3|
