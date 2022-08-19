@@ -28,11 +28,15 @@ information will be posted on this website or on the Discord server; D2L will
 be used *only* to turn in assignments and for grading.
 
 ## Course Resources
-### Java documentation & tutorials
+### Java documentation, tutorials, and useful links
 * You can find the official Java documentation [here](https://docs.oracle.com/en/java/javase/11/docs/api/#JavaSE).
 * An organization that I like, Runestone Interactive, makes an interactive
 textbook just for programmers who are coming from Python to and beginning to
 learn Java. Check it out [here](https://runestone.academy/ns/books/published/java4python/index.html#).
+* If you are interested, check out the [MIT Missing Semester of Your CS
+	Education](https://missing.csail.mit.edu/). It covers many of the tools you
+	will use if you continue your computer science career, such as the command
+	line, `git`, and much more.
 
 ### Optional textbook
 The textbook is optional for this course. *Data Structures and Algorithms in Java*; 6th edition, Goodrich, Tamassia, Goldwasser. It is available in the bookstore.
