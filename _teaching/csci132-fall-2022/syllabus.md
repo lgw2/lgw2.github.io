@@ -123,6 +123,10 @@ You may not:
 * Submit code that you did not write.
 * Modify someone else's solution and claim it as your own.
 
+### Academic misconduct
+
+In line with the [MSU student code of conduct](https://www.montana.edu/policy/student_conduct/#academichonesty), for the first incident of academic misconduct, you will receive a 0 on the assignment. For the second, I will report you to the Office of the Dean of Students. It's just not worth it to cheat in this course.
+
 
 ## Diversity statement
 Montana State University's campuses are committed to
