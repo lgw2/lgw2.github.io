@@ -51,6 +51,12 @@ There are four lab sections, all of which meet on Thursdays in Roberts Hall 111.
 * 003: 2:10pm-4pm
 * 004: 4:10pm-6pm
 
+### Instructor office hours
+
+My office hours are Monday and Wednesday 9:30-10:30am and Thursday 10-11am in
+Barnard 359 or via Discord. You can also contact me on Discord to set up a
+different meeting time. You can find office hours for all CS faculty [here](https://www.cs.montana.edu/office-hours.html).
+
 ### SmartyCats
 
 I will post information about SmartyCats tutoring here when it is available.
