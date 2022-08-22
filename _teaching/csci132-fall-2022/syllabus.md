@@ -37,6 +37,7 @@ learn Java. Check it out [here](https://runestone.academy/ns/books/published/jav
 	Education](https://missing.csail.mit.edu/). It covers many of the tools you
 	will use if you continue your computer science career, such as the command
 	line, `git`, and much more.
+* MSU has a [code of student conduct](https://www.montana.edu/policy/student_conduct/) that outlines the responsibilities of instructors and students.
 
 ### Optional textbook
 The textbook is optional for this course. *Data Structures and Algorithms in Java*; 6th edition, Goodrich, Tamassia, Goldwasser. It is available in the bookstore.
