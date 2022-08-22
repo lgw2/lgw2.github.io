@@ -11,7 +11,7 @@ our machines. We'll also see our first Java program.
 ### Getting set up to write Java programs
 
 Download and install:
-* [Java JDK](https://www.oracle.com/java/technologies/downloads/#java17) (17 recommended
+* [Java JDK](https://www.oracle.com/java/technologies/downloads/#java17) (17 recommended)
 * [Eclipse](https://www.eclipse.org/)
 
 Note: you can use other IDEs such as [Netbeans](https://netbeans.apache.org/)
