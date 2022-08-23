@@ -82,8 +82,8 @@ By the end of this course, students should be able to:
 ## Grading
 
 You will be graded on the following:
-* 16 labs: 40%
-* 5 projects: 40%
+* 15 labs (one dropped): 30%
+* 5 projects: 50%
 * 3 quizzes (including final): 18%
 * 2 course surveys: 2%
 
