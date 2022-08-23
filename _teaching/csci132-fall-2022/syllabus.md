@@ -112,7 +112,8 @@ you are having any problems.* We want you to succeed!
 	use this early in the semester and something unforseen happens, you will
 	still need to submit the lab on time or the penalties above apply. Please
 	message the course assistant for your section on Discord to let them know
-	you are using your late pass.
+	you are using your late pass for a program.
+* At the end of the semester, your lowest lab grade will be dropped.
 
 ### Collaboration policy
 On all assignments, you may:
@@ -127,7 +128,7 @@ You may not:
 
 ### Academic misconduct
 
-In line with the [MSU student code of conduct](https://www.montana.edu/policy/student_conduct/#academichonesty), for the first incident of academic misconduct, you will receive a 0 on the assignment. For the second, I will report you to the Office of the Dean of Students. It's just not worth it to cheat in this course.
+In line with the [MSU student code of conduct](https://www.montana.edu/policy/student_conduct/#academichonesty), if I or the teaching assistants suspect that you have committed academic misconduct, we will schedule a meeting with you to discuss. If we believe that you did commit academic misconduct, you will receive a 0 on the assignment and I will submit a report to the Dean of Students. It's just not worth it to cheat in this course.
 
 
 ## Diversity statement
