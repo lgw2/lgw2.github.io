@@ -10,7 +10,7 @@ our machines. We'll also see our first Java program.
 
 ### Getting set up to write Java programs
 
-* Download and install the Java JDK. For Mac, choose the `.dmg` extension. For
+* Download and install the [Java JDK](https://www.oracle.com/java/technologies/downloads/#java17). For Mac, choose the `.dmg` extension. For
 	Windows, choose the `.exe` extension.
 * Download and install the [Eclipse Integrated Development Environment](https://www.eclipse.org/) (IDE). When prompted by the installer, select "Eclipse IDE for Java Developers"
 
