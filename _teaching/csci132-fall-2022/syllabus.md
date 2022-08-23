@@ -99,14 +99,16 @@ you are having any problems.* We want you to succeed!
 
 * You are responsible for any announcements about assignments  made in class, on Discord, on D2L,  and here
 	on the course website.
-* All assignments must be turned in by 11pm on the due date. If you submit a
-	lab or program between 11:01pm and 12 midnight, you get 25% off. If you
-	submit after midnight on the due date but within four days of the due date
-	(Monday at 11pm for labs; Thursday at 11pm for programs) you get 50%.
+* All assignments are due on their due date by the [Anywhere on Earth (AoE)
+	timezone](https://www.timeanddate.com/time/zones/aoe), which is 6 hours behind Bozeman. (This means that the real due
+	date is 6am the following day.) If you submit a
+	lab or program the following day before 8am, you get 25% off. If you
+	submit within four days of the due date
+	(Monday AoE for labs; Thursday AoE for programs) you get 50%.
 	Otherwise, no points are possible.
 * Every student gets one free late pass with no
-	questions asked for labs (not programs). This means you can submit up to
-	four days late (by Monday at 11pm) with no penalty. Use this wisely! If you
+	questions asked for programs. This means you can submit up to
+	four days late (by Thursday AoE) with no penalty. Use this wisely! If you
 	use this early in the semester and something unforseen happens, you will
 	still need to submit the lab on time or the penalties above apply. Please
 	message the course assistant for your section on Discord to let them know
