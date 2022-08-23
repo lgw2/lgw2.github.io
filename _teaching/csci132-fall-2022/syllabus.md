@@ -19,7 +19,7 @@ Java. Introduces Big-O Notation.
 
 This course meets for lectures on Mondays, Wednesdays, and Fridays from
 3:10pm-4pm in Reid Hall 103. Please bring a laptop to class so that you can
-participate in the classwork exercises.  Lectures will be recorded and available if you
+participate in the classwork exercises.  Lectures will be recorded and available on the day's lecture page (see schedule below) if you
 would like to rewatch them. On Thursdays, there is a two-hour lab period in
 which you can complete the week's lab assignment and get help from the course
 assistants. We will use
@@ -60,7 +60,7 @@ different meeting time. You can find office hours for all CS faculty [here](http
 
 ### SmartyCats
 
-I will post information about SmartyCats tutoring here when it is available.
+There is SmartyCats tutoring for this course! Visit [their website](https://www.montana.edu/aycss/success/smartycats/) to find out more.
 
 ### Computer Science Success Center
 There are free tutors available in Barnard 259. More information [here](https://www.cs.montana.edu/student-success-center.html).
