@@ -19,6 +19,15 @@ or [IntelliJ](https://www.jetbrains.com/idea/) or compile and run Java programs
 using the command line; however, all class demonstrations will be done in
 Eclipse, so the easiest way to keep up with the class will be to use that.
 
+### Running your first Java program
+
+Follow these steps:
+* open Eclipse
+* create a new Java project
+* inside the `src` folder, create a new Package
+* inside the Package, create a new Class
+* use the green play button to run
+
 ### Files used in class
 
 [HelloWorld.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/HelloWorld.java)
