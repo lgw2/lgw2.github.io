@@ -13,7 +13,7 @@ about Python.
 * Every Java program must define a class, and all code is inside a class
 * Everything in Java must have a type
 * Every Java program must have a function called 'public static void main(String[] args)'
-* [a dissected java program](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/prog.png)
+* [a dissected java program](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/prog.pdf)
 
 ### Eclipse hints & Java conventions
 * Check the "public static void main(String[] args)" box to automatically
