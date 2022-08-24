@@ -8,13 +8,21 @@ about Python.
 
 [lecture video]
 
-### What's going on behind the IDE?
-* You can run Python in the interpreter...but not Java programs
-* Java is compiled
-* running Java programs from the command line
 
 ### What we need for a Java program
 * Every Java program must define a class, and all code is inside a class
 * Everything in Java must have a type
 * Every Java program must have a function called 'public static void main(String[] args)'
+* [a dissected java program](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/prog.png)
 
+### Eclipse hints & Java conventions
+* Check the "public static void main(String[] args)" box to automatically
+	create a main method
+* Java classes should start with capital letter
+
+### What's going on behind the IDE?
+* You can run Python in the interpreter...but not Java programs
+* Java is compiled
+* running Java programs from the command line
+
+### Files used in class
