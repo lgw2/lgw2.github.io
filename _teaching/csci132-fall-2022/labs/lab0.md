@@ -12,9 +12,9 @@ title: "Lab 0"
 
 
 ## Learning outcomes
-* Introduce yourself to the professor
-* Make sure you understand the syllabus
-* Set up your system to run Java, or make a plan to get help if you can't
+* Introduce yourself to the professor.
+* Make sure you understand the syllabus.
+* Set up your system to run Java, or make a plan to get help if you can't.
 
 ## Assignment
 

@@ -23,7 +23,7 @@ Eclipse, so the easiest way to keep up with the class will be to use that.
 
 Follow these steps:
 * open Eclipse
-* create a new Java project
+* create a new Java project (uncheck "Create module-info.java file")
 * inside the `src` folder, create a new Package
 * inside the Package, create a new Class
 * use the green play button to run
