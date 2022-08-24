@@ -29,7 +29,7 @@ be used *only* to turn in assignments and for grading.
 
 ## Course Resources
 ### Java documentation, tutorials, and useful links
-* You can find the official Java documentation [here](https://docs.oracle.com/en/java/javase/11/docs/api/#JavaSE).
+* You can find the official Java documentation [here](https://docs.oracle.com/en/java/javase/17/docs/api/#JavaSE).
 * An organization that I like, Runestone Interactive, makes an interactive
 textbook for programmers who are coming from Python to and beginning to
 learn Java. Check it out [here](https://runestone.academy/ns/books/published/java4python/index.html#).
