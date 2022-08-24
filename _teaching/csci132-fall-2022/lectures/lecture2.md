@@ -25,6 +25,18 @@ about Python.
 * Classes & objects
 * `String` class
 
+### Comparing a Python program and a Java program
+The following Python program gets a temperature in Fahrenheit from the user and prints
+it in Celcius.
+```
+def main():
+    fahr = int(input("Enter the temperature in F: "))
+    cel = (fahr - 32) * 5.0/9.0
+    print("the temperature in C is: ", cel)
+
+main()
+```
+
 ### What's going on behind the IDE?
 * You can run Python in the interpreter...but not Java programs
 * Java is compiled
@@ -32,4 +44,4 @@ about Python.
 
 ### Files used in class
 * [DataTypes.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/DataTypes.java)
-* [Counter.java]()
+* [TempConv.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/TempConv.java)
