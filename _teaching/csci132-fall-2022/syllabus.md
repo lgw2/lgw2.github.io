@@ -60,7 +60,9 @@ different meeting time. You can find office hours for all CS faculty [here](http
 
 ### SmartyCats
 
-There is SmartyCats tutoring for this course! Visit [their website](https://www.montana.edu/aycss/success/smartycats/) to find out more.
+There is SmartyCats tutoring for this course! Visit [their
+website](https://www.montana.edu/aycss/success/smartycats/) to find out more.
+You can also [apply to be a SmartyCats tutor yourself](https://www.montana.edu/aycss/success/smartycats/apply.html) for other CS courses you've taken, or for this one next semester.
 
 ### Computer Science Success Center
 There are free tutors available in Barnard 259. More information [here](https://www.cs.montana.edu/student-success-center.html).
