@@ -182,6 +182,8 @@ time.
 
 What I can do:
 * Grade promptly (exact guarantees TBD).
+* Post assignments well in advance (at least one week before due date for labs;
+	at least three weeks before due date for projects).
 * Respond to all Discord messages within one business day.
 * Create a course atmosphere conducive to learning by respecting
 all of my students and being
