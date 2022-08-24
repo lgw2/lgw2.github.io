@@ -31,5 +31,5 @@ about Python.
 * running Java programs from the command line
 
 ### Files used in class
-* [DataTypes.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/prog.pdf)
+* [DataTypes.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/DataTypes.java)
 * [Counter.java]()
