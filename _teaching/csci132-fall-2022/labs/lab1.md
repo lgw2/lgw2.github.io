@@ -35,7 +35,8 @@ text in.
    * creates an array of length 5 and populates the array with Strings. The strings can be of your own choosing (top 5 favorite albums, top 5 Super Bowls of all time, top 5 cat names, top 5 things to do on the weekend, etc...)
    * prints the contents of the array
    * prompts the user for a new #1 item in the list and replaces the first item
-	   with the user's choice
+	   with the user's choice (you can choose what text you use to ask for a
+	   new choice)
 	* prints the new list
 
 ## Example run
