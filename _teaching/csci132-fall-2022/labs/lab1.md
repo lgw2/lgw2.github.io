@@ -21,7 +21,7 @@ title: "Lab 1"
 
 ## Assignment
 
-Open [Lab1Example.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/Lab1Example.java) in your IDE of choice and follow the instructions in
+Open [Lab1Example.java](https://lgw2.github.io/teaching/csci132-fall-2022/labs/Lab1Example.java) in your IDE of choice and follow the instructions in
 the comments.
 
 ## Grading - 10 points
