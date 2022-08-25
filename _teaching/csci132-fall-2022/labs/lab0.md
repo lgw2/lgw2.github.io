@@ -4,7 +4,7 @@ title: "Lab 0"
 ---
 
 ## Logistics
-* Due: Thursday, August 25th no later than 11:00pm. (Penalties from [the
+* Due: Thursday, August 25th anywhere on earth (6am Friday). (Penalties from [the
 	syllabus](https://lgw2.github.io/teaching/csci132-fall-2022/syllabus/)
 	apply if you turn it in any later.)
 * Submission instructions: send a message to Lucy on Discord. The assignment on
