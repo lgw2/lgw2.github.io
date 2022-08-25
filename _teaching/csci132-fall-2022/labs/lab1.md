@@ -8,8 +8,9 @@ title: "Lab 1"
 	syllabus](https://lgw2.github.io/teaching/csci132-fall-2022/syllabus/)
 	apply if you turn it in any later.)
 * Submission instructions: you have two options. The first option is to
-	demonstrate the execution of your lab to your TA during your assigned TA
-	hours. The second option is to submit your `.java` file to the Lab 1
+	demonstrate the execution of your lab to your TA during your assigned lab
+	section on Thursday.
+	The second option is to submit your `.java` file to the Lab 1
 	assignment on D2L.
 
 
