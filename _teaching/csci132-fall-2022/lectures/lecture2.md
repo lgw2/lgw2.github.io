@@ -14,6 +14,8 @@ about Python.
 * Everything in Java must have a type
 * Every Java program must have a function called 'public static void main(String[] args)'
 * [a dissected java program](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/prog.pdf)
+* Semicolons and curly braces (`{}`) are needed to end statements and define
+	code blocks
 
 ### Eclipse hints & Java conventions
 * Check the "public static void main(String[] args)" box to automatically
