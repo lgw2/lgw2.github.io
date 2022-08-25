@@ -106,13 +106,13 @@ you are having any problems.* We want you to succeed!
 	date is 6am the following day.) If you submit a
 	lab or program the following day before 8am, you get 25% off. If you
 	submit within four days of the due date
-	(Monday AoE for labs; Thursday AoE for programs) you get 50%.
+	(by Monday AoE for labs; by Tuesday AoE for programs) you get 50%.
 	Otherwise, no points are possible.
 * Every student gets one free late pass with no
 	questions asked for programs. This means you can submit up to
-	four days late (by Thursday AoE) with no penalty. Use this wisely! If you
+	four days late (by Tuesday AoE) with no penalty. Use this wisely! If you
 	use this early in the semester and something unforseen happens, you will
-	still need to submit the lab on time or the penalties above apply. Please
+	still need to submit the program on time or the penalties above apply. Please
 	message the course assistant for your section on Discord to let them know
 	you are using your late pass for a program.
 * At the end of the semester, your lowest lab grade will be dropped.
