@@ -6,7 +6,7 @@ title: "Lecture 1: Intro to the course & getting started with Java"
 Today, we'll go through the course syllabus and learn how to install Java on
 our machines. We'll also see our first Java program.
 
-[lecture video]() (available after class)
+[lecture audio](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/day1.mp4) (forgot to record screen)
 
 ### Getting set up to write Java programs
 
