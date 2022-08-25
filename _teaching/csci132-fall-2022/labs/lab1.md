@@ -57,11 +57,10 @@ The Godfather II
 ```
 
 ## Grading - 10 points
-5 points - Your program displays a list of 5 strings when it is run
-2 points - Your program uses a for loop to iterate through the strings and print them
-2 points - After displaying the list, the program prompts the user for a different #1 string
-1 point - After the user enters a different #1 string, the program displays the modified list
-
+* 5 points - Your program displays a list of 5 strings when it is run
+* 2 points - Your program uses a for loop to iterate through the strings and print them
+* 2 points - After displaying the list, the program prompts the user for a different #1 string
+* 1 point - After the user enters a different #1 string, the program displays the modified list
 
 ## Grading turnaround
 This lab will be graded with scores in Brightspace by 5pm on Friday, August
