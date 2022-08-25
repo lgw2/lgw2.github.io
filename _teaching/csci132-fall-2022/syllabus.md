@@ -202,7 +202,7 @@ Schedule subject to change.
 |Friday 8/26|Java vs. Python||||
 |Monday 8/29|Arrays; for loops||||
 |Wednesday 8/31|Reference data types vs. primitive data types||||
-|Thursday 9/1||Lab 1|||
+|Thursday 9/1||[Lab 1](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab1/)|||
 |Friday 9/2|Modifiers||||
 |Labor Day - no class|||||
 |Wednesday 9/7|Controlling the flow||||
