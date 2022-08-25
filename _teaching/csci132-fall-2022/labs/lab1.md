@@ -21,8 +21,21 @@ title: "Lab 1"
 
 ## Assignment
 
-Open [Lab1Example.java](https://lgw2.github.io/teaching/csci132-fall-2022/labs/Lab1Example.java) in your IDE of choice and follow the instructions in
-the comments.
+1. Open [Lab1Example.java](https://lgw2.github.io/teaching/csci132-fall-2022/labs/Lab1Example.java) in your IDE of choice. You can either move the file into an existing package directory
+in your working environment, or you can create a new Java class and paste the
+text in.
+2. Follow the instructions in comments in the file.
+3. As you're reading through, try making small changes to test your
+   understanding of the program.
+4. Once you're comfortable with how the program works, create a new Java class
+   (for example, you might call the file `Lab1.java` and thus your class
+   `Lab1`). Using the code from the example file, write a program that does the
+   following:
+   * creates an array of length 5 and populates the array with Strings. The strings can be of your own choosing (top 5 favorite albums, top 5 Super Bowls of all time, top 5 cat names, top 5 things to do on the weekend, etc...)
+   * prints the contents of the array
+   * prompts the user for a new #1 item in the list and replaces the first item
+	   with the user's choice
+	* prints the new list
 
 ## Example run
 ```
