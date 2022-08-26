@@ -6,7 +6,7 @@ title: "Lecture 2: Java vs. Python"
 Today, we'll learn more about Java by comparing it to what we already know
 about Python.
 
-[lecture video]()
+[lecture video](https://youtu.be/KGI9kZirTqI)
 
 
 ### What we need for a Java program
