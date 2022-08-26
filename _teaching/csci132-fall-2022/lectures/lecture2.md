@@ -42,7 +42,6 @@ main()
 ### What's going on behind the IDE?
 * You can run Python in the interpreter...but not Java programs
 * Java is compiled
-* running Java programs from the command line
 
 ### Files used in class
 * [DataTypes.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/DataTypes.java)
