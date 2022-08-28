@@ -13,9 +13,16 @@ title: "Project 1"
 
 First, download [Calculator.java]() and [CalculatorDemo.java]() and put them in
 the same Java package. Then, edit the `Calculator.java` file so that your
-Calculator has the following functionality.
+program  simulatesa simple calculator. Use the Java console as the input and
+output device. Each input to the calculator, be it a number like `12.34` or
+`1234` or an operator like `+` or `/`, should be input on a separate line.
+
+To start, familiarize yourself with the existing code in the. Do some experiments to test your assumptions or knowledge. Use the Java API (https://docs.oracle.com/en/java/javase/11/docs/api/index.html), as well as textbook, zybook, google, etc. to look up existing library methods that could help you write the missing methods. Use your own calculator and compare answers to test your program and make sure it is working correctly.
+
+Add functionality to check that the user enters valid operator or numbers. Implement a .calculateAnswer() method so after each operand and operator the user enters, the calculator updates the total with the correct answer.
 
 ### Sample output
+You don't have to perfectly match
 
 ```
 *** Welcome to Calculator ***
@@ -150,7 +157,7 @@ whole, accessible from `main()`, and a constant so it can't be reassigned.
 * 5 points - `%`: convert the current answer to a percentage and return the result
 * 10 points - `^`: raise current answer to the user number and return the result
 * 5 points - `inv`: invert the current answer and return the result
-* 10 points - `rand`: current value plus or minus a random double and return the result
+* 10 points - `pert`: perturb the current value by multiplying by a random double within the range `[0.95, 10.05]` and return the result
 * 10 points - `round`: the current answer rounded to a number of digits specified by the user, and return the result
 * 10 points - `printAnswer`: prints the answer right justified inside a unicode box
 
