@@ -1,0 +1,66 @@
+---
+collection: teaching
+title: "Project 1"
+---
+
+## Logistics
+* Due: Friday, September 16th AoE.
+* Submission instructions: upload `Calculator.java` and `CalculatorDemo.java`
+	to the D2L Project 1 folder.
+
+
+## Assignment
+
+First, download [Calculator.java]() and [CalculatorDemo.java]() and put them in
+the same Java package. Then, edit the `Calculator.java` file so that your
+program has the following functionality.
+
+
+
+## Grading - 100 points
+
+### Readable code and good Javadoc comments
+* 25 points -  What are "readable" code
+and  "good" comments? They are code and comments that make it easy for your
+colleagues to understand your program. Creating readable code and writing good
+comments is a subjective but very important task for you, and judging them is also subjective
+for your TA. Please respect that your TA has the final word on this. Think about
+looking at someone else's code. As you are no doubt aware, even a text book
+example with really carefully chosen variable names and concise, well formatted
+code meant to be easily understood -- plus professionally edited comments that
+explain every step of the way -- can still be very difficult for a reader to
+follow. Beyond understanding the problem well enough to get your Java to kick
+out the correct output, consider other humans who will be reading your code.
+Could you come back to it a year later, and understand what is going on? (You
+might be surprised how difficult that can be!) There are innumerable ways of
+coding a solution to any problem. Always be asking yourself, "could there be a
+cleaner, simpler, or more elegant way of doing that?" Starting here, and from
+this project on, all assignments will have a portion of the grade designated to
+readability.
+
+### Fields
+* 5 points - the constant `ROUGHLY_PI` belongs to the `Calculator` class, is
+publicly visible, and holds the double `3.14159`. Even though it is public, it
+should not be possible to overwrite it with another value.
+* 5 points - the existing field `usageInstructions` should also be given that
+same treatment: change the modifiers to make the field belong to the class a
+whole, accessible from `main()`, and a constant so it can't be reassigned.
+
+### Methods
+
+* 5 points - `*`:  multiply the current answer by the user number and return the result
+* 5 points - `/`: divide the current answer by the user number and return the result
+* 5 points - `c`: clear the current answer and return the result (0)
+* 5 points - `neg`: negate the current answer and return the result
+* 5 points - `%`: convert the current answer to a percentage and return the result
+* 10 points - `^`: raise current answer to the user number and return the result
+* 5 points - `inv`: invert the current answer and return the result
+* 10 points - `rand`: current value plus or minus a random double and return the result
+* 10 points - `round`: the current answer rounded to a number of digits specified by the user, and return the result
+* 10 points - `printAnswer`: prints the answer right justified inside a unicode box
+
+
+
+## Grading turnaround
+This program will be graded with scores in Brightspace by Tuesday September
+20th, AoE.
