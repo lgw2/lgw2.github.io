@@ -22,7 +22,8 @@ To start, familiarize yourself with the existing code in the. Do some experiment
 Add functionality to check that the user enters valid operator or numbers. Implement a .calculateAnswer() method so after each operand and operator the user enters, the calculator updates the total with the correct answer.
 
 ### Sample output
-You don't have to perfectly match
+You are not required to match the output formatting. However, you are required
+to match the output functionality shown in the sample. For example,
 
 ```
 *** Welcome to Calculator ***
