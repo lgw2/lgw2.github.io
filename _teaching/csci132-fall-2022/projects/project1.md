@@ -122,7 +122,7 @@ Enter operation
 ## Grading - 100 points
 
 ### Readable code and good Javadoc comments
-* 25 points -  What are "readable" code
+* 15 points -  What are "readable" code
 and  "good" comments? They are code and comments that make it easy for your
 colleagues to understand your program. Creating readable code and writing good
 comments is a subjective but very important task for you, and judging them is also subjective
@@ -144,6 +144,9 @@ readability.
 * 5 points - the constant `ROUGHLY_PI` belongs to the `Calculator` class, is
 publicly visible, and holds the double `3.14159`. Even though it is public, it
 should not be possible to overwrite it with another value.
+* 5 points - the constant `ROUGHLY_E` belongs to the `Calculator` class, is
+publicly visible, and holds the double `2.71828`. Even though it is public, it
+should not be possible to overwrite it with another value.
 * 5 points - the existing field `usageInstructions` should also be given that
 same treatment: change the modifiers to make the field belong to the class a
 whole, accessible from `main()`, and a constant so it can't be reassigned.
@@ -155,11 +158,17 @@ whole, accessible from `main()`, and a constant so it can't be reassigned.
 * 5 points - `c`: clear the current answer and return the result (0)
 * 5 points - `neg`: negate the current answer and return the result
 * 5 points - `%`: convert the current answer to a percentage and return the result
+* 5 points - `log`: take the natural logarithm of the current value and return the result
 * 10 points - `^`: raise current answer to the user number and return the result
 * 5 points - `inv`: invert the current answer and return the result
 * 10 points - `pert`: perturb the current value by multiplying by a random double within the range `[0.95, 10.05]` and return the result
-* 10 points - `round`: the current answer rounded to a number of digits specified by the user, and return the result
 * 10 points - `printAnswer`: prints the answer right justified inside a unicode box
+
+### Additional functionality
+* 5 points - the user can type `pi` instead of a number and the class varialbe
+	`ROUGHLY_PI` is used for the number.
+* 5 points - the user can type `e` instead of a number and the class variable
+	`ROUGHLY_E` is used for the number.
 
 
 
