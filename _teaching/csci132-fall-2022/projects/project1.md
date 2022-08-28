@@ -13,9 +13,104 @@ title: "Project 1"
 
 First, download [Calculator.java]() and [CalculatorDemo.java]() and put them in
 the same Java package. Then, edit the `Calculator.java` file so that your
-program has the following functionality.
+Calculator has the following functionality.
 
+### Sample output
 
+```
+*** Welcome to Calculator ***
+Enter number
+>>> 12
+Enter operation
+>>> +
+Enter number
+>>> 3
+Enter operation
+>>> =
+
+┌──────────────────────────┐
+│                     15.0 │
+└──────────────────────────┘
+Enter operation
+>>> / pi =
+Enter number
+>>> Enter operation
+>>>
+┌──────────────────────────┐
+│        4.774652325733148 │
+└──────────────────────────┘
+Enter operation
+>>> round 4 =
+Enter number
+>>> Enter operation
+>>>
+┌──────────────────────────┐
+│                   4.7747 │
+└──────────────────────────┘
+Enter operation
+>>> rand =
+Enter operation
+>>>
+┌──────────────────────────┐
+│        4.480915763963003 │
+└──────────────────────────┘
+Enter operation
+>>> c
+Enter operation
+>>> 524 =
+Invalid Entry. Enter '?' for help.
+Enter a valid operation
+>>>
+┌──────────────────────────┐
+│                      0.0 │
+└──────────────────────────┘
+Enter operation
+>>> + 524 =
+Enter number
+>>> Enter operation
+>>>
+┌──────────────────────────┐
+│                    524.0 │
+└──────────────────────────┘
+Enter operation
+>>> neg
+Enter operation
+>>> %
+Enter operation
+>>> =
+
+┌──────────────────────────┐
+│                    -5.24 │
+└──────────────────────────┘
+Enter operation
+>>> neg round 1 =
+Enter operation
+>>> Enter number
+>>> Enter operation
+>>>
+┌──────────────────────────┐
+│                      5.2 │
+└──────────────────────────┘
+Enter operation
+>>> ^ 3 =
+Enter number
+>>> Enter operation
+>>>
+┌──────────────────────────┐
+│                  140.608 │
+└──────────────────────────┘
+Enter operation
+>>> round 0 =
+Enter number
+>>> Enter operation
+>>>
+┌──────────────────────────┐
+│                    141.0 │
+└──────────────────────────┘
+Enter operation
+>>> Q
+<end>
+```
 
 ## Grading - 100 points
 
