@@ -123,13 +123,13 @@ Enter operation
 ## Grading - 100 points
 
 ### Readable code and good Javadoc comments
-* 15 points -  What are "readable" code
+* 20 points -  What are "readable" code
 and  "good" comments? They are code and comments that make it easy for your
 colleagues to understand your program. Creating readable code and writing good
 comments is a subjective but very important task for you, and judging them is also subjective
 for your TA. Please respect that your TA has the final word on this. Think about
-looking at someone else's code. As you are no doubt aware, even a text book
-example with really carefully chosen variable names and concise, well formatted
+looking at someone else's code. As you are no doubt aware, even a textbook
+example with carefully chosen variable names and concise, well-formatted
 code meant to be easily understood -- plus professionally edited comments that
 explain every step of the way -- can still be very difficult for a reader to
 follow. Beyond understanding the problem well enough to get your Java to kick
@@ -163,7 +163,7 @@ whole, accessible from `main()`, and a constant so it can't be reassigned.
 * 10 points - `^`: raise current answer to the user number and return the result
 * 5 points - `inv`: invert the current answer and return the result
 * 10 points - `pert`: perturb the current value by multiplying by a random double within the range `[0.95, 10.05]` and return the result
-* 10 points - `printAnswer`: prints the answer right justified inside a unicode box
+* 5 points - `printAnswer`: prints the answer right justified
 
 ### Additional functionality
 * 5 points - the user can type `pi` instead of a number and the class varialbe
