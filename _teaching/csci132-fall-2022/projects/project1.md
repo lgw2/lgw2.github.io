@@ -7,6 +7,7 @@ title: "Project 1"
 * Due: Friday, September 16th AoE.
 * Submission instructions: upload `Calculator.java` and `CalculatorDemo.java`
 	to the D2L Project 1 folder.
+* You may do this project with a partner. More details coming soon!
 
 
 ## Assignment
@@ -16,9 +17,9 @@ the same Java package. Then, edit the `Calculator.java` file so that your
 program  simulatesa simple calculator. Use the Java console as the input and
 output device.
 
-To start, familiarize yourself with the existing code in the. Do some experiments to test your assumptions or knowledge. Use the Java API (https://docs.oracle.com/en/java/javase/11/docs/api/index.html), as well as textbook, zybook, google, etc. to look up existing library methods that could help you write the missing methods. Use your own calculator and compare answers to test your program and make sure it is working correctly.
+To start, familiarize yourself with the existing code in the. Do some experiments to test your assumptions or knowledge. Use the Java documentation, textbook, Google,  etc. to look up existing library methods that could help you write the missing methods. Use your own calculator and compare answers to test your program and make sure it is working correctly.
 
-Add functionality to check that the user enters valid operator or numbers. Implement a .calculateAnswer() method so after each operand and operator the user enters, the calculator updates the total with the correct answer.
+Add functionality to check that the user enters valid operator or numbers. Implement a `.calculateAnswer()` method so after each operand and operator the user enters, the calculator updates the total with the correct answer.
 
 ### Sample output
 You are not required to match the output formatting. However, you are required
