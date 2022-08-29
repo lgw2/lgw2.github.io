@@ -116,6 +116,8 @@ you are having any problems.* We want you to succeed!
 	message the course assistant for your section on Discord to let them know
 	you are using your late pass for a program.
 * At the end of the semester, your lowest lab grade will be dropped.
+* You can submit as many times as you would like; only your last submission will be
+	graded.
 
 ### Missed quiz policy
 
