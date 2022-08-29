@@ -3,10 +3,16 @@ collection: teaching
 title: "Lecture 3: User input, For loops, arrays, lab 1 intro"
 ---
 
-[lecture video](https://youtu.be/KGI9kZirTqI)
+[lecture video]()
 
 
 ### User input with `Scanner`
+* check out the [documentation](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Scanner.html)
+* To read from the keyboard, do something like:
+```
+Scanner sc = new Scanner(System.in);
+int i = sc.nextInt();
+```
 
 ### For loops in Java
 * Syntax:
