@@ -114,7 +114,8 @@ you are having any problems.* We want you to succeed!
 	use this early in the semester and something unforseen happens, you will
 	still need to submit the program on time or the penalties above apply. Please
 	message the course assistant for your section on Discord to let them know
-	you are using your late pass for a program.
+	you are using your late pass for a program. You should send this message
+	before you make the submission, or shortly after.
 * At the end of the semester, your lowest lab grade will be dropped.
 * You can submit as many times as you would like; only your last submission will be
 	graded.
