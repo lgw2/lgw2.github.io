@@ -200,7 +200,7 @@ Schedule subject to change.
 |Wednesday 8/24|[Syllabus & set up](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture1/)||||
 |Thursday 8/25||[Lab 0](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab0/) (note that there is no in-person lab today)|||
 |Friday 8/26|[Java vs. Python](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture2/)||||
-|Monday 8/29|User input, For loops, arrays, lab 1 intro||||
+|Monday 8/29|[User input, For loops, arrays, lab 1 intro](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture3/)||||
 |Wednesday 8/31|Objects; reference data types vs. primitive data types||||
 |Thursday 9/1||[Lab 1](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab1/)|||
 |Friday 9/2|Modifiers||||
@@ -211,7 +211,7 @@ Schedule subject to change.
 |Monday 9/12|Data Structures; Javadoc||||
 |Wednesday 9/14|OOP: Abstraction||||
 |Thursday 9/15||Lab 3|||
-|Friday 9/16|UML, OOP, Polymorphism||Project 1||
+|Friday 9/16|UML, OOP, Polymorphism||[Project 1](https://lgw2.github.io/teaching/csci132-fall-2022/projects/project1/)||
 |Monday 9/19|Progression Class, Command line args||||
 |Wednesday 9/21|Interfaces||||
 |Thursday 9/22||Lab 4|||
