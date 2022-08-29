@@ -3,7 +3,7 @@ collection: teaching
 title: "Lecture 3: User input, For loops, arrays, lab 1 intro"
 ---
 
-[lecture video]()
+[lecture video](https://youtu.be/tdi4UHZV1U0)
 
 
 ### User input with `Scanner`
