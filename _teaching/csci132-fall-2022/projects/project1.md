@@ -14,8 +14,7 @@ title: "Project 1"
 First, download [Calculator.java]() and [CalculatorDemo.java]() and put them in
 the same Java package. Then, edit the `Calculator.java` file so that your
 program  simulatesa simple calculator. Use the Java console as the input and
-output device. Each input to the calculator, be it a number like `12.34` or
-`1234` or an operator like `+` or `/`, should be input on a separate line.
+output device.
 
 To start, familiarize yourself with the existing code in the. Do some experiments to test your assumptions or knowledge. Use the Java API (https://docs.oracle.com/en/java/javase/11/docs/api/index.html), as well as textbook, zybook, google, etc. to look up existing library methods that could help you write the missing methods. Use your own calculator and compare answers to test your program and make sure it is working correctly.
 
@@ -28,95 +27,142 @@ to match the output functionality shown in the sample. For example,
 ```
 *** Welcome to Calculator ***
 Enter number
->>> 12
+>>> 100
 Enter operation
 >>> +
+Enter number
+>>> 1.2
+Enter operation
+>>> =
+
+          101.2
+
+Enter operation
+>>> -
+Enter number
+>>> 50
+Enter operation
+>>> =
+
+           51.2
+
+Enter operation
+>>> *
+Enter number
+>>> 0.01
+Enter operation
+>>> =
+
+          0.512
+
+Enter operation
+>>> /
 Enter number
 >>> 3
 Enter operation
 >>> =
 
-┌──────────────────────────┐
-│                     15.0 │
-└──────────────────────────┘
-Enter operation
->>> / pi =
-Enter number
->>> Enter operation
->>>
-┌──────────────────────────┐
-│        4.774652325733148 │
-└──────────────────────────┘
-Enter operation
->>> round 4 =
-Enter number
->>> Enter operation
->>>
-┌──────────────────────────┐
-│                   4.7747 │
-└──────────────────────────┘
-Enter operation
->>> rand =
-Enter operation
->>>
-┌──────────────────────────┐
-│        4.480915763963003 │
-└──────────────────────────┘
+0.17066666666666666
+
 Enter operation
 >>> c
 Enter operation
->>> 524 =
+>>> =
+
+            0.0
+
+Enter operation
+>>> pi
 Invalid Entry. Enter '?' for help.
 Enter a valid operation
->>>
-┌──────────────────────────┐
-│                      0.0 │
-└──────────────────────────┘
+>>> =
+
+            0.0
+
 Enter operation
->>> + 524 =
+>>> +
 Enter number
->>> Enter operation
->>>
-┌──────────────────────────┐
-│                    524.0 │
-└──────────────────────────┘
+>>> pi
+Enter operation
+>>> =
+
+        3.14159
+
 Enter operation
 >>> neg
+Enter operation
+>>> =
+
+       -3.14159
+
 Enter operation
 >>> %
 Enter operation
 >>> =
 
-┌──────────────────────────┐
-│                    -5.24 │
-└──────────────────────────┘
+     -0.0314159
+
 Enter operation
->>> neg round 1 =
+>>> c
 Enter operation
->>> Enter number
->>> Enter operation
->>>
-┌──────────────────────────┐
-│                      5.2 │
-└──────────────────────────┘
-Enter operation
->>> ^ 3 =
+>>> +
 Enter number
->>> Enter operation
->>>
-┌──────────────────────────┐
-│                  140.608 │
-└──────────────────────────┘
+>>> e
 Enter operation
->>> round 0 =
+>>> =
+
+        2.71828
+
+Enter operation
+>>> log
+Enter operation
+>>> =
+
+0.999999327347282
+
+Enter operation
+>>> +
 Enter number
->>> Enter operation
->>>
-┌──────────────────────────┐
-│                    141.0 │
-└──────────────────────────┘
+>>> 10
 Enter operation
->>> Q
+>>> =
+
+10.999999327347282
+
+Enter operation
+>>> ^
+Enter number
+>>> 2
+Enter operation
+>>> =
+
+120.99998520164067
+
+Enter operation
+>>> inv
+Enter operation
+>>> =
+
+0.008264463820665332
+
+Enter operation
+>>> +
+Enter number
+>>> 100
+Enter operation
+>>> =
+
+100.00826446382067
+
+Enter operation
+>>> pert
+Enter operation
+>>> =
+
+101.33828457850659
+
+Enter operation
+>>> q
 <end>
 ```
 
