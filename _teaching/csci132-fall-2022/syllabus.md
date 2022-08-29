@@ -47,10 +47,10 @@ You can also [rent the eBook from Amazon for the semester](https://www.amazon.co
 
 There are four lab sections, all of which meet on Thursdays in Roberts Hall 111. There will be a TA to help you. This TA will also grade your work, so please go to your assigned section.
 
-* 001: 10am-11:50am
-* 002: 12pm-2pm
-* 003: 2:10pm-4pm
-* 004: 4:10pm-6pm
+* 001: 10am-11:50am, Asad Noor
+* 002: 12pm-2pm, Nicholas Call
+* 003: 2:10pm-4pm, Asad Noor
+* 004: 4:10pm-6pm, Emmett Osborne
 
 ### Instructor office hours
 
@@ -200,8 +200,8 @@ Schedule subject to change.
 |Wednesday 8/24|[Syllabus & set up](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture1/)||||
 |Thursday 8/25||[Lab 0](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab0/) (note that there is no in-person lab today)|||
 |Friday 8/26|[Java vs. Python](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture2/)||||
-|Monday 8/29|Arrays; for loops||||
-|Wednesday 8/31|Reference data types vs. primitive data types||||
+|Monday 8/29|User input, For loops, arrays, lab 1 intro||||
+|Wednesday 8/31|Objects; reference data types vs. primitive data types||||
 |Thursday 9/1||[Lab 1](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab1/)|||
 |Friday 9/2|Modifiers||||
 |Labor Day - no class|||||
