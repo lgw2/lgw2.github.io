@@ -204,7 +204,7 @@ Schedule subject to change.
 |Thursday 8/25||[Lab 0](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab0/) (note that there is no in-person lab today)|||
 |Friday 8/26|[Java vs. Python](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture2/)||||
 |Monday 8/29|[User input, For loops, arrays, lab 1 intro](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture3/)||||
-|Wednesday 8/31|Objects; reference data types vs. primitive data types||||
+|Wednesday 8/31|[Objects; more with data types](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture4/)||||
 |Thursday 9/1||[Lab 1](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab1/)|||
 |Friday 9/2|Modifiers||||
 |Labor Day - no class|||||
