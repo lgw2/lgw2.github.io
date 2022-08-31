@@ -26,6 +26,7 @@ title: "Lecture 4: Objects; reference vs. primitive data types; type casting"
 ### Files used in class
 * [Counter.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/Counter.java)
 * [CounterDemo.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/CounterDemo.java)
+* [MoreWithDataTypes.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/MoreWithDataTypes.java)
 
 ### Additional exercises
 
