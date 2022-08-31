@@ -63,4 +63,5 @@ The Godfather II
 * 1 point - After the user enters a different #1 string, the program displays the modified list
 
 ## Grading turnaround
-TBD. Will be updated once we have teaching assistants.
+This lab will be graded with scores in Brightspace before Tuesday, September
+6th.
