@@ -6,7 +6,7 @@ title: "Lecture 4: Objects; reference vs. primitive data types; type casting"
 [lecture video]()
 
 
-### Objects
+### Classes and objects
 * Procedural programming vs. object oriented programming
 * creating and using objects
 * constructors
