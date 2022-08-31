@@ -52,6 +52,10 @@ There are four lab sections, all of which meet on Thursdays in Roberts Hall 111.
 * 003: 2:10pm-4pm, Asad Noor
 * 004: 4:10pm-6pm, Emmett Osborne
 
+We also have 495 consultants to answer questions during lab. They are Jack
+Tetrault and Josiah Schwahn (001), Mason Medina and Madison Munro (002),
+Fletcher Phillips and Ara Megerdichian (003), and Steven Vought (004).
+
 ### Instructor office hours
 
 My office hours are Monday and Wednesday 9:30-10:30am and Thursday 10-11am in
