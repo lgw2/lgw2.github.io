@@ -27,7 +27,7 @@ Create two java files:
 * `AnimalDemo.java`
 
 ### Animal Class.java
-Your Animal class should contain 3 private data members and 6 public methods as follows.
+Your Animal class should contain 3 `private` data members and 6 `public` methods as follows.
 
 #### Fields
 
