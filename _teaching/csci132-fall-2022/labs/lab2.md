@@ -29,7 +29,7 @@ Create two java files:
 ### Animal Class.java
 Your Animal class should contain 3 `private` data members and 6 `public` methods as follows.
 
-#### Fields
+#### Fields:
 
 * `name`
 * `age`
