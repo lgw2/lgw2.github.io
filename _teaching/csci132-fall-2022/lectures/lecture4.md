@@ -3,7 +3,7 @@ collection: teaching
 title: "Lecture 4: Objects; reference vs. primitive data types; type casting"
 ---
 
-[lecture video]()
+[lecture video](https://youtu.be/d6xq25raRiE)
 
 
 ### Classes and objects
