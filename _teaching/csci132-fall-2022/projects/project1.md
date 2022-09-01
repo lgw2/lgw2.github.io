@@ -21,6 +21,13 @@ To start, familiarize yourself with the existing code in the. Do some experiment
 
 Add functionality to check that the user enters valid operator or numbers. Implement a `.calculateAnswer()` method so after each operand and operator the user enters, the calculator updates the total with the correct answer.
 
+### Important note
+
+You can use the built-in `Math` class to compute exponential, logs, etc. You
+can find the documentaion [here](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Math.html). The point of this assignment
+is to practice writing a class, not implement algorithms for computing
+mathematical functions. If you're stuck on that, ask for help early.
+
 ### Sample output
 You are not required to match the output formatting. However, you are required
 to match the output functionality shown in the sample. For example,
@@ -205,7 +212,7 @@ whole, accessible from `main()`, and a constant so it can't be reassigned.
 * 5 points - `/`: divide the current answer by the user number and return the result
 * 5 points - `c`: clear the current answer and return the result (0)
 * 5 points - `neg`: negate the current answer and return the result
-* 5 points - `%`: convert the current answer to a percentage and return the result
+* 5 points - `%`: convert the current answer to a percentage and return the result (i.e., divide by 100 and return the result)
 * 5 points - `log`: take the natural logarithm of the current value and return the result
 * 10 points - `^`: raise current answer to the user number and return the result
 * 5 points - `inv`: invert the current answer and return the result
