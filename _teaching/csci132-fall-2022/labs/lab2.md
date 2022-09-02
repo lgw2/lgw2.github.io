@@ -52,11 +52,12 @@ The getters and setters should respectively return or update the name, and the `
 You should also have two constructors for the Animal so that it is possible to initialize a new Animal with default data values of `"Unnamed"`, `-1`, and `"Unknown"`. The other constructor should take the three values needed to initialize a new Animal object with all three fields.
 
 #### AnimalDemo.java
-The `AnimalDemo.java` will be a driver class that you will use to demo the `Animal` class. The driver should initialize two `Animal` objects. One animal should be constructed with its name, age, and species. (You decide those.) The other animal should be constructed with the default values, and subsequently use the setter methods to give the animal a name, age, and species. After displaying the list, the program should prompt the user for another animal, and let the user enter its three attributes.
+The `AnimalDemo.java` will be a driver class that you will use to demo the `Animal` class. The driver should initialize two `Animal` objects. One animal should be constructed with its name, age, and species. (You decide those.) The other animal should be constructed with the default values, and subsequently use the setter methods to give the animal a name, age, and species. After displaying the first two animals, the program should prompt the user for another animal, let the user enter its three attributes, and then print it.
 
 ## Sample run
 ```
 Name: Jimmy. Age: 3. Species: Squirrel.
+Name: Sam. Age: 1. Species: Spider.
 Create your own animal!
 Enter a name:
 Johnathan
@@ -70,8 +71,8 @@ Name: Johnathan. Age: 40. Species: Walrus.
 ## Grading - 10 points
 * 4 points - Your `AnimalDemo` program displays 2 animals (name, age, and species) when run
 * 2 points - Your `AnimalDemo` program constructs the 2 animals with two different constructors as explained above
-* 3 points - After displaying the list, the program prompts the user for another animal, and lets the user enter its three attributes
-* 1 point - After the user enters a another animal, the program displays the 3 animals
+* 3 points - After displaying the two animals, the program prompts the user for another animal, and lets the user enter its three attributes
+* 1 point - After the user enters a another animal, the program displays that animal
 
 ## Grading turnaround
 This lab will be graded with scores in Brightspace before Tuesday, September
