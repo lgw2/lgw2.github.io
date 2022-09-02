@@ -72,7 +72,7 @@ Name: Johnathan. Age: 40. Species: Walrus.
 * 4 points - Your `AnimalDemo` program displays 2 animals (name, age, and species) when run
 * 2 points - Your `AnimalDemo` program constructs the 2 animals with two different constructors as explained above
 * 3 points - After displaying the two animals, the program prompts the user for another animal, and lets the user enter its three attributes
-* 1 point - After the user enters a another animal, the program displays that animal
+* 1 point - After the user enters the information for the third animal, the program displays that animal
 
 ## Go beyond
 If you'd like to test your knowledge further, implement a `Zoo` class that has
