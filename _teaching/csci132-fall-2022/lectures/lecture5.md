@@ -40,4 +40,10 @@ title: "Lecture 5: The keyword `this`; modifiers"
 
 ### Additional exercises
 
-
+1. Write a method `averageTwo` for the `Counter` class that takes in two instances
+   of `Counter` and returns a new `Counter` whose count is the average (rounded
+   down) of the two. Test it with the `CounterDemo` program.
+2. If you didn't already, make the `averageTwo` method a `static` method.
+Change your code in `CounterDemo` so that `averageTwo` is accessed in a static
+way. (That is, call the method from the class name, not from an instance of the
+class.)
