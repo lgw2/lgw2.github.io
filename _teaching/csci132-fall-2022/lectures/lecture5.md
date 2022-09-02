@@ -9,6 +9,9 @@ title: "Lecture 5: The keyword `this`; modifiers"
 ### The keyword `this`
 * Within the body of a (nonstatic) method, `this` always refers to the instance
 	upon which the method was invoked.
+* Use to differentiate between local and instance variables
+* Use to reference the instance
+* Use to call constructors
 
 ### Modifiers
 
