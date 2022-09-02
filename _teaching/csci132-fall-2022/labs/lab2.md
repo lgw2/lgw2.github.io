@@ -74,6 +74,14 @@ Name: Johnathan. Age: 40. Species: Walrus.
 * 3 points - After displaying the two animals, the program prompts the user for another animal, and lets the user enter its three attributes
 * 1 point - After the user enters a another animal, the program displays that animal
 
+## Go beyond
+If you'd like to test your knowledge further, implement a `Zoo` class that has
+an array of `Animal` objects as a field. You can assume that the zoo will hold
+no more than 20 animals. At minimum, write a constructor and a method to add
+animals.
+(No need to turn this file in, but
+feel free to demonstrate it to your TA during lab.)
+
 ## Grading turnaround
 This lab will be graded with scores in Brightspace before Tuesday, September
 13th.
