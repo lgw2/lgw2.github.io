@@ -210,7 +210,7 @@ Schedule subject to change.
 |Monday 8/29|[User input, For loops, arrays, lab 1 intro](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture3/)||||
 |Wednesday 8/31|[Objects; more with data types](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture4/)||||
 |Thursday 9/1||[Lab 1](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab1/)|||
-|Friday 9/2|Modifiers||||
+|Friday 9/2|[`this`; modifiers](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture5/)||||
 |Labor Day - no class|||||
 |Wednesday 9/7|Controlling the flow||||
 |Thursday 9/8||[Lab 2](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab2/)|||
