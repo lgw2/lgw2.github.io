@@ -15,6 +15,7 @@ title: "Lecture 5: The keyword `this`; modifiers"
 #### Access control modifiers
 * For classes, methods, and variables
 * Controls visibility in the context of a larger program
+* `public`, `protected` (subclasses and classes in same package), `private`. Default is called package-private.
 
 #### The `static` modifier
 * For variables and methods
