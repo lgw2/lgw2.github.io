@@ -11,15 +11,19 @@ title: "Lecture 5: The keyword `this`; modifiers"
 	upon which the method was invoked.
 
 ### Modifiers
+
 #### Access control modifiers
 * For classes, methods, and variables
 * Controls visibility in the context of a larger program
+
 #### The `static` modifier
 * For variables and methods
 * Value is associated with class as whole, not with an instance
+
 #### The `abstract` modifier
 * For methods
 * We will learn about later
+
 #### The `final` modifier
 * For variables
 * Makes it so the variable can never be changed after it is initialized
