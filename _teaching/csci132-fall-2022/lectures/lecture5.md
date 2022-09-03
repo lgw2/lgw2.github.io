@@ -3,7 +3,7 @@ collection: teaching
 title: "Lecture 5: The keyword `this`; modifiers"
 ---
 
-[lecture video]()
+[lecture video](https://youtu.be/Y0auTc444vs)
 
 
 ### The keyword `this`
