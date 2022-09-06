@@ -23,7 +23,8 @@ Add functionality to check that the user enters valid operator or numbers. Imple
 
 ### Important note
 
-You can use the built-in `Math` class to compute exponential, logs, etc. You
+You can use the built-in `Math` class to compute exponential, logs, random
+numbers, etc. You
 can find the documentation [here](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Math.html). The point of this assignment
 is to practice writing a class, not implement algorithms for computing
 mathematical functions. If you're stuck on that, ask for help early.
