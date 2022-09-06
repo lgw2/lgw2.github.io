@@ -217,7 +217,7 @@ whole, accessible from `main()`, and a constant so it can't be reassigned.
 * 5 points - `log`: take the natural logarithm of the current value and return the result
 * 10 points - `^`: raise current answer to the user number and return the result
 * 5 points - `inv`: invert the current answer and return the result
-* 10 points - `pert`: perturb the current value by multiplying by a random double within the range `[0.95, 10.05]` and return the result
+* 10 points - `pert`: perturb the current value by multiplying by a random double within the range `[0.95, 1.05]` and return the result
 * 5 points - `printAnswer`: prints the answer right justified
 
 ### Additional functionality
