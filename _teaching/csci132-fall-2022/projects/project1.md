@@ -205,7 +205,7 @@ publicly visible, and holds the double `2.71828`. Even though it is public, it
 should not be possible to overwrite it with another value.
 * 5 points - the existing field `usageInstructions` should also be given that
 same treatment: change the modifiers to make the field belong to the class a
-whole, accessible from `main()`, and a constant so it can't be reassigned.
+whole, and a constant so it can't be reassigned.
 
 ### Methods
 
