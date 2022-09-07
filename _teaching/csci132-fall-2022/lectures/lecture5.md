@@ -34,8 +34,8 @@ title: "Lecture 5: The keyword `this`; modifiers"
 * If primitive, constant. If reference, a memory address.
 
 ### Files used in class
-* [Counter.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/Counter.java)
-* [CounterDemo.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/CounterDemo.java)
+* [Counter2.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/Counter2.java)
+* [CounterDemo2.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/CounterDemo2.java)
 * [MoreWithDataTypes.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/MoreWithDataTypes.java)
 
 ### Additional exercises
