@@ -14,7 +14,7 @@ title: "Project 1"
 
 First, download [Calculator.java](https://lgw2.github.io/teaching/csci132-fall-2022/projects/Calculator.java) and [CalculatorDemo.java](https://lgw2.github.io/teaching/csci132-fall-2022/projects/CalculatorDemo.java) and put them in
 the same Java package. Then, edit the `Calculator.java` file so that your
-program  simulatesa simple calculator. Use the Java console as the input and
+program  simulates a simple calculator. Use the Java console as the input and
 output device.
 
 To start, familiarize yourself with the existing code in the. Do some experiments to test your assumptions or knowledge. Use the Java documentation, textbook, Google,  etc. to look up existing library methods that could help you write the missing methods. Use your own calculator and compare answers to test your program and make sure it is working correctly.
