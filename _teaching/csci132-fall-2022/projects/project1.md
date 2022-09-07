@@ -197,10 +197,12 @@ this project on, all assignments will have a portion of the grade designated to
 readability.
 
 ### Fields
-* 5 points - the constant `ROUGHLY_PI` belongs to the `Calculator` class, is
+* 5 points - the constant `ROUGHLY_PI` belongs to the `Calculator` class as a
+	whole (rather than each individual instance of that class), is
 publicly visible, and holds the double `3.14159`. Even though it is public, it
 should not be possible to overwrite it with another value.
-* 5 points - the constant `ROUGHLY_E` belongs to the `Calculator` class, is
+* 5 points - the constant `ROUGHLY_E` belongs to the `Calculator` class as a
+	whole (rather than each individual instance of that class), is
 publicly visible, and holds the double `2.71828`. Even though it is public, it
 should not be possible to overwrite it with another value.
 * 5 points - the existing field `usageInstructions` should also be given that
