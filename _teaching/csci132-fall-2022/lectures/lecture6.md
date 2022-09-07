@@ -3,7 +3,7 @@ collection: teaching
 title: "Lecture 6: Controlling the flow; `toString`"
 ---
 
-[lecture video]()
+[lecture video](https://youtu.be/JD8OcuGq8uA)
 
 ### `toString`
 For classes that we write, the default `toString` method returns the memory
