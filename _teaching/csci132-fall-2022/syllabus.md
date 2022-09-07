@@ -212,7 +212,7 @@ Schedule subject to change.
 |Thursday 9/1||[Lab 1](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab1/)|||
 |Friday 9/2|[`this`; modifiers](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture5/)||||
 |Labor Day - no class|||||
-|Wednesday 9/7|[Controlling the flow; intro Project 1 and Lab 2]||||
+|Wednesday 9/7|[Controlling the flow; intro Project 1 and Lab 2](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture6/)||||
 |Thursday 9/8||[Lab 2](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab2/)|||
 |Friday 9/9|Example program: CreditCard class||||
 |Monday 9/12|Data Structures; Javadoc||||
