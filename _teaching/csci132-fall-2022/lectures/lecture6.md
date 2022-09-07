@@ -25,6 +25,8 @@ if you need another reference.
 * `switch`
 
 ### Files used in class
+See previous lecture for a `toString` example. We will also use the Project 1
+starter code to look at examples of controlling the flow.
 
 ### Additional exercises
 * R-1.5 from book: Write a short Java method that takes an integer `n` and
