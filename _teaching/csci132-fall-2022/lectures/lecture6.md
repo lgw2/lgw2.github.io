@@ -16,13 +16,13 @@ if you need another reference.
 ### Loops
 * `for`
 * `while`
-* `do while`
+* `do while`: see [this tutorial](https://www.javatpoint.com/java-do-while-loop)
 
 ### Branches
 * `if`
 * `else if`
 * `else`
-* `switch`
+* `switch`: see [this tutorial](https://www.javatpoint.com/java-switch)
 
 ### Files used in class
 See previous lecture for a `toString` example. We will also use the Project 1
