@@ -3,7 +3,7 @@ collection: teaching
 title: "Lecture 7: Example: `CreditCard` class; UML class diagrams"
 ---
 
-[lecture video]()
+[lecture video](https://youtu.be/G56A56CsFRc)
 
 ### Textbook section
 1.7
