@@ -4,7 +4,7 @@ title: "Lab 3"
 ---
 
 ## Logistics
-* Due: on Thursday, September 15th  anywhere on earth (6am Friday). (Penalties from [the
+* Due: on Thursday, September 15th anywhere on earth (6am Friday). (Penalties from [the
 	syllabus](https://lgw2.github.io/teaching/csci132-fall-2022/syllabus/)
 	apply if you turn it in any later.)
 * Submission instructions: you have two options. The first option is to
