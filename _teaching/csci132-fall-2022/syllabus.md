@@ -226,7 +226,7 @@ Schedule subject to change.
 |Monday 9/26|Generics||||
 |Wednesday 9/28|Review for Quiz 1||||
 |Thursday 9/29||Lab 5|||
-|Friday 9/30|||Project 2|Quiz 1|
+|Friday 9/30|Take quiz in class (optional)||Project 2|Quiz 1|
 |Monday 10/3|||||
 |Wednesday 10/5|java.util.Arrays||||
 |Thursday 10/6||Lab 6|||
