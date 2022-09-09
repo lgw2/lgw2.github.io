@@ -23,8 +23,8 @@ title: "Lab 3"
 
 Given the driver class `PetsDemo.java` and the (mostly) complete abstract `Pet`
 class, create a `Cat` class and a `Dog` class to extend `Pet`, and provide concrete
-methods for the abstract `getAgeInHumanYears()`. The `Pet` class itself also has a
-`getAge()` method that needs to be finished before it will work correctly.
+methods for the abstract `getAgeInHumanYears`. The `Pet` class itself also has a
+`getAge` method that needs to be finished before it will work correctly.
 
 Inside the `getAgeInHumanYears` method, there are links that explain how to
 calculate the age of cats and dogs in human years. Note that you do not need to
@@ -42,12 +42,10 @@ Old Aspy is actually 12 years old.
 ```
 
 ## Grading - 10 points
-* 3 points - `getAge()` is implemented and works correctly in the `Pet` class.
+* 3 points - `getAge` is implemented and works correctly in the `Pet` class.
 * 4 points - `Cat` and `Dog` classes are created, and they properly extend the `Pet` class.
 * 2 points - both `Cat` and `Dog` `getAgeInHumanYears` methods calculate the correct age.
 * 1 points - Your code is clean and easy to read -- no unused clutter code or commented-out code.
-
-## Go beyond
 
 ## Grading turnaround
 This lab will be graded with scores in Brightspace before Tuesday, September
