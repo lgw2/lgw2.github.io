@@ -27,7 +27,7 @@ The main method also demonstrates:
 
 ### Files used in class
 * [CreditCard.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/CreditCard.java)
-* [CreditCardDemo.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/CounterDemo2.java)
+* [CreditCardDemo.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/CreditCardDemo.java)
 
 ### Additional exercises
 
