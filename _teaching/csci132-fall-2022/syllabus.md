@@ -217,7 +217,7 @@ Schedule subject to change.
 |Friday 9/9|Example program: CreditCard class||||
 |Monday 9/12|Data Structures; Javadoc||||
 |Wednesday 9/14|OOP: Abstraction||||
-|Thursday 9/15||Lab 3|||
+|Thursday 9/15||[Lab 3](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab2/)|||
 |Friday 9/16|UML, OOP, Polymorphism||[Project 1](https://lgw2.github.io/teaching/csci132-fall-2022/projects/project1/)||
 |Monday 9/19|Progression Class, Command line args||||
 |Wednesday 9/21|Interfaces||||
