@@ -10,6 +10,8 @@ title: "Lecture 7: Example: `CreditCard` class; UML class diagrams"
 
 ### An example program: `CreditCard`
 
+Build your programs one step at a time!
+
 Demonstrates many of the things we've learned so far:
 * modifiers (`private`, `public`, `static`)
 * instance variables
