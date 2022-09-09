@@ -177,7 +177,7 @@ Enter operation
 
 ## Grading - 100 points
 
-### Readable code and good Javadoc comments
+### Readable code and good comments
 * 20 points -  What are "readable" code
 and  "good" comments? They are code and comments that make it easy for your
 colleagues to understand your program. Creating readable code and writing good
@@ -195,6 +195,18 @@ coding a solution to any problem. Always be asking yourself, "could there be a
 cleaner, simpler, or more elegant way of doing that?" Starting here, and from
 this project on, all assignments will have a portion of the grade designated to
 readability.
+
+Some things you can think about for writing readable code:
+* using meaningful identifiers (variable names, method names)
+* indent statement blocks
+* organize your class as follows:
+  * constants (`final` variables)
+  * instance variables (also known as fields)
+  * constructors
+  * methods
+* use comments to explain ambigiuous or confusing constructs
+* come back to your code a day or two after writing it and see if the way you
+	solved the problem could be improved, or if you need to add comments
 
 ### Fields
 * 5 points - the constant `ROUGHLY_PI` belongs to the `Calculator` class as a
