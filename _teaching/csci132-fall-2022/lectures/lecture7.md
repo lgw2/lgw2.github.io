@@ -38,4 +38,8 @@ of the video goes into inheritance, which we will cover next week.)
 * [CreditCardDemo.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/CreditCardDemo.java)
 
 ### Additional exercises
+* R-1.11 from book: Modify the `CreditCard` class to include a method that
+	updates the credit limit.
+* R-1.12 from book: Modify the `CreditCard` class so that it ignores any
+	request to process a negative payment amount.
 
