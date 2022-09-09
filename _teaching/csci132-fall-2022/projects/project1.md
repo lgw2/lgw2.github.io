@@ -7,7 +7,12 @@ title: "Project 1"
 * Due: Friday, September 16th AoE.
 * Submission instructions: upload `Calculator.java` and `CalculatorDemo.java`
 	to the D2L Project 1 folder.
-* You may do this project with a partner. More details coming soon!
+* You may do this project with a partner. If you do this, one partner should
+	turn in the two Java files on D2L and the other should just submit a
+	comment on D2L saying who their partner is. The TA for the partner who
+	turned it in will enter the same grade for both partners. If you choose
+	this option, you should do the project *together*, not just have one
+	partner do all the work.
 
 
 ## Assignment
