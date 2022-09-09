@@ -21,7 +21,8 @@ title: "Lab 3"
 
 ## Assignment
 
-Given the driver class `PetsDemo.java` and the (mostly) complete abstract `Pet`
+Download the starter code [here](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab3_starter.zip).
+Given the driver class `PetsDemo.java` and the (mostly) complete abstract `Pet.java`]
 class, create a `Cat` class and a `Dog` class to extend `Pet`, and provide concrete
 methods for the abstract `getAgeInHumanYears`. The `Pet` class itself also has a
 `getAge` method that needs to be finished before it will work correctly.
