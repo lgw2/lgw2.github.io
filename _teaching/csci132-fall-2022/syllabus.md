@@ -223,10 +223,10 @@ Schedule subject to change.
 |Wednesday 9/21|Interfaces||||
 |Thursday 9/22||Lab 4|||
 |Friday 9/23|Using exceptions||||
-|Monday 9/26|Review for Quiz||||
-|Wednesday 9/28||||Quiz 1|
+|Monday 9/26|Generics||||
+|Wednesday 9/28|Review for Quiz 1||||
 |Thursday 9/29||Lab 5|||
-|Friday 9/30|Generics||Project 2||
+|Friday 9/30|||Project 2|Quiz 1|
 |Monday 10/3|||||
 |Wednesday 10/5|java.util.Arrays||||
 |Thursday 10/6||Lab 6|||
