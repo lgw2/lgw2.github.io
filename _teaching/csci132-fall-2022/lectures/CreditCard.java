@@ -1,16 +1,16 @@
 package day7_done;
 
 public class CreditCard {
-	
+
 	// Instance variables:
 	private String customer;
 	private String bank;
 	private String account;
 	private int limit;
-	private double balance;
-	
+	protected double balance;
+
 	// Constructors:
-	public CreditCard(String cust, String bk, 
+	public CreditCard(String cust, String bk,
 			String acnt, int lim, double initialBal) {
 		customer = cust;
 		bank = bk;
@@ -21,14 +21,14 @@ public class CreditCard {
 	public CreditCard(String cust, String bk, String acnt, int lim) {
 		this(cust, bk, acnt, lim, 0.0);		// use a balance of zero as default
 	}
-	
+
 	// Accessor methods (getters):
 	public String getCustomer() { return customer; }
 	public String getBank() { return bank; }
 	public String getAccount() { return account; }
 	public int getLimit() { return limit; }
 	public double getBalance() { return balance; }
-	
+
 	// Update methods:
 	public boolean charge(double price) {		// make a charge
 		if (price + balance > limit)			// if charge would surpass limit
@@ -40,7 +40,7 @@ public class CreditCard {
 	public void makePayment(double amount) {	// make a payment
 		balance -= amount;
 	}
-	
+
 	// Utility method to print a card's information
 	public static void printSummary(CreditCard card) {
 		System.out.println("Customer = " + card.customer);
@@ -49,6 +49,6 @@ public class CreditCard {
 		System.out.println("Balance = " + card.balance);
 		System.out.println("Limit = " + card.limit);
 	}
-	
+
 
 }
