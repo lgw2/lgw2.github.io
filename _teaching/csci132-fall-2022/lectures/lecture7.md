@@ -38,6 +38,7 @@ of the video goes into inheritance, which we will cover next week.)
 ### Files used in class
 * [CreditCard.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/CreditCard.java)
 * [CreditCardDemo.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/CreditCardDemo.java)
+* [UML_class.pdf](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/UML_class.pdf)
 
 ### Additional exercises
 * R-1.11 from book: Modify the `CreditCard` class to include a method that
