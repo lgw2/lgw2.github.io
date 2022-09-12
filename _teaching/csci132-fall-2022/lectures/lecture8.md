@@ -3,7 +3,7 @@ collection: teaching
 title: "Lecture 8: Object Oriented Design: Inheritance"
 ---
 
-[lecture video]()
+[lecture video](https://youtu.be/hqHAL9ml3EM)
 
 ### Textbook section
 2.1-2.2
