@@ -215,8 +215,8 @@ Schedule subject to change.
 |Wednesday 9/7|[Controlling the flow; intro Project 1 and Lab 2](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture6/)||||
 |Thursday 9/8||[Lab 2](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab2/)|||
 |Friday 9/9|[Example program: CreditCard class; UML](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture7/)||||
-|Monday 9/12|Data Structures; Javadoc||||
-|Wednesday 9/14|OOP: Abstraction||||
+|Monday 9/12|Object Oriented Design: Inheritance||||
+|Wednesday 9/14|Object Oriented Design cont'd||||
 |Thursday 9/15||[Lab 3](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab3/)|||
 |Friday 9/16|UML, OOP, Polymorphism||[Project 1](https://lgw2.github.io/teaching/csci132-fall-2022/projects/project1/)||
 |Monday 9/19|Progression Class, Command line args||||
