@@ -29,7 +29,7 @@ title: "Lecture 8: Object Oriented Design: Inheritance"
 ### Files used in class
 * [CreditCard.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/CreditCard.java)
 * [CreditCardDemo.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/CreditCardDemo.java)
-* [PredatoryCreditCard.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/PredatoryCreditCardDemo.java)
+* [PredatoryCreditCard.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/PredatoryCreditCard.java)
 
 ### Additional exercises
 
