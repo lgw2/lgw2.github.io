@@ -32,4 +32,12 @@ title: "Lecture 8: Object Oriented Design: Inheritance"
 * [PredatoryCreditCard.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/PredatoryCreditCard.java)
 
 ### Additional exercises
-
+* Create another class, `AirlineCreditCard`, that inherits from the
+	`CreditCard` class. It should have the additional private fields `airline`
+	(`String` type) and `miles` (`double` type). It should have a constructor that
+	calls the `CreditCard` constructor using the `super` keyword and sets the
+	values of the two new fields. It should override the `charge` method to
+	also add one mile per dollar spent to the `miles` total. (Try to use the
+	`super` keyword again to call the `charge` method from the parent class.)
+	Add a `getMiles()` method and write some code in `CreditCardDemo.java` to
+	test that your new class is working.
