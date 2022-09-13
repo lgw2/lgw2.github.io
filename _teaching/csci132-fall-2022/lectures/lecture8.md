@@ -22,6 +22,8 @@ title: "Lecture 8: Object Oriented Design: Inheritance"
 * we say that a subclass or child class extends a base class, parent class, or super class
 * child class can augment by adding new fields and methods
 * can also override an existing method
+* use `super` keyword to refer to parent class
+* constructors are *not* inherited
 ![is-a relationship](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/isa.jpeg)
 
 ![PredatoryCreditCard](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/PredatoryCreditCard.jpeg)
