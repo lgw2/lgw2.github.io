@@ -228,16 +228,16 @@ whole, and a constant so it can't be reassigned.
 
 ### Methods
 
-* 5 points - `*`:  multiply the current answer by the user number and return the result
-* 5 points - `/`: divide the current answer by the user number and return the result
-* 5 points - `c`: clear the current answer and return the result (0)
-* 5 points - `neg`: negate the current answer and return the result (for
+* 5 points - `*`:  multiply the current answer by the user number
+* 5 points - `/`: divide the current answer by the user number
+* 5 points - `c`: clear the current answer (that is, set it to 0)
+* 5 points - `neg`: negate the current answer (for
 	example, 4.5 would turn into -4.5)
-* 5 points - `%`: convert the current answer to a percentage and return the result (i.e., divide by 100 and return the result)
-* 5 points - `log`: take the natural logarithm of the current value and return the result
-* 10 points - `^`: raise current answer to the user number and return the result
-* 5 points - `inv`: invert the current answer and return the result
-* 10 points - `pert`: perturb the current value by multiplying by a random double within the range `[0.95, 1.05]` and return the result
+* 5 points - `%`: convert the current answer to a percentage (i.e., divide by 100 and return the result)
+* 5 points - `log`: take the natural logarithm of the current value
+* 10 points - `^`: raise current answer to the user number
+* 5 points - `inv`: invert the current answer
+* 10 points - `pert`: perturb the current value by multiplying by a random double within the range `[0.95, 1.05]`
 * 5 points - `printAnswer`: prints the answer right justified
 
 ### Additional functionality
