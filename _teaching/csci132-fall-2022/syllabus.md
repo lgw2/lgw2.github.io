@@ -216,7 +216,7 @@ Schedule subject to change.
 |Thursday 9/8||[Lab 2](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab2/)|||
 |Friday 9/9|[Example program: CreditCard class; UML](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture7/)||||
 |Monday 9/12|[Object Oriented Design: Inheritance](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture8/)||||
-|Wednesday 9/14|Object Oriented Design: Interfaces and Abstract Classes||||
+|Wednesday 9/14|[Object Oriented Design: Interfaces and Abstract Classes](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture8/)||||
 |Thursday 9/15||[Lab 3](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab3/)|||
 |Friday 9/16|UML, OOP, Polymorphism||[Project 1](https://lgw2.github.io/teaching/csci132-fall-2022/projects/project1/)||
 |Monday 9/19|Progression Class, Command line args||||
