@@ -24,14 +24,11 @@ In Java:
 * Example: we can implement `Animal` as an abstract class, while `Tortoise`, `Otter`, and
 	`SlowLoris` inherit from and implement its abstract methods.
 
-![Animals](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/animals.png)
-
-
 ### Files used in class
 * [Sellable.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/Sellable.java)
 * [Photograph.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/Photograph.java)
-* [Animal.java]()
-* [Otter.java]()
+* [Animal.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/Animal.java)
+* [Otter.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/Otter.java)
 
 ### Additional exercises
 
