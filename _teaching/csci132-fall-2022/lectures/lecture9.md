@@ -23,12 +23,10 @@ In Java:
 * In between an interface and a normal (concrete) class
 
 ### Files used in class
-* [Sellable.java]()
-* [Photograph.java]()
+* [Sellable.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/Sellable.java)
+* [Photograph.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/Photograph.java)
 * [Animal.java]()
-* [SlowLoris.java]()
 * [Otter.java]()
-* [Tortoise.java]()
 
 ### Additional exercises
 
