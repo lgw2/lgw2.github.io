@@ -21,6 +21,11 @@ In Java:
 
 ### Abstract classes
 * In between an interface and a normal (concrete) class
+* Example: we can implement `Animal` as an abstract class, while `Tortoise`, `Otter`, and
+	`SlowLoris` inherit from and implement its abstract methods.
+
+![Animals](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/animals.png)
+
 
 ### Files used in class
 * [Sellable.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/Sellable.java)
