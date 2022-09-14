@@ -3,7 +3,8 @@ collection: teaching
 title: "Lecture 9: Object Oriented Design: Interfaces and Abstract Classes"
 ---
 
-[lecture video]()
+[lecture audio](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/day1.mp4) (thought I was recording video in higher quality...instead,
+just didn't record video)
 
 ### Textbook section
 2.3
