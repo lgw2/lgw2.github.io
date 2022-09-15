@@ -221,7 +221,7 @@ Schedule subject to change.
 |Friday 9/16|UML, OOP, Polymorphism||[Project 1](https://lgw2.github.io/teaching/csci132-fall-2022/projects/project1/)||
 |Monday 9/19|Progression Class, Command line args||||
 |Wednesday 9/21|Interfaces||||
-|Thursday 9/22||Lab 4|||
+|Thursday 9/22||[Lab 4](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab4/)|||
 |Friday 9/23|Using exceptions||||
 |Monday 9/26|Generics||||
 |Wednesday 9/28|Review for Quiz 1||||
