@@ -1,6 +1,6 @@
 ---
 collection: teaching
-title: "Lecture : Polymorphism; command line args"
+title: "Lecture 10: Polymorphism; command line args"
 ---
 
 [lecture video]()
