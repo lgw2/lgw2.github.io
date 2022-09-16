@@ -63,3 +63,4 @@ public class Maryland extends State {
 	}
 }
 ```
+What is the output from calling the `main()` method of the `Maryland` class?
