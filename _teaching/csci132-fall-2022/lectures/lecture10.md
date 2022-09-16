@@ -3,7 +3,7 @@ collection: teaching
 title: "Lecture 10: Polymorphism; command line args"
 ---
 
-[lecture video]()
+[lecture video](https://youtu.be/gXnTjGh9tmo)
 
 ### Textbook section
 2.2
