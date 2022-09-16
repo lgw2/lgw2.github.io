@@ -29,7 +29,8 @@ title: "Lecture 10: Polymorphism; command line args"
 ### Additional exercises
 * R-2.11 from book: Consider the following code fragment, taken from some
 	package:
-```java
+
+```
 class State extends Region {
 	State() {}
 	public void printMe() { System.out.println("Ship it."); }
@@ -63,4 +64,5 @@ public class Maryland extends State {
 	}
 }
 ```
+
 What is the output from calling the `main()` method of the `Maryland` class?
