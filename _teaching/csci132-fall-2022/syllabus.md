@@ -218,7 +218,7 @@ Schedule subject to change.
 |Monday 9/12|[Object Oriented Design: Inheritance](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture8/)||||
 |Wednesday 9/14|[Object Oriented Design: Interfaces and Abstract Classes](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture9/)||||
 |Thursday 9/15||[Lab 3](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab3/)|||
-|Friday 9/16|Polymorphism; command line args||[Project 1](https://lgw2.github.io/teaching/csci132-fall-2022/projects/project1/)||
+|Friday 9/16|[Polymorphism; command line args](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture10/)||[Project 1](https://lgw2.github.io/teaching/csci132-fall-2022/projects/project1/)||
 |Monday 9/19|More OOP||||
 |Wednesday 9/21|Using exceptions||||
 |Thursday 9/22||[Lab 4](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab4/)|||
