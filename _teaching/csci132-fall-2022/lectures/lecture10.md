@@ -27,4 +27,39 @@ title: "Lecture 10: Polymorphism; command line args"
 * [Echo.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/Echo.java)
 
 ### Additional exercises
+* R-2.11 from book: Consider the following code fragment, taken from some
+	package:
+``` java
+class State extends Region {
+	State() {}
+	public void printMe() { System.out.println("Ship it."); }
+}
 
+class Region extends Place {
+	Region() {}
+	public void printMe() { System.out.println("Box it."); }
+}
+
+class Place extends Object {
+	Place() {}
+	public void printMe() { System.out.println("Buy it."); }
+}
+
+public class Maryland extends State {
+	Maryland() { /* null constructor */ }
+	public void printMe() { System.out.println("Read it."); }
+	public static void main (String[] args) {
+		Region east = new State();
+		State md = new Maryland();
+		Object obj = new Place();
+		Place usa = new Region();
+		md.printMe();
+		east.printMe();
+		((Place) obj).printMe();
+		obj = md;
+		((Maryland) obj).printMe();
+		usa = md;
+		((Place) usa).printMe();
+	}
+}
+```
