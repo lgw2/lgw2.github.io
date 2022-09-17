@@ -32,8 +32,7 @@ What does the final modifier do?
 (c) Makes it so a methood can be called using the class name, rather than an instance of the class
 (d) Ends the program
 
-The correct answer is (b), since that's precisely what the final modifier
-does.
+The correct answer is (b), since that's precisely what the final modifier does.
 
 This question is related to the topic of modifiers from lecture 5.
 
