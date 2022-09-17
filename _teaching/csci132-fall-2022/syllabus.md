@@ -225,7 +225,7 @@ Schedule subject to change.
 |Friday 9/23|Using exceptions||||
 |Monday 9/26|Generics||||
 |Wednesday 9/28|Review for Quiz 1||||
-|Thursday 9/29||Lab 5|||
+|Thursday 9/29||[Lab 5](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab5/)|||
 |Friday 9/30|Take quiz in class (optional)||Project 2|Quiz 1|
 |Monday 10/3|||||
 |Wednesday 10/5|java.util.Arrays||||
