@@ -53,9 +53,8 @@ This question is related to Lecture 3.
 
 ```
 
-
 ## Grading - 10 points
-* 3 points - you provide a multiple choice question related to the material
+* 3 points - you provide a multiple choice question with at least two questions related to the material
 	covered up to Monday, September 26th.
 * 3 points - you provide a correct answer and a brief explanation of why it is
 	the correct answer.
