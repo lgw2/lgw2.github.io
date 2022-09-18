@@ -118,7 +118,15 @@ Some things you can think about for writing readable code:
 * 10 points - `Square` class extending `Rectangle` and implementing `RegularPolygon`
 
 ### Demo
-* 15 points - prove that the methods work properly (including constructors). It doesn't have to be completely exhaustive, but should contain several shape instantiations of different varieties, and print statements proving out the area and perimeter of each shape; show that the getters/setters for color works, the different constructors for each shape work, and printString is working. Comment the demo for yourself and your TA: show that you understand polymorphism. You should have at least 12 tests (1 point each). The remaining 3 points are for nice commenting and printing along with your demonstration.
+* 15 points - prove that the methods work properly (including constructors). It
+doesn't have to be completely exhaustive, but should contain several shape
+instantiations of different varieties, and print statements proving out the
+area and perimeter of each shape; show that the getters/setters for color
+works, the different constructors for each shape work, and printString is
+working. Comment the demo for yourself and your TA: show that you understand
+polymorphism. You should have at least 12 tests (that is, 12 assignments of
+shape variables), for 1 point each. The remaining
+3 points are for nice commenting and printing along with your demonstration.
 
 ## Grading turnaround
 This program will be graded with scores in Brightspace by Tuesday, October 4th, AoE.
