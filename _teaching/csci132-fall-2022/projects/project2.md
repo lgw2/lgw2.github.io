@@ -46,8 +46,9 @@ public class EquilateralTriangle extends Shape implements RegularPolygon  {...}
 
 ### Add `Circle` and `Rectangle`
 
-Create and add the classes `Circle` and `Rectangle` to the package as well. These
-two will not have an interface to implement like the `Square` and
+Create and add the classes `Circle` and `Rectangle` to the package as well,
+which extend the `Shape` class.
+These two will not have an interface to implement like the `Square` and
 `EquilateralTriangle`, but they will still need to have constructors so that we
 can create objects of their types. The shape subclasses should each have three
 constructors:
