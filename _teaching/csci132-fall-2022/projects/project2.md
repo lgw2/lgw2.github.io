@@ -44,9 +44,47 @@ Edit `EquilateralTriangle` and `Square` to extend `Shape` as well as implement
 public class EquilateralTriangle extends Shape implements RegularPolygon  {...}
 ```
 
-### Sample output
+### Add `Circle` and `Rectangle`
 
-```
+Create and add the classes `Circle` and `Rectangle` to the package as well. These
+two will not have an interface to implement like the `Square` and
+`EquilateralTriangle`, but they will still need to have constructors so that we
+can create objects of their types. The shape subclasses should each have three
+constructors:
+
+* `Circle(radius)`
+* `Circle(color)`
+* `Circle(radius, color)`
+
+* `Square(side)`
+* `Square(color)`
+* `Square(side, color)`
+
+* `EquilateralTriangle(side)`
+* `EquilateralTriangle(color)`
+* `EquilateralTriangle(side, color)`
+
+* `Rectangle(width, height)`
+* `Rectangle(color)`
+* `Rectangle(width, height, color)`
+
+If unspecified, the `color` should be white, and `size` (`radius`, `side`, `width`, `height`) should be 1.
+
+### Demonstrate your understanding of polymorphism in `ShapeDemo.java`
+
+Notice that we can use the same syntax on different shapes because we have a sensible system of inheritance and abstraction.
+
+Showcase your program by testing shapes of all types. You have a shape that can
+take many forms (`Circle`, `Square`, etc.). In the file `ShapeDemo.java`, create some shapes,
+and call the methods to get their colors, areas, and perimeters. Create a shape
+and assign it a square. Create a circle and assign it a circle. Can you create
+a rectangle and assign it a square? Why or why not? Can you create a square and
+assign it a rectangle? Why or why not?  Think about the "is a" relationship.
+Comment your demo with explanations of what is happening in these experiments.
+If some assignments doesn't work, comment them out and explain why in comments
+preceding them. Example:
+
+```java
 // Circle myCircle = new Rectangle(2, 3); // Fail: not true that a rectangle "is a" circle.
 Shape myRectangle = new Rectangle(3.5, 4, "periwinkle");
 System.out.println(myRectangle);
