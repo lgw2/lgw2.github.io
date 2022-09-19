@@ -3,7 +3,7 @@ collection: teaching
 title: "Lecture 11: Some more OOP practice"
 ---
 
-[lecture video]())
+[lecture video]()
 
 ### Textbook section
 2.2-2.3
