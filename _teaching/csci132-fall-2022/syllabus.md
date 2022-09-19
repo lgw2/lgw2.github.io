@@ -108,17 +108,17 @@ you are having any problems.* We want you to succeed!
 * All assignments are due on their due date by the [Anywhere on Earth (AoE)
 	timezone](https://www.timeanddate.com/time/zones/aoe), which is 6 hours behind Bozeman. (This means that the real due
 	date is 6am the following day.) If you submit a
-	lab or program the following day before 8am, you get 25% off. If you
+	lab or project the following day before 8am, you get 25% off. If you
 	submit within four days of the due date
-	(by Monday AoE for labs; by Tuesday AoE for programs) you get 50%.
+	(by Monday AoE for labs; by Tuesday AoE for projects) you get 50%.
 	Otherwise, no points are possible.
 * Every student gets one free late pass with no
-	questions asked for programs. This means you can submit up to
+	questions asked for projects. This means you can submit up to
 	four days late (by Tuesday AoE) with no penalty. Use this wisely! If you
 	use this early in the semester and something unforseen happens, you will
-	still need to submit the program on time or the penalties above apply. Please
+	still need to submit the project on time or the penalties above apply. Please
 	message the course assistant for your section on Discord to let them know
-	you are using your late pass for a program. You should send this message
+	you are using your late pass for a project. You should send this message
 	before you make the submission, or shortly after.
 * At the end of the semester, your lowest lab grade will be dropped.
 * You can submit as many times as you would like; only your last submission will be
@@ -219,15 +219,15 @@ Schedule subject to change.
 |Wednesday 9/14|[Object Oriented Design: Interfaces and Abstract Classes](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture9/)||||
 |Thursday 9/15||[Lab 3](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab3/)|||
 |Friday 9/16|[Polymorphism; command line args](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture10/)||[Project 1](https://lgw2.github.io/teaching/csci132-fall-2022/projects/project1/)||
-|Monday 9/19|More OOP||||
+|Monday 9/19|[More OOP](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture11/)||||
 |Wednesday 9/21|Using exceptions||||
 |Thursday 9/22||[Lab 4](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab4/)|||
-|Friday 9/23|Using exceptions||||
+|Friday 9/23|TA Q+A||||
 |Monday 9/26|Generics||||
 |Wednesday 9/28|Review for Quiz 1||||
-|Thursday 9/29||Lab 5|||
-|Friday 9/30|Take quiz in class (optional)||Project 2|Quiz 1|
-|Monday 10/3|||||
+|Thursday 9/29||[Lab 5](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab5/)|||
+|Friday 9/30|Take quiz in class (optional)||[Project 2](https://lgw2.github.io/teaching/csci132-fall-2022/projects/project2/)|[Quiz 1](https://lgw2.github.io/teaching/csci132-fall-2022/quizzes/quiz1/)|
+|Monday 10/3|Go over quiz||||
 |Wednesday 10/5|java.util.Arrays||||
 |Thursday 10/6||Lab 6|||
 |Friday 10/7|Insertion Sort, Debugging||||
