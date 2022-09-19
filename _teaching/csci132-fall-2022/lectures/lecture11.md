@@ -22,6 +22,8 @@ identifying a new value based on one or more previous values. You can check out 
 inspiration, though many of those integer sequences are not progressions. (How
 might we extend our hierarchy to account for these?)
 
+![Progression](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/prog.png)
+
 ### Files used in class
 * [Progression.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/Progression.java)
 * [ArithmeticProgression.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/ArithmeticProgression.java)
