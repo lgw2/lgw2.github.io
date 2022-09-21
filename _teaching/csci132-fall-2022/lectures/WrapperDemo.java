@@ -24,11 +24,6 @@ public class WrapperDemo {
 //		String w = (String) z;
 		String w = Integer.valueOf(z).toString();
 		
-		
-		
-		
-		
-		
 	}
 
 }
