@@ -2,7 +2,7 @@ package day12;
 
 import java.util.Scanner;
 
-public class ExceptionDemo2 {
+public class ExceptionDemo {
 	
 	public static final int DEFAULT = 1;
 
