@@ -38,7 +38,6 @@ try {
 } catch (exceptionType2 variable2) {
 	// remedy body 2
 }
-
 ```
 
 ### Throwing exceptions in Java
