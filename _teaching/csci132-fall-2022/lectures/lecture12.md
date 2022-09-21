@@ -3,7 +3,7 @@ collection: teaching
 title: "Lecture 12: Wrapper classes; exceptions"
 ---
 
-[lecture video]()
+[lecture video](https://youtu.be/AISyQyMD3bo)
 
 ### Textbook sections
 1.3; 2.4
