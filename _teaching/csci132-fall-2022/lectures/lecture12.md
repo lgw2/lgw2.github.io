@@ -42,6 +42,12 @@ try {
 
 ### Throwing exceptions in Java
 
+We often instantiate an exception object when we throw it:
+
+```java
+throw new exceptionType(parameters);
+```
+
 ![Exceptions](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/exceptions.png)
 
 ### Files used in class
@@ -49,3 +55,6 @@ try {
 * [ExceptionDemo.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/ExceptionDemo.java)
 
 ### Additional exercises
+Change the `ExceptionDemo` class to get the input as a command line argument. Add
+code to catch a `ArrayIndexOutOfBoundsException` and use the `DEFAULT` value
+for `n`.
