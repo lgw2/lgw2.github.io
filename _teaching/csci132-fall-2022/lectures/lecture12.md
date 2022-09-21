@@ -46,6 +46,7 @@ try {
 ![Exceptions](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/exceptions.png)
 
 ### Files used in class
-* [Demo.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/Demo.java)
+* [WrapperDemo.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/WrapperDemo.java)
+* [ExceptionDemo.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/ExceptionDemo.java)
 
 ### Additional exercises
