@@ -1,12 +1,22 @@
 ---
 collection: teaching
-title: "Lecture 12: Exceptions"
+title: "Lecture 12: Wrapper classes; cxceptions"
 ---
 
 [lecture video]()
 
-### Textbook section
-2.4
+### Textbook sections
+1.3; 2.4
+
+### Wrapper clases
+
+Because many data structures and algorithms in Java's libraries are
+specifically designed to work with objects types, not primitives, Java defines
+wrapper classes for each primitive type. See [this tutorial](https://www.w3schools.com/java/java_wrapper_classes.asp).
+
+Useful for parsing and changing to strings:
+* `parseInt()` method (for example)
+* `toString()` method
 
 ### Exceptions
 
@@ -31,19 +41,11 @@ try {
 
 ```
 
-![Progression](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/prog.png)
+### Throwing exceptions in Java
+
+![Exceptions](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/exceptions.png)
 
 ### Files used in class
-* [Progression.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/Progression.java)
-* [ArithmeticProgression.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/ArithmeticProgression.java)
-* [GeometricProgression.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/GeometricProgression.java)
-* [FibonacciProgression.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/FibonacciProgression.java)
-* [ProgressionDemo.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/ProgressionDemo.java)
+* [Demo.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/Demo.java)
 
 ### Additional exercises
-* Implement another progression subclass. (You can look at the [On-Line Encyclopedia of Integer Sequences](https://oeis.org/)
-for inspiration or try to think of one yourself. What other operations can
-	you do with numbers? How about storing more than one previous?)
-* Think about how you would add another class above `Progression` to so hold
-	generalized integer sequences. What changes to the `Progression` class
-	would you make?
