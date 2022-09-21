@@ -1,6 +1,6 @@
 ---
 collection: teaching
-title: "Lecture 12: Wrapper classes; cxceptions"
+title: "Lecture 12: Wrapper classes; exceptions"
 ---
 
 [lecture video]()
