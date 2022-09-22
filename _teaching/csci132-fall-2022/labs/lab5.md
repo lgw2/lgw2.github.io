@@ -20,7 +20,7 @@ be at least two choices, but there can be more than that if you prefer. You can
 do true or false questions, true multiple choice (only one is correct), or
 multi-select (more than one may be correct).
 Indicate what the correct answer is, and briefly explain why it is correct.
-Finally, indicate which lecture topic or day your questioons is related to. If
+Finally, indicate which lecture topic or day your question is related to. If
 it's related to more than one, just try to say at least one.
 
 ## Examples
