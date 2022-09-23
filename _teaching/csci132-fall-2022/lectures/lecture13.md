@@ -36,5 +36,6 @@ Allowed, as long as only one is public.
 
 ### Files used in class
 * [Pair.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/Pair.java)
+* [PairDemo.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/PairDemo.java)
 
 ### Additional exercises
