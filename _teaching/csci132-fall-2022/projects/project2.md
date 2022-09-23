@@ -119,9 +119,8 @@ Some things you can think about for writing readable code:
 
 ### Correct implementation
 * 10 points - `Circle` class extending `Shape`
-* 10 points - `EquilateralTriangle` class implementing `RegularPolygon` and
-	extending `Shape`
-* 10 points - `Rectangle` extending `Shape`
+* 10 points - `EquilateralTriangle` class extending `Shape` and implementing `RegularPolygon`
+* 10 points - `Rectangle` class extending `Shape`
 * 10 points - `Square` class extending `Rectangle` and implementing `RegularPolygon`
 * 10 points - `RegularPolygon` interface
 * 10 points - abstract `Shape` class
