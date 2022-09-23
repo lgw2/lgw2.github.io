@@ -44,6 +44,9 @@ Edit `EquilateralTriangle` and `Square` to extend `Shape` as well as implement
 public class EquilateralTriangle extends Shape implements RegularPolygon  {...}
 ```
 
+Note: later in the project description, we will change which class `Square`
+extends. But first you can implement it to extend `Shape`.
+
 ### Add `Circle` and `Rectangle`
 
 Create and add the classes `Circle` and `Rectangle` to the package as well,
@@ -70,6 +73,12 @@ constructors:
 * `Rectangle(width, height, color)`
 
 If unspecified, the `color` should be white, and `size` (`radius`, `side`, `width`, `height`) should be 1.
+
+### Change `Square` to extend `Rectangle` instead of `Shape`
+
+If you think about it, it makes more sense for `Square` to be implemented as a
+subclass of `Rectangle` instead of a subclass of `Shape`. Change your code to
+reflect this.
 
 ### Demonstrate your understanding of polymorphism in `ShapeDemo.java`
 
@@ -129,5 +138,26 @@ polymorphism. You should have at least 12 tests (that is, 12 assignments of
 shape variables), for 1 point each. The remaining
 3 points are for nice commenting and printing along with your demonstration.
 
+### Sample output
+
+You will probably want to print out more during your demo. But you can check
+your area and perimter calculations:
+
+```
+Square. Color = white. Side = 3.0. Area = 9.0. Perimeter = 12.0
+Square. Color = green. Side = 2.5. Area = 6.25. Perimeter = 10.0
+Circle. Color = blue. Radius = 2.0. Area = 12.566370614359172. Circumference = 12.566370614359172
+Circle. Color = blue. Radius = 1.5. Area = 7.0685834705770345. Circumference = 9.42477796076938
+Rectangle. Color = periwinkle. Width = 3.5. Height = 4.0. Area = 14.0. Perimeter = 15.0
+Rectangle. Color = lime. Width = 1.0. Height = 1.0. Area = 1.0. Perimeter = 4.0
+EquilateralTriangle. Color = white. Side = 1.0. Area = 0.4330127018922193. Perimeter = 3.0
+```
+
 ## Grading turnaround
 This program will be graded with scores in Brightspace by Tuesday, October 4th, AoE.
+
+## Go beyond
+
+* Draw out the inheritance hierarchy between all of your classes.
+* Make it so that you can change the default colors and default side lengths by
+	only changing one thing in your code.
