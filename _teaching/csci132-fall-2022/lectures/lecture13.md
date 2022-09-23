@@ -8,13 +8,6 @@ title: "Lecture 13: Generics; finishing up classes"
 ### Textbook chapters
 2.5-2.6
 
-```mermaid
-graph TD;
-  A-->B;
-  A-->C;
-  B-->D;
-  C-->D;
-```
 ### Warmup: the `getClass()` method
 
 Returns the class of an object. For example,
