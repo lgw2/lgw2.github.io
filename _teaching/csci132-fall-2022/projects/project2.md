@@ -8,7 +8,8 @@ title: "Project 2"
 * Submission instructions: upload seven Java files (`Circle.java`,
     `EquilateralTriangle.java`, `Rectangle.java`, `RegularPolygon.java`,
     `Shape.java`, `ShapeDemo.java`, and `Square.java`) to the D2L dropbox for
-    Project 2.
+    Project 2. The preferred method is to put them all into one folder, zip
+	that, and upload the zipped file. Ask if you need help with this.
 * You may do this project with a partner. If you do this, one partner should
 	turn in the seven Java files on D2L and the other should just submit a
 	comment on D2L saying who their partner is. The TA for the partner who
