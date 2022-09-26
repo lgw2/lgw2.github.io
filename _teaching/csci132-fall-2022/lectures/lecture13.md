@@ -1,41 +1,10 @@
 ---
 collection: teaching
-title: "Lecture 13: Generics; finishing up classes"
+title: "Lecture 13: TA Q+A"
 ---
 
-[lecture video]()
+[lecture video](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=663b76e8-e07d-44fb-ad97-af19015dad1e)
 
-### Textbook chapters
-2.5-2.6
+Asad led a Q+A session and introduced Project 2. The video is just the
+introduction to Project 2.
 
-### Warmup: the `getClass()` method
-
-Returns the class of an object. For example,
-```java
-Progression prog = new ArithmeticProgression(0, 2);
-System.out.println(prog.getClass());
-```
-
-### Generics
-
-Syntax:
-* class header uses `<TypeParam1, TypeParam2, ...>`
-* specify the type parameters to instantiate, e.g., `Pair<String, Integer> p1 =
-    new Pair<String, Integer>("Even", 8);`
-
-### Nested classes
-
-* allowed!
-* useful for creating small classes that are used as part of a larger data
-    structure
-
-### Multiple classes in one file
-
-Allowed, as long as only one is public.
-
-
-### Files used in class
-* [Pair.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/Pair.java)
-* [PairDemo.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/PairDemo.java)
-
-### Additional exercises
