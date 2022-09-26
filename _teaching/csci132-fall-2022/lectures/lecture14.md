@@ -47,3 +47,9 @@ See the official [Java tutorial](https://docs.oracle.com/javase/tutorial/java/ja
 * [PairDemo.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/PairDemo.java)
 
 ### Additional exercises
+* Go back and check your previous labs and programs for this course. Did you
+    use appropriate access control modifiers for your fields and methods? (Note
+    that the starter code may not!)
+* Write a generic `Singleton` class with at least one field, at least one constructor, methods `setElement()`, `getElement()` and `toString()`, and
+write a `SingletonDemo` class to test it out with a few different type
+parameters.
