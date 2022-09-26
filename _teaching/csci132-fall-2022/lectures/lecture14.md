@@ -28,6 +28,7 @@ Syntax:
 * allowed!
 * useful for creating small classes that are used as part of a larger data
     structure
+* see the [official Java tutorial](https://docs.oracle.com/javase/tutorial/java/javaOO/nested.html) for more details
 
 ### Multiple classes in one file
 
@@ -45,6 +46,8 @@ See the official [Java tutorial](https://docs.oracle.com/javase/tutorial/java/ja
 ### Files used in class
 * [Pair.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/Pair.java)
 * [PairDemo.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/PairDemo.java)
+* [OuterClass.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/OuterClass.java)
+* [TopLevelClass.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/TopLevelClass.java)
 
 ### Additional exercises
 * Go back and check your previous labs and programs for this course. Did you
