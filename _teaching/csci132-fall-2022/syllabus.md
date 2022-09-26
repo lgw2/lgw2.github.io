@@ -222,7 +222,7 @@ Schedule subject to change.
 |Monday 9/19|[More OOP](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture11/)||||
 |Wednesday 9/21|[Wrapper classes; exceptions](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture12/)||||
 |Thursday 9/22||[Lab 4](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab4/)|||
-|Friday 9/23|TA Q+A||||
+|Friday 9/23|[TA Q+A](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture13/)||||
 |Monday 9/26|Generics||||
 |Wednesday 9/28|Review for Quiz 1||||
 |Thursday 9/29||[Lab 5](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab5/)|||
