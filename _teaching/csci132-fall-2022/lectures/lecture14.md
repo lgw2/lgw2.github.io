@@ -40,6 +40,7 @@ use each one?
 * Use the most restrictive access level that makes sense for a particular member. Use `private` unless you have a good reason not to.
 * Avoid `public` fields except for constants. (You may see examples in tutorials and in this class using `public` fields. This sometimes helps to illustrate some ideas concisely, but is not recommended for production code.) `public` fields tend to link you to a particular implementation and limit your flexibility in changing your code.
 
+See the official [Java tutorial](https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html) for more information.
 
 ### Files used in class
 * [Pair.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/Pair.java)
