@@ -128,14 +128,16 @@ Some things you can think about for writing readable code:
 * 10 points - driver `ShapeDemo` class
 
 ### Demo
-* 15 points - prove that the methods work properly (including constructors). It
-doesn't have to be completely exhaustive, but should contain several shape
-instantiations of different varieties, and print statements proving out the
-area and perimeter of each shape; show that the getters/setters for color
-works, the different constructors for each shape work, and printString is
-working. Comment the demo for yourself and your TA: show that you understand
-polymorphism. You should have at least 12 tests (that is, 12 assignments of
-shape variables), for 1 point each. The remaining
+* 15 points - write 12 distinct tests to show that your classes are implemented
+	properly and that you understand polymorphism. Your tests don't need to be
+	completely exhaustive, but should contain sever shape instantiations of
+	different varieties, and print statements showing that the area and
+	perimeter of each shape are computed correctly. You could also show that
+	the getters and setters for the color works, that the different
+	constructors work, and demonstrating some instances of the "is-a"
+	relationship between objects in the hierarchy. (And possibly some
+	non-examples in comments.)
+ Comment the demo for yourself and your TA. You should have at least 12 tests for 1 point each. The remaining
 3 points are for nice commenting and printing along with your demonstration.
 
 ### Sample output
