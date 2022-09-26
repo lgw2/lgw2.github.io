@@ -81,11 +81,11 @@ If you think about it, it makes more sense for `Square` to be implemented as a
 subclass of `Rectangle` instead of a subclass of `Shape`. Change your code to
 reflect this.
 
-### Demonstrate your understanding of polymorphism in `ShapeDemo.java`
+### Demonstrate your implementation and understanding of polymorphism in `ShapeDemo.java`
 
 Notice that we can use the same syntax on different shapes because we have a sensible system of inheritance and abstraction.
 
-Showcase your program by testing shapes of all types. You have a shape that can
+Showcase your program by testing shapes of different types. You have a shape that can
 take many forms (`Circle`, `Square`, etc.). In the file `ShapeDemo.java`, create some shapes,
 and call the methods to get their colors, areas, and perimeters. Create a shape
 and assign it a square. Create a circle and assign it a circle. Can you create
@@ -164,3 +164,5 @@ This program will be graded with scores in Brightspace by Tuesday, October 4th, 
 * Draw out the inheritance hierarchy between all of your classes.
 * Make it so that you can change the default colors and default side lengths by
 	only changing one thing in your code.
+* Use an array to demonstrate your understanding of polymorphism in your
+	`ShapeDemo` class.
