@@ -115,6 +115,7 @@ Some things you can think about for writing readable code:
 * indent statement blocks
 * don't rewrite the same code!
 * use comments to explain ambigiuous or confusing constructs
+* be thoughtful about which access modifiers you use for class members
 * come back to your code a day or two after writing it and see if the way you
 	solved the problem could be improved, or if you need to add comments
 
