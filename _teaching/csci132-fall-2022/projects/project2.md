@@ -131,7 +131,7 @@ Some things you can think about for writing readable code:
 ### Demo
 * 15 points - write 12 distinct tests to show that your classes are implemented
 	properly and that you understand polymorphism. Your tests don't need to be
-	completely exhaustive, but should contain sever shape instantiations of
+	completely exhaustive, but should contain several shape instantiations of
 	different varieties, and print statements showing that the area and
 	perimeter of each shape are computed correctly. You could also show that
 	the getters and setters for the color works, that the different
