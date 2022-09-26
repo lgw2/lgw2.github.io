@@ -164,5 +164,5 @@ This program will be graded with scores in Brightspace by Tuesday, October 4th, 
 * Draw out the inheritance hierarchy between all of your classes.
 * Make it so that you can change the default colors and default side lengths by
 	only changing one thing in your code.
-* Use an array to demonstrate your understanding of polymorphism in your
+* Use an array to demonstrate your understanding of the "is-a" relationship between shapes in your
 	`ShapeDemo` class.
