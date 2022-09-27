@@ -121,18 +121,22 @@ Enter operation
 Enter operation
 >>> +
 Enter number
+>>> 100
+Enter operation
+>>> +
+Enter number
 >>> e
 Enter operation
 >>> =
 
-        2.71828
+      102.71828
 
 Enter operation
 >>> log
 Enter operation
 >>> =
 
-0.999999327347282
+4.6319900952531725
 
 Enter operation
 >>> +
@@ -141,7 +145,7 @@ Enter number
 Enter operation
 >>> =
 
-10.999999327347282
+14.631990095253173
 
 Enter operation
 >>> ^
@@ -150,14 +154,14 @@ Enter number
 Enter operation
 >>> =
 
-120.99998520164067
+214.09513414758695
 
 Enter operation
 >>> inv
 Enter operation
 >>> =
 
-0.008264463820665332
+0.0046708207731178415
 
 Enter operation
 >>> +
@@ -166,14 +170,14 @@ Enter number
 Enter operation
 >>> =
 
-100.00826446382067
+100.00467082077311
 
 Enter operation
 >>> pert
 Enter operation
 >>> =
 
-101.33828457850659
+99.98516409186084
 
 Enter operation
 >>> q
