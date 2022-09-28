@@ -224,7 +224,7 @@ Schedule subject to change.
 |Thursday 9/22||[Lab 4](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab4/)|||
 |Friday 9/23|[TA Q+A](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture13/)||||
 |Monday 9/26|[Generics; finishing up classes](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture14/)||||
-|Wednesday 9/28|Review for Quiz 1||||
+|Wednesday 9/28|[Review for Quiz 1](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture15/)||||
 |Thursday 9/29||[Lab 5](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab5/)|||
 |Friday 9/30|Take quiz in class (optional)||[Project 2](https://lgw2.github.io/teaching/csci132-fall-2022/projects/project2/)|[Quiz 1](https://lgw2.github.io/teaching/csci132-fall-2022/quizzes/quiz1/)|
 |Monday 10/3|Go over quiz||||
