@@ -229,7 +229,7 @@ Schedule subject to change.
 |Friday 9/30|Take quiz in class (optional)||[Project 2](https://lgw2.github.io/teaching/csci132-fall-2022/projects/project2/)|[Quiz 1](https://lgw2.github.io/teaching/csci132-fall-2022/quizzes/quiz1/)|
 |Monday 10/3|Go over quiz||||
 |Wednesday 10/5|java.util.Arrays||||
-|Thursday 10/6||Lab 6|||
+|Thursday 10/6||[Lab 6](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab6/)|||
 |Friday 10/7|Insertion Sort, Debugging||||
 |Monday 10/10|Linked lists||||
 |Wednesday 10/12|Linked lists data structure||||
