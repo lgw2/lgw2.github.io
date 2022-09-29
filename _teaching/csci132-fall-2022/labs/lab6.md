@@ -38,7 +38,8 @@ You can implement `Movie` in its own file or in the same file as
 
 Change `IntegerSwapper` to `GenericSwapper` so that it can swap elements of any
 sort of array. To do this, you will need to change the static `swap` method to
-be generic. The book provides the following sample code for a generic method
+be generic. In class, we learned about how to make classes generic; making
+methods generic is very similar. The book provides the following sample code for a generic method
 to reverse an array:
 
 ```java
