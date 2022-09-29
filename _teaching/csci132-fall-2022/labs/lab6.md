@@ -55,7 +55,7 @@ public class GenericDemo {
 ```
 
 You'll notice that the code uses the static method `toString()` from the
-`Arrays` package from Java. You can read more about the method [here]().
+`Arrays` class from java.util. You can read more about the Arrays class [here](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Arrays.html).
 
 Also, update `swap` so that it handles `ArrayIndexOutOfBoundsException`s. If
 `a` or `b` passed to `swap` are out of bounds, don't perform the swap but
