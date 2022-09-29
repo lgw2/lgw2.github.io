@@ -3,4 +3,4 @@ collection: teaching
 title: "Lecture 15: Quiz review"
 ---
 
-[lecture video]()
+No lecture video, unfortunately.
