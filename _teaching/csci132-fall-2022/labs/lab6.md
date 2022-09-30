@@ -19,7 +19,7 @@ title: "Lab 6"
 
 ## Assignment
 
-Download [IntegerSwapper.java]() and make the following changes.
+Download [IntegerSwapper.java](https://lgw2.github.io/teaching/csci132-fall-2022/labs/IntegerSwapper.java) and make the following changes.
 
 ### Part 1
 
