@@ -34,6 +34,7 @@ Begin by running the program as-is. Then, make the updates below.
 	String last = input.next();
 	```
 * Remember that to compare strings we need to use `a.equals(b)`, not `==`.
+* To print the full key, you may want to use a [fencepost loop](https://courses.cs.washington.edu/courses/cse142/15sp/lectures/04-24/slides/12-fencepost-while-sentinel-loops.pdf).
 
 
 ## Grading - 100 points
