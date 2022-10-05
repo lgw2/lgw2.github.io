@@ -18,4 +18,4 @@ is added, the scoreboard should still be correct.
 ### Files used in class
 * [GameEntry.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/GameEntry.java)
 * [Scoreboard.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/Scoreboard.java)
-
+* [Scoreboard.pdf](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/Scoreboard.pdf)
