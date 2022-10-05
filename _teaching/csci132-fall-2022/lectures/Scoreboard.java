@@ -3,6 +3,7 @@ package day16;
 public class Scoreboard {
 	private int numEntries;
 	private GameEntry[] board;
+	
 	public Scoreboard(int capacity) {
 		board = new GameEntry[capacity];
 	}
@@ -28,13 +29,12 @@ public class Scoreboard {
 		System.out.println(board[0]);
 	}
 	
-	public static void main(String[] args) {
-		Scoreboard s = new Scoreboard(2);
-		GameEntry n = new GameEntry("Bob", 100);
-		s.add(n);
-		n = new GameEntry("Sally", 101);
-		s.add(n);
-		s.printTop();
+	public String toString() {
+		String toReturn = "";
+		for (int i = 0; i < numEntries; i++) {
+			toReturn += board[i].toString() + " ";
+		}
+		return toReturn;
 	}
 
 }
