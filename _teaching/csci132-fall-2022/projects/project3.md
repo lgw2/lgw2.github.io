@@ -21,7 +21,8 @@ title: "Project 3"
 In this project, you will edit [CaesarCipher.java]() to be able to do more
 sophisticated encryption and to have some user interaction.
 
-Begin by running the program as-is. Then, make the updates below.
+Begin by running the program as-is. Then, make the updates described in the
+Grading section below.
 
 ## Hints
 
@@ -41,14 +42,11 @@ Begin by running the program as-is. Then, make the updates below.
 
 
 ### Correct implementation
-* 10 points - move the `main` method to its own `CipherDriver` class. Do not
-	change the visibility of the fields; instead, if you need to access them in
-	`CipherDriver`, add getters and setters. (If you do not need these, that is
-	okay too.)
+* 10 points - move the `main` method to its own `CipherDriver` class.
 * 20 points - make it possible to use both upper and lower case letters in the
-	message.
-* 20 points - modify the program so that the key can be anywhere between length
-	1 and length 10. For example, if the key length is 3 and the key is 1-2-3,
+	message. Spaces, punctuation, etc should be kept the same in the message;
+	see the sample output.
+* 20 points - modify the program so that it takes in three keys, each indicating a shift. For example, if the key length is 3 and the key is 1-2-3,
 	then the string `AAAA` is changed to `BCDB`.
 * 10 points - modify the program so that the user can enter an integer between 1
 	and 10 for the key length (5 points). If they enter an invalid input, raise an exception
