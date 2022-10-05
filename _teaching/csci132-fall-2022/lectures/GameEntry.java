@@ -9,11 +9,6 @@ public class GameEntry {
 		score = s;
 	}
 	
-	public static GameEntry getGameEntry(String n, int s) {
-		GameEntry x = new GameEntry(n, s);
-		return x;
-	}
-	
 	public String getName() { return name; }
 	public int getScore() { return score; }
 	public String toString() {
