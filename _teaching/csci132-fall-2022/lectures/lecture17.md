@@ -8,6 +8,10 @@ title: "Lecture 17: Applications of array data structures"
 ### Textbook chapters
 3.1
 
+### What is a data structure?
+
+### What benefits do arrays have as data structures? Drawbacks?
+
 ### Scoreboard
 
 Suppose I want to be able to hold *n* high scores, ranked, in an array.
