@@ -3,14 +3,32 @@ collection: teaching
 title: "Lecture 17: Applications of array data structures"
 ---
 
-[lecture video]()
+[lecture video](https://youtu.be/qdftf4Vs5Bo)
 
 ### Textbook chapters
 3.1
 
 ### What is a data structure?
 
+* A way to store information that's a higher level of
+abstraction than 1s and 0s
+* Has defined ways that we interact with it (this is more like an ADT, abstract
+	data type)
+* Has an impelementation of those ways of interacting (this is a more precise
+	definition: an implementation of an ADT)
+
 ### What benefits do arrays have as data structures? Drawbacks?
+
+* hold multiple pieces of information
+* because of the above, we can have algorithms that
+deal with multiple pieces of information instead of just one
+* in java, we already have array objects
+with predefined methods
+* the information is ordered
+* we can change what is stored in each slot
+* can store duplicates
+* (drawback) can't change the length
+* (drawback) we can only store one data type
 
 ### Scoreboard
 
