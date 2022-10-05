@@ -241,24 +241,24 @@ Schedule subject to change.
 |Friday 10/21|Big O notation||||
 |Monday 10/24|Recursion||||
 |Wednesday 10/26|Stacks, queues||||
-|Thursday 10/27||Lab 10|||
+|Thursday 10/27||Lab 9|||
 |Friday 10/28|Quiz review||||
 |Monday 10/31||||Quiz 2|
 |Wednesday 11/2|Deques||||
-|Thursday 11/3||Lab 11|||
+|Thursday 11/3||Lab 10|||
 |Friday 11/4|Lists||Project 4||
 |Monday 11/7|Dynamic arrays, amortized analysis||||
 |Wednesday 11/9|Arraylists||||
-|Thursday 11/10||Lab 12|||
+|Thursday 11/10||Lab 11|||
 |Veteran's day - no class|||||
 |Monday 11/14|ArrayLists||||
 |Wednesday 11/16|Positional Lists, Java Collections||||
-|Thursday 11/17||Lab 13|||
+|Thursday 11/17||Lab 12|||
 |Friday 11/18|Iterators, Comparators||||
 |Fall break|||||
 |Monday 12/5|Regex, file I/O, merge sort||||
 |Wednesday 12/7|More sorting||||
-|Thursday 12/8||Lab 15|||
+|Thursday 12/8||Lab 13|||
 |Friday 12/9|Review for final quiz||Project 5||
 |Final - Monday 12/12, 2:00pm-3:50pm||||Quiz 3|
 
