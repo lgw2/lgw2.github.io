@@ -234,11 +234,11 @@ Schedule subject to change.
 |Monday 10/10|Linked lists||||
 |Wednesday 10/12|Linked lists data structure||||
 |Thursday 10/13||Lab 7|||
-|Friday 10/14|Circular, doubly linked lists||Project 3||
+|Friday 10/14|Circular, doubly linked lists||||
 |Monday 10/17|Equivalence and cloning||||
 |Wednesday 10/19|Growth rates||||
 |Thursday 10/20||Lab 8|||
-|Friday 10/21|Big O notation||||
+|Friday 10/21|Big O notation||Project 3||
 |Monday 10/24|Recursion||||
 |Wednesday 10/26|Stacks, queues||||
 |Thursday 10/27||Lab 9|||
