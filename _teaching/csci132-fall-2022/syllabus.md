@@ -233,7 +233,7 @@ Schedule subject to change.
 |Friday 10/7|Insertion Sort, Debugging||||
 |Monday 10/10|Linked lists||||
 |Wednesday 10/12|Linked lists data structure||||
-|Thursday 10/13||Lab 7|||
+|Thursday 10/13||[Lab 7](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab7/)|||
 |Friday 10/14|Circular, doubly linked lists||||
 |Monday 10/17|Equivalence and cloning||||
 |Wednesday 10/19|Growth rates||||
