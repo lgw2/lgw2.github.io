@@ -3,7 +3,7 @@ collection: teaching
 title: "Lecture 14: Generics; finishing up classes"
 ---
 
-[lecture video](https://youtu.be/9XBHE1raEbQ)
+[lecture video](https://youtu.be/ybz1BJe_NzI)
 
 ### Textbook chapters
 2.5-2.6
