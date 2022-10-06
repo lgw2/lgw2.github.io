@@ -31,7 +31,7 @@ method. You can read more about it [here](https://www.geeksforgeeks.org/stringbu
 ### Part 2
 
 Write a `get(int index)` method for `SinglyLinkedList` that returns the value
-held at the node at the given index. If there is no nodoe at that index,(i,.e.,
+held at the node at the given index. If there is no node at that index (i,.e.,
 the index is too big or is negative), return `null`.
 
 ## Sample run
