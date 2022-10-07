@@ -1,6 +1,6 @@
 ---
 collection: teaching
-title: "Lecture 17: Insertion sort"
+title: "Lecture 18: Insertion sort"
 ---
 
 [lecture video]()
