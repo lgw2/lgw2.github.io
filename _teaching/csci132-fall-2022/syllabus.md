@@ -230,7 +230,7 @@ Schedule subject to change.
 |Monday 10/3|[Quiz; Lab 6](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture16/)||||
 |Wednesday 10/5|[Applications of array data structures](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture17/)||||
 |Thursday 10/6||[Lab 6](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab6/)|||
-|Friday 10/7|Insertion Sort, Debugging||||
+|Friday 10/7|[Insertion Sort, Debugging](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture18/)||||
 |Monday 10/10|Linked lists||||
 |Wednesday 10/12|Linked lists data structure||||
 |Thursday 10/13||[Lab 7](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab7/)|||
