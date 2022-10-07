@@ -25,6 +25,17 @@ public class Scoreboard {
 		}
 	}
 	
+	public GameEntry remove(int i) {
+		if (i < 0 || i > numEntries) {
+			throw new IndexOutOfBoundsException("Invalid index: " + i);
+		}
+		GameEntry temp = board[i];
+		// TODO: move the board entries up
+		board[numEntries - 1] = null;
+		numEntries--;
+		return temp;
+	}
+	
 	public void printTop() {
 		System.out.println(board[0]);
 	}
