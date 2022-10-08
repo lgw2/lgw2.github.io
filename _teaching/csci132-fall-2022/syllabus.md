@@ -234,7 +234,7 @@ Schedule subject to change.
 |Monday 10/10|Linked lists||||
 |Wednesday 10/12|Linked lists data structure||||
 |Thursday 10/13||[Lab 7](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab7/)|||
-|Friday 10/14|Circular, doubly linked lists||||
+|Friday 10/14|Circular, doubly linked lists|||[Survey 1](https://lgw2.github.io/teaching/csci132-fall-2022/quizzes/survey1/)|
 |Monday 10/17|Equivalence and cloning||||
 |Wednesday 10/19|Growth rates||||
 |Thursday 10/20||Lab 8|||
