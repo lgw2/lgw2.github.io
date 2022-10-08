@@ -20,7 +20,7 @@ title: "Project 3"
 
 In this project, you will compare the runtimes of adding an element to the end,
 adding an element to the beginning, and getting the *n*th element for arrays
-vs. inlked lists.
+vs. linked lists.
 
 Creating the following three java files: `ArrayDS.java`, `LinkedListDS.java`,
 and `ArrayVs.LinkedList.java`. `ArrayDS` and `LinkedListDS` will define the
@@ -135,3 +135,4 @@ be generic.
 * Change your ArrayDS so that it can handle the case when a new Integer is
 added and there is no more space for it. One way you can do this is to create a
 new array with double the capacity.
+* Add a `DoublyLinkedList` to your test.
