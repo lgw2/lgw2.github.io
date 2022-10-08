@@ -32,7 +32,7 @@ implement them using a linked list. The methods they should have are:
 * `addLast(Integer)`: puts the `Integer` in the last position. Should
 	correctly handle cases when the data structure has no elements.
 * `getN(int)`: returns the `Integer` stored in the *n*th position (index starting
-	at 0. Should correctly handle cases when the data structure has no elements.
+	at 0). Should correctly handle cases when the data structure has no elements.
 * `toString()`: returns a nice string representation of the data currently
 	stored
 
@@ -64,6 +64,12 @@ documentation](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java
 for a description of how to use `nanoTime()` to measure how long some code
 takes to execute. Convert your time in nanoseconds to time in milliseconds by
 dividing by 100000.
+
+### Write up why you think some methods take longer
+
+You should observe that one method for each data structure takes much longer
+than the rest. Print out a sentence or two at the end of your output explaining
+why.
 
 ### Sample output
 
@@ -97,6 +103,9 @@ LinkdedListDS
 addFirst took 4 milliseconds
 addLast took 4 milliseconds
 getN took 201 milliseconds
+
+(you should write your own explanation here)
+The reason that ___ and ___ take longest is...
 ```
 
 
@@ -112,9 +121,11 @@ getN took 201 milliseconds
 	each run takes in milliseconds
 * 15 points - test the three methods on arrays of random integers of length 5000 (5 points each). You should start with an empty data structure for both the `addFirst` and `addLast` tests.
 * 5 points - nicely organized printing for results
+* 5 points - you print out a sentence or two explaining why two of the methods
+	(one from each data structure) take significantly longer than the others
 
 ### Readable code and good comments
-* 15 points
+* 10 points
 
 Some things you can think about for writing readable code:
 * using meaningful identifiers (variable names, method names)
