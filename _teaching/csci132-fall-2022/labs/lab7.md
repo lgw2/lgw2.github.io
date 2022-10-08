@@ -32,7 +32,8 @@ method. You can read more about it [here](https://www.geeksforgeeks.org/stringbu
 
 Write a `get(int index)` method for `SinglyLinkedList` that returns the value
 held at the node at the given index. If there is no node at that index (i.e.,
-the index is too big or is negative), return `null`.
+the index is too big or is negative), return `null`. Assume that the index
+starts at 0 (that is, the first node in the linked list is at index 0).
 
 ## Sample run
 You don't need to match the output format, but here is an example.
