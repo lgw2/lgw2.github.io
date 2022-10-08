@@ -27,42 +27,87 @@ and `ArrayVs.LinkedList.java`. `ArrayDS` and `LinkedListDS` will define the
 same methods, but one will implement them using an array and the other will
 implement them using a linked list. The methods they should have are:
 
-* `addFirst(Integer)`: puts the `Integer` in the first position.
-* `addLast(Integer)`: puts the `Integer` in the last position.
-* `getN()`: returns the `Integer` stored in the *n*th position (index starting
-	at 0.
+* `addFirst(Integer)`: puts the `Integer` in the first position. Should
+	correctly handle cases when the data structure has no elements.
+* `addLast(Integer)`: puts the `Integer` in the last position. Should
+	correctly handle cases when the data structure has no elements.
+* `getN(int)`: returns the `Integer` stored in the *n*th position (index starting
+	at 0. Should correctly handle cases when the data structure has no elements.
+* `toString()`: returns a nice string representation of the data currently
+	stored
 
-Notes for the `ArrayDS`:
-* you may assume that you will not put more `Integer`s in than you initialize
+### Notes for the `ArrayDS`
+* you may work off of the code for the `Scoreboard`, but you should delete any
+	methods you are not using, and you should change the method names to match
+	those given above.
+* the constructor should take one argument for the total size of the internal
+	array. You may assume that you will not put more `Integer`s in than you initialize
 	the array to hold.
 
-Notes for the `LinkedListDS`:
-* you may copy the code from the book or class, but you should delete any
+### Notes for the `LinkedListDS`:
+* you should have a private nested `Node` class in order to implement the
+	linked list
+* you may work off of the code from the book, class, or Lab 7, but you should delete any
 	methods that you are not using, and you should change the method names to
 	match those given above.
+* your constructor should take in no arguments
 
+### How to time
+
+Create a random array of 5,000 integers using `java.util.Random`. See [this
+tutorial](https://www.tutorialspoint.com/generate-a-random-array-of-integers-in-java).
+
+Use the `java.lang.System.nanoTime()` to measure the three methods for both
+data structures. See [the
+documentation](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/System.html#nanoTime())
+for a description of how to use `nanoTime()` to measure how long some code
+takes to execute. Convert your time in nanoseconds to time in milliseconds by
+dividing by 100000.
+
+### Sample output
+
+```
+Here's the ArrayDS adding first:
+[5,4,3,2,1,0]
+Here's the LinkedListDS adding first:
+5->4->3->2->1->0
+Here's the ArrayDS adding last:
+[5,4,3,2,1,0,0,1,2,3,4,5]
+Here's the LinkedListDS adding last:
+5->4->3->2->1->0->0->1->2->3->4->5
+Here's the ArrayDS getting the Integer at index 9:
+3
+Here's the LinkedListDS getting the Integer at index 9:
+3
+
+And now, for the test. Creating an array of 5,000 random ints...
+
+ArrayDS
+---------------
+addFirst took 244 milliseconds
+addLast took 3 milliseconds
+getN took 1 milliseconds
+
+LinkdedListDS
+---------------
+addFirst took 4 milliseconds
+addLast took 4 milliseconds
+getN took 201 milliseconds
+```
 
 
 ## Grading - 100 points
 
-
 ### Correct implementation
-* 10 points - move the `main` method to its own `CipherDriver` class.
-* 20 points - make it possible to use both upper and lower case letters in the
-	message. Spaces, punctuation, etc should be kept the same in the message;
-	see the sample output.
-* 20 points - modify the program so that it takes in three keys, each indicating a shift. For example, if the key length is 3 and the key is 1-2-3,
-	then the string `AAAA` is changed to `BCDB`.
-* 10 points - modify the program so that the user can enter an integer between 1
-	and 10 for the key length (5 points). If they enter an invalid input, raise an exception
-	and run the program with a default value of 1.
-* 10 points - modify the program so that they user enters the correct number of keys. For example,
-if the user selected to use a key size of 3, then ask for three keys. If any of
-the keys is not an integer between 0 and 26, raise an exception and assign it the default value of 0.
-* 15 points - have a single run of the program do each of the following (3
-points each): prompt for a key length, prompt for the correct number of keys, print out the entire key,
-	allow user to choose between encrypt and decrypt, prompt for a message, and
-	print encrypted/decrypted message.
+* 25 points - correct `addFirst()`, `addLast()`, `getN()`, `toString()`, and
+	constructor for `ArrayDS` (5 points each).
+* 25 points - correct `addFirst()`, `addLast()`, `getN()`, `toString()`, and
+	constructor for `LinkedListDS` (5 points each).
+* 10 points - correct `Node` class nested in `LinkedListDS`.
+* 5 points - use the `System.nanoTime()` class to print out the correct time
+	each run takes in milliseconds
+* 15 points - test the three methods on arrays of random integers of length 5000 (5 points each). You should start with an empty data structure for both the `addFirst` and `addLast` tests.
+* 5 points - nicely organized printing for results
 
 ### Readable code and good comments
 * 15 points
@@ -85,7 +130,7 @@ make sure that you get full points.
 ```
 
 ## Grading turnaround
-This program will be graded with scores in Brightspace by Tuesday, October 18th, AoE.
+This program will be graded with scores in Brightspace by Tuesday, October 25th, AoE.
 
 ## Go beyond
 * Implement both the array data structure and the linked list data structure to
