@@ -9,7 +9,7 @@ title: "Project 3"
     Project 3. If you have more than one file, the preferred method is to put them all into one folder, zip
 	that, and upload the zipped file. Ask if you need help with this.
 * You may do this project with a partner. If you do this, one partner should
-	turn in the seven Java files on D2L and the other should just submit a
+	turn in the Java files on D2L and the other should just submit a
 	comment on D2L saying who their partner is. The TA for the partner who
 	turned it in will enter the same grade for both partners. If you choose
 	this option, you should do the project *together*, not just have one
@@ -35,6 +35,8 @@ implement them using a linked list. The methods they should have are:
 	at 0. Should correctly handle cases when the data structure has no elements.
 * `toString()`: returns a nice string representation of the data currently
 	stored
+
+(You may define additional methods if you need.)
 
 ### Notes for the `ArrayDS`
 * you may work off of the code for the `Scoreboard`, but you should delete any
