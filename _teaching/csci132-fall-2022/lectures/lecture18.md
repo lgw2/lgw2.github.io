@@ -3,7 +3,7 @@ collection: teaching
 title: "Lecture 18: Insertion sort"
 ---
 
-[lecture video]()
+[lecture video](https://youtu.be/Bbd5didWPzw)
 
 ### Textbook chapters
 3.1
