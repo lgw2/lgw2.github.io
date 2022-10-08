@@ -57,14 +57,16 @@ implement them using a linked list. The methods they should have are:
 Create a random array of 5,000 integers using `java.util.Random`. See [this
 tutorial](https://www.tutorialspoint.com/generate-a-random-array-of-integers-in-java).
 
-Use the `java.lang.System.nanoTime()` to measure the three methods for both
-data structures. See [the
+Use the `java.lang.System.nanoTime()` to measure the following. See [the
 documentation](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/System.html#nanoTime())
 for a description of how to use `nanoTime()` to measure how long some code
 takes to execute. Convert your time in nanoseconds to time in milliseconds by
 dividing by 100000.
 
 ### Sample output
+
+You don't need to match the sample output, but consult the grading and the
+description above to make sure you get full points.
 
 ```
 Here's the ArrayDS adding first:
@@ -120,14 +122,6 @@ Some things you can think about for writing readable code:
 * be thoughtful about which access modifiers you use for class members
 * come back to your code a day or two after writing it and see if the way you
 	solved the problem could be improved, or if you need to add comments
-
-### Sample output
-
-You don't need to match the output format, but consult the grading scheme to
-make sure that you get full points.
-
-```
-```
 
 ## Grading turnaround
 This program will be graded with scores in Brightspace by Tuesday, October 25th, AoE.
