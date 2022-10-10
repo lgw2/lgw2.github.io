@@ -26,3 +26,7 @@ We'll build up a linked list implementation with these methods:
 * [SinglyLinkedList.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/SinglyLinkedList.java)
 * [SinglyLinkedListDemo.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/SinglyLinkedListDemo.java)
 * [LinkedList.pdf](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/LinkedList.pdf)
+
+### Additional problems
+* Give a method of the `size()` method, assuming we did not maintain `size` as
+	a field in `SinglyLinkedList`.
