@@ -25,4 +25,4 @@ We'll build up a linked list implementation with these methods:
 ### Files used in class
 * [SinglyLinkedList.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/SinglyLinkedList.java)
 * [SinglyLinkedListDemo.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/SinglyLinkedListDemo.java)
-* [LinkedList.pdf](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/LinkedList.demo)
+* [LinkedList.pdf](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/LinkedList.pdf)
