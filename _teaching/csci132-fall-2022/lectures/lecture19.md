@@ -3,7 +3,7 @@ collection: teaching
 title: "Lecture 19: Linked lists"
 ---
 
-[lecture video]()
+[lecture video](https://youtu.be/vkPTp-ZXkxo)
 
 ### Textbook chapters
 3.1
