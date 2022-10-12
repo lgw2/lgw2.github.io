@@ -7,6 +7,71 @@ date: 2022-08-24
 location: "Bozeman, Montana"
 ---
 
+## Course schedule
+
+Schedule subject to change.
+
+|Date|Lecture Topic|Lab Due|Project Due|Quiz|
+|:---|:---|:---|:---|:---|
+|Wednesday 8/24|[Syllabus & set up](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture1/)||||
+|Thursday 8/25||[Lab 0](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab0/) (note that there is no in-person lab today)|||
+|Friday 8/26|[Java vs. Python](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture2/)||||
+|Monday 8/29|[User input, For loops, arrays, lab 1 intro](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture3/)||||
+|Wednesday 8/31|[Objects; more with data types](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture4/)||||
+|Thursday 9/1||[Lab 1](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab1/)|||
+|Friday 9/2|[`this`; modifiers](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture5/)||||
+|Labor Day - no class|||||
+|Wednesday 9/7|[Controlling the flow; intro Project 1 and Lab 2](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture6/)||||
+|Thursday 9/8||[Lab 2](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab2/)|||
+|Friday 9/9|[Example program: CreditCard class; UML](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture7/)||||
+|Monday 9/12|[Object Oriented Design: Inheritance](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture8/)||||
+|Wednesday 9/14|[Object Oriented Design: Interfaces and Abstract Classes](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture9/)||||
+|Thursday 9/15||[Lab 3](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab3/)|||
+|Friday 9/16|[Polymorphism; command line args](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture10/)||[Project 1](https://lgw2.github.io/teaching/csci132-fall-2022/projects/project1/)||
+|Monday 9/19|[More OOP](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture11/)||||
+|Wednesday 9/21|[Wrapper classes; exceptions](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture12/)||||
+|Thursday 9/22||[Lab 4](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab4/)|||
+|Friday 9/23|[TA Q+A](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture13/)||||
+|Monday 9/26|[Generics; finishing up classes](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture14/)||||
+|Wednesday 9/28|[Review for Quiz 1](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture15/)||||
+|Thursday 9/29||[Lab 5](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab5/)|||
+|Friday 9/30|Take quiz in class (optional)||[Project 2](https://lgw2.github.io/teaching/csci132-fall-2022/projects/project2/)|[Quiz 1](https://lgw2.github.io/teaching/csci132-fall-2022/quizzes/quiz1/)|
+|Monday 10/3|[Quiz; Lab 6](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture16/)||||
+|Wednesday 10/5|[Applications of array data structures](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture17/)||||
+|Thursday 10/6||[Lab 6](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab6/)|||
+|Friday 10/7|[Insertion Sort, Debugging](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture18/)||||
+|Monday 10/10|[Linked lists](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture19/)||||
+|Wednesday 10/12|More on linked lists||||
+|Thursday 10/13||[Lab 7](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab7/)|||
+|Friday 10/14|Circular, doubly linked lists|||[Survey 1](https://lgw2.github.io/teaching/csci132-fall-2022/quizzes/survey1/)|
+|Monday 10/17|Equivalence and cloning||||
+|Wednesday 10/19|Growth rates||||
+|Thursday 10/20||Lab 8|||
+|Friday 10/21|Big O notation||[Project 3](https://lgw2.github.io/teaching/csci132-fall-2022/projects/project3/)||
+|Monday 10/24|Recursion||||
+|Wednesday 10/26|Stacks, queues||||
+|Thursday 10/27||Lab 9|||
+|Friday 10/28|Quiz review||||
+|Monday 10/31||||Quiz 2|
+|Wednesday 11/2|Deques||||
+|Thursday 11/3||Lab 10|||
+|Friday 11/4|Lists||Project 4||
+|Monday 11/7|Dynamic arrays, amortized analysis||||
+|Wednesday 11/9|Arraylists||||
+|Thursday 11/10||Lab 11|||
+|Veteran's day - no class|||||
+|Monday 11/14|ArrayLists||||
+|Wednesday 11/16|Positional Lists, Java Collections||||
+|Thursday 11/17||Lab 12|||
+|Friday 11/18|Iterators, Comparators||||
+|Fall break|||||
+|Monday 12/5|Regex, file I/O, merge sort||||
+|Wednesday 12/7|More sorting||||
+|Thursday 12/8||Lab 13|||
+|Friday 12/9|Review for final quiz||Project 5||
+|Final - Monday 12/12, 2:00pm-3:50pm||||Quiz 3|
+
+
 Catalog description: 4 Credits (3 Lec, 1 Lab).
 PREREQUISITE: CSCI 127 and M 151Q. An examination of advanced Java and basic
 data structures and their application in problem solving. Data structures
@@ -197,70 +262,6 @@ What I can do:
 * Create a course atmosphere conducive to learning by respecting
 all of my students and being
 enthusiastic about course material and my role in helping you learn.
-
-## Course schedule
-
-Schedule subject to change.
-
-|Date|Lecture Topic|Lab Due|Project Due|Quiz|
-|:---|:---|:---|:---|:---|
-|Wednesday 8/24|[Syllabus & set up](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture1/)||||
-|Thursday 8/25||[Lab 0](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab0/) (note that there is no in-person lab today)|||
-|Friday 8/26|[Java vs. Python](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture2/)||||
-|Monday 8/29|[User input, For loops, arrays, lab 1 intro](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture3/)||||
-|Wednesday 8/31|[Objects; more with data types](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture4/)||||
-|Thursday 9/1||[Lab 1](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab1/)|||
-|Friday 9/2|[`this`; modifiers](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture5/)||||
-|Labor Day - no class|||||
-|Wednesday 9/7|[Controlling the flow; intro Project 1 and Lab 2](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture6/)||||
-|Thursday 9/8||[Lab 2](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab2/)|||
-|Friday 9/9|[Example program: CreditCard class; UML](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture7/)||||
-|Monday 9/12|[Object Oriented Design: Inheritance](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture8/)||||
-|Wednesday 9/14|[Object Oriented Design: Interfaces and Abstract Classes](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture9/)||||
-|Thursday 9/15||[Lab 3](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab3/)|||
-|Friday 9/16|[Polymorphism; command line args](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture10/)||[Project 1](https://lgw2.github.io/teaching/csci132-fall-2022/projects/project1/)||
-|Monday 9/19|[More OOP](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture11/)||||
-|Wednesday 9/21|[Wrapper classes; exceptions](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture12/)||||
-|Thursday 9/22||[Lab 4](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab4/)|||
-|Friday 9/23|[TA Q+A](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture13/)||||
-|Monday 9/26|[Generics; finishing up classes](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture14/)||||
-|Wednesday 9/28|[Review for Quiz 1](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture15/)||||
-|Thursday 9/29||[Lab 5](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab5/)|||
-|Friday 9/30|Take quiz in class (optional)||[Project 2](https://lgw2.github.io/teaching/csci132-fall-2022/projects/project2/)|[Quiz 1](https://lgw2.github.io/teaching/csci132-fall-2022/quizzes/quiz1/)|
-|Monday 10/3|[Quiz; Lab 6](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture16/)||||
-|Wednesday 10/5|[Applications of array data structures](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture17/)||||
-|Thursday 10/6||[Lab 6](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab6/)|||
-|Friday 10/7|[Insertion Sort, Debugging](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture18/)||||
-|Monday 10/10|[Linked lists](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture19/)||||
-|Wednesday 10/12|More on linked lists||||
-|Thursday 10/13||[Lab 7](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab7/)|||
-|Friday 10/14|Circular, doubly linked lists|||[Survey 1](https://lgw2.github.io/teaching/csci132-fall-2022/quizzes/survey1/)|
-|Monday 10/17|Equivalence and cloning||||
-|Wednesday 10/19|Growth rates||||
-|Thursday 10/20||Lab 8|||
-|Friday 10/21|Big O notation||[Project 3](https://lgw2.github.io/teaching/csci132-fall-2022/projects/project3/)||
-|Monday 10/24|Recursion||||
-|Wednesday 10/26|Stacks, queues||||
-|Thursday 10/27||Lab 9|||
-|Friday 10/28|Quiz review||||
-|Monday 10/31||||Quiz 2|
-|Wednesday 11/2|Deques||||
-|Thursday 11/3||Lab 10|||
-|Friday 11/4|Lists||Project 4||
-|Monday 11/7|Dynamic arrays, amortized analysis||||
-|Wednesday 11/9|Arraylists||||
-|Thursday 11/10||Lab 11|||
-|Veteran's day - no class|||||
-|Monday 11/14|ArrayLists||||
-|Wednesday 11/16|Positional Lists, Java Collections||||
-|Thursday 11/17||Lab 12|||
-|Friday 11/18|Iterators, Comparators||||
-|Fall break|||||
-|Monday 12/5|Regex, file I/O, merge sort||||
-|Wednesday 12/7|More sorting||||
-|Thursday 12/8||Lab 13|||
-|Friday 12/9|Review for final quiz||Project 5||
-|Final - Monday 12/12, 2:00pm-3:50pm||||Quiz 3|
 
 ## Acknowledgments
 
