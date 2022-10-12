@@ -72,7 +72,9 @@ Schedule subject to change.
 |Final - Monday 12/12, 2:00pm-3:50pm||||Quiz 3|
 
 
-Catalog description: 4 Credits (3 Lec, 1 Lab).
+## Catalog description
+
+4 Credits (3 Lec, 1 Lab).
 PREREQUISITE: CSCI 127 and M 151Q. An examination of advanced Java and basic
 data structures and their application in problem solving. Data structures
 include stacks, queues and lists. An introduction to algorithms employing the
