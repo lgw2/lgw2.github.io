@@ -68,7 +68,7 @@ dividing by 100000.
 
 * Adding the 5000 integers to the front (`addFirst()`)
 * Adding the 5000 integers to the back (`addLast()`)
-* Calling `getN()` 5000 times, passing in 1 through 4999
+* Calling `getN()` 5000 times, passing in 0 through 4999
 
 ### Write up why you think some methods take longer
 
