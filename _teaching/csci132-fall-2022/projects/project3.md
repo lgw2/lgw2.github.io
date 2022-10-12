@@ -59,11 +59,16 @@ implement them using a linked list. The methods they should have are:
 Create a random array of 5,000 integers using `java.util.Random`. See [this
 tutorial](https://www.tutorialspoint.com/generate-a-random-array-of-integers-in-java).
 
-Use the `java.lang.System.nanoTime()` to measure the following. See [the
+Use the `java.lang.System.nanoTime()` to measure the following for each data
+structure. See [the
 documentation](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/System.html#nanoTime())
 for a description of how to use `nanoTime()` to measure how long some code
 takes to execute. Convert your time in nanoseconds to time in milliseconds by
 dividing by 100000.
+
+* Adding the 5000 integers to the front (`addFirst()`)
+* Adding the 5000 integers to the back (`addLast()`)
+* Calling `getN()` 5000 times, passing in 1 through 4999
 
 ### Write up why you think some methods take longer
 
