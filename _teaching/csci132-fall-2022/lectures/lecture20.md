@@ -3,7 +3,7 @@ collection: teaching
 title: "Lecture 20: More on linked lists"
 ---
 
-[lecture video]()
+[lecture video](https://youtu.be/66t1UkBGEdY)
 
 ### Textbook chapters
 3.1
