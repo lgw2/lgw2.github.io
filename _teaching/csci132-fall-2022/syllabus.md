@@ -46,7 +46,7 @@ Schedule subject to change.
 |Friday 10/14|Circular, doubly linked lists|||[Survey 1](https://lgw2.github.io/teaching/csci132-fall-2022/quizzes/survey1/)|
 |Monday 10/17|Equivalence and cloning||||
 |Wednesday 10/19|Growth rates||||
-|Thursday 10/20||Lab 8|||
+|Thursday 10/20||[Lab 8](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab8/)|||
 |Friday 10/21|Big O notation||[Project 3](https://lgw2.github.io/teaching/csci132-fall-2022/projects/project3/)||
 |Monday 10/24|Recursion||||
 |Wednesday 10/26|Stacks, queues||||
