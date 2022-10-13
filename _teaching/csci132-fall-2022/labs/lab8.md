@@ -21,11 +21,11 @@ Download [DoublyLinkedList.java](https://lgw2.github.io/teaching/csci132-fall-20
 
 | Modifier and Type | Method                    | Description                                                                             |   |   |
 |-------------------|---------------------------|-----------------------------------------------------------------------------------------|---|---|
-| void              | add(int index, E element) | Inserts the specified element at the specified position in this list.                   |   |   |
-| void              | add(E e)                  | Appends the specified element to the end of this list.                                  |   |   |
-| void              | clear()                   | Removes all of the elements from this list.                                             |   |   |
-| E                 | get(int index)            | Returns the element at the specified position in this list                              |   |   |
-| E                 | set(int index, E element) | Replaces the element at the specified position in this list with the specified element. |   |   |
+| `void`              | `add(int index, E element)` | Inserts the specified element at the specified position in this list.                   |   |   |
+| `void`              | `add(E e)`                  | Appends the specified element to the end of this list.                                  |   |   |
+| `void`              | `clear()`                   | Removes all of the elements from this list.                                             |   |   |
+| `E`                 | `get(int index)`            | Returns the element at the specified position in this list                              |   |   |
+| `E`                 | `set(int index, E element)` | Replaces the element at the specified position in this list with the specified element. |   |   |
 
 ### Big hint
 
