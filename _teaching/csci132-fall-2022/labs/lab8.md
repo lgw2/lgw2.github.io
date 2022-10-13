@@ -31,6 +31,32 @@ Download [DoublyLinkedList.java](https://lgw2.github.io/teaching/csci132-fall-20
 
 Take a good look at the private method `addBetween()` and make sure you understand it. Even though it is private and can't be called outside of `DoublyLinkedList`, it is very powerful can be reused by other methods within `DoublyLinkedList`. We want to write programs that are D.R.Y. (do not repeat code), so make sure you call `addBetween()` when you need to.
 
+### Sample output
+
+You should demo each method. Here's an example. Your implementation is generic,
+so you could also try your methods on other types besides integers.
+
+```
+Add Integers: 5 9 1 8
+(5, 9, 1, 8)
+Add Integer 7 at index 2:
+(5, 9, 7, 1, 8)
+Add Integer 7 at index 8:
+Index 8 out of range.
+(5, 9, 7, 1, 8)
+Clear the list:
+()
+Add 10 11 12 13, get index 3:
+value is 13
+Get index 4:
+Index 4 out of range.
+value is null
+Set index 2 to 22:
+(10, 11, 22, 13)
+Set index 7 to 77:
+Index 7 out of range.
+(10, 11, 22, 13)
+```
 
 ## Grading - 10 points
 * 8 points: implement and demo each method (2 points each)
