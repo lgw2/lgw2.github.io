@@ -27,9 +27,12 @@ Download [DoublyLinkedList.java](https://lgw2.github.io/teaching/csci132-fall-20
 | `E`                 | `get(int index)`            | Returns the element at the specified position in this list                              |   |   |
 | `E`                 | `set(int index, E element)` | Replaces the element at the specified position in this list with the specified element. |   |   |
 
-### Big hint
+### Hints
 
-Take a good look at the private method `addBetween()` and make sure you understand it. Even though it is private and can't be called outside of `DoublyLinkedList`, it is very powerful can be reused by other methods within `DoublyLinkedList`. We want to write programs that are D.R.Y. (do not repeat code), so make sure you call `addBetween()` when you need to.
+* Take a good look at the private method `addBetween()` and make sure you understand it. Even though it is private and can't be called outside of `DoublyLinkedList`, it is very powerful can be reused by other methods within `DoublyLinkedList`. We want to write programs that are D.R.Y. (do not repeat code), so make sure you call `addBetween()` when you need to.
+* You can test that your implementation is working correctly by importing
+	`java.util.LinkdedList`, creating one, and make sure that your
+	`DoublyLinkedList` works the same when you call your methods.
 
 ### Sample output
 
