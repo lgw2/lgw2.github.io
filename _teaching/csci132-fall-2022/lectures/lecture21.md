@@ -32,7 +32,7 @@ cases easier.
 ### Files used in class
 * [CircularlyLinkedList.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/CircularlyLinkedList.java)
 * [CircularlyLinkedListDemo.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/CircularlyLinkedListDemo.java)
-* [CircularlyLinkedList.pdf](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/LinkedList.pdf)
+* [CircularlyLinkedList.pdf](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/CircularlyLinkedList.pdf)
 * [DoublyLinkedList.java](https://lgw2.github.io/teaching/csci132-fall-2022/labs/DoublyLinkedList.java)
 
 ### Additional problems
