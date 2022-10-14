@@ -3,12 +3,12 @@ collection: teaching
 title: "Lecture 21: Circularly linked lists; doubly linked lists"
 ---
 
-[lecture video]()
+[lecture video](https://youtu.be/eJU38hf4NsE)
 
 ### Textbook chapters
 3.3-3.4
 
-### Curcularly linked lists
+### Circularly linked lists
 
 Suppose I'm a pilot who always flies from Bozeman to Minneapolis to Seattle to
 Bozeman to Minneapolis...
