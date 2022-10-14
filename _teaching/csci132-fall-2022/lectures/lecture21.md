@@ -26,7 +26,8 @@ That is, we change our `Node`s to have references to both a next node (`next`)
 and a previous node (`prev`).
 
 We also add *sentinels* at the beginning and end of our list to make boundary
-cases easier.
+cases easier. This way, we can use the same code to add and remove nodes even
+when the list is empty.
 
 
 ### Files used in class
