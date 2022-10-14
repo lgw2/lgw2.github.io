@@ -43,7 +43,7 @@ Schedule subject to change.
 |Monday 10/10|[Linked lists](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture19/)||||
 |Wednesday 10/12|[More on linked lists](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture20/)||||
 |Thursday 10/13||[Lab 7](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab7/)|||
-|Friday 10/14|Circular, doubly linked lists|||[Survey 1](https://lgw2.github.io/teaching/csci132-fall-2022/quizzes/survey1/)|
+|Friday 10/14|[Circular, doubly linked lists](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture21/)|||[Survey 1](https://lgw2.github.io/teaching/csci132-fall-2022/quizzes/survey1/)|
 |Monday 10/17|Equivalence and cloning||||
 |Wednesday 10/19|Growth rates||||
 |Thursday 10/20||[Lab 8](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab8/)|||
