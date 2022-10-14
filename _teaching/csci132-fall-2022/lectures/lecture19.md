@@ -6,7 +6,7 @@ title: "Lecture 19: Linked lists"
 [lecture video](https://youtu.be/vkPTp-ZXkxo)
 
 ### Textbook chapters
-3.1
+3.2
 
 ### Linked lists
 
