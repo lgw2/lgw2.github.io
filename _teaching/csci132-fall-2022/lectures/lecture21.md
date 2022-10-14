@@ -21,6 +21,10 @@ We want a `rotate()` method!
 
 ### Doubly linked lists
 
+We can add some symmetry to our linked lists by making them doubly linked.
+That is, we change our `Node`s to have references to both a next node (`next`)
+and a previous node (`prev`).
+
 
 ### Files used in class
 * [CircularlyLinkedList.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/CircularlyLinkedList.java)
