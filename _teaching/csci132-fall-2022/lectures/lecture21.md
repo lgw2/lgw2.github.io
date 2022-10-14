@@ -15,7 +15,7 @@ Bozeman to Minneapolis...
 
 I want to keep track of my next three flights. If I'm in Bozeman, my next three
 flights are Minneapolis->Seattle->Bozeman. If I'm in Seattle, they're
-Seattle->Bozeman-Minneapolis.
+Bozeman->-Minneapolis->Seattle.
 
 We want a `rotate()` method!
 
