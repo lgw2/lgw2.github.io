@@ -3,7 +3,7 @@ collection: teaching
 title: "Lecture 22: Equivalence and cloning"
 ---
 
-[lecture video]()
+[lecture video](https://youtu.be/_AWO9ka8ofU)
 
 ### Textbook chapters
 3.5-3.6
