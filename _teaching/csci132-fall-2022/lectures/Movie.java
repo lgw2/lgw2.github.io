@@ -1,31 +1,29 @@
 package day22;
 
 public class Movie {
-
 	private int year;
 	private String name;
-
-	public Movie(String n, int y) {
+	
+	public Movie(String name, int y) {
 		year = y;
-		name = n;
+		this.name = name;
 	}
-
-	public void setYear(int y) {
-		year = y;
-	}
-	public int getYear() {
-		return year;
-	}
+	
 	public String getName() {
 		return name;
 	}
-
-	public boolean equals(Object other){
-		if (other == null) return false;
+	
+	public int getyear() {
+		return year;
+	}
+	
+	
+	public boolean equals(Object other) {
 		if (other.getClass() != getClass()) return false;
 		Movie o = (Movie) other;
-		return o.getYear() == year && o.getName() == name;
-
+		// can compare primitive data type (int) with ==
+		// for reference data type (String), use the equals method
+		return o.getName().equals(getName()) && o.getyear() == year;
 	}
 
 }
