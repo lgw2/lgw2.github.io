@@ -31,7 +31,7 @@ Again, as a programmer, we have choices about what cloning means.
 
 
 ### Files used in class
-* [Movie.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/Movie.java)
+* [Movie2.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/Movie.java)
 * [EquivalenceAndCloning.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/EquivalenceAndCloning.java)
 * [SinglyLinkedList2.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/SinglyLinkedList2.java)
 
