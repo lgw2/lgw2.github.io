@@ -55,7 +55,7 @@ Schedule subject to change.
 |Monday 10/31||||Quiz 2|
 |Wednesday 11/2|Deques||||
 |Thursday 11/3||Lab 10|||
-|Friday 11/4|Lists||Project 4||
+|Friday 11/4|Lists||||
 |Monday 11/7|Dynamic arrays, amortized analysis||||
 |Wednesday 11/9|Arraylists||||
 |Thursday 11/10||Lab 11|||
@@ -63,7 +63,7 @@ Schedule subject to change.
 |Monday 11/14|ArrayLists||||
 |Wednesday 11/16|Positional Lists, Java Collections||||
 |Thursday 11/17||Lab 12|||
-|Friday 11/18|Iterators, Comparators||||
+|Friday 11/18|Iterators, Comparators||Project 4||
 |Fall break|||||
 |Monday 12/5|Regex, file I/O, merge sort||||
 |Wednesday 12/7|More sorting||||
