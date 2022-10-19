@@ -17,7 +17,9 @@ title: "Lecture 23: Growth rates"
 * logarithm, $\log n$
 * linear, $n$
 * n-log-n, $n \log n$
-
+* quadratic, $n^2$
+* cubic, $n^3$
+* exponential, $2^n$
 
 ### Files used in class
 
