@@ -10,7 +10,17 @@ title: "Lecture 23: Growth rates"
 
 ## Experimental analysis
 
-## Moving beyond experimental analysis: worst-case analysis
+We can compare algorithms by implementing them and running them on a variety of
+inputs. But this approach has drawbacks:
+* different hardware and software may yield different runtimes
+* some test inputs are missed
+* we have to implement the algorithm
+
+## Moving beyond experimental analysis
+
+* Counting primitive operations
+* Measuring operations as a function of input size
+* Focusing on worst-case input
 
 ## Seven common functions used in algorithm analysis
 * constant, $1$
