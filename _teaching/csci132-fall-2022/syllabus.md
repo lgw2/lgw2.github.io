@@ -50,8 +50,8 @@ Schedule subject to change.
 |Friday 10/21|Big O notation||[Project 3](https://lgw2.github.io/teaching/csci132-fall-2022/projects/project3/)||
 |Monday 10/24|Recursion||||
 |Wednesday 10/26|Stacks, queues||||
-|Thursday 10/27||Lab 9|||
-|Friday 10/28|Quiz review||||
+|Thursday 10/27||||
+|Friday 10/28|Quiz review|Lab 9|||
 |Monday 10/31||||Quiz 2|
 |Wednesday 11/2|Deques||||
 |Thursday 11/3||Lab 10|||
