@@ -3,7 +3,7 @@ collection: teaching
 title: "Lecture 23: Growth rates"
 ---
 
-[lecture video]()
+[lecture video](https://youtu.be/8CMU9Q0ejDY)
 
 ### Textbook chapters
 4.1-4.2
