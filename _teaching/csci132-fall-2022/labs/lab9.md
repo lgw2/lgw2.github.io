@@ -94,6 +94,24 @@ Here are some ideas to help with estimating the asymptotic running time.
 	you want to try to do it on your own). [Here](https://lgw2.github.io/teaching/csci132-fall-2022/labs/alg1_analysis.png) is the analysis for algorithm 1
 	and [here](https://lgw2.github.io/teaching/csci132-fall-2022/labs/alg2_analysis.png) is the analysis for algorithm 2.
 
+### Sample output
+The blanks should be filled in by your program.
+```
+n = 10    alg1 time: ___ ns.
+n = 100    alg1 time: ___ ns.
+n = 1000    alg1 time: ___ ns.
+n = 10000    alg1 time: ___ ns.
+n = 100000    alg1 time: ___ ns.
+
+n = 10    alg2 time: ___ ns.
+n = 100    alg2 time: ___ ns.
+n = 1000    alg2 time: ___ ns.
+n = 10000    alg2 time: ___ ns.
+n = 100000    alg2 time: ___ ns.
+
+These results indicate the growth function of first algorithm is ___ and second algorithm is ___.
+```
+
 ## Grading - 10 points
 * 4 points - five test of the first algorithm (with n equal to 10, 100, 1000, 10,000, and 100,000), and time in nanoseconds for each.
 * 4 points - five test of the second algorithm (with n equal to 10, 100, 1000, 10,000, and 100,000), and time in nanoseconds for each.
