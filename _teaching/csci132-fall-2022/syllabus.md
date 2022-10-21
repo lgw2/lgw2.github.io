@@ -51,7 +51,7 @@ Schedule subject to change.
 |Monday 10/24|Recursion||||
 |Wednesday 10/26|Stacks, queues||||
 |Thursday 10/27||||
-|Friday 10/28|Quiz review|Lab 9|||
+|Friday 10/28|Quiz review|[Lab 9](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab9/)|||
 |Monday 10/31||||Quiz 2|
 |Wednesday 11/2|Deques||||
 |Thursday 11/3||Lab 10|||
