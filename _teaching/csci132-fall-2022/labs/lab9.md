@@ -76,3 +76,34 @@ maintain the current prefix sum dynamically. This way, we only need one for
 loop.
 
 [Book's implementation of algorithm 2]()
+
+### Experimental analysis of both algorithms' runtime
+
+Once you have both algorithms implemented, perform an experimental analysis of
+their runtimes. In a `main` method, implement tests for both of the prefix
+average algorithms with arrays filled with random values between 0 and 99. Show
+running time in nano seconds for input size of 10, 100, 1000, 10,000, and
+100,000. Output the results, and a print statement with your estimate of
+asymptotic running time (constant, logarithmic, linear, n-log-n, quadratic, cubic, or
+exponential) based on the results of your experiments.
+
+Here are some ideas to help with estimating the asymptotic running time.
+* Plot your runtimes with $n$ on the x-axis and the runtime on the y-axis.
+* For each algorithm, write down the number of primitive operations. What is
+	the dominant term in each? The book has an example of this (don't look if
+	you want to try to do it on your own). [Here] is the analysis for algorithm 1
+	and [here] is the analysis for algorithm 2.
+
+## Grading - 10 points
+* 4 points - five test of the first algorithm (with n equal to 10, 100, 1000, 10,000, and 100,000), and time in nanoseconds for each.
+* 4 points - five test of the second algorithm (with n equal to 10, 100, 1000, 10,000, and 100,000), and time in nanoseconds for each.
+* 2 points - Your answers for running time of both algorithms.
+
+## Grading turnaround
+This lab will be graded with scores in Brightspace before Tuesday, October 25th.
+
+## Go beyond
+* Show that your theoretical analyses are correct by writing out the number of
+	steps each algorithm takes as a function of the input size and showing that
+	that function is Big-O of your claimed runtime. That is, give a $c$ and a
+	$n_0$ that support your claim.
