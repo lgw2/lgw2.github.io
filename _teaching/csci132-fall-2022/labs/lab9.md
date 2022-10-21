@@ -36,7 +36,7 @@ of the two algorithms. If you want to write your own, don't look at these! (Or
 at least don't look at them until after you are satisfied with your own
 implementations.)
 
-You may also optionally start with [this starter code](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab9_starter.java) to help organize your
+You may also optionally start with [this starter code](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab9starter.java) to help organize your
 program. You don't need to use it, but it might help to take a look at it.
 
 ### Prefix averages definition
