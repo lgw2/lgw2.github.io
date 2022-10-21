@@ -20,6 +20,12 @@ title: "Lab 9"
 
 ## Assignment
 
+In this assignment, you will implement two different algorithms for computing
+prefix sums in Java and test them both with increasing input sizes. You will
+record the runtimes as the input size increases, and using your experimental
+runtimes and your own theoretical analysis of the algorithms, make a guess
+about the asymptotic runtime of the two algorithms.
+
 Depending on how much you want to challenge yourself, you may write your own
 algorithms to compute the prefix average or use the book's. You may also do
 your own reasoning about the theoretical anslysis, or look at the book's
@@ -31,7 +37,7 @@ at least don't look at them until after you are satisfied with your own
 implementations.)
 
 You may also optionally start with this starter code to help organize your
-program.
+program. You don't need to use it, but it might help to take a look at it.
 
 ### Prefix averages definition
 
@@ -52,5 +58,21 @@ periods.
 We will implement two different algorithms for computing prefix
 average, with significantly different running times.
 
+### Prefix average algorithm 1
 
+Our first algorithm for prefix averages is a naive approach. It computes each
+element $a_j$ independently, using an inner loop to compute that partial sum.
+Thus, this implementation requires a nested for loop.
 
+[Book's implementation of algorithm 1]()
+
+### Prefix average algorithm 2
+
+An intermediate value in the computation of the prefix average is the *prefix
+sum* $x_0 + x_1 + \cdots + x_j$. If we denote the prefix sum for the $j$th
+element as `total`, then the prefix average $a_j$ can be comptued as `a[j] =
+total/(j+1)`. For greater efficiency as compared to the first algorithm, we can
+maintain the current prefix sum dynamically. This way, we only need one for
+loop.
+
+[Book's implementation of algorithm 2]()
