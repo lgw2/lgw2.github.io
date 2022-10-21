@@ -36,7 +36,7 @@ of the two algorithms. If you want to write your own, don't look at these! (Or
 at least don't look at them until after you are satisfied with your own
 implementations.)
 
-You may also optionally start with this starter code to help organize your
+You may also optionally start with [this starter code](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab9_starter.java) to help organize your
 program. You don't need to use it, but it might help to take a look at it.
 
 ### Prefix averages definition
@@ -64,7 +64,7 @@ Our first algorithm for prefix averages is a naive approach. It computes each
 element $a_j$ independently, using an inner loop to compute that partial sum.
 Thus, this implementation requires a nested for loop.
 
-[Book's implementation of algorithm 1]()
+[Book's implementation of algorithm 1](https://lgw2.github.io/teaching/csci132-fall-2022/labs/alg1.png)
 
 ### Prefix average algorithm 2
 
@@ -75,7 +75,7 @@ total/(j+1)`. For greater efficiency as compared to the first algorithm, we can
 maintain the current prefix sum dynamically. This way, we only need one for
 loop.
 
-[Book's implementation of algorithm 2]()
+[Book's implementation of algorithm 2](https://lgw2.github.io/teaching/csci132-fall-2022/labs/alg2.png)
 
 ### Experimental analysis of both algorithms' runtime
 
@@ -91,8 +91,8 @@ Here are some ideas to help with estimating the asymptotic running time.
 * Plot your runtimes with $n$ on the x-axis and the runtime on the y-axis.
 * For each algorithm, write down the number of primitive operations. What is
 	the dominant term in each? The book has an example of this (don't look if
-	you want to try to do it on your own). [Here] is the analysis for algorithm 1
-	and [here] is the analysis for algorithm 2.
+	you want to try to do it on your own). [Here](https://lgw2.github.io/teaching/csci132-fall-2022/labs/alg1_analysis.png) is the analysis for algorithm 1
+	and [here](https://lgw2.github.io/teaching/csci132-fall-2022/labs/alg2_analysis.png) is the analysis for algorithm 2.
 
 ## Grading - 10 points
 * 4 points - five test of the first algorithm (with n equal to 10, 100, 1000, 10,000, and 100,000), and time in nanoseconds for each.
