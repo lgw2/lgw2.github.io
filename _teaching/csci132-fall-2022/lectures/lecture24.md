@@ -3,7 +3,7 @@ collection: teaching
 title: "Lecture 24: Asymptotic analysis & big O notation"
 ---
 
-[lecture video]()
+[lecture video](https://youtu.be/7aVa6__yMeU)
 
 ### Textbook chapters
 4.3
