@@ -48,7 +48,7 @@ Schedule subject to change.
 |Wednesday 10/19|[Growth rates](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture23/)||||
 |Thursday 10/20||[Lab 8](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab8/)|||
 |Friday 10/21|[Big O notation](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture24/)||[Project 3](https://lgw2.github.io/teaching/csci132-fall-2022/projects/project3/)||
-|Monday 10/24|Recursion||||
+|Monday 10/24|Algorithm correctness(||||
 |Wednesday 10/26|Stacks, queues||||
 |Thursday 10/27||||
 |Friday 10/28|Quiz review|[Lab 9](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab9/)|||
