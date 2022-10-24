@@ -22,6 +22,12 @@ $$f(n) \leq cg(n)$$
 
 for $n \geq n_0$.
 
+## Some Big-O rules and intuitions
+* all primitive operations run in $O(1)$ time
+* lower-order terms and constants don't matter
+* we don't have to give tight bounds ($n$ is $O(n^3)$)
+* big-O does *not* refer only to worst-case runtimes
+
 ### Files used in class
 
 ### Additional problems
