@@ -87,6 +87,8 @@ running time in nano seconds for input size of 10, 100, 1000, 10,000, and
 asymptotic running time (constant, logarithmic, linear, n-log-n, quadratic, cubic, or
 exponential) based on the results of your experiments.
 
+To fill the arrays of random values, use [the `nextDouble(double bound)` method from `java.util.Random`](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/random/RandomGenerator.html#nextDouble(double)).
+
 Here are some ideas to help with estimating the asymptotic running time.
 * Plot your runtimes with $n$ on the x-axis and the runtime on the y-axis.
 * For each algorithm, write down the number of primitive operations. What is
