@@ -3,7 +3,7 @@ collection: teaching
 title: "Lecture 25: Algorithm correctness"
 ---
 
-[lecture video]()
+[lecture video](https://youtu.be/Rn6xUzGRFgs)
 
 ### Textbook chapters
 4.4
