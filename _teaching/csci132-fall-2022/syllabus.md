@@ -49,11 +49,11 @@ Schedule subject to change.
 |Thursday 10/20||[Lab 8](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab8/)|||
 |Friday 10/21|[Big O notation](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture24/)||[Project 3](https://lgw2.github.io/teaching/csci132-fall-2022/projects/project3/)||
 |Monday 10/24|[Algorithm correctness](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture25/)||||
-|Wednesday 10/26|Stacks, queues||||
+|Wednesday 10/26|Project 3 runtimes||||
 |Thursday 10/27||||
 |Friday 10/28|Quiz review|[Lab 9](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab9/)|||
 |Monday 10/31||||[Quiz 2](https://lgw2.github.io/teaching/csci132-fall-2022/quizzes/quiz2/)|
-|Wednesday 11/2|Deques||||
+|Wednesday 11/2|Stacks, queues, deques||||
 |Thursday 11/3||Lab 10|||
 |Friday 11/4|Lists||||
 |Monday 11/7|Dynamic arrays, amortized analysis||||
