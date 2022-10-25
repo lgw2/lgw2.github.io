@@ -11,7 +11,7 @@ technical difficulties.
 The second quiz
 will cover everything we have learned in the course through the lecture on Wednesday, October 26th, with a focus on the material starting on 10/5.
 Once you start the quiz, you have one hour to complete it. It will be open from
-8am on Monday, October 31st until 6am on Tuesday, November 2nd.
+8am on Monday, October 31st until 6am on Wednesday, November 2nd.
 A practice quiz will be available by Monday, 10/24.
 
 For the  quiz, you may access a lot of resources:
