@@ -49,7 +49,7 @@ Schedule subject to change.
 |Thursday 10/20||[Lab 8](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab8/)|||
 |Friday 10/21|[Big O notation](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture24/)||[Project 3](https://lgw2.github.io/teaching/csci132-fall-2022/projects/project3/)||
 |Monday 10/24|[Algorithm correctness](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture25/)||||
-|Wednesday 10/26|Project 3 runtimes||||
+|Wednesday 10/26|[Project 3 runtimes](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture26/)||||
 |Thursday 10/27||||
 |Friday 10/28|Quiz review|[Lab 9](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab9/)|||
 |Monday 10/31||||[Quiz 2](https://lgw2.github.io/teaching/csci132-fall-2022/quizzes/quiz2/)|
