@@ -64,7 +64,7 @@ structure. See [the
 documentation](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/System.html#nanoTime())
 for a description of how to use `nanoTime()` to measure how long some code
 takes to execute. Convert your time in nanoseconds to time in milliseconds by
-dividing by 100000.
+dividing by 1,000,000.
 
 * Adding the 5000 integers to the front (`addFirst()`)
 * Adding the 5000 integers to the back (`addLast()`)
