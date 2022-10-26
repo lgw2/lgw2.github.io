@@ -27,7 +27,7 @@ counterexample.
 Suppose I claim this algorithm returns the max value of an array:
 ```java
 public static double arrayMax(double[] x) {
-    double curMmax = x[0];
+    double curMax = x[0];
     for (int i = 1; i < x.length - 1; i ++) {
         if (x[i] > curMax) {
             curMax = x[i];
