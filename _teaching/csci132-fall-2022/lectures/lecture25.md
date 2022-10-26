@@ -36,7 +36,7 @@ public static double arrayMax(double[] x) {
     return curMax;
 }
 ```
-But for the input `[10, 100]` it returns 10.
+We can prove that it's incorrect by pointing out that for the input `[10, 100]` it returns 10.
 
 ### Loop invariants
 The purpose of loop invariants is to give us a way to formalize our arguments
