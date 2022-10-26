@@ -8,7 +8,39 @@ title: "Lecture 25: Algorithm correctness"
 ### Textbook chapters
 4.4
 
+## Algorithm correctness
+
+We've been studying the runtimes of algorithms. But we can correctly write down
+the runtime without showing anything about its correctness.
+
+### What does it mean for an algorithm to be correct?
+
+An algorithm is correct if it returns the correct value for every allowable
+input.
+
+## How do we prove correctness?
+
+### Counterexample
+What if an algorithm is not correct? We can prove that by giving a
+counterexample.
+
+Suppose I claim this algorithm returns the max value of an array:
+```java
+public static double arrayMax(double[] x) {
+    double curMmax = x[0];
+    for (int i = 1; i < x.length - 1; i ++) {
+        if (x[i] > curMax) {
+            curMax = x[i];
+        }
+    }
+    return curMax;
+}
+```
+But for the input `[10, 100]` it returns 10.
+
 ### Loop invariants
+The purpose of loop invariants is to give us a way to formalize our arguments
+about why an algorithm is correct.
 
 To prove some statement $\mathcal{L}$ is correct, we define $\mathcal{L}$ in
 terms of a series of smaller statements $\mathcal{L}_0, \mathcal{L}_1, \mathcal{L}_k$, where:
