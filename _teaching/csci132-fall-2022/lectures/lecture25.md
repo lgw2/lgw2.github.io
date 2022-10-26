@@ -57,4 +57,3 @@ terms of a series of smaller statements $\mathcal{L}_0, \mathcal{L}_1, \mathcal{
     previous lecture is correct. To do so, make sure that you are explicit
     about what the overall claim that we need to show is, what sub-claim your
     loop invariant is, and then why 1, 2, and 3 above are true.
-
