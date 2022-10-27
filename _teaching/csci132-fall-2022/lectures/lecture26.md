@@ -15,4 +15,6 @@ For both `ArrayDS` and `LinkedListDS`:
 * `getN()`
 * `toString()`
 
+### Files used in this class
 
+[Project3Runtimes.pdf](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/Project3Runtimes.pdf)
