@@ -3,7 +3,7 @@ collection: teaching
 title: "Lecture 26: Runtimes from project 3"
 ---
 
-[lecture video]()
+[lecture video](https://youtu.be/dFy3X9qitTA)
 
 ### Textbook chapters
 3-4
