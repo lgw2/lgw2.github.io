@@ -123,6 +123,13 @@ We also have 495 consultants to answer questions during lab. They are Jack
 Tetrault and Josiah Schwahn (001), Mason Medina and Madison Munro (002),
 Fletcher Phillips and Ara Megerdichian (003), and Steven Vought (004).
 
+### Lecture videos
+
+Lecture videos are hosted both on Panopto (MSU's screen capture and video
+hosting service) and on YouTube. [Here](https://montana.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=761aede1-cd37-4643-af61-af3b01276d2e) is the public link to Panopto. Lecture
+videos on YouTube are linked on each lecture page. [Here](https://www.youtube.com/playlist?list=PLFO-ZhHYOtp7pDRe9KtG7Tl_MRU2MFMH3) is the YouTube
+playlist.
+
 ### Instructor office hours
 
 My office hours are Monday and Wednesday 9:30-10:30am and Thursday 10-11am in
