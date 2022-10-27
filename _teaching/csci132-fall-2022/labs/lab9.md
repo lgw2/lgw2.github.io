@@ -115,8 +115,8 @@ These results indicate the growth function of first algorithm is ___ and second 
 ```
 
 ## Grading - 10 points
-* 4 points - five test of the first algorithm (with n equal to 10, 100, 1000, 10,000, and 100,000), and time in nanoseconds for each.
-* 4 points - five test of the second algorithm (with n equal to 10, 100, 1000, 10,000, and 100,000), and time in nanoseconds for each.
+* 4 points - five tests of the first algorithm (with n equal to 10, 100, 1000, 10,000, and 100,000), and time in nanoseconds for each. Make sure that you are just timing the execution of the algorithm, not the creation of the random arrays. -1 point if you do that.
+* 4 points - five tests of the second algorithm (with n equal to 10, 100, 1000, 10,000, and 100,000), and time in nanoseconds for each. Make sure that you are just timing the execution of the algorithm, not the creation of the random arrays. -1 point if you do that.
 * 2 points - Your answers for running time of both algorithms.
 
 ## Grading turnaround
