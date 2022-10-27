@@ -86,7 +86,7 @@ Java. Introduces Big-O Notation.
 
 This course meets for lectures on Mondays, Wednesdays, and Fridays from
 3:10pm-4pm in Reid Hall 103. Please bring a laptop to class so that you can
-participate in the classwork exercises.  Lectures will be recorded and available on the day's lecture page (see schedule below) if you
+participate in the classwork exercises.  Lectures will be recorded and available on the day's lecture page (see schedule above) if you
 would like to rewatch them. On Thursdays, there is a two-hour lab period in
 which you can complete the week's lab assignment and get help from the course
 assistants. We will use
