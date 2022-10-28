@@ -51,7 +51,7 @@ Schedule subject to change.
 |Monday 10/24|[Algorithm correctness](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture25/)||||
 |Wednesday 10/26|[Project 3 runtimes](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture26/)||||
 |Thursday 10/27||||
-|Friday 10/28|Quiz review|[Lab 9](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab9/)|||
+|Friday 10/28|[Quiz review](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture27/)|[Lab 9](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab9/)|||
 |Monday 10/31||||[Quiz 2](https://lgw2.github.io/teaching/csci132-fall-2022/quizzes/quiz2/)|
 |Wednesday 11/2|Stacks, queues||||
 |Thursday 11/3||[Lab 10 - nothing to turn in, get started on Project 4](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab10/)|||
