@@ -32,7 +32,7 @@ for $n \geq n_0$.
 
 ### Additional problems
 * Order the following functions by their asymptotic growth rate: $4n \log n +
-	2n$, $2^10$, $2^{\log n}$, $3n + 100 \log n$, $4n$, $2^n$, $n^2 + 10n$,
+	2n$, $2^{10}$, $2^{\log n}$, $3n + 100 \log n$, $4n$, $2^n$, $n^2 + 10n$,
 	$n^3$, $n \log n$.
 * Give the big-O characterization, in terms of $n$, of the runtime of the
 	following algorithm.
