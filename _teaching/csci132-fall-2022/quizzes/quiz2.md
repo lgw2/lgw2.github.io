@@ -5,7 +5,7 @@ title: "Quiz 2"
 
 Quizzes will be on Brightspace and can be done on your own time. You can also
 come to the lecture classroom during the day of the quiz and take the quiz there so that
-you can get immediate help from a TA if a question is unclear or you have any
+you can get immediate help from a TA or the instructor if a question is unclear or you have any
 technical difficulties.
 
 The second quiz
