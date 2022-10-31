@@ -63,7 +63,7 @@ implementing the `validate()` method so that it returns true if the string
 represents a correct sequence of function calls. You may include additional
 fields, constructors, and methods if you would like.
 
-A sequence of function calls is correct if two things are true:
+A sequence of function calls is correct if the following two things are true:
 1. Only the most recently called function can do any work (call another
    function or halt)
 2. At the end of the sequence of function calls, all functions should have
@@ -79,6 +79,8 @@ either function calls (e.g. `"func1 calls func2"`) or function terminations
 ```
 "A calls B B calls C C halts B halts A halts"
 ```
+
+This input is correct.
 
 The provided `Demo.java` file gives seven tests.
 
