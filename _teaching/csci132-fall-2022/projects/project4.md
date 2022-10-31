@@ -42,7 +42,7 @@ singly linked list, which can be a model for your `DLLStack`.
 * [`ArrayStack` info from book]()
 * [Linked list stack info from book]()
 
-### Queue implementations
+### Queue implementation
 
 In a file called `DLLQueue.java`, write a class that implements the
 `Queue` interface using a doubly linked list. You can reference the book's
@@ -58,10 +58,12 @@ functions (or methods), from inside other functions, they wait until
 the original function finishes to procede, which is modeled perfectly by a
 stack.)
 
-Complete the `CallStackValidator` class by adding fields, constructors, and
+Complete the `CallStackValidator` class by adding one of your stack implementations as a field and
 implementing the `validate()` method so that it returns true if the string
-represents a correct sequence of function calls. A sequence of function calls
-is correct if two things are true:
+represents a correct sequence of function calls. You may include additional
+fields, constructors, and methods if you would like.
+
+A sequence of function calls is correct if two things are true:
 1. Only the most recently called function can do any work (call another
    function or halt)
 2. At the end of the sequence of function calls, all functions should have
@@ -78,7 +80,7 @@ either function calls (e.g. `"func1 calls func2"`) or function terminations
 "A calls B B calls C C halts B halts A halts"
 ```
 
-See the provided `Demo.java` file.
+The provided `Demo.java` file gives seven tests.
 
 ### Capital gains calculator
 
@@ -98,6 +100,10 @@ then sell 15 shares on day 4 at \$30 each. Then applying the FIFO protocol means
 that of the 150 shares sold, 100 were bought on day 1, 20 ere bought on day 2,
 and 30 were bought on day 3. The capital gain in this case would therefore be
 $100*20+20*6+30*(-6)$, or \$940.
+
+Complete the `CapitalGainsCalculator` class by completing the
+`getCapitalGains()` method and adding an instance of your queue as a field. You
+may add other fields, constructors, and methods if you like.
 
 
 ## Grading - 100 points
