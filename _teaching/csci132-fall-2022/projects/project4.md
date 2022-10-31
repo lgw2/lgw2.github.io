@@ -42,8 +42,8 @@ implementation for the array-based stack, which you can copy (but type it out
 and think about how it works) and an implementation for a stack based on a
 singly linked list, which can be a model for your `DLLStack`.
 
-* [`ArrayStack` info from book]()
-* [Linked list stack info from book]()
+* [`ArrayStack` info from book](https://lgw2.github.io/teaching/csci132-fall-2022/projects/SLLStack.jpeg)
+* [Linked list stack info from book](https://lgw2.github.io/teaching/csci132-fall-2022/projects/SLLStack.jpeg)
 
 ### Queue implementation
 
@@ -51,7 +51,7 @@ In a file called `DLLQueue.java`, write a class that implements the
 `Queue` interface using a doubly linked list. You can reference the book's
 queue implementation based on a sinly linked list in the PDF below.
 
-* [Linked list stack info from book]()
+* [Linked list stack info from book](https://lgw2.github.io/teaching/csci132-fall-2022/projects/SLLQueue.jpeg)
 
 ### Call stack validator
 
