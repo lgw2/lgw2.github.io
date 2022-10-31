@@ -119,6 +119,9 @@ may add other fields, constructors, and methods if you like.
 ## Grading - 100 points
 
 ### Correct implementation
+
+#### Data structures
+
 * 10 points - `ArrayStack` implements all methods correctly (2 points each)
 * 10 points -`DLLStack` implements all methods correctly (2 points each)
 * 10 points -`DLLQueue` implements all methods correctly (2 points each)
