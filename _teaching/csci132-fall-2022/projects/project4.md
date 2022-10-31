@@ -89,6 +89,9 @@ The provided `Demo.java` file gives seven tests. The provided
 `CallStackValidator.java` file shows you how to tokenize the string (break it
 into separate words) using the `Scanner`.
 
+If you need an additional reference, check out the book's implementations for
+matching delimiters and HTML tags: [stackReference.pdf](https://lgw2.github.io/teaching/csci132-fall-2022/projects/stackReference.pdf).
+
 ### Capital gains calculator
 
 This is adapted from the book, problem P-6.36.
