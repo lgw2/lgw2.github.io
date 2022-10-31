@@ -63,7 +63,7 @@ Schedule subject to change.
 |Monday 11/14|ArrayLists||||
 |Wednesday 11/16|Positional Lists, Java Collections||||
 |Thursday 11/17||Lab 12|||
-|Friday 11/18|Iterators, Comparators||Project 4||
+|Friday 11/18|Iterators, Comparators||[Project 4](https://lgw2.github.io/teaching/csci132-fall-2022/projects/project4/)||
 |Fall break|||||
 |Monday 11/28|||||
 |Wednesday 11/30|||||
