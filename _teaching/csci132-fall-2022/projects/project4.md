@@ -59,16 +59,17 @@ stack.)
 ## Grading - 100 points
 
 ### Correct implementation
+All bullet points 10 points.
 * `ArrayStack` implements all methods correctly (2 points each)
 * `DLLStack` implements all methods correctly (2 points each)
 * `DLLQueue` implements all methods correctly (2 points each)
 
-#### `CallStackValidator`
+#### `CallStackValidator` (30 points)
 * Uses one of your stack implementations as a field
 * Passes all six tests
 * Correctly uses the stack as an internal data structure
 
-#### `CapitalGainCalculator
+#### `CapitalGainCalculator (30 points)
 * Uses your queue implementations as a field
 * Passes all six tests
 * Correctly uses the queue as an internal data structure
