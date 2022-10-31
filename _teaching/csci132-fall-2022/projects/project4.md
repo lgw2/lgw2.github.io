@@ -17,9 +17,13 @@ title: "Project 4"
 
 ## Assignment
 
-In this assignment, you will implement both a stack and a queue using both an
-array and a doubly linked list. Then, you will apply the stack in a
-call stack validator, and the queue in a
+In this assignment, you will implement a stack (two ways) and a queue.
+Then, you will apply one of your stack implementaions in a
+call stack validator, and your queue in a capital gains calculator. The starter
+code has six files. You will change `CallStackValidator.java` and
+`CallStackValidator.java`. You will also add your three stack/queue
+implementations, so turn in a total of nine Java files, five of which you
+create or change.
 
 ### Starter code
 
