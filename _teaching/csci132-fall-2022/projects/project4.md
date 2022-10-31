@@ -17,8 +17,9 @@ title: "Project 4"
 
 ## Assignment
 
-In this assignment, you will implement a stack two ways and a queue one way. Then, you will apply the stack in a
-call stack validator.
+In this assignment, you will implement both a stack and a queue using both an
+array and a doubly linked list. Then, you will apply the stack in a
+call stack validator, and the queue in a
 
 ### Stack implementations
 
@@ -32,18 +33,18 @@ implementation for the array-based stack, which you can copy (but type it out
 and think about how it works) and an implementation for a stack based on a
 singly linked list, which can be a model for your `DLLStack`.
 
-### Queue implementation
+* [`ArrayStack` info from book]()
+* [Linked list stack info from book]()
+
+### Queue implementations
 
 Download the provided [Queue.java]() `Queue` interface.
 
-In a separate file called `DLLQueue.java`, write a class that implements the
+In two separate file called `DLLQueue.java`, write a class that implements the
 `Queue` interface using a doubly linked list. You can reference the book's
 queue implementation based on a sinly linked list in the PDF below.
 
-### Relevant pages from the book
-
-You can look at [this PDF]() to see the book excerpts to help you write your
-implementations.
+* [Linked list stack info from book]()
 
 ### Call stack validator
 
@@ -58,6 +59,19 @@ stack.)
 ## Grading - 100 points
 
 ### Correct implementation
+* `ArrayStack` implements all methods correctly (2 points each)
+* `DLLStack` implements all methods correctly (2 points each)
+* `DLLQueue` implements all methods correctly (2 points each)
+
+#### `CallStackValidator`
+* Uses one of your stack implementations as a field
+* Passes all six tests
+* Correctly uses the stack as an internal data structure
+
+#### `CapitalGainCalculator
+* Uses your queue implementations as a field
+* Passes all six tests
+* Correctly uses the queue as an internal data structure
 
 ### Readable code and good comments
 * 10 points
@@ -75,3 +89,5 @@ Some things you can think about for writing readable code:
 This program will be graded with scores in Brightspace by Tuesday, November 25th, AoE.
 
 ## Go beyond
+* Implement `equals()` methods and `clone()` methods for your data structures.
+* What is the runtime of the `validate()` method of your `CallStackValidator`?
