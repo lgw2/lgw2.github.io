@@ -65,8 +65,12 @@ Schedule subject to change.
 |Thursday 11/17||Lab 12|||
 |Friday 11/18|Iterators, Comparators||Project 4||
 |Fall break|||||
-|Monday 12/5|Regex, file I/O, merge sort||||
-|Wednesday 12/7|More sorting||||
+|Monday 11/28|||||
+|Wednesday 11/30|||||
+|Thursday 12/8||Lab 14|||
+|Friday 12/9|||||
+|Monday 12/5|||||
+|Wednesday 12/7|||||
 |Thursday 12/8||Lab 13|||
 |Friday 12/9|Review for final quiz||||
 |Final - Monday 12/12, 2:00pm-3:50pm||||Quiz 3|
