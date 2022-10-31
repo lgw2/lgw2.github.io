@@ -30,7 +30,7 @@ implementations, so turn in a total of nine Java files, five of which you
 create or change.
 
 
-[project4_starter.zip](https://lgw2.github.io/teaching/csci132-fall-2022/projects/project4_starter.java)
+[project4_starter.zip](https://lgw2.github.io/teaching/csci132-fall-2022/projects/project4_starter.zip)
 
 ### Stack implementations
 
