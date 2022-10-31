@@ -103,20 +103,19 @@ $100*20+20*6+30*(-6)$, or \$940.
 ## Grading - 100 points
 
 ### Correct implementation
-All bullet points 10 points.
-* `ArrayStack` implements all methods correctly (2 points each)
-* `DLLStack` implements all methods correctly (2 points each)
-* `DLLQueue` implements all methods correctly (2 points each)
+* 10 points - `ArrayStack` implements all methods correctly (2 points each)
+* 10 points -`DLLStack` implements all methods correctly (2 points each)
+* 10 points -`DLLQueue` implements all methods correctly (2 points each)
 
-#### `CallStackValidator` (30 points)
-* Uses one of your stack implementations as a field
-* Correctly uses the stack as an internal data structure
-* Passes all tests
+#### `CallStackValidator`
+* 10 points - Uses one of your stack implementations as a field
+* 10 points - Correctly uses the stack as an internal data structure
+* 10 points - Passes all tests
 
-#### `CapitalGainCalculator (30 points)
-* Uses your queue implementations as a field
-* Passes all tests
-* Correctly uses the queue as an internal data structure
+#### `CapitalGainCalculator`
+* 10 points - Uses your queue implementations as a field
+* 10 points - Passes all tests
+* 10 points - Correctly uses the queue as an internal data structure
 
 ### Readable code and good comments
 * 10 points
