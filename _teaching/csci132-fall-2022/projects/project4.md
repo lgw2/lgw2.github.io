@@ -30,7 +30,7 @@ implementations, so turn in a total of nine Java files, five of which you
 create or change.
 
 
-[project4_starter.zip]()
+[project4_starter.zip](https://lgw2.github.io/teaching/csci132-fall-2022/projects/project4_starter.java)
 
 ### Stack implementations
 
@@ -85,7 +85,9 @@ either function calls (e.g. `"func1 calls func2"`) or function terminations
 
 This input is correct.
 
-The provided `Demo.java` file gives seven tests.
+The provided `Demo.java` file gives seven tests. The provided
+`CallStackValidator.java` file shows you how to tokenize the string (break it
+into separate words) using the `Scanner`.
 
 ### Capital gains calculator
 
