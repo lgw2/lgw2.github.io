@@ -54,7 +54,28 @@ functions (or methods), from inside other functions, they wait until
 the original function finishes to procede, which is modeled perfectly by a
 stack.)
 
-### Sample output
+Complete the `CallStackValidator` class by adding fields, constructors, and
+implementing the `validate()` method so that it returns true if the string
+represents a correct sequence of function calls. A sequence of function calls
+is correct if two things are true:
+1. Only the most recently called function can do any work (call another
+   function or halt)
+2. At the end of the sequence of function calls, all functions should have
+   halted.
+
+You can represent the call stack using a stack, pushing functions onto the
+stack as they are called and popping them as they are halted.
+
+You can assume that your input string to `validate()` will be a sequence of
+either function calls (e.g. `"func1 calls func2"`) or function terminations
+(e.g. `"func1 halts"`). For example, one input string is
+
+```
+"A calls B B calls C C halts B halts A halts"
+```
+
+See the provided `Demo.java` file.
+
 
 ## Grading - 100 points
 
@@ -66,8 +87,8 @@ All bullet points 10 points.
 
 #### `CallStackValidator` (30 points)
 * Uses one of your stack implementations as a field
-* Passes all six tests
 * Correctly uses the stack as an internal data structure
+* Passes all tests
 
 #### `CapitalGainCalculator (30 points)
 * Uses your queue implementations as a field
