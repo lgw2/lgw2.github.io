@@ -21,13 +21,15 @@ In this assignment, you will implement both a stack and a queue using both an
 array and a doubly linked list. Then, you will apply the stack in a
 call stack validator, and the queue in a
 
+### Starter code
+
+[project4_starter.zip]()
+
 ### Stack implementations
 
-Download the provided [Stack.java]() stack interface and the
-[DoublyLinkedList.java]() doubly linked list class.
-
 In two separate files called `ArrayStack.java` and `DLLStack.java`, write two
-different classes that implement the `Stack` interface. You can reference the
+different classes that implement the `Stack` interface, provided in the
+`Stack.java` file in the starter code. You can reference the
 two implementations from the book in the PDF below. They give a full
 implementation for the array-based stack, which you can copy (but type it out
 and think about how it works) and an implementation for a stack based on a
@@ -38,9 +40,7 @@ singly linked list, which can be a model for your `DLLStack`.
 
 ### Queue implementations
 
-Download the provided [Queue.java]() `Queue` interface.
-
-In two separate file called `DLLQueue.java`, write a class that implements the
+In a file called `DLLQueue.java`, write a class that implements the
 `Queue` interface using a doubly linked list. You can reference the book's
 queue implementation based on a sinly linked list in the PDF below.
 
@@ -48,7 +48,7 @@ queue implementation based on a sinly linked list in the PDF below.
 
 ### Call stack validator
 
-Check out how the call stack works by watching [this video](). (It focuses on a
+Check out how the call stack works by watching [this video](https://www.youtube.com/watch?v=aCPkszeKRa4). (It focuses on a
 recursive function calls in C but demonstrates the main idea well: when we call
 functions (or methods), from inside other functions, they wait until
 the original function finishes to procede, which is modeled perfectly by a
@@ -76,6 +76,25 @@ either function calls (e.g. `"func1 calls func2"`) or function terminations
 
 See the provided `Demo.java` file.
 
+### Capital gains calculator
+
+This is adapted from the book, problem P-6.36.
+
+When a share of common stock of some company is sold, the *capital gain* (or,
+sometimes, loss) is the difference between the share's selling price and the
+price originally paid for it. This rule is easy to understand for a single
+share, but if we sell multiple shares of stock bought over a long period of
+time, then we must identify the shares actually being sold. A standard
+accounting principle for identifying which shares of a stock were sold in such
+case is to use a FIFO protocol --- the shares sold are the ones that have been
+held the longest (indeed, this is the default method built into several
+personal finance software packages). For example, suppose we buy 100 shares at
+$20 each on day 1, 20 shares at $24 on day 2, 200 shares at $36 on day 3, and
+then sell 15 shares on day 4 at $30 each. Then applying the FIFO protocol means
+that of the 150 shares sold, 100 were bought on day 1, 20 ere bought on day 2,
+and 30 were bought on day 3. The capital gain in this case would therefore be
+$100*20+20*6+30*(-6)$, or $940.
+
 
 ## Grading - 100 points
 
@@ -92,7 +111,7 @@ All bullet points 10 points.
 
 #### `CapitalGainCalculator (30 points)
 * Uses your queue implementations as a field
-* Passes all six tests
+* Passes all tests
 * Correctly uses the queue as an internal data structure
 
 ### Readable code and good comments
