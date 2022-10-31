@@ -19,13 +19,16 @@ title: "Project 4"
 
 In this assignment, you will implement a stack (two ways) and a queue.
 Then, you will apply one of your stack implementaions in a
-call stack validator, and your queue in a capital gains calculator. The starter
+call stack validator, and your queue in a capital gains calculator.
+
+### Starter code
+
+The starter
 code has six files. You will change `CallStackValidator.java` and
 `CallStackValidator.java`. You will also add your three stack/queue
 implementations, so turn in a total of nine Java files, five of which you
 create or change.
 
-### Starter code
 
 [project4_starter.zip]()
 
