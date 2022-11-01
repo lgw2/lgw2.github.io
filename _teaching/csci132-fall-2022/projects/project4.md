@@ -42,7 +42,7 @@ implementation for the array-based stack, which you can copy (but type it out
 and think about how it works) and an implementation for a stack based on a
 singly linked list, which can be a model for your `DLLStack`.
 
-* [`ArrayStack` info from book](https://lgw2.github.io/teaching/csci132-fall-2022/projects/SLLStack.jpeg)
+* [`ArrayStack` info from book](https://lgw2.github.io/teaching/csci132-fall-2022/projects/ArrayStack.jpeg)
 * [Linked list stack info from book](https://lgw2.github.io/teaching/csci132-fall-2022/projects/SLLStack.jpeg)
 
 ### Queue implementation
