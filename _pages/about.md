@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 I am an assistant teaching & research professor in computer science at Montana
-State University in Bozeman, Montana.
+State University in Bozeman, Montana. You can reach me at lucia.williams (at)
+montana.edu.
 
 I earned my PhD at Montana State as well,
  advised by [Brendan
