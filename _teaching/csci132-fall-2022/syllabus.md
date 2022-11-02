@@ -56,22 +56,22 @@ Schedule subject to change.
 |Wednesday 11/2|[Going over quiz; intro stacks + queues; intro Project 4](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture28/)||||
 |Thursday 11/3||[Lab 10 - nothing to turn in, get started on Project 4](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab10/)|||
 |Friday 11/4|More stacks + queues; more Project 4||||
-|Monday 11/7|Dynamic arrays, amortized analysis||||
-|Wednesday 11/9|Arraylists||||
+|Monday 11/7|Dynamic arrays||||
+|Wednesday 11/9|Arraylists + iterators||||
 |Thursday 11/10||Lab 11|||
 |Veteran's day - no class|||||
-|Monday 11/14|ArrayLists||||
-|Wednesday 11/16|Positional Lists, Java Collections||||
+|Monday 11/14|Recursion + binary search||||
+|Wednesday 11/16|Analyzing recursive functions||||
 |Thursday 11/17||Lab 12|||
-|Friday 11/18|Iterators, Comparators||[Project 4](https://lgw2.github.io/teaching/csci132-fall-2022/projects/project4/)||
+|Friday 11/18|File I/O||[Project 4](https://lgw2.github.io/teaching/csci132-fall-2022/projects/project4/)||
 |Fall break|||||
-|Monday 11/28|||||
+|Monday 11/28|Sorting||||
 |Wednesday 11/30|||||
-|Thursday 12/8||Lab 14|||
+|Thursday 12/8||Lab 13|||
 |Friday 12/9|||||
 |Monday 12/5|||||
-|Wednesday 12/7|||||
-|Thursday 12/8||Lab 13|||
+|Wednesday 12/7|Priority queues + dijkstra's algorithm||||
+|Thursday 12/8||Lab 14|||
 |Friday 12/9|Review for final quiz||||
 |Final - Monday 12/12, 2:00pm-3:50pm||||Quiz 3|
 
