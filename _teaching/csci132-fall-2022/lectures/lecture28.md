@@ -19,15 +19,24 @@ Specifies:
 ### Stack
 Has operations:
 * `push(object)`: inserts an element at top
-* `pop(object)`: removes and returns top element
+* `pop()`: removes and returns top element
 * `top()` (or `peek()`): returns element at top of stack without removing
 * `size()`: returns the number of elements stored
 * `isEmpty()`: returns whether the stack is empty
 
 Java has an implementation: [java.util.Stack](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Stack.html)
 
+We can implement with an internal array or an internal linked list. See Project 4.
+
 ### Queue
+Has operations:
+* `enqueue(object)`: inserts an element at end
+* `dequeue()`: removes and returns top element
+* `first()`: returns element at front of queue  without removing
+* `size()`: returns the number of elements stored
+* `isEmpty()`: returns whether the queue is empty
 
-### Files used in this class
+Java has an implementation: [java.util.Queue](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Queue.html)
 
-[Project3Runtimes.pdf](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/Project3Runtimes.pdf)
+We can implement with an internal linked list (see Project 4) or an internal
+array (see book).
