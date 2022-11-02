@@ -57,7 +57,7 @@ queue implementation based on a sinly linked list in the PDF below.
 
 Check out how the call stack works by watching [this video](https://www.youtube.com/watch?v=aCPkszeKRa4). (It focuses on a
 recursive function calls in C but demonstrates the main idea well: when we call
-functions (or methods), from inside other functions, they wait until
+functions (or methods) from inside other functions, they wait until
 the original function finishes to procede, which is modeled perfectly by a
 stack.)
 
