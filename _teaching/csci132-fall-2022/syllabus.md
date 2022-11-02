@@ -71,7 +71,7 @@ Schedule subject to change.
 |Friday 12/9|||||
 |Monday 12/5|||||
 |Wednesday 12/7|Priority queues + dijkstra's algorithm||||
-|Thursday 12/8|||[Lab 14](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab14/)|Survey 2|
+|Thursday 12/8||[Lab 14](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab14/)|||
 |Friday 12/9|Review for final quiz||Project 5||
 |Final - Monday 12/12, 2:00pm-3:50pm||||Quiz 3|
 
