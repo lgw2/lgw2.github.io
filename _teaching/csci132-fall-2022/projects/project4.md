@@ -154,3 +154,4 @@ This program will be graded with scores in Brightspace by Tuesday, November 25th
 ## Go beyond
 * Implement `equals()` methods and `clone()` methods for your data structures.
 * What is the runtime of the `validate()` method of your `CallStackValidator`?
+* Implement a queue using an array instead of a linked list.
