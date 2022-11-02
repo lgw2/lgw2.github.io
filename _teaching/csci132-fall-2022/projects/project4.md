@@ -25,7 +25,7 @@ call stack validator, and your queue in a capital gains calculator.
 
 The starter
 code has six files. You will change `CallStackValidator.java` and
-`CallStackValidator.java`. You will also add your three stack/queue
+`CapitalGainsCalculator.java`. You will also add your three stack/queue
 implementations, so turn in a total of nine Java files, five of which you
 create or change.
 
