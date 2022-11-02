@@ -53,7 +53,7 @@ Schedule subject to change.
 |Thursday 10/27||||
 |Friday 10/28|[Quiz review](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture27/)|[Lab 9](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab9/)|||
 |Monday 10/31|Take quiz in class (optional)|||[Quiz 2](https://lgw2.github.io/teaching/csci132-fall-2022/quizzes/quiz2/)|
-|Wednesday 11/2|Stacks, queues||||
+|Wednesday 11/2|[Stacks, queues](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture28/)||||
 |Thursday 11/3||[Lab 10 - nothing to turn in, get started on Project 4](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab10/)|||
 |Friday 11/4|Lists||||
 |Monday 11/7|Dynamic arrays, amortized analysis||||
