@@ -109,7 +109,7 @@ personal finance software packages). For example, suppose we buy 100 shares at
 then sell 150 shares on day 4 at 30 dollars each. Then applying the FIFO protocol means
 that of the 150 shares sold, 100 were bought on day 1, 20 were bought on day 2,
 and 30 were bought on day 3. The capital gain in this case would therefore be
-$100\cdot20+10\cdot6+30\cdot(-6)$, or 940 dollars.
+$100\cdot10+20\cdot6+30\cdot(-6)$, or 940 dollars.
 
 Complete the `CapitalGainsCalculator` class by completing the
 `getCapitalGains()` method and adding an instance of your queue as a field. You
