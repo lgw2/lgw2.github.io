@@ -58,7 +58,7 @@ Schedule subject to change.
 |Friday 11/4|More stacks + queues; more Project 4||||
 |Monday 11/7|Dynamic arrays||||
 |Wednesday 11/9|Arraylists + iterators||||
-|Thursday 11/10||Lab 11|||
+|Thursday 11/10||[Lab 11](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab11/)|||
 |Veteran's day - no class|||||
 |Monday 11/14|Recursion + binary search||||
 |Wednesday 11/16|Analyzing recursive functions||||
