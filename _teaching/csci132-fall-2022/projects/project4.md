@@ -29,7 +29,6 @@ code has six files. You will change `CallStackValidator.java` and
 implementations, so turn in a total of nine Java files, five of which you
 create or change.
 
-
 [project4_starter.zip](https://lgw2.github.io/teaching/csci132-fall-2022/projects/project4_starter.zip)
 
 ### Stack implementations
