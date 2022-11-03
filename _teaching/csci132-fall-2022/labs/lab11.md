@@ -23,8 +23,17 @@ In this assignment, you will complete software for managing a bike rental
 shop's inventory. The software uses an `ArrayList` as an internal data
 structure.
 
-There are five `TODO`s in the `BikeReservations.java` file, which you must
-complete.
+First, download the [starter code](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab11_starter.zip), run it, and take a look a the two files. Make sure
+you understand its structure and what it is trying to accomplish.
+
+Then, locate the five `TODO`s in the `BikeReservations.java` file and complete
+them. You don't need to modify the `BikeRental.java` file.
+
+### Book pages
+
+The starter code points you two pages in the book to help.
+* [textbook_p40.png](https://lgw2.github.io/teaching/csci132-fall-2022/labs/textbook_p40.png)
+* [textbook_p82.png](https://lgw2.github.io/teaching/csci132-fall-2022/labs/textbook_p82.png)
 
 ### Sample output
 ```
