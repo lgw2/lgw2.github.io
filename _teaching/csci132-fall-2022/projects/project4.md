@@ -107,8 +107,9 @@ held the longest (indeed, this is the default method built into several
 personal finance software packages). For example, suppose we buy 100 shares at
 20 dollars each on day 1, 20 shares at 24 dollars on day 2, 200 shares at 36 dollars on day 3, and
 then sell 150 shares on day 4 at 30 dollars each. Then applying the FIFO protocol means
-that of the 150 shares sold, 100 were bought on day 1, 20 were bought on day 2,
-and 30 were bought on day 3. The total capital gain for the 150 shares sold would therefore be
+that of the 150 shares sold, 100 were bought on day 1 (for a capital gain of 10
+dollars each), 20 were bought on day 2 (for a capital gain of 6 dollars each),
+and 30 were bought on day 3 (for a capital loss of 6 dollars each). The total capital gain for the 150 shares sold would therefore be
 $100\cdot10+20\cdot6+30\cdot(-6)$, or 940 dollars.
 
 Complete the `CapitalGainsCalculator` class by completing the
