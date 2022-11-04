@@ -1,6 +1,6 @@
 ---
 collection: teaching
-title: "Lecture 27: Going over quiz; intro stacks + queues; intro Project 4"
+title: "Lecture 28: Going over quiz; intro stacks + queues; intro Project 4"
 ---
 
 Lecture video kept cutting out so not bothering to post to YouTube...see three short videos on [Panopto](https://montana.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=761aede1-cd37-4643-af61-af3b01276d2e).
