@@ -3,7 +3,7 @@ collection: teaching
 title: "Lecture 29: More on stacks + queues; more on Project 4"
 ---
 
-[Lecture video]()
+[Lecture video](https://youtu.be/EWKLpHFaKzM)
 
 ### Textbook chapters
 6.1-6.2
