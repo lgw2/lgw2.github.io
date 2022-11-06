@@ -23,7 +23,8 @@ Key idea: use an array in a circular fashion.
 Also called a deque (proununced "deck").
 
 Has methods:
-* add and remove first
+* add and remove first, last
+* add and remove first, last
 * access (but don't remove) first, last
 * `size()`
 * `isEmpty()`
