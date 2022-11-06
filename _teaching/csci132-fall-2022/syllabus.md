@@ -56,8 +56,8 @@ Schedule subject to change.
 |Wednesday 11/2|[Going over quiz; intro stacks + queues; intro Project 4](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture28/)||||
 |Thursday 11/3||[Lab 10 - nothing to turn in, get started on Project 4](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab10/)|||
 |Friday 11/4|[More stacks + queues; more Project 4](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture29/)||||
-|Monday 11/7|Dynamic arrays||||
-|Wednesday 11/9|Arraylists + iterators||||
+|Monday 11/7|List ADT; ArrayList; lab 11||||
+|Wednesday 11/9|Amortized analysis; iterators||||
 |Thursday 11/10||[Lab 11](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab11/)|||
 |Veteran's day - no class|||||
 |Monday 11/14|Recursion + binary search||||
