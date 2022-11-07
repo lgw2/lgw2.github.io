@@ -1,6 +1,6 @@
 ---
 collection: teaching
-title: "Lecture 30: List ADT; ArrayList; lab 11"
+title: "Lecture 30: List ADT; ArrayList; amortized analysis; lab 11"
 ---
 
 [Lecture video]()
@@ -31,13 +31,15 @@ We've already made many implementations of the list ADT! (We could call these
 * `remove(i)`
 
 ### Resizing an array
+Let's look at the `resize` method of `ArrayList.java`.
 
 ### Amortized analysis
-
+Used to give a single (average) runtime for an operation that has different runtimes in
+different cases. For example, adding to an array!
 
 ### Files used in class
-* [List.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/ArrayQueue.java)
-* [ArrayList.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/StackAlgs.java)
+* [List.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/List.java)
+* [ArrayList.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/ArrayList.java)
 
 ## Additional exercises
-* Read the book's analysis of the doubling strategy for dynamic arras in 7.2.3.
+* Read the book's analysis of the doubling strategy for dynamic arrays in 7.2.3.
