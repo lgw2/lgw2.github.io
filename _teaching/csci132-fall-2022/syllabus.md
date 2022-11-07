@@ -64,7 +64,7 @@ Schedule subject to change.
 |Wednesday 11/16|Analyzing recursive functions||||
 |Thursday 11/17||Lab 12|||
 |Friday 11/18|File I/O||[Project 4](https://lgw2.github.io/teaching/csci132-fall-2022/projects/project4/)||
-|Fall break|||||
+|Fall break||||
 |Monday 11/28|Sorting||||
 |Wednesday 11/30|||||
 |Thursday 12/8||Lab 13|||
