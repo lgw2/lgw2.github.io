@@ -3,7 +3,7 @@ collection: teaching
 title: "Lecture 30: List ADT; ArrayList; amortized analysis; lab 11"
 ---
 
-[Lecture video]()
+[Lecture video](https://youtu.be/AARbvIkCG0k)
 
 ### Textbook chapters
 7.1-7.2
