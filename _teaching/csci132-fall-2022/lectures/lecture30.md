@@ -36,6 +36,7 @@ Let's look at the `resize` method of `ArrayList.java`.
 ### Amortized analysis
 Used to give a single (average) runtime for an operation that has different runtimes in
 different cases. For example, adding to an array!
+* [book_amort.png](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/book_amort.png)
 
 ### Files used in class
 * [List.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/List.java)
