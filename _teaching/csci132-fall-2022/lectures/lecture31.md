@@ -3,7 +3,7 @@ collection: teaching
 title: "Lecture 31: Iterators & useful List algorithms"
 ---
 
-[Lecture video]()
+[Lecture video](https://youtu.be/MeS1-QoWFHc)
 
 ### Textbook chapters
 7.4; 7.5.2
