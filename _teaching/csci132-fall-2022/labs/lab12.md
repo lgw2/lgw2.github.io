@@ -19,7 +19,7 @@ title: "Lab 12"
 ## Assignment
 
 In this assignment, you will complete the `binarySearch` methods and the
-`multiply` methods in the [starter code file](https://lgw2.github.io/teaching/csci132-fall-2022/labs/RecursiveAlgs.java). The `main` method of the starter
+`recursiveMultiply` methods in the [starter code file](https://lgw2.github.io/teaching/csci132-fall-2022/labs/RecursiveAlgs.java). The `main` method of the starter
 code has some tests so that you can ensure that your implementations are
 correct. You do not need to modify the `main` method.
 
