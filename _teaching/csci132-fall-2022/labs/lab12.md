@@ -30,7 +30,7 @@ method. In this method, you should call your own `private binarySearch` method,
 which will have a different method signature than the public `binarySearch`. It
 should return true if the `target` integer is in `data` and false otherwise.
 You can assume that `data` is already sorted. You are not required to check the
-validity of the input. You can consult the book for a sample.
+validity of the input.
 
 In addition to returning a boolean, your `binarySearch` method should print out
 the total number of calls made to the method.
