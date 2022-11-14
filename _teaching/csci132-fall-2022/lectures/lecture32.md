@@ -28,7 +28,7 @@ list, we can start at the beginning and inspect each element, returning true if
 we find it and false otherwise. This has an $O(n)$ worst case runtime.
 
 But if the list is *sorted*, we can be more clever. We use the fact that the
-list is sorted to quickly "home in" on the value
+list is sorted to quickly "home in" on the value.
 
 ### Files used in class
 * [RecursiveAlgs.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/RecursiveAlgs.java)
