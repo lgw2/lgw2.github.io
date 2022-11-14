@@ -25,6 +25,6 @@ list is sorted to quickly "home in" on the value
 * [RecursiveAlgs.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/RecursiveAlgs.java)
 
 ## Additional exercises
-* Write a Java method that computes the integer part of a log base 2, given a
+* Write a Java method that computes the integer part of a log base 2 of a
 	positive integer $n$.
 
