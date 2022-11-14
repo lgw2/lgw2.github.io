@@ -1,7 +1,7 @@
-package day33;
+package day32;
 
 public class RecursiveAlgs {
-	
+
 	public static int factorial(int n) throws IllegalArgumentException {
 		if (n < 0) {
 			throw new IllegalArgumentException();
@@ -12,7 +12,7 @@ public class RecursiveAlgs {
 			return n * factorial(n - 1);
 		}
 	}
-	
+
 	private static int arraySumMulti(int[] arr, int n) {
 		if (n == 0) {
 			return 0;
@@ -20,7 +20,7 @@ public class RecursiveAlgs {
 			return arraySumMulti(arr, n-1) + arr[n-1];
 		}
 	}
-	
+
 	public static int arraySum(int[] arr) {
 		return arraySumMulti(arr, arr.length);
 	}
