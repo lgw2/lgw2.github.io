@@ -9,8 +9,17 @@ title: "Lecture 32: Recursion; binary search"
 5.1
 
 ### Recursion
+We say that a function is *recursive* if it calls itself.
+
+We can achieve looping using recursion.
+
+Recursive functions should have the following:
+* a base case, where no recursive call is made
+* recursive cases, where we call the function again
 
 ### Examples
+* factorial
+* summing an array
 
 ### Binary search
 
