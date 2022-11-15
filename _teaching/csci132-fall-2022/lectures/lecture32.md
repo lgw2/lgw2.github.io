@@ -3,7 +3,7 @@ collection: teaching
 title: "Lecture 32: Recursion; binary search"
 ---
 
-[Lecture video]()
+[Lecture video](https://youtu.be/7QfqqdyL2Es)
 
 ### Textbook chapters
 5.1
@@ -36,4 +36,3 @@ list is sorted to quickly "home in" on the value.
 ## Additional exercises
 * Write a Java method that computes the integer part of a log base 2 of a
 	positive integer $n$.
-
