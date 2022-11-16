@@ -25,7 +25,11 @@ use logs with base (the $x$) equal to 2.
 ### Analyzing recursive functions
 
 In order to write down the big-O worst-case runtime of a recursive function, we
-still want to count the number of primitive operations
+still want to count the number of primitive operations that the algorithm takes
+in the worst case, given an input of size $n$. To do this, we think about two
+things:
+* how many recursive calls are there in the worst case?
+* how many primitive operations does each call do in the worst case?
 
 ## Additional exercises
 * Write a Java method that computes the integer part of a log base 2 of a
