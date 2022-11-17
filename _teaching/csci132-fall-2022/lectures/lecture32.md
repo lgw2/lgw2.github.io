@@ -3,7 +3,7 @@ collection: teaching
 title: "Lecture 32: Recursion; binary search"
 ---
 
-[Lecture video](https://youtu.be/7QfqqdyL2Es)
+[Lecture video](https://youtu.be/Ytov9Fk6CQQ)
 
 ### Textbook chapters
 5.1
