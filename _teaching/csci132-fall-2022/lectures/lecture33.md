@@ -3,7 +3,7 @@ collection: teaching
 title: "Lecture 33: Binary search; analyzing recursive algorithms"
 ---
 
-[Lecture video]()
+[Lecture video](https://youtu.be/0RdE7SHJvKs)
 
 ### Textbook chapters
 5.1.3; 5.2
