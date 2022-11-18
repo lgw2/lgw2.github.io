@@ -63,7 +63,7 @@ Schedule subject to change.
 |Monday 11/14|[Recursion + binary search](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture32/)||||
 |Wednesday 11/16|[Analyzing recursive functions](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture33/)||||
 |Thursday 11/17||[Lab 12](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab12/)|||
-|Friday 11/18|No class --- File I/O video on own time --- optional help session in lecture classroom||[Project 4](https://lgw2.github.io/teaching/csci132-fall-2022/projects/project4/)||
+|Friday 11/18|No class --- optional help session in lecture classroom||[Project 4](https://lgw2.github.io/teaching/csci132-fall-2022/projects/project4/)||
 |Fall break||||
 |Monday 11/28|Sorting||||
 |Wednesday 11/30|||||
