@@ -73,7 +73,7 @@ Schedule subject to change.
 |Wednesday 12/7|tbd||||
 |Thursday 12/8||[Lab 14](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab14/)|||
 |Friday 12/9|Review for final quiz||Project 5||
-|Final - Monday 12/12, 2:00pm-3:50pm|take quiz in lecture room (optional)|||Quiz 3|
+|Final - Monday 12/12, 2:00pm-3:50pm|Take quiz in lecture room (optional)|||Quiz 3|
 
 
 ## Catalog description
