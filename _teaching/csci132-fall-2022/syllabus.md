@@ -65,12 +65,12 @@ Schedule subject to change.
 |Thursday 11/17||[Lab 12](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab12/)|||
 |Friday 11/18|No class --- optional help session in lecture classroom||[Project 4](https://lgw2.github.io/teaching/csci132-fall-2022/projects/project4/)||
 |Fall break||||
-|Monday 11/28|Sorting||||
-|Wednesday 11/30|||||
-|Thursday 12/8||Lab 13|||
-|Friday 12/9|||||
-|Monday 12/5|||||
-|Wednesday 12/7|Priority queues + dijkstra's algorithm||||
+|Monday 11/28|File I/O; trees; heaps||||
+|Wednesday 11/30|Heap sort; merge sort||||
+|Thursday 12/8||[Lab 13](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab13/)|||
+|Friday 12/9|Priority queues; Dijkstra's algorithm||||
+|Monday 12/5|Quick sort, shell sort, selection sort||||
+|Wednesday 12/7|||||
 |Thursday 12/8||[Lab 14](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab14/)|||
 |Friday 12/9|Review for final quiz||Project 5||
 |Final - Monday 12/12, 2:00pm-3:50pm||||Quiz 3|
