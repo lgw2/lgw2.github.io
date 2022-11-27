@@ -70,7 +70,7 @@ Schedule subject to change.
 |Thursday 12/8||[Lab 13](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab13/)|||
 |Friday 12/9|Priority queues; Dijkstra's algorithm||||
 |Monday 12/5|Quick sort, shell sort, selection sort||||
-|Wednesday 12/7|||||
+|Wednesday 12/7|tbd||||
 |Thursday 12/8||[Lab 14](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab14/)|||
 |Friday 12/9|Review for final quiz||Project 5||
 |Final - Monday 12/12, 2:00pm-3:50pm||||Quiz 3|
