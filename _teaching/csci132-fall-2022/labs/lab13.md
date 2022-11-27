@@ -22,6 +22,9 @@ In this assignmemt, you will write a method implementing merge sort and use it
 to sort the lines of a file two ways: alphabetically and by the length of
 the line. To do so, you will also implement your own comparator.
 
+Starter code:
+* [lab13_starter.zip](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab13_starter.zip)
+
 ### Merge sort
 
 In the `Demo.java` file, implement merge sort recursively and so that it can be
