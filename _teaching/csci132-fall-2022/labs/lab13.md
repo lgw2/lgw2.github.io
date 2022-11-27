@@ -46,7 +46,7 @@ if they are equal. You can look at the book's implementation if you would like.
 ### Reading and writing from a file
 
 Consult the [example code from Monday](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/IOExample.java) to learn how to read and write from a file.
-Then, download `Housman.txt`[https://lgw2.github.io/teaching/csci132-fall-2022/labs/p364.pdf], put it in your project directory
+Then, download [`Housman.txt`](https://lgw2.github.io/teaching/csci132-fall-2022/labs/Housman.txt), put it in your project directory
 (in Eclipse, that is in `/yourHome/eclipse-workspace/projName/putFileHere`, but
 ask a TA or on Discord for help if you can't figure out where to put your
 file). In `Demo.java`, read the contents into an array and write two new files:
