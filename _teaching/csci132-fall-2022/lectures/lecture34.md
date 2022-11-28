@@ -29,7 +29,7 @@ Here are some heap facts:
 * Removal (of the minimum element) from a heal is $(O \log n)$.
 
 ## Files used in this class
-* [IOExample.java]()
+* [IOExample.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/IOExample.java)
 
 ## Additional exercises
 * Prove that binary trees of height $h$ have strictly fewer than $h$ nodes.
