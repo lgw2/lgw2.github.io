@@ -10,6 +10,8 @@ title: "Lecture 34: File I/O; trees; heaps"
 
 ### File I/O
 
+We can use the `java.io` package to read and write to files.
+
 ### Trees
 
 Trees are very important abstract data types in computer science, useful for
