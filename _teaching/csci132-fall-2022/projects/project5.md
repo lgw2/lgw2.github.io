@@ -50,9 +50,16 @@ or you can copy your `DLLQueue.java` file from Project 4 and use that.
 ## Grading - 100 points
 
 ### Correct implementation
-* 45 points - correct quick sort
-* 45 points - demo works
+* 50 points - correct quick sort implementation
 
+### Demo
+10 points each:
+* sort data from `a` using quicksort and natural comparator
+* sort data from `a` using quicksort and length comparator
+* sort data from `Housman.txt` using quicksort and natural comparator and write
+	to file
+* sort data from `Housman.txt` using quicksort and length comparator and write
+	to file
 
 ### Readable code and good comments
 * 10 points
