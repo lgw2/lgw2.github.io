@@ -33,6 +33,7 @@ In public static generic method in the `Demo.java` file, implement quick sort.
 You can use the book's implementation, but be warned that you will need to make
 some changes.
 
+* [p549.jpeg](https://lgw2.github.io/teaching/csci132-fall-2022/projects/p549.jpeg)
 * the book uses its own
 `Queue` implementation, not Java's. You will either need to change the code
 slightly to use [Java's `Queue`](https://docs.oracle.com/javase/7/docs/api/java/util/Queue.html),
@@ -45,14 +46,13 @@ or you can copy your `DLLQueue.java` file from Project 4 and use that.
 	interface).
 * Recall the useful `List` algorithms from [Lecture 31](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture31/) for turning arrays into queues (if you use the Java `Queue`).
 
-* [p549.jpeg](https://lgw2.github.io/teaching/csci132-fall-2022/projects/p549.jpeg)
 
 ## Grading - 100 points
 
-### Correct implementation
-* 50 points - correct quick sort implementation
+### Correct quick sort
+* 50 points
 
-### Demo
+### Correct demo
 10 points each:
 * sort data from `a` using quicksort and natural comparator
 * sort data from `a` using quicksort and length comparator
