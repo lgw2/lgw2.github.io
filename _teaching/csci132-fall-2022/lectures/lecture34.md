@@ -6,7 +6,7 @@ title: "Lecture 34: File I/O; trees; heaps"
 [Lecture video]()
 
 ### Textbook chapters
-
+8.1-8.2; 9.3
 
 ### File I/O
 
