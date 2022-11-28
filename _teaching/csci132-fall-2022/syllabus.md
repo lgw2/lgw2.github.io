@@ -72,7 +72,7 @@ Schedule subject to change.
 |Monday 12/5|Quick sort, shell sort, selection sort||||
 |Wednesday 12/7|tbd||||
 |Thursday 12/8||[Lab 14](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab14/)|||
-|Friday 12/9|Review for final quiz||[Project 5](https://lgw2.github.io/teaching/csci132-fall-2022/projects/project5/)||
+|Friday 12/9|Review for final quiz||[Project 5](https://lgw2.github.io/teaching/csci132-fall-2022/projects/project5/)|[Survey 2](https://lgw2.github.io/teaching/csci132-fall-2022/quizzes/survey2/)|
 |Final - Monday 12/12, 2:00pm-3:50pm|Take quiz in lecture room or ask questions to prep for quiz (optional)|||[Quiz 3](https://lgw2.github.io/teaching/csci132-fall-2022/quizzes/quiz3/)|
 
 
