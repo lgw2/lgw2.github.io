@@ -3,7 +3,7 @@ collection: teaching
 title: "Lecture 34: File I/O; trees; heaps"
 ---
 
-[Lecture video]()
+[Lecture video](https://youtu.be/sCcrPVj4KsU)
 
 ### Textbook chapters
 8.1-8.2; 9.3
@@ -26,7 +26,7 @@ Heaps are binary trees satisfying two properties:
 Here are some heap facts:
 * Heaps storing $n$ nodes have height $O(\log n)$
 * Insertion into a heap is $O(\ log n)$.
-* Removal (of the minimum element) from a heal is $(O \log n)$.
+* Removal (of the minimum element) from a heap is $(O \log n)$.
 
 ## Files used in this class
 * [IOExample.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/IOExample.java)
