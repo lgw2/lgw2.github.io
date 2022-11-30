@@ -3,7 +3,7 @@ collection: teaching
 title: "Lecture 35: Heapsort; mergesort"
 ---
 
-[Lecture video]()
+[Lecture video](https://youtu.be/lGm4SJShMck)
 
 ### Textbook chapters
 9.4.2; 12.1
