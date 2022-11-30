@@ -27,12 +27,3 @@ the merged list is still in sorted order.
 Because the depth of the recursion tree is $O( \log n)$ and the number of
 operations performed at each level is $O(n)$, the overall runtime is $O(n \log
 n)$.
-
-## Files used in this class
-* [IOExample.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/IOExample.java)
-
-## Additional exercises
-* Prove that binary trees of height $h$ have strictly fewer than $h$ nodes.
-* Trace through (that is, draw the heap at each step) adding the elements $5, 2, 6, 9, 7$ to a heap and then removing the minimum until each one is gone.
-* In general, what is the big-O runtime of the process in the last bullet, if
-	$n$ is the number of elements to be added/removed?
