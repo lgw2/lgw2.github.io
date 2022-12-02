@@ -1,6 +1,6 @@
 ---
 collection: teaching
-title: "Lecture 35: Priority queues; dijkstra's algorithm"
+title: "Lecture 36: Priority queues; dijkstra's algorithm"
 ---
 
 [Lecture video](https://youtu.be/lGm4SJShMck)
