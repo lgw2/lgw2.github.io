@@ -68,7 +68,7 @@ Schedule subject to change.
 |Monday 11/28|[File I/O; trees; heaps](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture34/)||||
 |Wednesday 11/30|[Heap sort; merge sort](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture35/)||||
 |Thursday 12/8||[Lab 13](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab13/)|||
-|Friday 12/9|Priority queues; Dijkstra's algorithm||||
+|Friday 12/9|[Priority queues; Dijkstra's algorithm](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/lecture36/)||||
 |Monday 12/5|Quick sort, shell sort, selection sort||||
 |Wednesday 12/7|tbd||||
 |Thursday 12/8||[Lab 14](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab14/)|||
