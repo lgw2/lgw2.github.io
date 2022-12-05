@@ -3,7 +3,7 @@ collection: teaching
 title: "Lecture 37: Quicksort"
 ---
 
-[Lecture video]()
+[Lecture video](https://youtu.be/gvAqsQokL3g)
 
 ### Textbook chapters
 12.2
