@@ -27,7 +27,7 @@ Schedule subject to change.
 | Monday 2/13    |      |      |      |      |
 | Wednesday 2/15 |      |      |      |      |
 | Friday 2/17    |      |      |      |      |
-| Monday 2/20    | President's day --- no class     |      |      |      |
+| Monday 2/20    | President's day --- no class |      |      |      |
 | Wednesday 2/22 |      |      |      |      |
 | Friday 2/24    |      |      |      |      |
 | Monday 2/27    |      |      |      |      |
@@ -36,7 +36,7 @@ Schedule subject to change.
 | Monday 3/6     |      |      |      |      |
 | Wednesday 3/8  |      |      |      |      |
 | Friday 3/10    |      |      |      |      |
-| Spring break    |      |      |      |      |
+| Spring break    |No class      |      |      |      |
 | Monday 3/20    |      |      |      |      |
 | Wednesday 3/22 |      |      |      |      |
 | Friday 3/24    |      |      |      |      |
@@ -45,7 +45,7 @@ Schedule subject to change.
 | Friday 3/31    |      |      |      |      |
 | Monday 4/3     |      |      |      |      |
 | Wednesday 4/5  |      |      |      |      |
-| Friday 4/7     |      |      |      |      |
+| Friday 4/7     |University day --- no class      |      |      |      |
 | Monday 4/10    |      |      |      |      |
 | Wednesday 4/12 |      |      |      |      |
 | Friday 4/14    |      |      |      |      |
