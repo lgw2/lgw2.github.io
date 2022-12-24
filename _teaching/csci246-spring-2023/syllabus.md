@@ -15,18 +15,22 @@ Schedule subject to change.
 |:---|:---|:---|:---|:---|
 |Wednesday 1/18|Intro & syllabus|1|||
 |Friday 1/20|Direct proofs; disproof by example||||
-|Monday 8/24|Direct proofs; disproof by example||||
+***
+|Monday 1/23|||||
+|Wednesday 1/25|||||
+|Friday 1/27|||||
+***
+|Monday 1/30|||||
+|Wednesday 2/1|||||
+|Friday 2/3|||||
+
 
 
 ## Catalog description
 
-4 Credits (3 Lec, 1 Lab).
-PREREQUISITE: CSCI 127 and M 151Q. An examination of advanced Java and basic
-data structures and their application in problem solving. Data structures
-include stacks, queues and lists. An introduction to algorithms employing the
-data structures to solve various problems including searching and sorting, and
-recursion. Understanding and using Java class libraries. The laboratory uses
-Java. Introduces Big-O Notation.
+3 Credits.
+PREREQUISITE: M 171Q or M 165Q.
+COREQUISITE: CSCI 132. This course covers logic, discrete probability, recurrence relations, Boolean algebra, sets, relations, counting, functions, maps, Big-O notation, proof techniques including induction, and proof by contradiction.
 
 ## Course Info
 
