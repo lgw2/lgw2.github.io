@@ -14,17 +14,50 @@ Schedule subject to change.
 |Date|Lecture Topic|Recommended Reading|Homework Due|Quiz|
 |:---|:---|:---|:---|:---|
 |Wednesday 1/18|Intro & syllabus|1|||
-|Friday 1/20|Direct proofs; disproof by example||||
-***
-|Monday 1/23|||||
-|Wednesday 1/25|||||
-|Friday 1/27|||||
-***
-|Monday 1/30|||||
-|Wednesday 2/1|||||
-|Friday 2/3|||||
-
-
+| Friday 1/20    |      |      |      |      |
+| Monday 1/23    |      |      |      |      |
+| Wednesday 1/25 |      |      |      |      |
+| Friday 1/27    |      |      |      |      |
+| Monday 1/30    |      |      |      |      |
+| Wednesday 2/1  |      |      |      |      |
+| Friday 2/3     |      |      |      |      |
+| Monday 2/6     |      |      |      |      |
+| Wednesday 2/8  |      |      |      |      |
+| Friday 2/10    |      |      |      |      |
+| Monday 2/13    |      |      |      |      |
+| Wednesday 2/15 |      |      |      |      |
+| Friday 2/17    |      |      |      |      |
+| Monday 2/20    | President's day --- no class     |      |      |      |
+| Wednesday 2/22 |      |      |      |      |
+| Friday 2/24    |      |      |      |      |
+| Monday 2/27    |      |      |      |      |
+| Wednesday 3/1  |      |      |      |      |
+| Friday 3/3     |      |      |      |      |
+| Monday 3/6     |      |      |      |      |
+| Wednesday 3/8  |      |      |      |      |
+| Friday 3/10    |      |      |      |      |
+| Spring break    |      |      |      |      |
+| Monday 3/20    |      |      |      |      |
+| Wednesday 3/22 |      |      |      |      |
+| Friday 3/24    |      |      |      |      |
+| Monday 3/27    |      |      |      |      |
+| Wednesday 3/29 |      |      |      |      |
+| Friday 3/31    |      |      |      |      |
+| Monday 4/3     |      |      |      |      |
+| Wednesday 4/5  |      |      |      |      |
+| Friday 4/7     |      |      |      |      |
+| Monday 4/10    |      |      |      |      |
+| Wednesday 4/12 |      |      |      |      |
+| Friday 4/14    |      |      |      |      |
+| Monday 4/17    |      |      |      |      |
+| Wednesday 4/19 |      |      |      |      |
+| Friday 4/21    |      |      |      |      |
+| Monday 4/24    |      |      |      |      |
+| Wednesday 4/26 |      |      |      |      |
+| Friday 4/28 |      |      |      |      |
+| Monday 5/1     |      |      |      |      |
+| Wednesday 5/3  |      |      |      |      |
+| Friday 5/5     |      |      |      |      |
 
 ## Catalog description
 
@@ -35,32 +68,17 @@ COREQUISITE: CSCI 132. This course covers logic, discrete probability, recurrenc
 ## Course Info
 
 This course meets for lectures on Mondays, Wednesdays, and Fridays from
-3:10pm-4pm in Reid Hall 103. Please bring a laptop to class so that you can
-participate in the classwork exercises.  Lectures will be recorded and available on the day's lecture page (see schedule above) if you
-would like to rewatch them. On Thursdays, there is a two-hour lab period in
-which you can complete the week's lab assignment and get help from the course
-assistants. We will use
+2:10pm-3pm in Romney Hall 008. Lectures will be recorded and available on the day's lecture page (see schedule above) if you
+would like to rewatch them. We will use
 Discord as the primary method of course communication, and all course
 information will be posted on this website or on the Discord server; D2L will
-be used *only* to turn in assignments and for grading.
+be used *only* for grading.
 
 ## Course Resources
-### Java documentation, tutorials, and useful links
-* You can find the official Java documentation [here](https://docs.oracle.com/en/java/javase/17/docs/api/#JavaSE).
-* An organization that I like, Runestone Interactive, makes an interactive
-textbook for programmers who are coming from Python to and beginning to
-learn Java. Check it out [here](https://runestone.academy/ns/books/published/java4python/index.html#).
-* If you are interested, check out the [MIT Missing Semester of Your CS
-	Education](https://missing.csail.mit.edu/). It covers many of the tools you
-	will use if you continue your computer science career, such as the command
-	line, `git`, and much more.
-* MSU has a [code of student conduct](https://www.montana.edu/policy/student_conduct/) that outlines the responsibilities of instructors and students.
 
-### Optional textbook
-The textbook is optional for this course. *Data Structures and Algorithms in Java*; 6th edition, Goodrich, Tamassia, Goldwasser. It is available in the bookstore.
-You can also [rent the eBook from Amazon for the semester](https://www.amazon.com/Data-Structures-Algorithms-Michael-Goodrich/dp/1118771338/ref=d_pd_sbs_sccl_2_5/130-3299806-3656911?pd_rd_w=jeeqS&content-id=amzn1.sym.2dc9b33d-bf98-4c85-be26-75af626c0551&pf_rd_p=2dc9b33d-bf98-4c85-be26-75af626c0551&pf_rd_r=7ANTF6MGH1JPP6V86T2J&pd_rd_wg=BPMww&pd_rd_r=bddaaf8b-597e-4252-8635-740434fcff9d&pd_rd_i=1118771338&psc=1).
+### Txtbook
 
-### Labs & course assistants
+### Course assistants
 
 There are four lab sections, all of which meet on Thursdays in Roberts Hall 111. There will be a TA to help you. This TA will also grade your work, so please go to your assigned section. You should contact your TA via Discord if you have any questions about grading or need extra help.
 
