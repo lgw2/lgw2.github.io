@@ -11,53 +11,55 @@ location: "Bozeman, Montana"
 
 Schedule subject to change.
 
-|Date|Lecture Topic|Recommended Reading|Homework Due|Quiz|
+|Date|Lecture Topic|Recommended Reading|Homework Due|Drill Due|Video|
 |:---|:---|:---|:---|:---|
-|Wednesday 1/18|Intro & syllabus|1|||
-| Friday 1/20    |      |      |      |      |
-| Monday 1/23    |      |      |      |      |
-| Wednesday 1/25 |      |      |      |      |
-| Friday 1/27    |      |      |      |      |
-| Monday 1/30    |      |      |      |      |
-| Wednesday 2/1  |      |      |      |      |
-| Friday 2/3     |      |      |      |      |
-| Monday 2/6     |      |      |      |      |
-| Wednesday 2/8  |      |      |      |      |
-| Friday 2/10    |      |      |      |      |
-| Monday 2/13    |      |      |      |      |
-| Wednesday 2/15 |      |      |      |      |
-| Friday 2/17    |      |      |      |      |
-| Monday 2/20    | President's day --- no class |      |      |      |
-| Wednesday 2/22 |      |      |      |      |
-| Friday 2/24    |      |      |      |      |
-| Monday 2/27    |      |      |      |      |
-| Wednesday 3/1  |      |      |      |      |
-| Friday 3/3     |      |      |      |      |
-| Monday 3/6     |      |      |      |      |
-| Wednesday 3/8  |      |      |      |      |
-| Friday 3/10    |      |      |      |      |
-| Spring break    |No class      |      |      |      |
-| Monday 3/20    |      |      |      |      |
-| Wednesday 3/22 |      |      |      |      |
-| Friday 3/24    |      |      |      |      |
-| Monday 3/27    |      |      |      |      |
-| Wednesday 3/29 |      |      |      |      |
-| Friday 3/31    |      |      |      |      |
-| Monday 4/3     |      |      |      |      |
-| Wednesday 4/5  |      |      |      |      |
-| Friday 4/7     |University day --- no class      |      |      |      |
-| Monday 4/10    |      |      |      |      |
-| Wednesday 4/12 |      |      |      |      |
-| Friday 4/14    |      |      |      |      |
-| Monday 4/17    |      |      |      |      |
-| Wednesday 4/19 |      |      |      |      |
-| Friday 4/21    |      |      |      |      |
-| Monday 4/24    |      |      |      |      |
-| Wednesday 4/26 |      |      |      |      |
-| Friday 4/28 |      |      |      |      |
-| Monday 5/1     |      |      |      |      |
-| Wednesday 5/3  |      |      |      |      |
-| Friday 5/5     |      |      |      |      |
+|Wednesday 1/18|Intro & syllabus|1||||
+| Friday 1/20    |Direct proofs; disproof by example  |4.3, 2.2.1-2.2.3, 2.2.6|      |Drill 1      ||
+| Monday 1/23    |Proof by cases; intro to sets      |4.3, 2.3      |      |      ||
+| Wednesday 1/25 |Sets part 1      |2.3      |      |      ||
+| Friday 1/27    |Sets part 2      |2.3      |      |Drill 2 ||
+| Monday 1/30    |Proofs by contradiction      |      |Homework 1      | ||
+| Wednesday 2/1  |Propositional logic      |      |      |      ||
+| Friday 2/3     |More propositional logic      |      |      |Drill 3      ||
+| Monday 2/6     |Proofs by contrapositive|      |      |      ||
+| Wednesday 2/8  |Introduction to predicate logic      |      |      |      ||
+| Friday 2/10    |Proofs in predicate logic  |      |      |Drill 4      ||
+| Monday 2/13    |Broken proofs|      |Homework 2      |      ||
+| Wednesday 2/15 |Functions      |      |      |      ||
+| Friday 2/17    |More on functions; proof by construction      |      |      |Drill 5      ||
+| Monday 2/20    | President's day --- no class |      |      |      ||
+| Wednesday 2/22 |Review as needed      |      |      |      ||
+| Friday 2/24    |Quiz in class      |      |      |no drill      ||
+| Monday 2/27    |Pigeonhole principle      |      |      |      ||
+| Wednesday 3/1  |Proofs by induction      |      |      |      ||
+| Friday 3/3     |Proofs by strong induction      |      |      |Drill 6      ||
+| Monday 3/6     |Proofs by structural induction      |      |Homework 3      |      ||
+| Wednesday 3/8  |Introduction to binary relations      |      |      |      ||
+| Friday 3/10    |Equivalence relations      |      |      |Drill 7      ||
+| Spring break    |No class      |      |      |      ||
+| Monday 3/20    |Partial and total orders      |      |      |      ||
+| Wednesday 3/22 |Introduction to asymptotic analysis (Big-O)      |      |      |      ||
+| Friday 3/24    |Properties of Big-O      |      |      |Drill 8      ||
+| Monday 3/27    |Introduction to algorithms analysis      |      |Homework 4      |      ||
+| Wednesday 3/29 |Worst-case runtime analysis      |      |      |      ||
+| Friday 3/31    |Asymptotic analysis of recursive algorithms      |      |      |Drill 9      ||
+| Monday 4/3     |Review as needed      |      |      |      ||
+| Wednesday 4/5  |Quiz in class      |      |      |      ||
+| Friday 4/7     |University day --- no class      |      |      |no drill      ||
+| Monday 4/10    |Combinations and permutations      |      |Homework 5      |      ||
+| Wednesday 4/12 |Probability      |      |      |      ||
+| Friday 4/14    |Conditional probability      |      |      |Drill 10      ||
+| Monday 4/17    |Bayes Rule      |      |      |      ||
+| Wednesday 4/19 |Random variables and expectation      |      |      |      ||
+| Friday 4/21    |Intro to graphs      |      |      |Drill 11      ||
+| Monday 4/24    |      |      |Homework 6      |      ||
+| Wednesday 4/26 |      |      |      |      ||
+| Friday 4/28 |      |      |      |Drill 12      ||
+| Monday 5/1     |      |      |      |      ||
+| Wednesday 5/3  |      |      |      |      ||
+| Friday 5/5     |      |      |      |Drill 13      ||
+| Monday 5/8     |Finals week --- no class      |      |Homework 7      |      ||
+| Wednesday 5/10 |Final --- in classroom, 2-3:50pm   |      |      |      ||
 
 ## Catalog description
 
@@ -76,20 +78,13 @@ be used *only* for grading.
 
 ## Course Resources
 
-### Txtbook
+### Textbook
 
-### Course assistants
+*Connecting Discrete Mathematics and Computer Science* by David Liben-Nowell. A free PDF version of the book is available at https://cs.carleton.edu/faculty/dln/book/. The physical book is about $80 and is available in the bookstore if you prefer that.
 
-There are four lab sections, all of which meet on Thursdays in Roberts Hall 111. There will be a TA to help you. This TA will also grade your work, so please go to your assigned section. You should contact your TA via Discord if you have any questions about grading or need extra help.
+### Course assistant
 
-* 001: 10am-11:50am, Asad Noor
-* 002: 12pm-2pm, Nicholas Call
-* 003: 2:10pm-4pm, Asad Noor
-* 004: 4:10pm-6pm, Emmett Osborne
-
-We also have 495 consultants to answer questions during lab. They are Jack
-Tetrault and Josiah Schwahn (001), Mason Medina and Madison Munro (002),
-Fletcher Phillips and Ara Megerdichian (003), and Steven Vought (004).
+TBD.
 
 ### Lecture videos
 
@@ -99,10 +94,6 @@ videos on YouTube are linked on each lecture page. [Here](https://www.youtube.co
 playlist.
 
 ### Instructor office hours
-
-My office hours are Monday and Wednesday 9:30-10:30am and Thursday 10-11am in
-Barnard 359 or via Discord. You can also contact me on Discord to set up a
-different meeting time. You can find office hours for all CS faculty [here](https://www.cs.montana.edu/office-hours.html).
 
 ### SmartyCats
 
@@ -120,23 +111,49 @@ All course communication will be through our course Discord server. Join with
 a new account, or you can choose to log in with an existing account.
 
 ### Course outcomes
-By the end of this course, students should be able to:
-* Design and implement a class in Java
-* Explain the concept of an ADT
-* Implement linked lists, stacks, queues, and deques
-* Apply consistent documentation and program style standards in Java
-* Be able to determine the time complexity of simple algorithms
+By engaging with this course through attending lectures and completing
+assignments, at the end of this course, students should:
+* be comfortable reading and using mathematical terminology around sets,
+	functions, propositional and predicate logic, asymptotic notation,
+	recursion, and graphs;
+* be comfortable readina and writing mathematical proofs using the following
+	methods: direct proofs, proofs by counterexample, proofs by construction,
+	proofs by contradiction, proofs by contrapositive, and proofs by induction;
+* have improved their problem solving and critical thinking skills, such as:
+    * using examples, counter-examples, diagrams, simpler cases, similar
+		problems, etc., to better understand a mathematical statement,
+	* recognizing a broken proof or a false start and using them to find a new
+		result or approach,
+	* thinking critically about which proof paradigm is most appropriate.
 
 ## Grading
 
 You will be graded on the following:
-* 13 labs (lowest score dropped out of 14): 30%
-* 4 projects: 50%
-* 3 quizzes (including final): 18%
+* 13 weekly drills (lowest three dropped): 8%
+* 7 problem sets (lowest two dropped): 60%
+* 3 quizzes (including final): 30%
 * 2 course surveys: 2%
 
 After any curving, your grade will be determined by your total score as follows:
 93+: A; 90+: A-; 87+: B+; 83+: B; 80+: B-; 77+: C+; 73+: C; 70+: C-; 67+: D+; 63: D; 60: D-.
+
+### Bonus
+
+There are two ways to earn bonus points in this class.
+
+#### Catch errors in course materials
+
+If you find an error in any of the course materials (typo, incorrect statement, etc.), post in the `#oops` channel on Discord. I will decide whether
+it's truly an error and not a duplicate. If it is really an error, you get a
+quarter of a point. Only the first person to post about an error gets the points. You can earn a max of 1 total point toward your 100 for the course (for four errors).
+
+#### Additional work throughout the semester
+
+Since two problem sets are dropped, if you do all of the problem sets, they may
+be counted as a bonus. There may be additional problems that you can complete
+for bonus as well. The exact computation will be decided later in the semester;
+however, the maximum bonus you may earn from this is 3 points out of 100 for
+the semester.
 
 ### Late assignment policies
 To run a course of this size we cannot accommodate individual requests for
@@ -149,22 +166,12 @@ you are having any problems.* We want you to succeed!
 	on the course website.
 * All assignments are due on their due date by the [Anywhere on Earth (AoE)
 	timezone](https://www.timeanddate.com/time/zones/aoe), which is 6 hours behind Bozeman. (This means that the real due
-	date is 6am the following day.) If you submit a
-	lab or project the following day before 8am, you get 25% off. If you
-	submit within four days of the due date
-	(by Monday AoE for labs; by Tuesday AoE for projects) you get 50%.
+	date is 6am the following day.) If you submit within 24 hours of the due date, you get 25% off. If you
+	submit within two days of the due date you get 75%.
 	Otherwise, no points are possible.
-* Every student gets one free late pass with no
-	questions asked for projects. This means you can submit up to
-	four days late (by Tuesday AoE) with no penalty. Use this wisely! If you
-	use this early in the semester and something unforseen happens, you will
-	still need to submit the project on time or the penalties above apply. Please
-	message the course assistant for your section on Discord to let them know
-	you are using your late pass for a project. You should send this message
-	before you make the submission, or shortly after.
-* At the end of the semester, your lowest lab grade will be dropped.
 * You can submit as many times as you would like; only your last submission will be
 	graded.
+* Drills cannot be submitted late.
 
 ### Missed quiz policy
 
@@ -175,14 +182,12 @@ other reasons (employment conflict, travel plans) are not valid.
 
 ### Collaboration policy
 On all assignments, you may:
-* Share ideas with others.
-* Help others debug their code (or receive help debugging your code from someone
-	else).
+* Discuss problems and approaches with your peers at a high-level.
 
 You may not:
-* Share your code with other people.
-* Submit code that you did not write.
-* Modify someone else's solution and claim it as your own.
+* Show your solutions to your peers or post it on the internet.
+* Use the internet to search for or solicit approaches or ideas.
+* Post the assignments or quizzes for this course on the internet.
 
 ### Academic misconduct
 
@@ -242,8 +247,10 @@ enthusiastic about course material and my role in helping you learn.
 
 ## Acknowledgments
 
-Thanks to Daniel DeFrance for sharing his syllabus with me.
 
 ## Copyright statement
 
 This syllabus, course lectures and presentations, and any course materials provided throughout this term are protected by U.S. copyright laws.  Students enrolled in the course may use them for their own research and educational purposes.  However, reproducing, selling or otherwise distributing these materials without written permission of the copyright owner is expressly prohibited, including providing materials to commercial platforms such as Chegg or CourseHero.  Doing so may constitute a violation of U.S. copyright law as well as MSU’s Code of Student Conduct.
+
+Instructors are welcome to use this content in their
+courses without permission.

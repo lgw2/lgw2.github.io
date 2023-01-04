@@ -1,5 +1,5 @@
 ---
-title: "CSCI 112: Discrete Structures"
+title: "CSCI 112: Programming With C"
 collection: teaching
 type: "Undergraduate course"
 venue: "Montana State University, Computer Science"
@@ -11,64 +11,65 @@ location: "Bozeman, Montana"
 
 Schedule subject to change.
 
-|Date|Lecture Topic||Homework Due|Quiz|
-|:---|:---|:---|:---|:---|
-|Wednesday 1/18|Intro & syllabus|1|||
-| Friday 1/20    |      |      |      |      |
-| Monday 1/23    |      |      |      |      |
-| Wednesday 1/25 |      |      |      |      |
-| Friday 1/27    |      |      |      |      |
-| Monday 1/30    |      |      |      |      |
-| Wednesday 2/1  |      |      |      |      |
-| Friday 2/3     |      |      |      |      |
-| Monday 2/6     |      |      |      |      |
-| Wednesday 2/8  |      |      |      |      |
-| Friday 2/10    |      |      |      |      |
-| Monday 2/13    |      |      |      |      |
-| Wednesday 2/15 |      |      |      |      |
-| Friday 2/17    |      |      |      |      |
+|Date|Lecture Topic|Textbook Chapter|Classwork Due|Program/Lab Due|
+|:---|:---|:---|:-|:---|
+|Wednesday 1/18|Intro & syllabus; course server||||
+| Friday 1/20    |git/GitHub setup   |  |Classwork 1      |      |
+| Monday 1/23    |Linux & Vim    |  |Classwork 2      |      |
+| Wednesday 1/25 |Computer hardware and software; intro to C      |1, 2.1-2.6      |Classwork 3      |      |
+| Friday 1/27    |More intro to C; more vim |2.1-2.6      |      |      |
+| Monday 1/30    |Precedural vs. object oriented programming; formatting output; functions|3.1-3.5      |Classwork 4      |      |
+| Wednesday 2/1  |If statements      |4.1-4.7   |Classwork 5      |      |
+| Friday 2/3     |Switch statements   |4.8   |      |      |
+| Monday 2/6     |Loops      |5.1-5.8|Classwork 6      |      |
+| Wednesday 2/8  |Text input/output      |11.1      |Classwork 7  |      |
+| Friday 2/10    |Conditional operator; maybe tmux |      |      |Lab 1      |
+| Monday 2/13    |Arrays      |7      |Classwork 8      |      |
+| Wednesday 2/15 |Arrays      |7      |Classwork 9      |      |
+| Friday 2/17    |Arrays      |7      |      |Lab 2      |
 | Monday 2/20    | President's day --- no class |      |      |      |
-| Wednesday 2/22 |      |      |      |      |
-| Friday 2/24    |      |      |      |      |
-| Monday 2/27    |      |      |      |      |
-| Wednesday 3/1  |      |      |      |      |
-| Friday 3/3     |      |      |      |      |
-| Monday 3/6     |      |      |      |      |
-| Wednesday 3/8  |      |      |      |      |
-| Friday 3/10    |      |      |      |      |
-| Spring break    |No class      |      |      |      |
-| Monday 3/20    |      |      |      |      |
-| Wednesday 3/22 |      |      |      |      |
-| Friday 3/24    |      |      |      |      |
-| Monday 3/27    |      |      |      |      |
-| Wednesday 3/29 |      |      |      |      |
-| Friday 3/31    |      |      |      |      |
-| Monday 4/3     |      |      |      |      |
-| Wednesday 4/5  |      |      |      |      |
+| Wednesday 2/22 |Review      |      |      |      |
+| Friday 2/24    |Test 1 --- in class      |      |      |Lab 3      |
+| Monday 2/27    |Pointers   |6      |Classwork 10      |      |
+| Wednesday 3/1  |Pointers   |6      |Classwork 11      |      |
+| Friday 3/3     |Pointers   |6      |      |      |
+| Monday 3/6     |C type strings  |8      |Classwork 12      |      |
+| Wednesday 3/8  |C type strings  |8      |Classwork 13      |      |
+| Friday 3/10    |C type strings  |8      |      |Lab 4      |
+| Spring break   |No class      |      |      |      |
+| Monday 3/20    |Makefiles      |      |Classwork 14      |      |
+| Wednesday 3/22 |Structs      |      |Classwork 15      |      |
+| Friday 3/24    |Review      |      |      |Program 1      |
+| Monday 3/27    |Test 2 --- in class      |      |      |      |
+| Wednesday 3/29 |Intro C++|      |Classwork 16      |      |
+| Friday 3/31    |C++ strings      |      |Classwork 17      |      |
+| Monday 4/3     |C++ strings      |      |Classwork 18      |      |
+| Wednesday 4/5  |Vectors      |      |      |      |
 | Friday 4/7     |University day --- no class      |      |      |      |
-| Monday 4/10    |      |      |      |      |
-| Wednesday 4/12 |      |      |      |      |
-| Friday 4/14    |      |      |      |      |
-| Monday 4/17    |      |      |      |      |
-| Wednesday 4/19 |      |      |      |      |
-| Friday 4/21    |      |      |      |      |
-| Monday 4/24    |      |      |      |      |
-| Wednesday 4/26 |      |      |      |      |
-| Friday 4/28 |      |      |      |      |
-| Monday 5/1     |      |      |      |      |
-| Wednesday 5/3  |      |      |      |      |
-| Friday 5/5     |      |      |      |      |
+| Monday 4/10    |Errors/exception handling|  |Classwork 19      |      |
+| Wednesday 4/12 |Classes      |      |Classwork 20      |      |
+| Friday 4/14    |Classes      |      | |Lab 5          |
+| Monday 4/17    |No class      |      |      |      |
+| Wednesday 4/19 |No class      |      |      |      |
+| Friday 4/21    |Reference variables      |      |      |Lab 6      |
+| Monday 4/24    |Inheritance      |      |      |      |
+| Wednesday 4/26 |Inheritance      |      |      |      |
+| Friday 4/28 |Inheritance      |      |      |Lab 7      |
+| Monday 5/1     |C++ memory management      |      |      |      |
+| Wednesday 5/3  |Building vector from scratch      |      |      |      |
+| Friday 5/5     |Review      |      |      |Program 2      |
+| Monday 5/8 |Final --- 8-9:50am   |      |      |      |
 
 ## Catalog description
 
 3 Credits.
-PREREQUISITE: M 171Q or M 165Q.
-COREQUISITE: CSCI 132. This course covers logic, discrete probability, recurrence relations, Boolean algebra, sets, relations, counting, functions, maps, Big-O notation, proof techniques including induction, and proof by contradiction.
+PREREQUISITE: CSCI 127. Programming knowledge. Introduces imperative programming and the C standard library. Course covers pointers, memory management and structures.
+
 
 ## Course Info
 
 This course meets for lectures on Mondays, Wednesdays, and Fridays from
-2:10pm-3pm in Romney Hall 008. Lectures will be recorded and available on the day's lecture page (see schedule above) if you
+9-9:50am in Reid Hall 108. Lectures will be recorded and available on the day's lecture page (see schedule above) if you
 would like to rewatch them. We will use
 Discord as the primary method of course communication, and all course
 information will be posted on this website or on the Discord server; D2L will
@@ -76,20 +77,38 @@ be used *only* for grading.
 
 ## Course Resources
 
-### Txtbook
+### Textbook
+
+The textbook is optional for this course, but is a good resource for anyone who
+is interested. Most classwork and lab programming assignments will come from
+the book, and lectures are based on the content in the book as well.
+
+*Problem Solving and Program Design in C*, by Jeri R. Hanley & Elliot B. Koffman, Eighth Edition.
+
+In Summer 2021 [rented it from
+Amazon](https://www.amazon.com/Problem-Solving-Program-Design-C-ebook-dp-B00XIH482S/dp/B00XIH482S/ref=mt_other?_encoding=UTF8&me=&qid=)
+for $35 to use on the Kindle App on my iPad. Other options for renting or
+buying the textbook exist. If anyone finds any particularly good ones, let me
+know and I'll put them up here.
+
+I also use *A Tour of C++* by Bjarne Stroustrup (the author of C++) as a
+reference during the C++ portion of the course.
+
+### Advice from previous students
+
+At the end of the semester, I ask students what their advice for students who
+will be taking this class in the future is. [Here's](https://docs.google.com/document/d/1_LzKcU1-jvHh8P8MJaxYzXBP0dJPxXOIVVaayRhDVKk/edit?usp=sharing) the compiled advice. There are some changes to the course this semester, but a lot of the advice is still relevant.
 
 ### Course assistants
 
-There are four lab sections, all of which meet on Thursdays in Roberts Hall 111. There will be a TA to help you. This TA will also grade your work, so please go to your assigned section. You should contact your TA via Discord if you have any questions about grading or need extra help.
+There are four lab sections, all of which meet on Fridays in the CS Success Center (Barnard Hall 254). Your assigned TA (who will grade your work) will be present during their assigned hours, so you may want to go to that time; however, you can go during whatever time is best for you. You should contact your TA via Discord if you have any questions about grading or need extra help.
 
-* 001: 10am-11:50am, Asad Noor
-* 002: 12pm-2pm, Nicholas Call
-* 003: 2:10pm-4pm, Asad Noor
-* 004: 4:10pm-6pm, Emmett Osborne
+* 001:
+* 002:
+* 003:
+* 004:
 
-We also have 495 consultants to answer questions during lab. They are Jack
-Tetrault and Josiah Schwahn (001), Mason Medina and Madison Munro (002),
-Fletcher Phillips and Ara Megerdichian (003), and Steven Vought (004).
+We also have 495 consultants to answer questions during lab.
 
 ### Lecture videos
 
@@ -100,8 +119,9 @@ playlist.
 
 ### Instructor office hours
 
-My office hours are Monday and Wednesday 9:30-10:30am and Thursday 10-11am in
-Barnard 359 or via Discord. You can also contact me on Discord to set up a
+My office hours are TBD
+
+or via Discord. You can also contact me on Discord to set up a
 different meeting time. You can find office hours for all CS faculty [here](https://www.cs.montana.edu/office-hours.html).
 
 ### SmartyCats
@@ -120,17 +140,23 @@ All course communication will be through our course Discord server. Join with
 a new account, or you can choose to log in with an existing account.
 
 ### Course outcomes
-By the end of this course, students should be able to:
-* Design and implement a class in Java
-* Explain the concept of an ADT
-* Implement linked lists, stacks, queues, and deques
-* Apply consistent documentation and program style standards in Java
-* Be able to determine the time complexity of simple algorithms
+By the end of the course, students should be able to:
+* Navigate a Linux operating system using the command line.
+* Use `vim` to edit files.
+* Use `git` to version control their work.
+* Write code using C syntax.
+* Build computer programs using the C language.
+* Take advantage of major capabilities of the C language, including pointers, dynamic memory allocation and structs.
+* Apply the power of pointers, structs and strings to C programs.
+* Apply the programming knowledge you learned to solve basic real-world problems.
+* Write object oriented code in C++.
+* Build object oriented computer programs using C++.
+* Explain the difference between procedural programming and object oriented programming.
 
 ## Grading
 
 You will be graded on the following:
-* 13 labs (lowest score dropped out of 14): 30%
+* 30 classwork assignments (lowest five dropped): 10%
 * 4 projects: 50%
 * 3 quizzes (including final): 18%
 * 2 course surveys: 2%
@@ -183,6 +209,8 @@ You may not:
 * Share your code with other people.
 * Submit code that you did not write.
 * Modify someone else's solution and claim it as your own.
+* Post your own solutions on the internet.
+* Post the course assignments or quizzes on the internet.
 
 ### Academic misconduct
 
@@ -247,3 +275,6 @@ Thanks to Daniel DeFrance for sharing his syllabus with me.
 ## Copyright statement
 
 This syllabus, course lectures and presentations, and any course materials provided throughout this term are protected by U.S. copyright laws.  Students enrolled in the course may use them for their own research and educational purposes.  However, reproducing, selling or otherwise distributing these materials without written permission of the copyright owner is expressly prohibited, including providing materials to commercial platforms such as Chegg or CourseHero.  Doing so may constitute a violation of U.S. copyright law as well as MSU’s Code of Student Conduct.
+
+Instructors are free to use this material in their own courses. Feel free to
+drop me a line if you do but no need.
