@@ -49,8 +49,8 @@ Schedule subject to change.
 | Monday 4/10    |Errors/exception handling|  |Classwork 19      |      |
 | Wednesday 4/12 |Classes      |      |Classwork 20      |      |
 | Friday 4/14    |Classes      |      | |Lab 5          |
-| Monday 4/17    |No class      |      |      |      |
-| Wednesday 4/19 |No class      |      |      |      |
+| Monday 4/17    |Classes      |      |      |      |
+| Wednesday 4/19 |Classes      |      |      |      |
 | Friday 4/21    |Reference variables      |      |      |Lab 6      |
 | Monday 4/24    |Inheritance      |      |      |      |
 | Wednesday 4/26 |Inheritance      |      |      |      |
