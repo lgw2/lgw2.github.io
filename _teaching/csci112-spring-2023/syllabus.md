@@ -157,12 +157,31 @@ By the end of the course, students should be able to:
 
 You will be graded on the following:
 * 30 classwork assignments (lowest five dropped): 10%
-* 4 projects: 50%
+* 7 labs (lowest dropped): 40%
+* 2 projects: 30%
 * 3 quizzes (including final): 18%
 * 2 course surveys: 2%
 
 After any curving, your grade will be determined by your total score as follows:
 93+: A; 90+: A-; 87+: B+; 83+: B; 80+: B-; 77+: C+; 73+: C; 70+: C-; 67+: D+; 63: D; 60: D-.
+
+### Bonus
+
+There are two ways to earn bonus points in this class.
+
+#### Catch errors in course materials
+
+If you find an error in any of the course materials (typo, incorrect statement, etc.), post in the `#errors-in-course-material` channel on Discord. I will decide whether
+it's truly an error and not a duplicate. If it is really an error, you get a
+quarter of a point. Only the first person to post about an error gets the points. You can earn a max of 1 total point toward your 100 for the course (for four errors).
+
+#### Additional work throughout the semester
+
+Since five classworks  problem sets are dropped, if you do all of the problem sets, they may
+be counted as a bonus. There may be additional problems that you can complete
+for bonus as well. The exact computation will be decided later in the semester;
+however, the maximum bonus you may earn from this is 3 points out of 100 for
+the semester.
 
 ### Late assignment policies
 To run a course of this size we cannot accommodate individual requests for
