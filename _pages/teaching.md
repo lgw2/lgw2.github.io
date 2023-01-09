@@ -4,9 +4,14 @@ permalink: /teaching/
 author_profile: false
 ---
 
+## CSCI 246: Discrete Structures
+
+I am teaching this course in the spring of 2023. All course information can be
+found [here](https://lgw2.github.io/teaching/csci246-spring-2023/syllabus/).
+
 ## CSCI 132: Basic Data Structures & Algorithms
 
-I am teaching this course in the fall of 2022. All course information can be found
+I taught this course in the fall of 2022. All course information can be found
 [here](https://lgw2.github.io/teaching/csci132-fall-2022/syllabus/).
 
 Description from course catalog: *An examination of advanced Java and basic
@@ -25,11 +30,12 @@ My slides are [here](http://lgw2.github.io/files/security_teaching_demo.pdf).
 
 ## CSCI 112: Programming With C
 
+I am teaching this course in the spring of 2023. All course information can be
+found [here](https://lgw2.github.io/teaching/csci112-spring-2023/syllabus/).
+I also co-taught  this course in fall 2022  with Dr. Mary Ann Cummings; course information through
+D2L, and
 I taught this course in the summer of 2021. All course information can be found
-[here](https://lgw2.github.io/teaching/csci112-summer-2021/syllabus/). I am
-also co-teaching this course in fall 2022  with Dr. Mary Ann Cummings; course information through
-D2L.
-
+[here](https://lgw2.github.io/teaching/csci112-summer-2021/syllabus/).
 Description from course catalog: *C Programming knowledge. Introduces imperative programming
 and the C standard library. Course covers pointers, memory management and
 structures.* We also covered some C++ topics in this course.
