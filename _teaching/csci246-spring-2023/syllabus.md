@@ -18,7 +18,7 @@ Schedule subject to change.
 | Monday 1/23    |Proof by cases; intro to sets      |4.3, 2.3      |      |      ||
 | Wednesday 1/25 |Sets part 1      |2.3      |      |      ||
 | Friday 1/27    |Sets part 2      |2.3      |      |Drill 2 ||
-| Monday 1/30    |Proofs by contradiction      |      |[Homework 1](https://lgw2.github.io/teaching/csci112-spring-2023/homework/hw1.pdf)      | ||
+| Monday 1/30    |Proofs by contradiction      |      |[Homework 1](https://lgw2.github.io/teaching/csci246-spring-2023/homework/hw1.pdf)      | ||
 | Wednesday 2/1  |Propositional logic      |      |      |      ||
 | Friday 2/3     |More propositional logic      |      |      |Drill 3      ||
 | Monday 2/6     |Proofs by contrapositive|      |      |      ||
@@ -84,7 +84,7 @@ be used *only* for grading.
 
 ### Problem solving tips
 
-Check out [this document](https://lgw2.github.io/teaching/csci112-spring-2023/homework/tips.pdf) for tips on how to come up with your proofs, specific
+Check out [this document](https://lgw2.github.io/teaching/csci246-spring-2023/homework/tips.pdf) for tips on how to come up with your proofs, specific
 tips for homework assignments in this class, and strategies for getting the
 homework assignments done. This document is a work in progress and may be
 updated throughout the semester.
