@@ -11,7 +11,7 @@ location: "Bozeman, Montana"
 
 Schedule subject to change.
 
-|Date|Lecture Topic (Notes Linked)|Recommended Reading|Homework Due|Drill Due|Video|
+|Date|Lecture Topic (notes linked)|Recommended Reading|Homework Due (via Gradescope)|Drill Due (via D2L)|Video|
 |:---|:---|:---|:---|:---|
 |Wednesday 1/18|Intro & syllabus|1||||
 | Friday 1/20    |Direct proofs; disproof by example  |4.3, 2.2.1-2.2.3, 2.2.6|      |Drill 1      ||
