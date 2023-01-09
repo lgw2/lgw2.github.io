@@ -11,14 +11,14 @@ location: "Bozeman, Montana"
 
 Schedule subject to change.
 
-|Date|Lecture Topic|Recommended Reading|Homework Due|Drill Due|Video|
+|Date|Lecture Topic (Notes Linked)|Recommended Reading|Homework Due|Drill Due|Video|
 |:---|:---|:---|:---|:---|
 |Wednesday 1/18|Intro & syllabus|1||||
 | Friday 1/20    |Direct proofs; disproof by example  |4.3, 2.2.1-2.2.3, 2.2.6|      |Drill 1      ||
 | Monday 1/23    |Proof by cases; intro to sets      |4.3, 2.3      |      |      ||
 | Wednesday 1/25 |Sets part 1      |2.3      |      |      ||
 | Friday 1/27    |Sets part 2      |2.3      |      |Drill 2 ||
-| Monday 1/30    |Proofs by contradiction      |      |Homework 1      | ||
+| Monday 1/30    |Proofs by contradiction      |      |[Homework 1](https://lgw2.github.io/teaching/csci112-spring-2023/homework/hw1.pdf)      | ||
 | Wednesday 2/1  |Propositional logic      |      |      |      ||
 | Friday 2/3     |More propositional logic      |      |      |Drill 3      ||
 | Monday 2/6     |Proofs by contrapositive|      |      |      ||
@@ -35,7 +35,7 @@ Schedule subject to change.
 | Friday 3/3     |Proofs by strong induction      |      |      |Drill 6      ||
 | Monday 3/6     |Proofs by structural induction      |      |Homework 3      |      ||
 | Wednesday 3/8  |Introduction to binary relations      |      |      |      ||
-| Friday 3/10    |Equivalence relations      |      |      |Drill 7      ||
+| Friday 3/10    |Equivalence relations      |      |Survey 1      |Drill 7      ||
 | Spring break    |No class      |      |      |      ||
 | Monday 3/20    |Partial and total orders      |      |      |      ||
 | Wednesday 3/22 |Introduction to asymptotic analysis (Big-O)      |      |      |      ||
@@ -57,7 +57,7 @@ Schedule subject to change.
 | Friday 4/28 |      |      |      |Drill 12      ||
 | Monday 5/1     |      |      |      |      ||
 | Wednesday 5/3  |      |      |      |      ||
-| Friday 5/5     |      |      |      |Drill 13      ||
+| Friday 5/5     |      |      |Survey 2      |Drill 13      ||
 | Monday 5/8     |Finals week --- no class      |      |Homework 7      |      ||
 | Wednesday 5/10 |Final --- in classroom, 2-3:50pm   |      |      |      ||
 
@@ -80,7 +80,14 @@ be used *only* for grading.
 
 ### Textbook
 
-*Connecting Discrete Mathematics and Computer Science* by David Liben-Nowell. A free PDF version of the book is available at https://cs.carleton.edu/faculty/dln/book/. The physical book is about $80 and is available in the bookstore if you prefer that.
+*Connecting Discrete Mathematics and Computer Science* by David Liben-Nowell. A free PDF version of the book is available [here](https://cs.carleton.edu/faculty/dln/book/). The physical book is about $80 and is available in the bookstore if you prefer that.
+
+### Problem solving tips
+
+Check out [this document](https://lgw2.github.io/teaching/csci112-spring-2023/homework/tips.pdf) for tips on how to come up with your proofs, specific
+tips for homework assignments in this class, and strategies for getting the
+homework assignments done. This document is a work in progress and may be
+updated throughout the semester.
 
 ### Course assistant
 
@@ -88,16 +95,19 @@ TBD.
 
 ### Lecture videos
 
-Lecture videos are hosted both on Panopto (MSU's screen capture and video
-hosting service) and on YouTube. [Here](https://montana.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=761aede1-cd37-4643-af61-af3b01276d2e) is the public link to Panopto. Lecture
-videos on YouTube are linked on each lecture page. [Here](https://www.youtube.com/playlist?list=PLFO-ZhHYOtp7pDRe9KtG7Tl_MRU2MFMH3) is the YouTube
-playlist.
+Lectures are recorded and available to watch after class. However, if there are
+technical difficulties recording a lecture, it will not be re-recorded, so come
+to class when you can to make sure that you do not miss course content or
+announcements.
 
 ### Instructor office hours
 
+TBD.
+
 ### SmartyCats
 
-There is SmartyCats tutoring for this course! Visit [their
+There may be SmartyCats tutoring for this course --- this will be updated when
+I hear. Visit [their
 website](https://www.montana.edu/aycss/success/smartycats/) to find out more.
 You can also [apply to be a SmartyCats tutor yourself](https://www.montana.edu/aycss/success/smartycats/apply.html) for other CS courses you've taken, or for this one next semester.
 
@@ -106,17 +116,17 @@ There are free tutors available in Barnard 259. More information [here](https://
 
 ### Discord server
 
-All course communication will be through our course Discord server. Join with
-[this link](https://discord.gg/KTMAb8Bwgg). It will prompt you to create
-a new account, or you can choose to log in with an existing account.
+All course communication will be through our course Discord server. See D2L
+announcement for link. Please [change your nickname](https://support.discord.com/hc/en-us/articles/219070107-Server-Nicknames#:~:text=If%20you're%20on%20the,new%20nickname%20of%20your%20choice!) to your full name (first
+and last).
 
-### Course outcomes
+## Course outcomes
 By engaging with this course through attending lectures and completing
 assignments, at the end of this course, students should:
 * be comfortable reading and using mathematical terminology around sets,
 	functions, propositional and predicate logic, asymptotic notation,
 	recursion, and graphs;
-* be comfortable readina and writing mathematical proofs using the following
+* be comfortable reading and writing mathematical proofs using the following
 	methods: direct proofs, proofs by counterexample, proofs by construction,
 	proofs by contradiction, proofs by contrapositive, and proofs by induction;
 * have improved their problem solving and critical thinking skills, such as:
@@ -157,7 +167,7 @@ the semester.
 
 ### Late assignment policies
 To run a course of this size we cannot accommodate individual requests for
-extensions on assignemnts; therefore, we have strict rules for when assignments
+extensions on assignments; therefore, we have strict rules for when assignments
 are due, but have some leeway built in. Please read the bullet points below carefully,
 respect the policy, and *get help early if
 you are having any problems.* We want you to succeed!
@@ -166,8 +176,8 @@ you are having any problems.* We want you to succeed!
 	on the course website.
 * All assignments are due on their due date by the [Anywhere on Earth (AoE)
 	timezone](https://www.timeanddate.com/time/zones/aoe), which is 6 hours behind Bozeman. (This means that the real due
-	date is 6am the following day.) If you submit within 24 hours of the due date, you get 25% off. If you
-	submit within two days of the due date you get 75%.
+	date is 6am the following day.) If you submit within 24 hours of the due date, you get 25% off of whatever score you earn. If you
+	submit within two days of the due date you get 50% off.
 	Otherwise, no points are possible.
 * You can submit as many times as you would like; only your last submission will be
 	graded.
@@ -182,10 +192,11 @@ other reasons (employment conflict, travel plans) are not valid.
 
 ### Collaboration policy
 On all assignments, you may:
-* Discuss problems and approaches with your peers at a high-level.
+* Discuss problems and approaches with your peers.
 
 You may not:
-* Show your solutions to your peers or post it on the internet.
+* Copy your peers' proofs or write-ups of solutions to homework problems, even
+	if you worked together to develop solutions.
 * Use the internet to search for or solicit approaches or ideas.
 * Post the assignments or quizzes for this course on the internet.
 
@@ -196,9 +207,9 @@ In line with the [MSU student code of conduct](https://www.montana.edu/policy/st
 ### Important dates
 
 The last day to drop the course online (with no instructor or advisor approval)
-is Sepember 7th. The last day to drop without a W grade (instructor or advisor
-approval required) is September 14th. The last day to drop with a W grade
-(instructor or advisor approval required) is November 17th. See the full
+is January 31st. The last day to drop without a W grade (instructor or advisor
+approval required) is February 7th. The last day to drop with a W grade
+(instructor and advisor approval required) is April 19th. See the full
 [add/drop schedule](https://www.montana.edu/registrar/add_drop_schedule.html)
 for more information.
 
@@ -238,15 +249,12 @@ time.
 
 What I can do:
 * Grade promptly (exact guarantees TBD).
-* Post assignments well in advance (at least one week before due date for labs;
-	at least two weeks before due date for projects).
+* Post assignments well in advance (at least one week in advance for drills and
+	at least two weeks in advance for homeworks).
 * Respond to all Discord messages within one business day.
 * Create a course atmosphere conducive to learning by respecting
 all of my students and being
 enthusiastic about course material and my role in helping you learn.
-
-## Acknowledgments
-
 
 ## Copyright statement
 
