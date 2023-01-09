@@ -159,7 +159,8 @@ quarter of a point. Only the first person to post about an error gets the points
 
 #### Additional work throughout the semester
 
-Since two problem sets are dropped, if you do all of the problem sets, they may
+Since two problem sets and three drills are dropped, if you do additional
+problem sets and drills beyond those that count, they may
 be counted as a bonus. There may be additional problems that you can complete
 for bonus as well. The exact computation will be decided later in the semester;
 however, the maximum bonus you may earn from this is 3 points out of 100 for
