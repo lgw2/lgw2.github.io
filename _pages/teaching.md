@@ -9,6 +9,8 @@ author_profile: false
 I am teaching this course in the spring of 2023. All course information can be
 found [here](https://lgw2.github.io/teaching/csci246-spring-2023/syllabus/).
 
+Description from course catalog: *AThis course covers logic, discrete probability, recurrence relations, Boolean algebra, sets, relations, counting, functions, maps, Big-O notation, proof techniques including induction, and proof by contradiction.
+
 ## CSCI 132: Basic Data Structures & Algorithms
 
 I taught this course in the fall of 2022. All course information can be found
@@ -20,13 +22,6 @@ include stacks, queues and lists. An introduction to algorithms employing the
 data structures to solve various problems including searching and sorting, and
 recursion. Understanding and using Java class libraries. The laboratory uses
 Java. Introduces Big-O Notation.*
-
-
-## Teaching demonstration
-
-On October 25, 2021, I gave a cybersecurity-related teaching demonstration to
-beginning computer science students in Montana State University's CSCI 107 course.
-My slides are [here](http://lgw2.github.io/files/security_teaching_demo.pdf).
 
 ## CSCI 112: Programming With C
 
@@ -47,3 +42,9 @@ I taught this course in the summers of 2020 and 2019. 2020 course information ca
 course information [here](https://lgw2.github.io/teaching/csci127-summer-2019/syllabus/).
 
 Description from course catalog: *Provides a gentle introduction to the exciting world of big data and data science. Students expand their ability to solve problems with Python by learning to deploy lists, files, dictionaries and object-oriented programming. Data science libraries are introduced that enable data to be manipulated and displayed.*
+
+## Teaching demonstration
+
+On October 25, 2021, I gave a cybersecurity-related teaching demonstration to
+beginning computer science students in Montana State University's CSCI 107 course.
+My slides are [here](http://lgw2.github.io/files/security_teaching_demo.pdf).
