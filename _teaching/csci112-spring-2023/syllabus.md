@@ -14,9 +14,9 @@ Schedule subject to change.
 |Date|Lecture Topic|Textbook Chapter|Classwork Due|Program/Lab Due|
 |:---|:---|:---|:-|:---|
 |Wednesday 1/18|Intro & syllabus; course server||||
-| Friday 1/20    |git/GitHub setup   |  |Classwork 1      |      |
-| Monday 1/23    |Linux & Vim    |  |Classwork 2      |      |
-| Wednesday 1/25 |Computer hardware and software; intro to C      |1, 2.1-2.6      |Classwork 3      |      |
+| Friday 1/20    |Intro to Linux & vim; assignment setup||[Classwork 1](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork1/)||
+| Monday 1/23    |More Linux & vim| |[Classwork 2](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork2/) |  |
+| Wednesday 1/25 |Computer hardware and software; intro to C      |1, 2.1-2.6      |[Classwork 3](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork3/)      |      |
 | Friday 1/27    |More intro to C; more vim |2.1-2.6      |      |      |
 | Monday 1/30    |Precedural vs. object oriented programming; formatting output; functions|3.1-3.5      |Classwork 4      |      |
 | Wednesday 2/1  |If statements      |4.1-4.7   |Classwork 5      |      |
@@ -135,11 +135,11 @@ There are free tutors available in Barnard 259. More information [here](https://
 
 ### Discord server
 
-All course communication will be through our course Discord server. Join with
-[this link](https://discord.gg/KTMAb8Bwgg). It will prompt you to create
-a new account, or you can choose to log in with an existing account.
+All course communication will be through our course Discord server. See D2L
+announcement for link. Please [change your nickname](https://support.discord.com/hc/en-us/articles/219070107-Server-Nicknames#:~:text=If%20you're%20on%20the,new%20nickname%20of%20your%20choice!) to your full name (first
+and last).
 
-### Course outcomes
+## Course outcomes
 By the end of the course, students should be able to:
 * Navigate a Linux operating system using the command line.
 * Use `vim` to edit files.
@@ -166,7 +166,7 @@ After any curving, your grade will be determined by your total score as follows:
 
 ### Late assignment policies
 To run a course of this size we cannot accommodate individual requests for
-extensions on assignemnts; therefore, we have strict rules for when assignments
+extensions on assignmnts; therefore, we have strict rules for when assignments
 are due, but have some leeway built in. Please read the bullet points below carefully,
 respect the policy, and *get help early if
 you are having any problems.* We want you to succeed!
@@ -183,7 +183,7 @@ you are having any problems.* We want you to succeed!
 * Every student gets one free late pass with no
 	questions asked for projects. This means you can submit up to
 	four days late (by Tuesday AoE) with no penalty. Use this wisely! If you
-	use this early in the semester and something unforseen happens, you will
+	use this early in the semester and something unforeseen happens, you will
 	still need to submit the project on time or the penalties above apply. Please
 	message the course assistant for your section on Discord to let them know
 	you are using your late pass for a project. You should send this message
