@@ -14,13 +14,13 @@ Schedule subject to change.
 |Date|Lecture Topic|Textbook Chapter|Classwork Due|Program/Lab Due|
 |:---|:---|:---|:-|:---|
 |Wednesday 1/18|Intro & syllabus; course server||||
-| Friday 1/20    |Intro to Linux & vim; assignment setup||[Classwork 1](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork1/)||
-| Monday 1/23    |More Linux & vim| |[Classwork 2](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork2/) |  |
-| Wednesday 1/25 |Computer hardware and software; intro to C      |1, 2.1-2.6      |[Classwork 3](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork3/)      |      |
+| Friday 1/20    |Intro to Linux & vim; classwork submission setup||[Classwork 1](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork1/)||
+| Monday 1/23    |Intro to C; more Linux & vim| |[Classwork 2](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork2/) |  |
+| Wednesday 1/25 |Computer hardware and software; more intro to C|1, 2.1-2.6      |[Classwork 3](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork3/)      |      |
 | Friday 1/27    |More intro to C; more vim |2.1-2.6      |      |      |
 | Monday 1/30    |Precedural vs. object oriented programming; formatting output; functions|3.1-3.5      |Classwork 4      |      |
 | Wednesday 2/1  |If statements      |4.1-4.7   |Classwork 5      |      |
-| Friday 2/3     |Switch statements   |4.8   |      |      |
+| Friday 2/3     |Switch statements   |4.8   |      |Maybe Lab 0 (for Gradescope submisison setup)|
 | Monday 2/6     |Loops      |5.1-5.8|Classwork 6      |      |
 | Wednesday 2/8  |Text input/output      |11.1      |Classwork 7  |      |
 | Friday 2/10    |Conditional operator; maybe tmux |      |      |Lab 1      |
@@ -156,8 +156,8 @@ By the end of the course, students should be able to:
 ## Grading
 
 You will be graded on the following:
-* 30 classwork assignments (lowest five dropped): 10%
-* 7 labs (lowest dropped): 40%
+* 23 classwork assignments (lowest four dropped): 10%
+* 7 labs (lowest two dropped): 40%
 * 2 projects: 30%
 * 3 quizzes (including final): 18%
 * 2 course surveys: 2%
@@ -177,8 +177,9 @@ quarter of a point. Only the first person to post about an error gets the points
 
 #### Additional work throughout the semester
 
-Since five classworks  problem sets are dropped, if you do all of the problem sets, they may
-be counted as a bonus. There may be additional problems that you can complete
+Since four classworks and two labs are dropped, your work on dropped
+assignments may
+be counted as a bonus. There may be additional assignments that you can complete
 for bonus as well. The exact computation will be decided later in the semester;
 however, the maximum bonus you may earn from this is 3 points out of 100 for
 the semester.
@@ -194,22 +195,12 @@ you are having any problems.* We want you to succeed!
 	on the course website.
 * All assignments are due on their due date by the [Anywhere on Earth (AoE)
 	timezone](https://www.timeanddate.com/time/zones/aoe), which is 6 hours behind Bozeman. (This means that the real due
-	date is 6am the following day.) If you submit a
-	lab or project the following day before 8am, you get 25% off. If you
-	submit within four days of the due date
-	(by Monday AoE for labs; by Tuesday AoE for projects) you get 50%.
+	date is 6am the following day.) If you submit labs and programs  within 24 hours of the due date, you get 25% off of whatever score you earn. If you
+	submit within two days of the due date you get 50% off.
 	Otherwise, no points are possible.
-* Every student gets one free late pass with no
-	questions asked for projects. This means you can submit up to
-	four days late (by Tuesday AoE) with no penalty. Use this wisely! If you
-	use this early in the semester and something unforeseen happens, you will
-	still need to submit the project on time or the penalties above apply. Please
-	message the course assistant for your section on Discord to let them know
-	you are using your late pass for a project. You should send this message
-	before you make the submission, or shortly after.
-* At the end of the semester, your lowest lab grade will be dropped.
 * You can submit as many times as you would like; only your last submission will be
 	graded.
+* Classwork cannot be submitted late.
 
 ### Missed quiz policy
 
