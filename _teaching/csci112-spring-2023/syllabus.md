@@ -11,54 +11,54 @@ location: "Bozeman, Montana"
 
 Schedule subject to change.
 
-|Date|Lecture Topic|Textbook Chapter|Classwork Due|Program/Lab Due|
-|:---|:---|:---|:-|:---|
-|Wednesday 1/18|Intro & syllabus; course server||||
-| Friday 1/20    |Intro to Linux & vim; classwork submission setup||[Classwork 1](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork1/)||
-| Monday 1/23    |Intro to C; more Linux & vim| |[Classwork 2](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork2/) |  |
-| Wednesday 1/25 |Computer hardware and software; more intro to C|1, 2.1-2.6      |[Classwork 3](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork3/)      |      |
-| Friday 1/27    |More intro to C; more vim |2.1-2.6      |      |      |
-| Monday 1/30    |Precedural vs. object oriented programming; formatting output; functions|3.1-3.5      |Classwork 4      |      |
-| Wednesday 2/1  |If statements      |4.1-4.7   |Classwork 5      |      |
-| Friday 2/3     |Switch statements   |4.8   |      |Maybe Lab 0 (for Gradescope submisison setup)|
-| Monday 2/6     |Loops      |5.1-5.8|Classwork 6      |      |
-| Wednesday 2/8  |Text input/output      |11.1      |Classwork 7  |      |
-| Friday 2/10    |Conditional operator; maybe tmux |      |      |Lab 1      |
-| Monday 2/13    |Arrays      |7      |Classwork 8      |      |
-| Wednesday 2/15 |Arrays      |7      |Classwork 9      |      |
-| Friday 2/17    |Arrays      |7      |      |Lab 2      |
-| Monday 2/20    | President's day --- no class |      |      |      |
-| Wednesday 2/22 |Review      |      |      |      |
-| Friday 2/24    |Quiz 1 on D2L --- no class  |      |      |Lab 3      |
-| Monday 2/27    |Pointers   |6      |Classwork 10      |      |
-| Wednesday 3/1  |Pointers   |6      |Classwork 11      |      |
-| Friday 3/3     |Pointers   |6      |      |      |
-| Monday 3/6     |C type strings  |8      |Classwork 12      |      |
-| Wednesday 3/8  |C type strings  |8      |Classwork 13      |      |
-| Friday 3/10    |C type strings  |8      |      |Lab 4      |
-| Spring break   |No class      |      |      |      |
-| Monday 3/20    |Makefiles      |      |Classwork 14      |      |
-| Wednesday 3/22 |Structs      |      |Classwork 15      |      |
-| Friday 3/24    |Review      |      |      |Program 1      |
-| Monday 3/27    |Quiz 2 on D2L --- no class|      |      |      |
-| Wednesday 3/29 |Intro C++|      |Classwork 16      |      |
-| Friday 3/31    |C++ strings      |      |      |      |
-| Monday 4/3     |C++ strings      |      |Classwork 17      |      |
-| Wednesday 4/5  |Vectors      |      |Classwork 18      |      |
-| Friday 4/7     |University day --- no class      |      |      |      |
-| Monday 4/10    |Errors/exception handling|  |Classwork 19      |      |
-| Wednesday 4/12 |Classes      |      |Classwork 20      |      |
-| Friday 4/14    |Classes      |      | |Lab 5          |
-| Monday 4/17    |Classes      |      |      |      |
-| Wednesday 4/19 |Classes      |      |      |      |
-| Friday 4/21    |Reference variables      |      |      |Lab 6      |
-| Monday 4/24    |Inheritance      |      |      |      |
-| Wednesday 4/26 |Inheritance      |      |      |      |
-| Friday 4/28 |Inheritance      |      |      |Lab 7      |
-| Monday 5/1     |C++ memory management      |      |      |      |
-| Wednesday 5/3  |Building vector from scratch      |      |      |      |
-| Friday 5/5     |Review      |      |      |Program 2      |
-| Monday 5/8 |Final quiz on D2L--- extra office hours 8-9:50am   |      |      |      |
+|Date|Lecture Topic (slides/notes linked)|Textbook Chapter|Classwork Due|Program/Lab Due|Video|
+|:---|:---|:---|:-|:---|:---|
+|Wednesday 1/18|Intro & syllabus; course server|||||
+| Friday 1/20    |Intro to Linux & vim; classwork submission setup||[Classwork 1](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork1/)|||
+| Monday 1/23    |Intro to C; more Linux & vim| |[Classwork 2](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork2/) |  ||
+| Wednesday 1/25 |Computer hardware and software; more intro to C|1, 2.1-2.6      |[Classwork 3](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork3/)      |      ||
+| Friday 1/27    |More intro to C; more vim |2.1-2.6      |      |      ||
+| Monday 1/30    |Precedural vs. object oriented programming; formatting output; functions|3.1-3.5      |Classwork 4      |      ||
+| Wednesday 2/1  |If statements      |4.1-4.7   |Classwork 5      |      ||
+| Friday 2/3     |Switch statements   |4.8   |      |Maybe Lab 0 (for Gradescope submisison setup)||
+| Monday 2/6     |Loops      |5.1-5.8|Classwork 6      |      ||
+| Wednesday 2/8  |Text input/output      |11.1      |Classwork 7  |      ||
+| Friday 2/10    |Conditional operator; maybe tmux |      |      |Lab 1      ||
+| Monday 2/13    |Arrays      |7      |Classwork 8      |      ||
+| Wednesday 2/15 |Arrays      |7      |Classwork 9      |      ||
+| Friday 2/17    |Arrays      |7      |      |Lab 2      ||
+| Monday 2/20    | President's day --- no class |      |      |      ||
+| Wednesday 2/22 |Review      |      |      |      ||
+| Friday 2/24    |Quiz 1 on D2L --- no class  |      |      |Lab 3      ||
+| Monday 2/27    |Pointers   |6      |Classwork 10      |      ||
+| Wednesday 3/1  |Pointers   |6      |Classwork 11      |      ||
+| Friday 3/3     |Pointers   |6      |      |      ||
+| Monday 3/6     |C type strings  |8      |Classwork 12      |      ||
+| Wednesday 3/8  |C type strings  |8      |Classwork 13      |      ||
+| Friday 3/10    |C type strings  |8      |      |Lab 4      ||
+| Spring break   |No class      |      |      |      ||
+| Monday 3/20    |Makefiles      |      |Classwork 14      |      ||
+| Wednesday 3/22 |Structs      |      |Classwork 15      |      ||
+| Friday 3/24    |Review      |      |      |Program 1      ||
+| Monday 3/27    |Quiz 2 on D2L --- no class|      |      |      ||
+| Wednesday 3/29 |Intro C++|      |Classwork 16      |      ||
+| Friday 3/31    |C++ strings      |      |      |      ||
+| Monday 4/3     |C++ strings      |      |Classwork 17      |      ||
+| Wednesday 4/5  |Vectors      |      |Classwork 18      |      ||
+| Friday 4/7     |University day --- no class      |      |      |      ||
+| Monday 4/10    |Errors/exception handling|  |Classwork 19      |      ||
+| Wednesday 4/12 |Classes      |      |Classwork 20      |      ||
+| Friday 4/14    |Classes      |      | |Lab 5          ||
+| Monday 4/17    |Classes      |      |Classwork 21      |      ||
+| Wednesday 4/19 |Classes      |      |Classwork 22      |      ||
+| Friday 4/21    |Reference variables      |      |      |Lab 6      ||
+| Monday 4/24    |Inheritance      |      |Classwork 23      |      ||
+| Wednesday 4/26 |Inheritance      |      |      |Classwork 24      ||
+| Friday 4/28 |Inheritance      |      |      |Lab 7      ||
+| Monday 5/1     |C++ memory management      |      |      |      ||
+| Wednesday 5/3  |Building vector from scratch      |      |      |      ||
+| Friday 5/5     |Review      |      |      |Program 2      ||
+| Monday 5/8 |Final quiz on D2L--- extra office hours 8-9:50am   |      |      |      ||
 
 ## Catalog description
 
@@ -112,17 +112,17 @@ We also have 495 consultants to answer questions during lab.
 
 ### Lecture videos
 
-Lecture videos are hosted both on Panopto (MSU's screen capture and video
-hosting service) and on YouTube. [Here](https://montana.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=761aede1-cd37-4643-af61-af3b01276d2e) is the public link to Panopto. Lecture
-videos on YouTube are linked on each lecture page. [Here](https://www.youtube.com/playlist?list=PLFO-ZhHYOtp7pDRe9KtG7Tl_MRU2MFMH3) is the YouTube
-playlist.
+Lectures are recorded and available to watch after class. However, if there are
+technical difficulties recording a lecture, it will not be re-recorded, so come
+to class when you can to make sure that you do not miss course content or
+announcements.
 
 ### Instructor office hours
 
-My office hours are TBD
-
-or via Discord. You can also contact me on Discord to set up a
-different meeting time. You can find office hours for all CS faculty [here](https://www.cs.montana.edu/office-hours.html).
+My office hours are Thursdays and Fridays, 3-4:30 in the CS Success Center
+(Barnard 259). You can also contact me on Discord to set up a
+different meeting time, or drop by my office (Barnard 359) if my door is open.
+You can find office hours for all CS faculty [here](https://www.cs.montana.edu/office-hours.html).
 
 ### SmartyCats
 
