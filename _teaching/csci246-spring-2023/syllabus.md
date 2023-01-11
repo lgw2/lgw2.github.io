@@ -102,7 +102,10 @@ announcements.
 
 ### Instructor office hours
 
-TBD.
+My office hours are Thursdays and Fridays, 3-4:30 in the CS Success Center
+(Barnard 259). You can also contact me on Discord to set up a
+different meeting time, or drop by my office (Barnard 359) if my door is open.
+You can find office hours for all CS faculty [here](https://www.cs.montana.edu/office-hours.html).
 
 ### SmartyCats
 
