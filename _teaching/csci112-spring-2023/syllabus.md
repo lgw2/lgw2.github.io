@@ -29,7 +29,7 @@ Schedule subject to change.
 | Friday 2/17    |Arrays      |7      |      |Lab 2      |
 | Monday 2/20    | President's day --- no class |      |      |      |
 | Wednesday 2/22 |Review      |      |      |      |
-| Friday 2/24    |Test 1 --- in class      |      |      |Lab 3      |
+| Friday 2/24    |Quiz 1 on D2L --- no class  |      |      |Lab 3      |
 | Monday 2/27    |Pointers   |6      |Classwork 10      |      |
 | Wednesday 3/1  |Pointers   |6      |Classwork 11      |      |
 | Friday 3/3     |Pointers   |6      |      |      |
@@ -40,11 +40,11 @@ Schedule subject to change.
 | Monday 3/20    |Makefiles      |      |Classwork 14      |      |
 | Wednesday 3/22 |Structs      |      |Classwork 15      |      |
 | Friday 3/24    |Review      |      |      |Program 1      |
-| Monday 3/27    |Test 2 --- in class      |      |      |      |
+| Monday 3/27    |Quiz 2 on D2L --- no class|      |      |      |
 | Wednesday 3/29 |Intro C++|      |Classwork 16      |      |
-| Friday 3/31    |C++ strings      |      |Classwork 17      |      |
-| Monday 4/3     |C++ strings      |      |Classwork 18      |      |
-| Wednesday 4/5  |Vectors      |      |      |      |
+| Friday 3/31    |C++ strings      |      |      |      |
+| Monday 4/3     |C++ strings      |      |Classwork 17      |      |
+| Wednesday 4/5  |Vectors      |      |Classwork 18      |      |
 | Friday 4/7     |University day --- no class      |      |      |      |
 | Monday 4/10    |Errors/exception handling|  |Classwork 19      |      |
 | Wednesday 4/12 |Classes      |      |Classwork 20      |      |
@@ -58,7 +58,7 @@ Schedule subject to change.
 | Monday 5/1     |C++ memory management      |      |      |      |
 | Wednesday 5/3  |Building vector from scratch      |      |      |      |
 | Friday 5/5     |Review      |      |      |Program 2      |
-| Monday 5/8 |Final --- 8-9:50am   |      |      |      |
+| Monday 5/8 |Final quiz on D2L--- extra office hours 8-9:50am   |      |      |      |
 
 ## Catalog description
 
@@ -271,16 +271,12 @@ time.
 
 What I can do:
 * Grade promptly (exact guarantees TBD).
-* Post assignments well in advance (at least one week before due date for labs;
-	at least two weeks before due date for projects).
-* Respond to all Discord messages within one business day.
+* Post assignments well in advance (at least two weeks before due date for labs;
+	at least three weeks before due date for programs).
+* Respond to all Discord messages and emails within one business day.
 * Create a course atmosphere conducive to learning by respecting
 all of my students and being
 enthusiastic about course material and my role in helping you learn.
-
-## Acknowledgments
-
-Thanks to Daniel DeFrance for sharing his syllabus with me.
 
 ## Copyright statement
 
