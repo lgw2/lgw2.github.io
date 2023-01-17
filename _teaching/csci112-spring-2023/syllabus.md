@@ -75,6 +75,10 @@ Discord as the primary method of course communication, and all course
 information will be posted on this website or on the Discord server; D2L will
 be used *only* for grading.
 
+Note that this class is for Computer Science and Computer Engineering majors.
+If you are not one of those majors, you should take CSCI 109 instead of this
+course.
+
 ## Course Resources
 
 ### Textbook
@@ -111,9 +115,11 @@ programs on. Details for how to access the server can be found on the
 At the end of the semester, I ask students what their advice for students who
 will be taking this class in the future is. [Here's](https://docs.google.com/document/d/1_LzKcU1-jvHh8P8MJaxYzXBP0dJPxXOIVVaayRhDVKk/edit?usp=sharing) the compiled advice. There are some changes to the course this semester, but a lot of the advice is still relevant.
 
-### Open lab and course assistants
+### Optional open lab and TAs
 
-There are four lab sections, all of which meet on Fridays in the CS Success Center (Barnard Hall 254). Your assigned TA (who will grade your work) will be present during their assigned hours, so you may want to go to that time; however, you can go during whatever time is best for you. You should contact your TA via Discord if you have any questions about grading or need extra help.
+There is an optional open lab on Fridays in the CS Success Center (Barnard Hall 254) from 10am to 4pm. Your assigned TA (who will grade your work) will be present during their assigned hours, so you may want to go to that time; however, you can go during whatever time is best for you. You should contact your TA via Discord if you have any questions about grading or need extra help.
+*Note that there is no lab during the first week of classes (Friday, January
+20th)!*
 
 * 001:
 * 002:
