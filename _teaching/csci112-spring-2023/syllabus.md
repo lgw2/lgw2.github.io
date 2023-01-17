@@ -153,13 +153,12 @@ There are free tutors available in Barnard 259. More information [here](https://
 
 All course communication will be through our course Discord server. See D2L
 announcement for link. Please [change your nickname](https://support.discord.com/hc/en-us/articles/219070107-Server-Nicknames#:~:text=If%20you're%20on%20the,new%20nickname%20of%20your%20choice!) to your full name (first
-and last).
+and last). *Do not post
 
 ## Course outcomes
 By the end of the course, students should be able to:
 * Navigate a Linux operating system using the command line.
 * Use `vim` to edit files.
-* Use `git` to version control their work.
 * Write code using C syntax.
 * Build computer programs using the C language.
 * Take advantage of major capabilities of the C language, including pointers, dynamic memory allocation and structs.
