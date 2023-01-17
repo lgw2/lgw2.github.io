@@ -53,7 +53,7 @@ Schedule subject to change.
 | Wednesday 4/19 |Classes      |      |Classwork 22      |      ||
 | Friday 4/21    |Reference variables      |      |      |Lab 6      ||
 | Monday 4/24    |Inheritance      |      |Classwork 23      |      ||
-| Wednesday 4/26 |Inheritance      |      |      |Classwork 24      ||
+| Wednesday 4/26 |Inheritance      |      |Classwork 24    |      ||
 | Friday 4/28 |Inheritance      |      |      |Lab 7      ||
 | Monday 5/1     |C++ memory management      |      |      |      ||
 | Wednesday 5/3  |Building vector from scratch      |      |      |      ||
@@ -94,12 +94,24 @@ know and I'll put them up here.
 I also use *A Tour of C++* by Bjarne Stroustrup (the author of C++) as a
 reference during the C++ portion of the course.
 
+### Course Linux server
+
+We have a shared course server for you to develop, compile, and run your C
+programs on. Details for how to access the server can be found on the
+[Classwork 1 page](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork1/). Here is some additional information:
+* If you have three unsuccessful login attempts, you will be blocked from the
+	server for one hour. Try not to mistype your password! But if this does
+	happen, DM me and if I'm available I will unblock you.
+* The data on the server is backed up every morning. If you lose your code and
+	want to access what you had when the backup happened, DM me on Discord and
+	I will help you get it.
+
 ### Advice from previous students
 
 At the end of the semester, I ask students what their advice for students who
 will be taking this class in the future is. [Here's](https://docs.google.com/document/d/1_LzKcU1-jvHh8P8MJaxYzXBP0dJPxXOIVVaayRhDVKk/edit?usp=sharing) the compiled advice. There are some changes to the course this semester, but a lot of the advice is still relevant.
 
-### Course assistants
+### Open lab and course assistants
 
 There are four lab sections, all of which meet on Fridays in the CS Success Center (Barnard Hall 254). Your assigned TA (who will grade your work) will be present during their assigned hours, so you may want to go to that time; however, you can go during whatever time is best for you. You should contact your TA via Discord if you have any questions about grading or need extra help.
 
@@ -107,8 +119,6 @@ There are four lab sections, all of which meet on Fridays in the CS Success Cent
 * 002:
 * 003:
 * 004:
-
-We also have 495 consultants to answer questions during lab.
 
 ### Lecture videos
 
