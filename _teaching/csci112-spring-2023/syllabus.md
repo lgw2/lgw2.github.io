@@ -13,7 +13,7 @@ Schedule subject to change.
 
 |Date|Lecture Topic (notes linked)|Textbook Chapter|Classwork Due|Program/Lab Due|Video|
 |:---|:---|:---|:-|:---|:---|
-|Wednesday 1/18|Intro & syllabus; course server|||||
+|Wednesday 1/18|Intro & syllabus||||[vid1](https://montana.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=4e5bb230-6655-46f4-8f8a-af8e0125c460)|
 | Friday 1/20    |Intro to Linux & vim; classwork submission setup||[Classwork 1](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork1/)|||
 | Monday 1/23    |Intro to C; more Linux & vim|2.1 |[Classwork 2](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork2/) |  ||
 | Wednesday 1/25 |Computer hardware and software; more intro to C|1, 2.1-2.6      |[Classwork 3](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork3/)      |      ||
@@ -210,7 +210,7 @@ you are having any problems.* We want you to succeed!
 * You are responsible for any announcements about assignments  made in class, on Discord, on D2L,  and here
 	on the course website.
 * All assignments are due on their due date by the [Anywhere on Earth (AoE)
-	timezone](https://www.timeanddate.com/time/zones/aoe), which is 6 hours behind Bozeman (Actually, it's only 5 hours behind during standard time, but we'll go with 6 hours behind). This means that the real due
+	timezone](https://www.timeanddate.com/time/zones/aoe), which is 6 hours behind Bozeman (Actually, it's only 5 hours behind during standard time, but we'll go with 6 hours behind at all times). This means that the real due
 	date is 6am the following day. If you submit labs and programs  within 24 hours of the due date, you get 25% off of whatever score you earn. If you
 	submit within two days of the due date you get 50% off.
 	Otherwise, no points are possible.
