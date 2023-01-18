@@ -18,9 +18,9 @@ Schedule subject to change.
 | Monday 1/23    |Intro to C; more Linux & vim|2.1 |[Classwork 2](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork2/) |  ||
 | Wednesday 1/25 |Computer hardware and software; more intro to C|1, 2.1-2.6      |[Classwork 3](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork3/)      |      ||
 | Friday 1/27    |More intro to C; more vim |2.1-2.6      |      |      ||
-| Monday 1/30    |Precedural vs. object oriented programming; formatting output; functions|3.1-3.5      |Classwork 4      |      ||
+| Monday 1/30    |Procedural vs. object oriented programming; formatting output; functions|3.1-3.5      |Classwork 4      |      ||
 | Wednesday 2/1  |If statements      |4.1-4.7   |Classwork 5      |      ||
-| Friday 2/3     |Switch statements   |4.8   |      |Maybe Lab 0 (for Gradescope submisison setup)||
+| Friday 2/3     |Switch statements   |4.8   |      |Maybe Lab 0 (for Gradescope submission setup)||
 | Monday 2/6     |Loops      |5.1-5.8|Classwork 6      |      ||
 | Wednesday 2/8  |Text input/output      |11.1      |Classwork 7  |      ||
 | Friday 2/10    |Conditional operator; maybe tmux |      |      |Lab 1      ||
@@ -202,7 +202,7 @@ the semester.
 
 ### Late assignment policies
 To run a course of this size we cannot accommodate individual requests for
-extensions on assignmnts; therefore, we have strict rules for when assignments
+extensions on assignments; therefore, we have strict rules for when assignments
 are due, but have some leeway built in. Please read the bullet points below carefully,
 respect the policy, and *get help early if
 you are having any problems.* We want you to succeed!
