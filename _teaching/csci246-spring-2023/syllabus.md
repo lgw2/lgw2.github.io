@@ -180,8 +180,8 @@ you are having any problems.* We want you to succeed!
 * You are responsible for any announcements about assignments  made in class, on Discord, on D2L,  and here
 	on the course website.
 * All assignments are due on their due date by the [Anywhere on Earth (AoE)
-	timezone](https://www.timeanddate.com/time/zones/aoe), which is 6 hours behind Bozeman. (This means that the real due
-	date is 6am the following day.) If you submit within 24 hours of the due date, you get 25% off of whatever score you earn. If you
+	timezone](https://www.timeanddate.com/time/zones/aoe), which is 6 hours behind Bozeman (Actually, it's only 5 hours behind during standard time, but we'll go with 6 hours behind at all times). This means that the real due
+	date is 6am the following day. If you submit labs and programs  within 24 hours of the due date, you get 25% off of whatever score you earn. If you
 	submit within two days of the due date you get 50% off.
 	Otherwise, no points are possible.
 * You can submit as many times as you would like; only your last submission will be
@@ -209,7 +209,7 @@ You may not:
 
 In line with the [MSU student code of conduct](https://www.montana.edu/policy/student_conduct/#academichonesty), if I or the teaching assistants suspect that you have committed academic misconduct, we will schedule a meeting with you to discuss. If, after the meeting, we believe that you did commit academic misconduct, you will receive a 0 on the assignment and I will submit a report to the Dean of Students. It's just not worth it to cheat in this course.
 
-### Important dates
+## Important dates
 
 The last day to drop the course online (with no instructor or advisor approval)
 is January 31st. The last day to drop without a W grade (instructor or advisor
