@@ -11,7 +11,7 @@ location: "Bozeman, Montana"
 
 Schedule subject to change.
 
-|Date|Lecture Topic (slides/notes linked)|Textbook Chapter|Classwork Due|Program/Lab Due|Video|
+|Date|Lecture Topic (notes linked)|Textbook Chapter|Classwork Due|Program/Lab Due|Video|
 |:---|:---|:---|:-|:---|:---|
 |Wednesday 1/18|Intro & syllabus; course server|||||
 | Friday 1/20    |Intro to Linux & vim; classwork submission setup||[Classwork 1](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork1/)|||

@@ -1,48 +1,49 @@
 ---
 collection: teaching
-title: "Lecture 2: Java vs. Python"
+title: "Lecture 2: C basics"
 ---
 
-Today, we'll learn more about Java by comparing it to what we already know
-about Python.
+Today, we start to learn about the C programming language.
 
-[lecture video](https://youtu.be/KGI9kZirTqI)
+### Hardware and software
+[video](https://youtu.be/7TJ-VBRwopE)
 
+[slides](https://lgw2.github.io/teaching/csci112-summer-2021/lectures/ch1.pdf)
 
-### What we need for a Java program
-* Every Java program must define a class, and all code is inside a class
-* Everything in Java must have a type
-* Every Java program must have a function called 'public static void main(String[] args)'
-* [a dissected java program](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/prog.pdf)
-* Semicolons and curly braces (`{}`) are needed to end statements and define
-	code blocks
+Optional reading: chapter 1
 
-### Eclipse hints & Java conventions
-* Check the "public static void main(String[] args)" box to automatically
-	create a main method
-* Java classes should start with capital letter
+Key ideas:
+* Hardware: memory cells, bits, bytes, memory addresses, RAM vs. ROM, CPU
+* Software: operating systems, application software
+* Computer languages: machine language, assembly language, high level
+	languages
+* Compiling your C programs: source file, compiler, object file, linker,
+	executable file
 
-### Data types in Java
-* Primitive data types (`int`, `char`, etc)
-* Classes & objects
-* `String` class
+### C overview
+[video 1](https://youtu.be/8iNA6w1m6eU)
 
-### Comparing a Python program and a Java program
-The following Python program gets a temperature in Fahrenheit from the user and prints
-it in Celcius.
-```
-def main():
-    fahr = int(input("Enter the temperature in F: "))
-    cel = (fahr - 32) * 5.0/9.0
-    print("the temperature in C is: ", cel)
+[video 2](https://youtu.be/J8MlBPkDA5I)
 
-main()
-```
+Optional reading: chapter 2.1-2.6
 
-### What's going on behind the IDE?
-* You can run Python in the interpreter...but not Java programs
-* Java is compiled
+Key ideas:
+* Parts of a C program: preprocessor directives (`#include` and `#define`), main function, declarations vs
+	executable statements
+* Variable declarations and data types
+* Use `gcc -o [executable_filename] -Wall [c_filename]` to compile your program
+	and `./[executable_filename]` to run
+* Assignment statements
+* Comments and whitespace
+* `printf` and `scanf`: placeholders (`%`), float formating
+* Newline and tab: `\n` and `\t`
+* Arithmetic expressions
 
-### Files used in class
-* [DataTypes.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/DataTypes.java)
-* [TempConv.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/TempConv.java)
+### Programming errors
+[video](https://youtu.be/qLK5_JZtTq8)
+
+Optional reading: chapter 2.8
+
+Key ideas:
+* Four different types of errors: syntax errors, runtime errors, undetected
+	errors, and logic errors
