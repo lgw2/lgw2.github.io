@@ -18,8 +18,7 @@ title: "Classwork 1: Getting started with Linux, vim, and the course server"
 
 ## Assignment
 
-* If on Windows, download [Cygwin](https://www.cygwin.com/) (see
-	"Installing Cygwin" section), open it, and use as you would the Mac/Linux
+* If on Windows, download [Cygwin](https://www.cygwin.com/), open it, and use as you would the Mac/Linux
 	terminal in the next step.
 * Log in to the server: open a terminal window and type
 
