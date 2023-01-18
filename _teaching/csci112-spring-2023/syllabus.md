@@ -13,7 +13,7 @@ Schedule subject to change.
 
 |Date|Lecture Topic (notes linked)|Textbook Chapter|Classwork Due|Program/Lab Due|Video|
 |:---|:---|:---|:-|:---|:---|
-|Wednesday 1/18|Intro & syllabus||||[vid1](https://montana.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=4e5bb230-6655-46f4-8f8a-af8e0125c460)|
+|Wednesday 1/18|Intro & syllabus||||[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=546c98c8-86d4-4f36-875d-af8e0125ebfa)|
 | Friday 1/20    |Intro to Linux & vim; classwork submission setup||[Classwork 1](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork1/)|||
 | Monday 1/23    |Intro to C; more Linux & vim|2.1 |[Classwork 2](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork2/) |  ||
 | Wednesday 1/25 |Computer hardware and software; more intro to C|1, 2.1-2.6      |[Classwork 3](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork3/)      |      ||
