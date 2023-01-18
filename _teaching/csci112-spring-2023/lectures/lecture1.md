@@ -1,41 +1,24 @@
 ---
 collection: teaching
-title: "Lecture 1: Intro to the course & getting started with Java"
+title: "Lecture 1: Getting started with Linux and vim"
 ---
 
-Today, we'll go through the course syllabus and learn how to install Java on
-our machines. We'll also see our first Java program.
+### Linux
 
-[lecture audio](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/day1.mp4) (forgot to record screen)
+* Linux commands: `pwd`, `ls` (`ls -a`), `cd`, `mkdir`, `rm`, `touch`, `man`,
+	`cp`, `mv`, Ctrl `c`, ctrl `d`, tab completion
+* Some basic Linux commands: [https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners](https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners)
 
-### Getting set up to write Java programs
+### Using vim and creating your vimrc
 
-* Download and install the [Java JDK](https://www.oracle.com/java/technologies/downloads/#java17). For Mac, choose the `.dmg` extension. For
-	Windows, choose the `.exe` extension.
-* Download and install the [Eclipse Integrated Development Environment](https://www.eclipse.org/) (IDE). When prompted by the installer, select "Eclipse IDE for Java Developers"
+Key ideas:
+* Run `vimtutor` and get through Lesson 4 to practice vim commands
+* `.vimrc` file holds all of your `vim` configuration
 
-Note: you can use other IDEs such as [Netbeans](https://netbeans.apache.org/)
-or [IntelliJ](https://www.jetbrains.com/idea/) or compile and run Java programs
-using the command line; however, all class demonstrations will be done in
-Eclipse, so the easiest way to keep up with the class will be to use that.
-
-### Running your first Java program
-
-Follow these steps:
-* open Eclipse
-* create a new Java project (uncheck "Create module-info.java file")
-* inside the `src` folder, create a new Package
-* inside the Package, create a new Class
-* use the green play button to run
-
-### Files used in class
-
-[HelloWorld.java](https://lgw2.github.io/teaching/csci132-fall-2022/lectures/HelloWorld.java)
-
-### Why Java?
-
-* Learn a new language
-* Used in industry
-* Good for collaboration
-* Fast
-* Large standard library
+Additional links and resources:
+* Browser-based vim game to practice the vim keystrokes: [https://vim-adventures.com/](https://vim-adventures.com/) (if you
+	get stuck, feel free to use Google to see how you're supposed to get
+	through a section...)
+* A vimrc tutorial: [https://linuxhint.com/vimrc_tutorial/](https://linuxhint.com/vimrc_tutorial/)
+* Some more vim commands:
+	[https://dev.to/prodopsio/vim-a-to-z-literally-1iah](https://dev.to/prodopsio/vim-a-to-z-literally-1iah)
