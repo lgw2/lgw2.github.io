@@ -9,6 +9,8 @@ title: "Classwork 1: Getting started with Linux, vim, and the course server"
 	`/classwork/week1/fri/` directory.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
 	this assignment.
+* You get 10 points if your output perfectly matches the sample and 0
+	otherwise.
 
 ## Learning outcomes
 * Be able to `ssh` into the course server and use basic Linux commands to
@@ -43,4 +45,8 @@ expected content. As long as your file is in the correct place and named
 correctly, this means that you will get full credit for the assignment.
 
 ## Grading turnaround
-TBD.
+
+Preliminary scores via autograder will be present in your
+`/classwork/week1/fri` directory in the `autograder.txt` file at the end of
+class and at 5pm. Final scores will be run at 6am Saturday and scores will be
+uploaded to D2L by class time Monday.
