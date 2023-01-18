@@ -76,6 +76,18 @@ Discord as the primary method of course communication, and all course
 information will be posted on this website or on the Discord server; D2L will
 be used *only* for grading.
 
+In an ideal world, your participation in this course would look like this:
+* Before lecture, skim the recommended reading (about 15 minutes per lecture).
+* Attend lecture, taking notes and asking questions as you have them (about 50 minutes per lecture).
+* Do the drills on D2L each week to get independent practice with vocabulary,
+	notation, and high-level concepts (20-60 minutes per week).
+* Complete the homework assignments to get independent practice developing
+	proofs and writing them up clearly (4-15 hours each, about every two
+	weeks).
+* Reference the textbook, lecture notes, and lecture videos, and attend
+	instructor office hours, use tutoring services, or visit the CS Success
+	center as needed.
+
 ## Course Resources
 
 ### Textbook
@@ -98,7 +110,8 @@ TBD.
 Lectures are recorded and available to watch after class. However, if there are
 technical difficulties recording a lecture, it will not be re-recorded, so come
 to class when you can to make sure that you do not miss course content or
-announcements.
+announcements. Videos are linked in the schedule above, or you can access them
+through the [Panopto folder](https://montana.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=faf37315-500c-4fcd-abe6-af8e015819e9).
 
 ### Instructor office hours
 
@@ -122,7 +135,7 @@ There are free tutors available in Barnard 259. More information [here](https://
 All course communication will be through our course Discord server. See D2L
 announcement for link. Please [change your nickname](https://support.discord.com/hc/en-us/articles/219070107-Server-Nicknames#:~:text=If%20you're%20on%20the,new%20nickname%20of%20your%20choice!) to your full name (first
 and last). Additionally, I suggest managing your notification settings. Check
-out Discord's [Notification Settings 101 page](https://support.discord.com/hc/en-us/articles/215253258-Notifications-Settings-101) to get started. You may also need to manage the application notification settings your device.
+out Discord's [Notification Settings 101 page](https://support.discord.com/hc/en-us/articles/215253258-Notifications-Settings-101) to get started. You may also need to manage the application notification settings on your device.
 
 ## Course outcomes
 By engaging with this course through attending lectures and completing
