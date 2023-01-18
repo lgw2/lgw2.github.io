@@ -15,7 +15,7 @@ Schedule subject to change.
 |:---|:---|:---|:-|:---|:---|
 |Wednesday 1/18|Intro & syllabus; course server|||||
 | Friday 1/20    |Intro to Linux & vim; classwork submission setup||[Classwork 1](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork1/)|||
-| Monday 1/23    |Intro to C; more Linux & vim| |[Classwork 2](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork2/) |  ||
+| Monday 1/23    |Intro to C; more Linux & vim|2.1 |[Classwork 2](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork2/) |  ||
 | Wednesday 1/25 |Computer hardware and software; more intro to C|1, 2.1-2.6      |[Classwork 3](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork3/)      |      ||
 | Friday 1/27    |More intro to C; more vim |2.1-2.6      |      |      ||
 | Monday 1/30    |Precedural vs. object oriented programming; formatting output; functions|3.1-3.5      |Classwork 4      |      ||

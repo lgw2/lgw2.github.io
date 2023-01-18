@@ -9,7 +9,7 @@ author_profile: false
 I am teaching this course in the spring of 2023. All course information can be
 found [here](https://lgw2.github.io/teaching/csci246-spring-2023/syllabus/).
 
-Description from course catalog: *AThis course covers logic, discrete probability, recurrence relations, Boolean algebra, sets, relations, counting, functions, maps, Big-O notation, proof techniques including induction, and proof by contradiction.
+Description from course catalog: *This course covers logic, discrete probability, recurrence relations, Boolean algebra, sets, relations, counting, functions, maps, Big-O notation, proof techniques including induction, and proof by contradiction.*
 
 ## CSCI 132: Basic Data Structures & Algorithms
 
