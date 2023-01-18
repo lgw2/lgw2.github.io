@@ -121,7 +121,8 @@ There are free tutors available in Barnard 259. More information [here](https://
 
 All course communication will be through our course Discord server. See D2L
 announcement for link. Please [change your nickname](https://support.discord.com/hc/en-us/articles/219070107-Server-Nicknames#:~:text=If%20you're%20on%20the,new%20nickname%20of%20your%20choice!) to your full name (first
-and last).
+and last). Additionally, I suggest managing your notification settings. Check
+out Discord's [Notification Settings 101 page](https://support.discord.com/hc/en-us/articles/215253258-Notifications-Settings-101) to get started. You may also need to manage the application notification settings your device.
 
 ## Course outcomes
 By engaging with this course through attending lectures and completing
