@@ -13,7 +13,7 @@ Schedule subject to change.
 
 |Date|Lecture Topic (notes linked)|Recommended Reading|Homework Due (via Gradescope)|Drill Due (via D2L)|Video|
 |:---|:---|:---|:---|:---|
-|Wednesday 1/18|Intro & syllabus|1||||
+|Wednesday 1/18|Intro & syllabus|1|||[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=617abde1-4ced-4427-b1cd-af8e015cd798)|
 | Friday 1/20    |Direct proofs; disproof by example  |4.3, 2.2.1-2.2.3, 2.2.6|      |Drill 1      ||
 | Monday 1/23    |Proof by cases; intro to sets      |4.3, 2.3      |      |      ||
 | Wednesday 1/25 |Sets part 1      |2.3      |      |      ||
