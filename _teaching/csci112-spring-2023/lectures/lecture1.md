@@ -65,7 +65,8 @@ You'll also want to be familiar with the following functionality and ideas:
 
 ### Additional resources
 
-There are plenty of Linux and shell tutorials out there. Googling "Linux
+There are plenty of Linux and shell tutorials out there. The one that I
+recommend most is the MIT Missing Semester [shell lecture page](https://missing.csail.mit.edu/2020/course-shell/), but Googling "Linux
 tutorial" will probably do you just fine. Additionally, if you have a task you
 know you want to do, Googling that will probably work too. For example, say you
 want to know how to count the number of lines in a file, you could Google
