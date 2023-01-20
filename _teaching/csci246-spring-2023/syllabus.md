@@ -14,7 +14,7 @@ Schedule subject to change.
 |Date|Lecture Topic (notes linked)|Recommended Reading|Homework Due (via Gradescope)|Drill Due (via D2L)|Video|
 |:---|:---|:---|:---|:---|
 |Wednesday 1/18|Intro & syllabus|1|||[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=617abde1-4ced-4427-b1cd-af8e015cd798)|
-| Friday 1/20    |Direct proofs; disproof by example [(notes from class)](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/Direct Proofs And Disproofs By Counter example.pdf) [(complete notes)](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/Direct Proofs, Disproofs By Example.pdf)  |4.3, 2.2.1-2.2.3, 2.2.6|      |Drill 1      |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f3bfa715-3306-4ef1-91b9-af90015ce7b9)|
+| Friday 1/20    |Direct proofs; disproof by example [(notes from class)](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/classnotes1.pdf) [(complete notes)](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/lecture1.pdf)  |4.3, 2.2.1-2.2.3, 2.2.6|      |Drill 1      |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f3bfa715-3306-4ef1-91b9-af90015ce7b9)|
 | Monday 1/23    |Proof by cases; intro to sets      |4.3, 2.3      |      |      ||
 | Wednesday 1/25 |Sets part 1      |2.3      |      |      ||
 | Friday 1/27    |Sets part 2      |2.3      |      |Drill 2 ||
