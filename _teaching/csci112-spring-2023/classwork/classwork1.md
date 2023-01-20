@@ -25,7 +25,7 @@ title: "Classwork 1: Getting started with Linux, vim, and the course server"
 * Log in to the server: open a terminal window and type
 
 ```
-ssh [netid]@csci112.cs.montana.edu
+ssh <netid>@csci112.cs.montana.edu
 ```
 
 * Enter your netid password when prompted.
