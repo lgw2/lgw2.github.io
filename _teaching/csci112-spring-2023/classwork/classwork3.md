@@ -30,7 +30,7 @@ P(t) = 52.966 + 2.184t
 ```
 where `t` is years after 1990, and `P` is population in thousands. Thus, `P(0)`
 represents the population in 1990, which was 52.966 thousand people. Write a
-program that defines a function named `get_population` that takes in a an `int` for the
+program that defines a function named `get_population` that takes in an `int` for the
 years after 1990 and returns a `double` for the population (in thousands). Your program should call
 the function and interact with the user as follows:
 ```
@@ -49,7 +49,7 @@ Predicted Gotham City population for 2015 (in thousands):
 ```
 gcc -o exe -Wall gotham.c
 ./exe < /public/classwork/week2/wed/test_input.txt > output.txt
-diff output.txt /public/classwork/week2/wed/expected_output.txt
+diff ~/classwork/week2/wed/output.txt /public/classwork/week2/wed/expected_output.txt
 ```
 You will see any warnings during compilation and any differences between your output and the expected output on the
 screen. If nothing happens, the content of your output file exactly matches the
@@ -57,4 +57,7 @@ expected content and there were no warnings when compiling. As long as your file
 correctly, this means that you will get full credit for the assignment.
 
 ## Grading turnaround
-TBD.
+Preliminary results via autograder will be present in the appropriate classwork
+directory in the `autograder.txt` file at the end of
+class and refereshed at 5pm. Final grading will be run at 6am tomorrow and scores will be
+uploaded to D2L by the next class period.
