@@ -1,49 +1,52 @@
 ---
 collection: teaching
-title: "Lecture 2: C basics"
+title: "Lecture 1: Intro to C; more Linux & vim"
 ---
 
-Today, we start to learn about the C programming language.
+## About the C programming language
 
-### Hardware and software
-[video](https://youtu.be/7TJ-VBRwopE)
+C was developed in 1972 by Dennis Richie. Why do we still use it (and teach
+it)?
+* Most common programming languages today are based on C.
+* It has fast runtime performance.
+* A lot of software that is still used today is written in C --- both software
+	that was developed in the past and software that was developed recently.
+* It allows unchecked access to computer memory.
 
-[slides](https://lgw2.github.io/teaching/csci112-summer-2021/lectures/ch1.pdf)
+## Creating an executable C program
 
-Optional reading: chapter 1
+C (like Java, Python, and likely all other programming languages that you have
+used) is a high-level programming language, meaning that it is abstracted away
+from the details of the computer, using more natural language. High-level
+languages deal with things like variables, functions, arrays, etc., whereas
+low-level programming languages deal with things like registers, memory
+addresses, and call stacks --- basic parts of a computer and its operating
+system.
 
-Key ideas:
-* Hardware: memory cells, bits, bytes, memory addresses, RAM vs. ROM, CPU
-* Software: operating systems, application software
-* Computer languages: machine language, assembly language, high level
-	languages
-* Compiling your C programs: source file, compiler, object file, linker,
-	executable file
+Because C is a high-level programming language, in order to be run, it is first
+compiled into machine code that can be directly executed by the computer.
 
-### C overview
-[video 1](https://youtu.be/8iNA6w1m6eU)
+```
+insert image from book
+```
 
-[video 2](https://youtu.be/J8MlBPkDA5I)
+For now, we will write our C source code in a single file (by convention, with the
+file extension `.c`) and compile them directly into executable files. We now
+explain each part of the command we can use to compile our files:
+* We use the `gcc` compiler
+* with the `-o`option to specify the name of the executable to create.
+If  you don't use `-o`, your executable will be called `a.out`.
+* In this course, we also use the `-Wall` flag to specify that we want warnings to be displayed.
+* Finally, we include the file containing the source code.
 
-Optional reading: chapter 2.1-2.6
+Thus, to compile C source code in `hello_world.c` to an executable file `hello_world`,
+we can run
+```
+gcc -o hello_world -Wall hello_world.c
+```
 
-Key ideas:
-* Parts of a C program: preprocessor directives (`#include` and `#define`), main function, declarations vs
-	executable statements
-* Variable declarations and data types
-* Use `gcc -o [executable_filename] -Wall [c_filename]` to compile your program
-	and `./[executable_filename]` to run
-* Assignment statements
-* Comments and whitespace
-* `printf` and `scanf`: placeholders (`%`), float formating
-* Newline and tab: `\n` and `\t`
-* Arithmetic expressions
+## Basic elements of a C program
 
-### Programming errors
-[video](https://youtu.be/qLK5_JZtTq8)
-
-Optional reading: chapter 2.8
-
-Key ideas:
-* Four different types of errors: syntax errors, runtime errors, undetected
-	errors, and logic errors
+```
+insert image from book
+```

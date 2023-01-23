@@ -266,6 +266,8 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+plugins:
+  - jekyll-spaceship
 
 
 # Archives

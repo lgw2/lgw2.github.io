@@ -42,7 +42,7 @@ You can check that you will get full credit for this assignment by compiling
 ```
 gcc -o exe -Wall hello_world.c
 ./exe > output.txt
-diff output.txt /public/classwork/week2/mon/expected_output.txt
+diff ~/classwork/week2/mon/output.txt /public/classwork/week2/mon/expected_output.txt
 ```
 You will see any warnings during compilation and any differences between your output and the expected output on the
 screen. If nothing happens, the content of your output file exactly matches the
@@ -50,4 +50,7 @@ expected content and there were no warnings when compiling. As long as your file
 correctly, this means that you will get full credit for the assignment.
 
 ## Grading turnaround
-TBD.
+Preliminary results via autograder will be present in the appropriate classwork
+directory in the `autograder.txt` file at the end of
+class and refereshed at 5pm. Final grading will be run at 6am tomorrow and scores will be
+uploaded to D2L by the next class period.
