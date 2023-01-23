@@ -19,16 +19,16 @@ Schedule subject to change.
 | Monday 1/23    |Proof by cases; intro to sets      |4.3, 2.3      |      |      ||
 | Wednesday 1/25 |Sets part 1      |2.3      |      |      ||
 | Friday 1/27    |Sets part 2      |2.3      |      |Drill 2 ||
-| Monday 1/30    |Proofs by contradiction      |      |[Homework 1](https://lgw2.github.io/teaching/csci246-spring-2023/homework/hw1.pdf)      | ||
+| Monday 1/30    |Proofs by contradiction      |      || ||
 | Wednesday 2/1  |Propositional logic      |      |      |      ||
 | Friday 2/3     |More propositional logic      |      |      |Drill 3      ||
-| Monday 2/6     |Proofs by contrapositive|      |      |      ||
+| Monday 2/6     |Proofs by contrapositive|      |[Homework 1](https://lgw2.github.io/teaching/csci246-spring-2023/homework/hw1.pdf)            |      ||
 | Wednesday 2/8  |Introduction to predicate logic      |      |      |      ||
 | Friday 2/10    |Proofs in predicate logic  |      |      |Drill 4      ||
-| Monday 2/13    |Broken proofs|      |Homework 2      |      ||
+| Monday 2/13    |Broken proofs|      |      |      ||
 | Wednesday 2/15 |Functions      |      |      |      ||
 | Friday 2/17    |More on functions; proof by construction      |      |      |Drill 5      ||
-| Monday 2/20    | President's day --- no class |      |      |      ||
+| Monday 2/20    | President's day --- no class |      |      |Homework 2      ||
 | Wednesday 2/22 |Review as needed      |      |      |      ||
 | Friday 2/24    |Quiz in class      |      |      |no drill      ||
 | Monday 2/27    |Pigeonhole principle      |      |      |      ||
