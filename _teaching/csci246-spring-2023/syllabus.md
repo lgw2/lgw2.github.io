@@ -14,7 +14,7 @@ Schedule subject to change.
 |Date|Lecture Topic (notes linked)|Recommended Reading|Homework Due (via Gradescope)|Drill Due (via D2L)|Video|
 |:---|:---|:---|:---|:---|
 |Wednesday 1/18|Intro & syllabus|1|||[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=617abde1-4ced-4427-b1cd-af8e015cd798)|
-| Friday 1/20    |Direct proofs; disproof by example [(notes from class)](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/classnotes1.pdf) [(complete notes)](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/lecture1.pdf) [(lecture extras)](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/extras.pdf) |4.3, 2.2.1-2.2.3, 2.2.6|      |Drill 1      |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f3bfa715-3306-4ef1-91b9-af90015ce7b9)|
+| Friday 1/20    |Direct proofs; disproof by example [(notes from class)](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/classnotes1.pdf) [(complete notes)](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/lecture1.pdf)|4.3, 2.2.1-2.2.3, 2.2.6|      |Drill 1      |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f3bfa715-3306-4ef1-91b9-af90015ce7b9)|
 | Monday 1/23    |Proof by cases; intro to sets      |4.3, 2.3      |      |      ||
 | Wednesday 1/25 |Sets part 1      |2.3      |      |      ||
 | Friday 1/27    |Sets part 2      |2.3      |      |Drill 2 ||
@@ -27,7 +27,7 @@ Schedule subject to change.
 | Monday 2/13    |Broken proofs|      |      |      ||
 | Wednesday 2/15 |Functions      |      |      |      ||
 | Friday 2/17    |More on functions; proof by construction      |      |      |Drill 5      ||
-| Monday 2/20    | President's day --- no class |      |      |Homework 2      ||
+| Monday 2/20    | President's day --- no class |      |Homework 2      |      ||
 | Wednesday 2/22 |Review as needed      |      |      |      ||
 | Friday 2/24    |Quiz in class      |      |      |no drill      ||
 | Monday 2/27    |Pigeonhole principle      |      |      |      ||
