@@ -15,7 +15,7 @@ Schedule subject to change.
 |:---|:---|:---|:-|:---|:---|
 |Wednesday 1/18|Intro & syllabus||||[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=546c98c8-86d4-4f36-875d-af8e0125ebfa)|
 | Friday 1/20    |[Course server; intro Linux and vim; classwork submission setup](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/lecture1/)||[Classwork 1](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork1/)||[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8c00ebcd-3a98-41b9-9fc1-af9001077d3b)|
-| Monday 1/23    |[Intro to C](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/Chapter2.pdf/); more Linux & vim|2.1 |[Classwork 2](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork2/) |  ||
+| Monday 1/23    |[Intro to C](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/Chapter2.pdf); more Linux & vim|2.1 |[Classwork 2](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork2/) |  ||
 | Wednesday 1/25 |Computer hardware and software; more intro to C|1, 2.1-2.6      |[Classwork 3](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork3/)      |      ||
 | Friday 1/27    |More intro to C; more vim |2.1-2.6      |      |      ||
 | Monday 1/30    |Procedural vs. object oriented programming; formatting output; functions|3.1-3.5      |Classwork 4      |      ||
