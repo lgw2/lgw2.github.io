@@ -115,6 +115,49 @@ home directory like this:
 cp /public/vimrc ~/.vimrc
 ```
 
+Note that the `.` in front of the `.vimrc` is important! Vim will only look at
+your vimrc if it is saved precisely in your home directory as `.vimrc`.
+However, the `.` makes it a hidden file, so it won't show up if you're in your
+home (`cd ~` to get there if you aren't already) and do a plain `ls`. Instead,
+you need to do `ls -a` (list all, including hidden files) to see it.
+
+### `.swp` files
+
+If you're using vim, you'll inevitably run into a page like this eventually:
+
+```
+E325: ATTENTION
+Found a swap file by the name "/home/p19t655/classwork/week2/wed/.gotham.c.swp"
+          owned by: p19t65   dated: Mon Jan 23 15:15:08 2023
+         file name: ~p19t655/classwork/week2/wed/gotham.c
+          modified: YES
+         user name: p19t655   host name: csci112.cs.montana.edu
+        process ID: 301892
+While opening file "/home/p19t655/classwork/week2/wed/gotham.c"
+             dated: Mon Jan 23 17:24:23 2023
+      NEWER than swap file!
+
+(1) Another program may be editing the same file.  If this is the case,
+    be careful not to end up with two different instances of the same
+    file when making changes.  Quit, or continue with caution.
+(2) An edit session for this file crashed.
+    If this is the case, use ":recover" or "vim -r /home/p19t655/classwork/week2/wed/gotham.c"
+    to recover the changes (see ":help recovery").
+    If you did this already, delete the swap file "/home/p19t655/classwork/week2/wed/.gotham.c.swp"
+    to avoid this message.
+
+Swap file "/home/p19t655/classwork/week2/wed/.gotham.c.swp" already exists!
+[O]pen Read-Only, (E)dit anyway, (R)ecover, (D)elete it, (Q)uit, (A)bort:
+```
+
+This happens when the file you're trying to open was killed or crashed the last
+time it was opened, or if someone else is currently editing the file (unlikely
+on our course server, but maybe possible in other cases). One option is to
+press `E`, edit as you like, and then delete the `.swp` file (`rm
+`.<filename>.swp`, or `rm `.<filename>.sw*` if you also have `.swo` files that
+you want to get rid of). A more detailed
+explanation of the choices can be found on the [vim help site](https://vimhelp.org/usr_11.txt.html#swap-exists-choices).
+
 ### Additional resources
 
 There are many good vim tutorials. Here are some I recommend:
