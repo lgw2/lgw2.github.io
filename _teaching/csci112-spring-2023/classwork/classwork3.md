@@ -64,5 +64,5 @@ correctly, this means that you will get full credit for the assignment.
 ## Grading turnaround
 Preliminary results via autograder will be present in the appropriate classwork
 directory in the `autograder.txt`, refreshed every 5 minutes during class and
-every hour until 6am the following day. The 6am run is the filal grade. Scores will be
+every hour until 6am the following day. The 6am run is the final grade. Scores will be
 uploaded to D2L by the next class period.
