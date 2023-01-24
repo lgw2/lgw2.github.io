@@ -54,7 +54,7 @@ Predicted Gotham City population for 2015 (in thousands):
 ```
 gcc -o exe -Wall gotham.c
 ./exe < /public/classwork/week2/wed/test_input.txt > output.txt
-diff ~/classwork/week2/wed/output.txt /public/classwork/week2/wed/expected_output.txt
+diff -w ~/classwork/week2/wed/output.txt /public/classwork/week2/wed/expected_output.txt
 ```
 You will see any warnings during compilation and any differences between your output and the expected output on the
 screen. If nothing happens, the content of your output file exactly matches the
