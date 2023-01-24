@@ -38,11 +38,16 @@ Enter a year after 1990> 2015
 Predicted Gotham City population for 2015 (in thousands):
 107.566
 ```
+*Note that there is a new line at the end of the last line!*
 
 ### Hints
 * Develop your program in steps, checking that it compiles and runs after every
 	significant change.
 * Use comments to organize your program.
+* It is standard to include a newline (`/n`) at the end of the last line of any
+	file; thus, your final print statement should include a newline at the end.
+	If you get the error `\ No newline at end of file` in your `diff` below,
+	it's because you're missing the newline.
 * You can check that you will get full credit for this assignment by compiling
 	your program, running it and saving its output to a file, and comparing
 	that file to the example output. Specifically, do:
