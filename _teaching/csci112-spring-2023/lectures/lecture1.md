@@ -154,8 +154,7 @@ This happens when the file you're trying to open was killed or crashed the last
 time it was opened, or if someone else is currently editing the file (unlikely
 on our course server, but maybe possible in other cases). One option is to
 press `E`, edit as you like, and then delete the `.swp` file (`rm
-.<filename>.swp`, or `rm .<filename>.sw*` if you also have `.swo` files that
-you want to get rid of). A more detailed
+.<filename>.swp`). A more detailed
 explanation of the choices can be found on the [vim help site](https://vimhelp.org/usr_11.txt.html#swap-exists-choices).
 
 ### Additional resources
