@@ -36,7 +36,7 @@ the function and interact with the user as follows:
 ```
 Enter a year after 1990> 2015
 Predicted Gotham City population for 2015 (in thousands):
-107.566
+107.566000
 ```
 *Note that there is a new line at the end of the last line!*
 
