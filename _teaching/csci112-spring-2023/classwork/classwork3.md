@@ -44,7 +44,7 @@ Predicted Gotham City population for 2015 (in thousands):
 * Develop your program in steps, checking that it compiles and runs after every
 	significant change.
 * Use comments to organize your program.
-* It is standard to include a newline (`/n`) at the end of the last line of any
+* It is standard to include a newline (`\n`) at the end of the last line of any
 	file; thus, your final print statement should include a newline at the end.
 	If you get the error `\ No newline at end of file` in your `diff` below,
 	it's because you're missing the newline.
