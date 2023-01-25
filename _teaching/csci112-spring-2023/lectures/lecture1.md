@@ -16,7 +16,25 @@ ssh <netid>@csci112.cs.montana.edu
 
 Note that whenever you see something in angle brackets (`<` and `>`), it means you should replace whatever's in them *and* them with something else. (In this case, your netid).
 
+The first time you log in to the server, you will see a message like this:
 
+```
+The authenticity of host 'csci112.cs.montana.edu (153.90.127.188)' can't be established.
+ECDSA key fingerprint is SHA256:HtAKyENKuEBa6mILkLwhMdqqUBvw5QYltXuq2VzEB08.
+Are you sure you want to continue connecting (yes/no/[fingerprint])?
+```
+You should type `yes` and press enter.
+
+When you're prompted to enter your password. nothing will show up, but you are
+typing!
+
+Note that if you have three unsuccessful login attempts, you will be blocked
+from the server for one hour. Try not to mistype your password! But if this
+does happen, DM me and if I'm available I will unblock you.
+
+The data on the server is backed up every morning. If you lose your code and
+want to access what you had when the backup happened, DM me on Discord and I
+will help you get it.
 
 ## Using the Linux shell
 
