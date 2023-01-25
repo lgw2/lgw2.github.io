@@ -16,6 +16,8 @@ ssh <netid>@csci112.cs.montana.edu
 
 Note that whenever you see something in angle brackets (`<` and `>`), it means you should replace whatever's in them *and* them with something else. (In this case, your netid).
 
+
+
 ## Using the Linux shell
 
 On the server, we can't run programs using their own graphical user interfaces
