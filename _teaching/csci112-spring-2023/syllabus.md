@@ -102,14 +102,8 @@ reference during the C++ portion of the course.
 ### Linux server
 
 We have a shared course server for you to develop, compile, and run your C
-programs on. Details for how to access the server can be found on the
-[Classwork 1 page](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork1/). Here is some additional information:
-* If you have three unsuccessful login attempts, you will be blocked from the
-	server for one hour. Try not to mistype your password! But if this does
-	happen, DM me and if I'm available I will unblock you.
-* The data on the server is backed up every morning. If you lose your code and
-	want to access what you had when the backup happened, DM me on Discord and
-	I will help you get it.
+programs on. Details for how to access the server can be found on the [lecture 1
+page](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/lecture1/).
 
 ### Advice from previous students
 
