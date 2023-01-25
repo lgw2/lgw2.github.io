@@ -109,9 +109,11 @@ It'll be updated throughout the course with notes for the day's lecture, and if
 I get a lot of questions about something from a day's lecture, I'll put more
 notes in about that, too.
 
-### Course assistant
+### Course assistants
 
-TBD.
+We have two course assistants for this course: Adiesha Liyanage and Jasmine
+Vang. Jasmine will be available in the [CS Student Success Center](https://www.cs.montana.edu/student-success-center.html) (Barnard 259)
+from 9am-11am Mondays and Adiesha will be available 9am-11am Fridays.
 
 ### Lecture videos
 
@@ -127,13 +129,6 @@ My office hours are Thursdays and Fridays, 3-4:30 in the CS Success Center
 (Barnard 259). You can also contact me on Discord to set up a
 different meeting time, or drop by my office (Barnard 359) if my door is open.
 You can find office hours for all CS faculty [here](https://www.cs.montana.edu/office-hours.html).
-
-### SmartyCats
-
-There may be SmartyCats tutoring for this course --- this will be updated when
-I hear. Visit [their
-website](https://www.montana.edu/aycss/success/smartycats/) to find out more.
-You can also [apply to be a SmartyCats tutor yourself](https://www.montana.edu/aycss/success/smartycats/apply.html) for other CS courses you've taken, or for this one next semester.
 
 ### Computer Science Success Center
 There are free tutors available in Barnard 259. More information [here](https://www.cs.montana.edu/student-success-center.html).
