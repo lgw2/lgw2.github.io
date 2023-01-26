@@ -21,7 +21,7 @@ Schedule subject to change.
 | Monday 1/30    |Sets part 3      |      |bonus --- submit Homework 1, Problem 1 to Homework 0 on Gradescope  | ||
 | Wednesday 2/1 |Proofs by contradiction | | | ||
 | Friday 2/3 |Propositional logic | | |Drill 3 ||
-| Monday 2/6 |More propositional logic | |Homework 1 | ||
+| Monday 2/6 |More propositional logic | |[Homework 1](https://lgw2.github.io/teaching/csci246-spring-2023/homework/hw1.pdf) | ||
 | Wednesday 2/8 |Proofs by contrapositive | | | ||
 | Friday 2/10 |Introduction to predicate logic | | |Drill 4 ||
 | Monday 2/13 |Proofs in predicate logic| | | ||
