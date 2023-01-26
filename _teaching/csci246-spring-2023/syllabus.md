@@ -18,15 +18,15 @@ Schedule subject to change.
 | Monday 1/23    |[Proof by cases](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/classnotes2.pdf);  [complete notes (some proof by cases, some sets)](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/lecture2.pdf)      |4.3, 2.3      ||      |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=42be5237-8ca1-438f-80f3-af93015cde62)|
 | Wednesday 1/25 |[Intro to sets](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/classnotes3.pdf)|2.3      |      |      |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=83c097b4-71c8-4e59-b0f0-af95015cd897)|
 | Friday 1/27    |Sets part 2      |2.3      |      |Drill 2 ||
-| Monday 1/30    |Proofs by contradiction      |      |bonus --- submit Homework 1, Problem 1 to Homework 0 on Gradescope  | ||
-| Wednesday 2/1  |Propositional logic      |      |      |      ||
-| Friday 2/3     |More propositional logic      |      |      |Drill 3      ||
-| Monday 2/6     |Proofs by contrapositive|      |[Homework 1](https://lgw2.github.io/teaching/csci246-spring-2023/homework/hw1.pdf)            |      ||
-| Wednesday 2/8  |Introduction to predicate logic      |      |      |      ||
-| Friday 2/10    |Proofs in predicate logic  |      |      |Drill 4      ||
-| Monday 2/13    |Broken proofs|      |      |      ||
-| Wednesday 2/15 |Functions      |      |      |      ||
-| Friday 2/17    |More on functions; proof by construction      |      |      |Drill 5      ||
+| Monday 1/30    |Sets part 3      |      |bonus --- submit Homework 1, Problem 1 to Homework 0 on Gradescope  | ||
+| Wednesday 2/1 |Proofs by contradiction | | | ||
+| Friday 2/3 |Propositional logic | | |Drill 3 ||
+| Monday 2/6 |More propositional logic | |Homework 1 | ||
+| Wednesday 2/8 |Proofs by contrapositive | | | ||
+| Friday 2/10 |Introduction to predicate logic | | |Drill 4 ||
+| Monday 2/13 |Proofs in predicate logic| | | ||
+| Wednesday 2/15 |Broken proofs | | | ||
+| Friday 2/17 |Functions; proof by construction | | |Drill 5 ||
 | Monday 2/20    | President's day --- no class |      |Homework 2      |      ||
 | Wednesday 2/22 |Review as needed      |      |      |      ||
 | Friday 2/24    |Quiz in class      |      |      |no drill      ||
