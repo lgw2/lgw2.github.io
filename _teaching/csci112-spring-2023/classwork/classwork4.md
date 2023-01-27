@@ -4,51 +4,38 @@ title: "Classwork 4"
 ---
 
 ## Logistics
-* Due: Thursday, May 13th no later than 1:35pm.
-* Submission instructions: push a commit with the tag `classwork4` to your git
-	repository.
+* Due: Monday, January 30th AoE.
+* **If you want to see the results of the autograder so that you can check that you will get full credit**: create the directory `classwork/week3/mon`.
+	You  don't need to put anything in it. But that's the only place that the
+	autograder knows to put your file. You can still get full credit even
+	without doing this, but you won't get the preliminary results.
+* Submission instructions: make sure that the required directory
+	(`csci112_spring2023`) is in your home directory, that it is a git
+	repository, and that it has a commit with the tag `lab1`.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
-	this assignment. If the deadline is approaching, submit what you have in
-	order to earn partial credit.
+	this assignment.
 
 ## Learning outcomes
-* Use a loop to reuse code.
+* Get your `git` repository set up and practice making a tagged commit.
 
 ## Assignment
 
-*This comes from problem 1, chapter 5 on page 272.*
-
-Write a program that causes the following output to be displayed.
-
-```
-0
-0 1
-0 1 2
-0 1 2 3
-0 1 2 3 4
-0 1 2 3 4 5
-0 1 2 3 4
-0 1 2 3
-0 1 2
-0 1
-0
-```
-
-### Requirements
-
-* Write your program in the `classwork` directory, inside another directory called
-	`classwork4`, in  a file called `loops.c`.
-* Compile your program into an executable called `loops` and run it using
-	`./loops`.
-
-## Grading - 10 points
-* 1 point - there is a file called `loops.c` in your
-	`classwork/classwork4` directory.
-* 9 points - it can be compiled and runs.
-
-Note: you will not earn any points if your work is not committed and pushed to
-Github with the tag `classwork4`.
+* Log in to the server.
+* In your home directory, create a directory called `csci112_spring2023`. Note
+	that you must match this directory name exactly.
+* Navigate into `csci112_spring2023`.
+* Follow the instructions from the [git lecture notes](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/lecture2/) to initialize a git
+	repository.
+* Create a `labs` directory.
+* Inside `labs`, create a `lab1` directory.
+* Inside `csci112_spring2023/labs/lab1`, create any file. (An `example.txt`
+	file with `hello, world!` in it, a start on your source code for lab 1,
+	etc.)
+* Follow the instructions from the [git lecture notes](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/lecture2/) to add all changes,
+	commit, and tag the current snapshot of your repository as `lab1`..
 
 ## Grading turnaround
-This classwork will be graded with scores in Brightspace by 5pm the day it is
-due (May 13th).
+Preliminary results via autograder will be present in the appropriate classwork
+directory in the `autograder.txt`, refreshed every 5 minutes during class and
+every hour until 6am the following day. The 6am run is the final grade. Scores will be
+uploaded to D2L by the next class period.

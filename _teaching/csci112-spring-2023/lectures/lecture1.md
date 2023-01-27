@@ -1,6 +1,6 @@
 ---
 collection: teaching
-title: "Lecture 1: Course server; intro Linux and vim; classwork submission setup"
+title: "Course server; intro Linux and vim; classwork submission setup"
 ---
 
 ## Course server
