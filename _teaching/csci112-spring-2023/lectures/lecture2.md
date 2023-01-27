@@ -99,7 +99,7 @@ save snapshots of the respository, which are called commits. You choose when to
 save the snapshots, and write a message (called a commit message) describing
 the changes that were made from the previous commit to this one.
 
-However, git allows you to choose which of the changes that you have made
+Git allows you to choose which of the changes that you have made
 should be included in a commit. This is helpful when you are a more advanced
 git user, but for our purposes, we can just include all changes whenever we are
 ready to create a new snapshot (commmit).
