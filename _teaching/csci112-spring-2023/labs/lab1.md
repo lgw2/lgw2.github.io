@@ -7,7 +7,7 @@ title: "Lab 1"
 * Due: Friday, February 10th AoE.
 * Submission instructions: ensure that you have the source code you want us to
 	grade in a file called `lab1.c` in your `~/csci112_spring2023/labs/lab1`
-	directory, and that the file you want us to grade has been committed and
+	directory, and that the snapshot (commit) of your repository containing the version of that file you want us to grade has been committed and
 	tagged as `lab1`. See the [git lecture](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/lecture2) and [classwork 4](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork4) for more
 	details.
 * Note that grading will be done on Gradescope, so you can see comments and
