@@ -17,9 +17,9 @@ Schedule subject to change.
 | Friday 1/20    |[Course server; intro Linux and vim; classwork submission setup](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/lecture1/)||[Classwork 1](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork1/)||[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8c00ebcd-3a98-41b9-9fc1-af9001077d3b)|
 | Monday 1/23    |[Intro to C](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/Chapter2.pdf); more Linux & vim|2.1 |[Classwork 2](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork2/) |  |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=93971990-d6be-45e8-a32c-af930107cdf5)|
 | Wednesday 1/25 |[Computer hardware and software](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/Chapter1.pdf); more intro to C|1, 2.1-2.6      |[Classwork 3](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork3/)      |      |[link1](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=504228dc-c87d-4dea-a3e7-af950107a957) [link2](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=eca6d4d4-e61b-44a5-b5ca-af95010a79cb)|
-| Friday 1/27    |More intro to C; intro lab 1 |2.1-2.6      |[Ungraded classwork](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/ungraded_classwork1/)      |      ||
+| Friday 1/27    |More intro to C  |2.1-2.6      |[Ungraded classwork](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/ungraded_classwork1/)      |      ||
 | Monday 1/30    |[Git intro](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/lecture2/); functions|3.1-3.5      |[Classwork 4](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork4/)      |      ||
-| Wednesday 2/1  |If statements      |4.1-4.7   |Classwork 5      |      ||
+| Wednesday 2/1  |If statements; intro lab 1|4.1-4.7   |Classwork 5      |      ||
 | Friday 2/3     |Switch statements   |4.8   |      |||
 | Monday 2/6     |Loops      |5.1-5.8|Classwork 6      |      ||
 | Wednesday 2/8  |Text input/output      |11.1      |Classwork 7  |      ||
