@@ -32,7 +32,7 @@ title: "Classwork 4"
 	file with `hello, world!` in it, a start on your source code for lab 1,
 	etc.)
 * Follow the instructions from the [git lecture notes](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/lecture2/) to add all changes,
-	commit, and tag the current snapshot of your repository as `lab1`..
+	commit, and tag the current snapshot of your repository as `lab1`.
 
 ## Grading turnaround
 Preliminary results via autograder will be present in the appropriate classwork
