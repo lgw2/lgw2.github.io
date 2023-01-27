@@ -20,7 +20,7 @@ Schedule subject to change.
 | Friday 1/27    |More intro to C; intro lab 1 |2.1-2.6      |[Ungraded classwork](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/ungraded_classwork1/)      |      ||
 | Monday 1/30    |[Git intro](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/lecture2/); functions|3.1-3.5      |[Classwork 4](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork4/)      |      ||
 | Wednesday 2/1  |If statements      |4.1-4.7   |Classwork 5      |      ||
-| Friday 2/3     |Switch statements   |4.8   |      |Maybe Lab 0 (for Gradescope submission setup)||
+| Friday 2/3     |Switch statements   |4.8   |      |||
 | Monday 2/6     |Loops      |5.1-5.8|Classwork 6      |      ||
 | Wednesday 2/8  |Text input/output      |11.1      |Classwork 7  |      ||
 | Friday 2/10    |Conditional operator; maybe tmux |      |      |Lab 1      ||
