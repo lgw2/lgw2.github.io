@@ -19,8 +19,8 @@ Schedule subject to change.
 | Wednesday 1/25 |[Computer hardware and software](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/Chapter1.pdf); more intro to C|1, 2.1-2.6      |[Classwork 3](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork3/)      |      |[link1](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=504228dc-c87d-4dea-a3e7-af950107a957) [link2](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=eca6d4d4-e61b-44a5-b5ca-af95010a79cb)|
 | Friday 1/27    |More intro to C  |2.1-2.6      |[Ungraded classwork](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/ungraded_classwork1/)      |      |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b9cf9909-df95-4d29-9ef5-af9701079efe)|
 | Monday 1/30    |[Git intro](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/lecture2/); functions|3.1-3.5      |[Classwork 4](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork4/)      |      ||
-| Wednesday 2/1  |If statements; intro lab 1|4.1-4.7   |Classwork 5      |      ||
-| Friday 2/3     |Switch statements   |4.8   |      |||
+| Wednesday 2/1  |More functions; intro lab 1|3.1-3.5   |[Classwork 5](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork5/)      |      ||
+| Friday 2/3     |If and Switch statements   |4.1-4.8   |      |||
 | Monday 2/6     |Loops      |5.1-5.8|Classwork 6      |      ||
 | Wednesday 2/8  |Text input/output      |11.1      |Classwork 7  |      ||
 | Friday 2/10    |Conditional operator; maybe tmux |      |      |[Lab 1](https://lgw2.github.io/teaching/csci112-spring-2023/labs/lab1/)      ||
