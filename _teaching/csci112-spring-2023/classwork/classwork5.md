@@ -17,7 +17,7 @@ title: "Classwork 5"
 ## Assignment
 
 * Log in to the server.
-* From your home directory, navigate to `classwork/week3/wed/`, creating directories `week2` and `wed` if necessary.
+* From your home directory, navigate to `classwork/week3/wed/`, creating directories `week3` and `wed` if necessary.
 * Inside this directory, create a file called `remainder.c`. In it, write a
 	program solving the following problem.
 
