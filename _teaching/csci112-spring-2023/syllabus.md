@@ -20,10 +20,10 @@ Schedule subject to change.
 | Friday 1/27    |More intro to C  |2.1-2.6      |[Ungraded classwork](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/ungraded_classwork1/)      |      |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b9cf9909-df95-4d29-9ef5-af9701079efe)|
 | Monday 1/30    |[Git intro](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/lecture2/); functions|3.1-3.5      |[Classwork 4](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork4/)      |      ||
 | Wednesday 2/1  |More functions; intro lab 1|3.1-3.5   |[Classwork 5](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork5/)      |      ||
-| Friday 2/3     |If and Switch statements   |4.1-4.8   |      |||
+| Friday 2/3     |If and Switch statements   |4.1-4.8   |[Ungraded classwork](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/ungraded_classwork2/)        |||
 | Monday 2/6     |Loops      |5.1-5.8|Classwork 6      |      ||
 | Wednesday 2/8  |Text input/output      |11.1      |Classwork 7  |      ||
-| Friday 2/10    |Conditional operator; maybe tmux |      |[Ungraded classwork](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/ungraded_classwork2/)       |[Lab 1](https://lgw2.github.io/teaching/csci112-spring-2023/labs/lab1/)      ||
+| Friday 2/10    |Conditional operator; maybe tmux |      |     |[Lab 1](https://lgw2.github.io/teaching/csci112-spring-2023/labs/lab1/)      ||
 | Monday 2/13    |Arrays      |7      |Classwork 8      |      ||
 | Wednesday 2/15 |Arrays      |7      |Classwork 9      |      ||
 | Friday 2/17    |Arrays      |7      |      |Lab 2      ||
