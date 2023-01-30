@@ -20,8 +20,7 @@ Schedule subject to change.
 | Friday 1/27    |[Sets part 2](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/classnotes4.pdf)      |2.3      |      | |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=63e247bd-38b4-4b65-9730-af97015cfc01)|
 | Monday 1/30    |Sets part 3      |2.3, 9.2, 2.4      |bonus --- submit Homework 1, Problem 1 to Homework 0 on Gradescope  |Drill 2 covering [direct proofs and disproofs by example](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/direct_proofs_proofs_by_example.pdf), [proof by cases](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/proof_by_cases.pdf), and [sets](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/sets.pdf) ||
 | Wednesday 2/1 |Proofs by contradiction | 4.3| | ||
-| Friday 2/3 |Propositional logic | 3.1-3.3| |Drill 3 covering [proofs by
-contradiction](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/proofs_by_contradiction.pdf) and [propositional logic](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/https://lgw2.github.io/teaching/csci246-spring-2023/lectures/propositional_logic.pdf) ||
+| Friday 2/3 |Propositional logic | 3.1-3.3| |Drill 3 covering [proofs by contradiction](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/proofs_by_contradiction.pdf) and [propositional logic](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/https://lgw2.github.io/teaching/csci246-spring-2023/lectures/propositional_logic.pdf) ||
 | Monday 2/6 |More propositional logic | |[Homework 1](https://lgw2.github.io/teaching/csci246-spring-2023/homework/hw1.pdf) | ||
 | Wednesday 2/8 |Proofs by contrapositive | | | ||
 | Friday 2/10 |Introduction to predicate logic | | |Drill 4 ||
