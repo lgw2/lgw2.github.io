@@ -11,16 +11,17 @@ location: "Bozeman, Montana"
 
 Schedule subject to change.
 
-|Date|Lecture Topic (notes linked)|Recommended Reading|Homework Due (via Gradescope)|Drill Due (via D2L)|Video|
+|Date|Lecture Topic (note written during class linked)|Recommended Reading|Homework Due (via Gradescope)|Drill Due (via D2L); notes on topics linked|Video|
 |:---|:---|:---|:---|:---|
 |Wednesday 1/18|Intro & syllabus|1|||[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=617abde1-4ced-4427-b1cd-af8e015cd798)|
 | Friday 1/20    |Direct proofs; disproof by example [(notes from class)](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/classnotes1.pdf) [(complete notes)](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/lecture1.pdf)|4.3, 2.2.1-2.2.3, 2.2.6|      |Drill 1      |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f3bfa715-3306-4ef1-91b9-af90015ce7b9)|
 | Monday 1/23    |[Proof by cases](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/classnotes2.pdf);  [complete notes (some proof by cases, some sets)](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/lecture2.pdf)      |4.3, 2.3      ||      |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=42be5237-8ca1-438f-80f3-af93015cde62)|
 | Wednesday 1/25 |[Intro to sets](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/classnotes3.pdf)|2.3      |      |      |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=83c097b4-71c8-4e59-b0f0-af95015cd897)|
 | Friday 1/27    |[Sets part 2](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/classnotes4.pdf)      |2.3      |      | |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=63e247bd-38b4-4b65-9730-af97015cfc01)|
-| Monday 1/30    |Sets part 3      |2.3, 9.2, 2.4      |bonus --- submit Homework 1, Problem 1 to Homework 0 on Gradescope  |Drill 2 ||
+| Monday 1/30    |Sets part 3      |2.3, 9.2, 2.4      |bonus --- submit Homework 1, Problem 1 to Homework 0 on Gradescope  |Drill 2 covering [direct proofs and disproofs by example](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/direct_proofs_proofs_by_example.pdf), [proof by cases](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/proof_by_cases.pdf), and [sets](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/sets.pdf) ||
 | Wednesday 2/1 |Proofs by contradiction | 4.3| | ||
-| Friday 2/3 |Propositional logic | 3.1-3.3| |Drill 3 ||
+| Friday 2/3 |Propositional logic | 3.1-3.3| |Drill 3 covering [proofs by
+contradiction](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/proofs_by_contradiction.pdf) and [propositional logic](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/https://lgw2.github.io/teaching/csci246-spring-2023/lectures/propositional_logic.pdf) ||
 | Monday 2/6 |More propositional logic | |[Homework 1](https://lgw2.github.io/teaching/csci246-spring-2023/homework/hw1.pdf) | ||
 | Wednesday 2/8 |Proofs by contrapositive | | | ||
 | Friday 2/10 |Introduction to predicate logic | | |Drill 4 ||
