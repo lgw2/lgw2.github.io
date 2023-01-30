@@ -4,53 +4,68 @@ title: "Classwork 5"
 ---
 
 ## Logistics
-* Due: Monday, May 17th no later than 1:35pm.
-* Submission instructions: push a commit with the tag `classwork5` to your git
-	repository.
+* Due: Wednesday, February 1st AoE.
+* Submission instructions: make sure that the required file (`remainder.c`) is in your
+	`/classwork/week3/wed/` directory.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
-	this assignment. If the deadline is approaching, submit what you have in
-	order to earn partial credit.
+	this assignment.
 
 ## Learning outcomes
-* Practice using file redirection to read input from a file.
+* Write a function that takes in two inputs and returns one output.
 
 ## Assignment
-Write a program that reads in an unknown number of integers from a file and
-prints their sum.
 
-Using the two example input files from `/public/classwork5/`, running your
-program could look like
+* Log in to the server.
+* From your home directory, navigate to `classwork/week3/wed/`, creating directories `week2` and `wed` if necessary.
+* Inside this directory, create a file called `remainder.c`. In it, write a
+	program solving the following problem.
+
+Prompt the user for two integers, one to use a dividend and one to be used as a
+divisor. Write a function `rem` that takes in both integers and returns the
+remainder when dividing the dividend by the divisor. In `main`, print the
+dividend, divisor, and remainder.
 
 ```
-[p19t655@csci112 classwork5]$ ./add_nums < nums1.txt
-Finished reading file.
-Sum was 210.
-[p19t655@csci112 classwork5]$ ./add_nums < nums2.txt
-Finished reading file.
-Sum was 236.
+Please enter two integers separated by white space: 12 4
+When dividing 12 by 4, we get a remainder of 0.
 ```
 
-but for classwork assignments you are not required to match the output
-formatting.
+Use a function prototype and define your function below main, like this:
 
-If you'd like, you can assume that you will get no more than 20 numbers and use
-arrays to store the numbers you read in before summing them up. But we will get
-more practice with arrays in future assignments.
+```c
+// function prototype for rem here
 
-### Requirements
+int main(void) {
+	// call rem in here
+}
 
-* Write your program in the `classwork` directory, inside another directory called
-	`classwork5`, in  a file called `add_nums.c`.
-* Copy two input files from the public directory into your `classwork5`
-	directory so that you can use them as test inputs by running `cp
-	/public/classwork5/nums* .`
+// define rem here
+```
 
-## Grading - 10 points
-* 1 point - there are three files in your `classwork5` directory: `add_nums.c`, `nums1.txt`, and `nums2.txt`.
-* 9 points - `add_nums.c` compiles without errors and runs.
-* Note: you will not earn any points if your work is not committed and pushed to
-Github with the tag `classwork5`.
+### Hints
+* The `%` (mod operator) computes the remainder. For example, `12 % 4` returns
+	`0`, whereas `22 % 10` returns `2`.
+* Develop your program in steps, checking that it compiles and runs after every
+	significant change.
+* It is standard to include a newline (`\n`) at the end of the last line of any
+	file; thus, your final print statement should include a newline at the end.
+	If you get the error `\ No newline at end of file` in your `diff` below,
+	it's because you're missing the newline.
+* You can check that you will get full credit for this assignment by compiling
+	your program, running it and saving its output to a file, and comparing
+	that file to the example output. Specifically, do:
+```
+gcc -o exe -Wall remainder.c
+./exe < /public/classwork/week3/wed/test_input.txt > output.txt
+diff -w ~/classwork/week3/wed/output.txt /public/classwork/week3/wed/expected_output.txt
+```
+You will see any warnings during compilation and any differences between your output and the expected output on the
+screen. If nothing happens, the content of your output file exactly matches the
+expected content and there were no warnings when compiling. As long as your file is in the correct place and named
+correctly, this means that you will get full credit for the assignment.
 
 ## Grading turnaround
-This classwork will be graded with scores in Brightspace by 5pm the day it is
-due (May 17th).
+Preliminary results via autograder will be present in the appropriate classwork
+directory in the `autograder.txt`, refreshed every 5 minutes during class and
+every hour until 6am the following day. The 6am run is the final grade. Scores will be
+uploaded to D2L by the next class period.
