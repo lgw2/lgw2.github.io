@@ -12,6 +12,7 @@ title: "Classwork 5"
 
 ## Learning outcomes
 * Write a function that takes in two inputs and returns one output.
+* Use a function prototype and define your function below `main`.
 
 ## Assignment
 
