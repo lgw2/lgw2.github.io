@@ -207,6 +207,78 @@ git tag <specified tag for assignment>
 If the tag already exists, do `git tag  -d <specified tag for assignment>`
 before the third command above.
 
+## Common issues
+
+### Nested repositories
+
+In general, you do not want to have nested git respositories. This is what
+happens if you run `git init` in one directory, and then run it again in one of
+the subdirectories of that directory later. You'll know if you have nested
+repositories if `git log` looks different in different directories of your
+repository.
+
+Let's get a better understanding of what this means with an example. Suppose that
+you have one directory called `directory`, and inside it you had two
+directories called `subdir1` and `subdir2`, and maybe those have a few files in
+them. Visually, that looks like this:
+
+```
+├── directory
+│   ├── subdir1
+│   │   ├── file1.txt
+│   └── subdir2
+│       ├── file2.txt
+│       └── file3.txt
+```
+
+If at some point you had run `git init` when you were in `directory`, then
+`directory` (and everything in it, including the subdirectories) is now being
+tracked as a git repository. This means that there is a `.git` directory inside
+`directory`, so the file structure actually looks like this:
+
+```
+├── directory
+|   ├── .git
+│   ├── subdir1
+│   │   ├── file1.txt
+│   └── subdir2
+│       ├── file2.txt
+│       └── file3.txt
+```
+
+(Note that we don't see `.git` unless we look for hidden files, for example by
+running `ls -a` when we're in the `directory` directory.)
+
+Now suppose we navigate to `subdir1` and run `git init`. This creates another
+(nested) repository inside `subdir1`, so there is another `.git` directory
+under `subdir1`, and `subdir1` is a new git repository with its own commit
+history.
+
+```
+├── directory
+|   ├── .git
+│   ├── subdir1
+│   │   ├── .git
+│   │   ├── file1.txt
+│   └── subdir2
+│       ├── file2.txt
+│       └── file3.txt
+```
+
+But the whole idea of a repository is that it tracks everything inside of it.
+So now the `directory` repository is tracking `file1.txt` and so is the
+`subdir1` repository, but there's just the one file and so it really only makes
+sense to track it once.
+
+If you realize you have created a nested repository, make sure you understand
+the level that you really want your repository to exist, and then delete the
+unneeded one by deleting the associated `.git` repository. The command to do
+this will be different depending on where you currently are. If you're in
+`directory`, it would be `rm -rf subdir1/.git`. `-r` says delete all
+subdirectories recursively, and `-f` says force the deletions without checking
+whether you want to delete each file. (There are a lot of them in there.) Note
+that this deletes the whole commit history and can't be undone, so make sure
+you delete the correct `.git` directory.
 
 ## Optional: more advanced git
 
