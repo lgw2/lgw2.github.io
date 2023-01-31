@@ -284,3 +284,6 @@ you delete the correct `.git` directory.
 
 You can watch the lecture and/or read the text from the MIT Missing Semester
 [lecture on git](https://missing.csail.mit.edu/2020/version-control/).
+
+You can look at the [git tutorial](https://swcarpentry.github.io/git-novice/) from the software carpentries program, which aims
+to teach researchers basic computing skills.
