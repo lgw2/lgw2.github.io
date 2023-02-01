@@ -59,7 +59,7 @@ int main(void) {
 ```
 gcc -o exe -Wall remainder.c
 ./exe < /public/classwork/week3/wed/test_input.txt > output.txt
-diff -w ~/classwork/week3/wed/output.txt /public/classwork/week3/wed/expected_output.txt
+diff -w -i ~/classwork/week3/wed/output.txt /public/classwork/week3/wed/expected_output.txt
 ```
 You will see any warnings during compilation and any differences between your output and the expected output on the
 screen. If nothing happens, the content of your output file exactly matches the
