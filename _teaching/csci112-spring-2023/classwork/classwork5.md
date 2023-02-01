@@ -29,7 +29,7 @@ sample. That is, you should exactly match the following for the input `12 4`:
 
 ```
 Please enter two integers separated by whitespace: 12 4
-When dividing 12 by 4, we get a remainder of 0.
+When dividing 12 by 4, the remainder is 0.
 ```
 
 Use a function prototype and define your function below main, like this:
