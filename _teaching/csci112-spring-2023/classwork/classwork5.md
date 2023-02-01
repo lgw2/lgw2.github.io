@@ -24,7 +24,8 @@ title: "Classwork 5"
 Prompt the user for two integers, one to use a dividend and one to be used as a
 divisor. Write a function `rem` that takes in both integers and returns the
 remainder when dividing the dividend by the divisor. In `main`, print the
-dividend, divisor, and remainder.
+dividend, divisor, and remainder. As usual, your output must exactly match the
+sample. That is, you should exactly match the following for the input `12 4`:
 
 ```
 Please enter two integers separated by white space: 12 4
