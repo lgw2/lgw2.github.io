@@ -58,7 +58,7 @@ custom percent.
 * **You must submit code that compiles and runs on the sample input below. Code
 	that does not compile and run on the sample input will receive an automatic 0.**
 * Write your program in a file called `lab1.c` in your
-	`csci112_spring2023//labs/lab1/` directory.
+	`csci112_spring2023/labs/lab1/` directory.
 * Your program must define and call a function `within_x_percent` that takes as
 a parameter a reference value `ref`, a data value `data`, and a percentage
 value `x` and returns 1 meaning true if `data` is within `x`% of `ref` --- that
