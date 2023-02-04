@@ -128,13 +128,13 @@ automatic 0.**
 * 10 points: the function `within_x_percent` is called to decide what
 	substance it is
 * 10 points: the function `within_x_percent` returns 1 if the `data` value is
-	within `percent` of the `ref` value and 0 otherwise.
+	within `percent` of the `ref` value and 0 otherwise
 * 5 points: the user is prompted to give a custom error percent; if not, uses
 	default of 5%
 * 5 points: accepts `n` and `N`
 	for no and `y` and `Y` for yes for giving a custom error percent
 * 10 points: for anything else, prints `Error: bad input`
-	and quit the program.
+	and quits the program
 * 5 points: prints the entered temperature and entered percent with
 	two decimal places
 * 5 points: only prompts the user to enter a percent if they say they want to
