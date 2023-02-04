@@ -30,10 +30,13 @@ of cold days (high temperatures less than 60). Then, it should print a
 visualization of those numbers (see sample output for an example) and the
 average temperature.
 
-### Requirements
+### Notes
 * Write your program in a file called `lab2.c` in your
 	`csci112-spring2023/labs/lab2/` directory.
 * You can assume that the user will only enter integers.
+* To check your work quickly, you can run `./<your-executable> <
+	/public/labs/lab2/input.txt`, which will input the numbers entered by the
+	user in the example output below without you having to type them.
 
 ### Example output
 ```
