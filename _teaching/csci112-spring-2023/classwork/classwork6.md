@@ -29,7 +29,7 @@ formatting below and you must use a `switch` statement.
 Enter the grade you got: 5
 You earned an unknown number of points in the class.
 [p19t655@csci112 mon]$ ./exe
-Enter the grade you got: a
+Enter the grade you got: A
 You earned at least 93 points in the class.
 [p19t655@csci112 mon]$ ./exe
 Enter the grade you got: f
@@ -49,8 +49,14 @@ You earned at least 63 points in the class.
 	that file to the example output. Specifically, do:
 ```
 gcc -o exe -Wall grade.c
-./exe < /public/classwork/week4/mon/test_input.txt > output.txt
-diff -w -i ~/classwork/week4/mon/output.txt /public/classwork/week4/mon/expected_output.txt
+./exe < /public/classwork/week4/mon/test_input1.txt > output.txt
+diff -w -i ~/classwork/week4/mon/output.txt /public/classwork/week4/mon/expected_output1.txt
+./exe < /public/classwork/week4/mon/test_input2.txt > output.txt
+diff -w -i ~/classwork/week4/mon/output.txt /public/classwork/week4/mon/expected_output2.txt
+./exe < /public/classwork/week4/mon/test_input3.txt > output.txt
+diff -w -i ~/classwork/week4/mon/output.txt /public/classwork/week4/mon/expected_output3.txt
+./exe < /public/classwork/week4/mon/test_input4.txt > output.txt
+diff -w -i ~/classwork/week4/mon/output.txt /public/classwork/week4/mon/expected_output4.txt
 ```
 You will see any warnings during compilation and any differences between your output and the expected output on the
 screen. If nothing happens, the content of your output file exactly matches the
