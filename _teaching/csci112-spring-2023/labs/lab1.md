@@ -127,8 +127,8 @@ automatic 0.**
 * 10 points: the function `within_x_percent` is defined outside of `main`
 * 10 points: the function `within_x_percent` is called to decide what
 	substance it is
-* 10 points: the function `within_x_percent` returns 0 if the `data` value is
-	within `percent` of the `ref` value and 1 otherwise.
+* 10 points: the function `within_x_percent` returns 1 if the `data` value is
+	within `percent` of the `ref` value and 0 otherwise.
 * 5 points: the user is prompted to give a custom error percent; if not, uses
 	default of 5%
 * 5 points: accepts `n` and `N`
