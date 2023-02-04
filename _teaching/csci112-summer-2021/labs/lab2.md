@@ -20,18 +20,16 @@ title: "Lab 2"
 *This is based on problem 7, chapter 5 on page 309.*
 
 Write a program to process a collection of daily high temperatures. Your
-program should count and print the number of hot days (high temperature 85 or
+program should count  the number of hot days (high temperature 85 or
 higher), the number of pleasant days (high temperature 60-84), and the number
-of cold days (high temperatures less than 60). Then, it should print the
+of cold days (high temperatures less than 60). Then, it should print a
+visualization of those numbers (see sample output for an example) and the
 average temperature.
 
 ### Requirements
 * Write your program in a file called `lab2.c` in your
 	`csci112-firstname-lastname/labs/lab2/` directory.
 * You can assume that the user will only enter integers.
-* Your output formatting must match the example. Use a tool like
-	[diffchecker](https://www.diffchecker.com/) to compare your output with the sample
-	output. Don't worry about trailing spaces.
 
 ### Example output
 ```
@@ -72,9 +70,8 @@ The average temperature was 66.00 degrees.
 ```
 
 ## Grading - 100 points
-* 10 points – includes comments explaining what your program does
-* 10 points – code is indented so it is readable
-* 20 points – compiles successfully with `-Wall` – no warnings
+* 5 points: code is indented so it is readable
+* 10 points: compiles successfully with `-Wall` -- no warnings
 * 10 points - the program stops collecting data when the user enters -99, and
 	-99 is not counted as a temperature
 * 5 points - hot temperatures are counted correctly
@@ -83,7 +80,10 @@ The average temperature was 66.00 degrees.
 * 20 points - the average computation is correct
 * 5 points - the average temperatures is printed with exactly two decimal
 	places
-* 10 points – prints the output to exactly match the sample output
 
 ## Grading turnaround
-This lab will be graded with scores in Brightspace by 5pm on May 17th.
+This lab will be graded within one week of its due date.
+
+## Go beyond
+* Use functions to avoid repeated code when printing your visualization.
+* Use the increment operator `++` and addition assignment `+=` when possible.

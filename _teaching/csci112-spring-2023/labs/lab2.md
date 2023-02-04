@@ -82,3 +82,6 @@ This lab will be graded within one week of its due date.
 ## Go beyond
 * Use functions to avoid repeated code when printing your visualization.
 * Use the increment operator `++` and addition assignment `+=` when possible.
+* If you used a `while` loop, try changing your code to use a `do while` loop.
+	If you used a `do while` loop, try changing your code to use a `while`
+	loop.

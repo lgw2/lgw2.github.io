@@ -156,7 +156,7 @@ automatic 0.**
 * Think about what `main` returns in order to quit the program early.
 
 ## Grading turnaround
-This classwork will be graded within one week of its due date.
+This lab will be graded within one week of its due date.
 
 ## Go beyond
 Not required, but here are some things to try if you would like.
