@@ -4,84 +4,80 @@ title: "Lab 2"
 ---
 
 ## Logistics
-* Due: on Thursday, September 8th  anywhere on earth (6am Friday). (Penalties from [the
-	syllabus](https://lgw2.github.io/teaching/csci132-fall-2022/syllabus/)
-	apply if you turn it in any later.)
-* Submission instructions: you have two options. The first option is to
-	demonstrate the execution of your lab to your TA during your assigned lab
-	section on Thursday.
-	The second option is to submit your two `.java` files to the Lab 2
-	assignment on D2L.
-
+* Due: Friday, February 17th AoE.
+* Submission instructions: ensure that you have the source code you want us to
+	grade in a file called `lab2.c` in your `~/csci112_spring2023/labs/lab2`
+	directory, and that the snapshot (commit) of your repository containing the version of that file you want us to grade has been committed and
+	tagged as `lab2`. See the [git lecture](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/lecture2) and [classwork 4](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork4) for more
+	details.
+* Note that grading will be done on Gradescope, so you can see comments and
+	and detailed breakdown of your score there, but you do not need to submit
+	anything there.
+* Deadline reminder: per the [late assignment policy](https://lgw2.github.io/teaching/csci112-spring-2023/syllabus/#late-assignment-policies), if you submit after the deadline but within 24 hours of it (i.e., by 6am on Sunday, February 12th) you will receive a 25% penalty. If you submit within 48 hours you will receive a 50% penalty. After that, no submissions will be accepted.
 
 ## Learning outcomes
-* Practice writing and using a class
-* Practice using modifiers
-* Practice overriding the built-in `toString`
+* Practice using `if` statements.
+* Practice using loops.
 
 ## Assignment
 
-Create two java files:
+*This is based on problem 7, chapter 5 on page 309.*
 
-* `Animal.java`
-* `AnimalDemo.java`
+Write a program to process a collection of daily high temperatures. Your
+program should count  the number of hot days (high temperature 85 or
+higher), the number of pleasant days (high temperature 60-84), and the number
+of cold days (high temperatures less than 60). Then, it should print a
+visualization of those numbers (see sample output for an example) and the
+average temperature.
 
-### Animal Class.java
-Your Animal class should contain 3 `private` data members and 6 `public` methods as follows.
+### Requirements
+* Write your program in a file called `lab2.c` in your
+	`csci112-spring2023/labs/lab2/` directory.
+* You can assume that the user will only enter integers.
 
-#### Fields:
-
-* `name`
-* `age`
-* `species`
-
-#### Methods:
-
-* `getName()`
-* `setName()`
-* `getAge()`
-* `setAge()`
-* `getSpecies()`
-* `setSpecies()`
-* `toString()`
-
-The getters and setters should respectively return or update the name, and the `toString()` method should override Java's built in `toString` method (which every Java object has), and should display something like this:
-
-`Name: Jimmy. Age: 3. Species: Squirrel.`
-
-You should also have two constructors for the Animal so that it is possible to initialize a new Animal with default data values of `"Unnamed"`, `-1`, and `"Unknown"`. The other constructor should take the three values needed to initialize a new Animal object with all three fields.
-
-#### AnimalDemo.java
-The `AnimalDemo.java` will be a driver class that you will use to demo the `Animal` class. The driver should initialize two `Animal` objects. One animal should be constructed with its name, age, and species. (You decide those.) The other animal should be constructed with the default values, and subsequently use the setter methods to give the animal a name, age, and species. After displaying the first two animals, the program should prompt the user for another animal, let the user enter its three attributes, and then print it.
-
-## Sample run
+### Example output
 ```
-Name: Jimmy. Age: 3. Species: Squirrel.
-Name: Sam. Age: 1. Species: Spider.
-Create your own animal!
-Enter a name:
-Johnathan
-Enter an age:
-40
-Enter a species:
-Walrus
-Name: Johnathan. Age: 40. Species: Walrus.
+[p19t655@csci112 lab2]$ ./a.out
+[p19t655@csci112 lab2]$ ./a.out
+Enter a high temp reading (-99 to quit)> 56
+Enter a high temp reading (-99 to quit)> 76
+Enter a high temp reading (-99 to quit)> 12
+Enter a high temp reading (-99 to quit)> 34
+Enter a high temp reading (-99 to quit)> 55
+Enter a high temp reading (-99 to quit)> 99
+Enter a high temp reading (-99 to quit)> 101
+Enter a high temp reading (-99 to quit)> 90
+Enter a high temp reading (-99 to quit)> 87
+Enter a high temp reading (-99 to quit)> 43
+Enter a high temp reading (-99 to quit)> -12
+Enter a high temp reading (-99 to quit)> 9
+Enter a high temp reading (-99 to quit)> -99
+
+Hot days:	****
+Pleasant days:	*
+Cold days:	*******
+Average temperature: 54.2
 ```
 
-## Grading - 10 points
-* 4 points - Your `AnimalDemo` program displays 2 animals (name, age, and species) when run
-* 2 points - Your `AnimalDemo` program constructs the 2 animals with two different constructors as explained above
-* 3 points - After displaying the two animals, the program prompts the user for another animal, and lets the user enter its three attributes
-* 1 point - After the user enters the information for the third animal, the program displays that animal
-
-## Go beyond
-If you'd like to test your knowledge further, implement a `Zoo` class that has
-an array of `Animal` objects as a field. You can assume that the zoo will hold
-no more than 20 animals. At minimum, write a constructor and a method to add
-animals.
-(No need to turn this file in, but
-feel free to demonstrate it to your TA during lab.)
+## Grading - 100 points
+**If your code does not compile, has a runtime error on the inputs shown in the example output,
+or uses global variables (variables declared outside of main), you get an
+automatic 0.**
+* 10 points: code is indented so it is readable
+* 10 points: compiles successfully with `-Wall` -- no warnings
+* 10 points: the program stops collecting data when the user enters -99
+* 10 points: -99 is not counted as a temperature
+* 5 points: hot temperatures are counted correctly
+* 5 points: pleasant temperatures are counted correctly
+* 5 points: cold temperatures are counted correctly
+* 10 points: data visualization is correct based on counts
+* 15 points: the average computation is correct
+* 10 points: the average temperatures is printed with exactly one decimal
+	place
 
 ## Grading turnaround
-This lab will be graded with scores in Brightspace before Tuesday, September
-13th.
+This lab will be graded within one week of its due date.
+
+## Go beyond
+* Use functions to avoid repeated code when printing your visualization.
+* Use the increment operator `++` and addition assignment `+=` when possible.
