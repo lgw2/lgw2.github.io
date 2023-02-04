@@ -21,12 +21,12 @@ Schedule subject to change.
 | Monday 1/30    |[Git intro](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/lecture2/); functions|3.1-3.5      |[Classwork 4](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork4/)      |      |[link (audio only)](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ca471e86-8b7b-4ef1-9ee7-af9a0107e121)|
 | Wednesday 2/1  |[More functions](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/Chapter3.pdf); intro Lab 1|3.1-3.5   |[Classwork 5](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork5/)      |      |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d2482251-da1b-44e4-9292-af9c010787a1)|
 | Friday 2/3     |[Logical operators; if and switch statements](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/Chapter4.pdf)   |4.1-4.8   |[Ungraded classwork](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/ungraded_classwork2/); fix Classwork 4 if needed  ||[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7da31ba6-e190-4a6a-bf1c-af9e0107cf84)|
-| Monday 2/6     |Loops      |5.1-5.8|Classwork 6      |      ||
-| Wednesday 2/8  |Text input/output      |11.1      |Classwork 7  |      ||
-| Friday 2/10    |Conditional operator; maybe tmux |      |     |[Lab 1](https://lgw2.github.io/teaching/csci112-spring-2023/labs/lab1/)      ||
+| Monday 2/6     |Switch statements; character comparisons      ||[Classwork 6](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork6/)      |      ||
+| Wednesday 2/8  |Loops      |5.1-5.8      |[Classwork 7](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork7/)|      ||
+| Friday 2/10    |Redirection; conditional operator |      |     |[Lab 1](https://lgw2.github.io/teaching/csci112-spring-2023/labs/lab1/)      ||
 | Monday 2/13    |Arrays      |7      |Classwork 8      |      ||
 | Wednesday 2/15 |Arrays      |7      |Classwork 9      |      ||
-| Friday 2/17    |Arrays      |7      |      |Lab 2      ||
+| Friday 2/17    |Arrays      |7      |      |[Lab 2](https://lgw2.github.io/teaching/csci112-spring-2023/labs/lab2/)||
 | Monday 2/20    | President's day --- no class |      |      |      ||
 | Wednesday 2/22 |Review      |      |      |      ||
 | Friday 2/24    |Quiz 1 on D2L --- no class  |      |      |Lab 3      ||
