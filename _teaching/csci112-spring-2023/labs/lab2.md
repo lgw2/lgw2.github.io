@@ -13,7 +13,7 @@ title: "Lab 2"
 * Note that grading will be done on Gradescope, so you can see comments and
 	and detailed breakdown of your score there, but you do not need to submit
 	anything there.
-* Deadline reminder: per the [late assignment policy](https://lgw2.github.io/teaching/csci112-spring-2023/syllabus/#late-assignment-policies), if you submit after the deadline but within 24 hours of it (i.e., by 6am on Sunday, February 12th) you will receive a 25% penalty. If you submit within 48 hours you will receive a 50% penalty. After that, no submissions will be accepted.
+* Deadline reminder: per the [late assignment policy](https://lgw2.github.io/teaching/csci112-spring-2023/syllabus/#late-assignment-policies), if you submit after the deadline but within 24 hours of it you will receive a 25% penalty. If you submit within 48 hours you will receive a 50% penalty. After that, no submissions will be accepted.
 
 ## Learning outcomes
 * Practice using `if` statements.
