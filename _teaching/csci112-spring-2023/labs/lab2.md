@@ -38,7 +38,6 @@ average temperature.
 ### Example output
 ```
 [p19t655@csci112 lab2]$ ./a.out
-[p19t655@csci112 lab2]$ ./a.out
 Enter a high temp reading (-99 to quit)> 56
 Enter a high temp reading (-99 to quit)> 76
 Enter a high temp reading (-99 to quit)> 12
