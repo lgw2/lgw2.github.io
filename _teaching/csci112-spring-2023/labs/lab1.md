@@ -140,7 +140,7 @@ automatic 0.**
 * 5 points: only prompts the user to enter a percent if they say they want to
 	enter a custom percent
 * 10 points: print the correct substance given the temperature and error bound
-	(if multiple match, print the one with the smaller substance, or do what is
+	(if multiple match, print the one with the smaller boiling point, or do what is
 	described in the go beyond section below)
 * 10 points: prints the message `Substance unknown` if the entered temperature
 	is not within 5% of any of the substances' boiling points.
