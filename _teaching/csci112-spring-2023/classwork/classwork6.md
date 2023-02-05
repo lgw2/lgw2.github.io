@@ -22,7 +22,9 @@ title: "Classwork 6"
 
 Prompt the user for their grade. Then, using a `switch` statement, report back
 the minimum points they earned in the course. (Consult the [grades section of the syllabus]( https://lgw2.github.io/teaching/csci112-spring-2023/syllabus/#grading). You should allow both capital and lowercase letters for grades A, B, C, and D. You must match the output
-formatting below and you must use a `switch` statement.
+formatting below and you must use a `switch` statement. If they enter something
+other than the allowed grades, print "You earned an unknown number of points in
+the class."
 
 ```
 [p19t655@csci112 mon]$ ./exe
