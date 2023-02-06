@@ -27,7 +27,7 @@ Schedule subject to change.
 | Monday 2/13 |Introduction to predicate logic | | | ||
 | Wednesday 2/15 |Proofs in predicate logic | | | ||
 | Friday 2/17 |Functions; proof by construction | | |Drill 5 ||
-| Monday 2/20    | President's day --- no class |      |Homework 2      |      ||
+| Monday 2/20    | President's day --- no class |      |[Homework 2](https://lgw2.github.io/teaching/csci246-spring-2023/homework/hw2.pdf)      |      ||
 | Wednesday 2/22 |Review as needed      |      |      |      ||
 | Friday 2/24    |Quiz in class      |      |      |no drill      ||
 | Monday 2/27    |Pigeonhole principle      |      |      |      ||
