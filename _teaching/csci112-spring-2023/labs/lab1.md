@@ -143,7 +143,7 @@ automatic 0.**
 	(if multiple match, print the one with the smaller boiling point, or do what is
 	described in the go beyond section below)
 * 10 points: prints the message `Substance unknown` if the entered temperature
-	is not within 5% of any of the substances' boiling points.
+	is not within the given percent of any of the substances' boiling points.
 
 
 ### Hints
