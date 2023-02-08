@@ -36,6 +36,9 @@ average temperature.
 * You can assume that the user will only enter integers.
 * To check your work quickly, you can run `./<your-executable> < /public/labs/lab2/input.txt`, which will input the numbers entered by the
 	user in the example output below without you having to type them.
+* You may choose to accept inputs less than -99 as valid high temperatures, or
+	not. You will only be tested on inputs greater than -99 and -99 as the
+	stopping condition.
 
 ### Example output
 ```
