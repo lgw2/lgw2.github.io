@@ -85,7 +85,54 @@ You'll also want to be familiar with the following functionality and ideas:
 
 ### Redirection
 
-We can achieve
+A common task in programming is to input data from a file or write data to a
+file. While C has this ability built-in, we can also achieve it using the
+operating system using something called redirection, where we (temporarily)
+redirect the operating system's standard input (`stdin`) or standard output
+(`stdout`) from the console (where we normally type) to a file.
+
+The `>` redirects the output and `<` redirects the input.
+
+For example, suppose I have a program that prints the numbers 1 through 5,
+compiled into the executable `print_nums`:
+
+```
+[p19t655@csci112 ~]$ ./print_nums
+1 2 3 4 5
+```
+
+If I want to save this to a file called `nums.txt`, I can do the following.
+Note that nothing is print to the screen.
+
+```
+[p19t655@csci112 ~]$ ./print_nums > nums.txt
+```
+
+But if I `cat` the file `nums.txt`, I see that it has content:
+
+```
+[p19t655@csci112 ~]$ cat nums.txt
+1 2 3 4 5
+```
+
+Similarly, if I have an executable `read_nums` that reads in five integers (for
+example, using `scanf` in C), I can enter those at the console:
+
+```
+[p19t655@csci112 ~]$ ./read_nums
+Enter five integers:
+1 2 3 4 5
+The numbers you entered are 1, 2, 3, 4, 5
+```
+
+But I can also use redirection to use a file to enter them. (Recall that our
+file `nums.txt` contains `1 2 3 4 5`).
+
+```
+[p19t655@csci112 ~]$ ./read_nums < nums.txt
+Enter five integers:
+The numbers you entered are 1, 2, 3, 4, 5
+``
 
 ### Additional resources
 
