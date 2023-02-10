@@ -194,6 +194,40 @@ and then tag as normal
 git tag <tagname>
 ```
 
+You can tag a previous commit by referencing its commit hash. For example, if I
+run `git log` and see something like this:
+```
+[p19t655@csci112 csci112_spring2023]$ git log
+commit 71203455057227331ac8384f3f2c2a1910ef5094 (HEAD -> master)
+Author: lgw2 <lgw2@uw.edu>
+Date:   Fri Feb 10 09:08:12 2023 -0700
+
+    Add a example file
+
+commit aa08bd749ec35221abd90ce0908fa7279714e3c1 (origin/master)
+Author: lgw2 <lgw2@uw.edu>
+Date:   Wed Feb 8 16:38:34 2023 -0700
+
+    Update
+
+commit 3601b167efb9a1c6ed3f384c55a720c740f4ab07
+Author: lgw2 <lgw2@uw.edu>
+Date:   Thu Jan 26 20:19:37 2023 -0700
+
+    lab1
+
+commit 5170dff5f9795001a837407645ed55cae24e43d9
+Author: lgw2 <lgw2@uw.edu>
+Date:   Thu Jan 26 20:18:53 2023 -0700
+
+    Update
+```
+and I want to tag the commit with the comment "lab1" with the tag `lab1` , I cound run
+```
+git tag lab1 3601b167efb9a1c6ed3f384c55a720c740f4ab07
+```
+
+
 ### tl;dr
 
 Once you have a version of your lab or program that you would like to "submit",
