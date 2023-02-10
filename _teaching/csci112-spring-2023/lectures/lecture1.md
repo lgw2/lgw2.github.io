@@ -83,6 +83,10 @@ You'll also want to be familiar with the following functionality and ideas:
 	directories as
 	well as regular files and directories.
 
+### Redirection
+
+We can achieve
+
 ### Additional resources
 
 There are plenty of Linux and shell tutorials out there. The one that I
