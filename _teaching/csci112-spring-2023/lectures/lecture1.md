@@ -132,7 +132,7 @@ file `nums.txt` contains `1 2 3 4 5`).
 [p19t655@csci112 ~]$ ./read_nums < nums.txt
 Enter five integers:
 The numbers you entered are 1, 2, 3, 4, 5
-``
+```
 
 ### Additional resources
 
