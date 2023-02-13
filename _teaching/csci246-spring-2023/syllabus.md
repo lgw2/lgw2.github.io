@@ -26,34 +26,34 @@ Schedule subject to change.
 | Friday 2/10 |[More proofs by contrapoositive](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/classnotes8.pdf); HW 1 solutions|4.3 | |Drill 4 covering [more propositionial logic](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/prop_logic_contd.pdf) and [proofs by contrapositive](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/proof_by_contrapositive.pdf)|[link (contrapositive only; DM for recording on HW)](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fadd1398-5e86-4086-9f3a-afa5015cc030)|
 | Monday 2/13 |Introduction to predicate logic |3.4-3.5 | | ||
 | Wednesday 2/15 |Proofs in predicate logic |3.4-3.5  | | ||
-| Friday 2/17 |Functions; proof by construction |2.5 | |Drill 5 covering [introduction to predicate logic](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/intro_predicates.pdf), [proofs in predicate logic](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/proofs_in_predicate_logic.pdf), and [intro to functions](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/intro_functions.pdf) ||
+| Friday 2/17 |Introduction to functions |2.5 | |Drill 5 covering [introduction to predicate logic](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/intro_predicates.pdf), [proofs in predicate logic](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/proofs_in_predicate_logic.pdf), and [intro to functions](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/intro_functions.pdf) ||
 | Monday 2/20    | President's day --- no class |      |[Homework 2](https://lgw2.github.io/teaching/csci246-spring-2023/homework/hw2.pdf)      |      ||
 | Wednesday 2/22 |Review as needed      |      |      |      ||
 | Friday 2/24    |Quiz in class      |      |      |no drill      ||
-| Monday 2/27    |Pigeonhole principle      |      |      |      ||
-| Wednesday 3/1  |Proofs by induction      |      |      |      ||
-| Friday 3/3     |Proofs by strong induction      |      |      |Drill 6      ||
-| Monday 3/6     |Proofs by structural induction      |      |Homework 3      |      ||
-| Wednesday 3/8  |Introduction to binary relations      |      |      |      ||
-| Friday 3/10    |Equivalence relations      |      |Survey 1      |Drill 7      ||
+| Monday 2/27    |More functions      |      |      |      ||
+| Wednesday 3/1  |Proof by construction      |      |      |      ||
+| Friday 3/3     |Pigeonhole principle      |      |      |Drill 6      ||
+| Monday 3/6     |Proofs by induction |      |Homework 3      |      ||
+| Wednesday 3/8  |Proofs by strong induction      |      |      |      ||
+| Friday 3/10    |Proofs by structural induction           |      |Survey 1      |Drill 7      ||
 | Spring break    |No class      |      |      |      ||
-| Monday 3/20    |Partial and total orders      |      |      |      ||
-| Wednesday 3/22 |Introduction to asymptotic analysis (Big-O)      |      |      |      ||
-| Friday 3/24    |Properties of Big-O      |      |      |Drill 8      ||
-| Monday 3/27    |Introduction to algorithms analysis      |      |Homework 4      |      ||
-| Wednesday 3/29 |Worst-case runtime analysis      |      |      |      ||
-| Friday 3/31    |Asymptotic analysis of recursive algorithms      |      |      |Drill 9      ||
+| Monday 3/20    |Introduction to binary relations      |      |      |      ||
+| Wednesday 3/22 |Equivalence relations      |      |      |      ||
+| Friday 3/24    |Partial and total orders     |      |      |Drill 8      ||
+| Monday 3/27    |Introduction to asymptotic analysis (Big-O)      |      |Homework 4      |      ||
+| Wednesday 3/29 |Properties of Big-O       |      |      |      ||
+| Friday 3/31    |Introduction to algorithms analysis      |      |      |Drill 9      ||
 | Monday 4/3     |Review as needed      |      |      |      ||
 | Wednesday 4/5  |Quiz in class      |      |      |      ||
 | Friday 4/7     |University day --- no class      |      |      |no drill      ||
-| Monday 4/10    |Combinations and permutations      |      |Homework 5      |      ||
-| Wednesday 4/12 |Probability      |      |      |      ||
-| Friday 4/14    |Conditional probability      |      |      |Drill 10      ||
-| Monday 4/17    |Bayes Rule      |      |      |      ||
-| Wednesday 4/19 |Random variables and expectation      |      |      |      ||
-| Friday 4/21    |Intro to graphs      |      |      |Drill 11      ||
-| Monday 4/24    |      |      |Homework 6      |      ||
-| Wednesday 4/26 |      |      |      |      ||
+| Monday 4/10    |Worst-case runtime analysis      |      |Homework 5      |      ||
+| Wednesday 4/12 |Asymptotic analysis of recursive algorithms      |      |      |      ||
+| Friday 4/14    |Combinations and permutations |      |      |Drill 10      ||
+| Monday 4/17    |Probability    |      |      ||
+| Wednesday 4/19 |Conditional probability  |      |      |      ||
+| Friday 4/21    |Bayes Rule      |      |      |      |Drill 11      ||
+| Monday 4/24    |Random variables and expectation      |      |Homework 6      |      ||
+| Wednesday 4/26 |Intro to graphs      |      |      |      ||
 | Friday 4/28 |      |      |      |Drill 12      ||
 | Monday 5/1     |      |      |      |      ||
 | Wednesday 5/3  |      |      |      |      ||
