@@ -25,7 +25,7 @@ Schedule subject to change.
 | Wednesday 2/8 |[Proofs by contrapositive](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/classnotes8.pdf) |4.3 | | |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=024c7ede-a9f4-49dd-9d5a-afa3015ccc85)|
 | Friday 2/10 |[More proofs by contrapoositive](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/classnotes8.pdf); HW 1 solutions|4.3 | |Drill 4 covering [more propositionial logic](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/prop_logic_contd.pdf) and [proofs by contrapositive](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/proof_by_contrapositive.pdf)|[link (contrapositive only; DM for recording on HW)](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fadd1398-5e86-4086-9f3a-afa5015cc030)|
 | Monday 2/13 |Introduction to predicate logic |3.4-3.5 | | ||
-| Wednesday 2/15 |Proofs in predicate logic |3.4-3.5  | |[Optional: Homework 1 Corrections](https://lgw2.github.io/teaching/csci246-spring-2023/homework/hw1_corrections.pdf) ||
+| Wednesday 2/15 |Proofs in predicate logic |3.4-3.5  |[Optional: Homework 1 Corrections](https://lgw2.github.io/teaching/csci246-spring-2023/homework/hw1_corrections.pdf) | ||
 | Friday 2/17 |Introduction to functions |2.5 | |Drill 5 covering [introduction to predicate logic](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/intro_predicates.pdf), [proofs in predicate logic](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/proofs_in_predicate_logic.pdf), and [intro to functions](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/intro_functions.pdf) ||
 | Monday 2/20    | President's day --- no class |      |[Homework 2](https://lgw2.github.io/teaching/csci246-spring-2023/homework/hw2.pdf)      |      ||
 | Wednesday 2/22 |Review as needed      |      |      |      ||
@@ -283,5 +283,3 @@ This syllabus, course lectures and presentations, and any course materials provi
 
 Instructors are welcome to use this content in their
 courses without permission.
-
-Test edit.
