@@ -57,7 +57,7 @@ Schedule subject to change.
 | Friday 4/28 |      |      |      |Drill 12      ||
 | Monday 5/1     |      |      |      |      ||
 | Wednesday 5/3  |      |      |      |      ||
-| Friday 5/5     |      |      |Survey 2      |Drill 13      ||
+| Friday 5/5     |Review      |      |Survey 2      |Drill 13      ||
 | Monday 5/8     |Finals week --- no class      |      |Homework 7      |      ||
 | Wednesday 5/10 |Final --- in classroom, 2-3:50pm   |      |      |      ||
 
