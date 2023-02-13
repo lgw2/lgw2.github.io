@@ -24,7 +24,7 @@ Schedule subject to change.
 | Monday 2/6     |More logical operators; if and switch statements  ||[Classwork 6](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork6/)      |      |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=25a51295-d03e-4e4a-9a83-afa10107e4ef)|
 | Wednesday 2/8  |[Loops](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/Chapter5.pdf); intro Lab 2      |5.1-5.8      |[Classwork 7](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork7/)|      |no recording|
 | Friday 2/10    |[Redirection](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/lecture1/#redirection) |      |[Ungraded classwork](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/ungraded_classwork3/)     |[Lab 1](https://lgw2.github.io/teaching/csci112-spring-2023/labs/lab1/)      |[link (audio only)](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3cbc905d-cf18-4139-860c-afa50107ea8d)|
-| Monday 2/13    |Conditional operator; arrays      |7      |[Classwork 8](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork8/)      |      ||
+| Monday 2/13    |[Conditional operator; arrays](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/Chapter7.pdf)      |7      |[Classwork 8](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork8/)      |      ||
 | Wednesday 2/15 |Arrays      |7      |[Classwork 9](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork9/)      |      ||
 | Friday 2/17    |Arrays      |7      |      |[Lab 2](https://lgw2.github.io/teaching/csci112-spring-2023/labs/lab2/)||
 | Monday 2/20    | President's day --- no class |      |      |      ||
