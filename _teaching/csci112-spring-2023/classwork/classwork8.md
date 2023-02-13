@@ -20,7 +20,7 @@ title: "Classwork 7"
 * Inside this directory, create a file called `min.c`. In it, write a
 	program solving the following problem.
 
-Prompt the user to enter two characters. Use a **conditional oeprator** to find
+Prompt the user to enter two characters. Use the **conditional operator** to find
 the minimum (according to their ASCII codes) of the characters and print it
 back to the user.
 
@@ -48,7 +48,7 @@ Min is A
 Optionally (you will not be graded on this), you can try using redirection to
 write your output to a file and/or read the input from a file.
 
-Optionally (you will not be graded on this), you can store your `chars` in an
+Optionally (you will not be graded on this), you can store your `char`s in an
 array.
 
 ### Hints
