@@ -1,48 +1,77 @@
 ---
 collection: teaching
-title: "Classwork 8"
+title: "Classwork 7"
 ---
 
 ## Logistics
-* Due: Monday, May 24th no later than 1:35pm.
-* Submission instructions: push a commit with the tag `classwork8` to your git
-	repository.
+* Due: Monday, February 13th AoE.
+* Submission instructions: make sure that the required file (`min.c`) is in your
+	`/classwork/week5/mon/` directory.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
-	this assignment. If the deadline is approaching, submit what you have in
-	order to earn partial credit.
+	this assignment.
 
 ## Learning outcomes
-* Practice using pointers to pass by reference to a function.
+* Practice using the conditional operator.
 
 ## Assignment
 
-Write a program called `classwork8.c` that reads in three doubles from standard input.
+* Log in to the server.
+* From your home directory, navigate to `classwork/week5/mon/`, creating directories `week5` and `mon` if necessary.
+* Inside this directory, create a file called `min.c`. In it, write a
+	program solving the following problem.
 
-In a function defined outside of `main`, take those three numbers and compute
-their sum and average. This can be done by passing references to your sum and
-average variables that are defined inside of main.
+Prompt the user to enter two characters. Use a **conditional oeprator** to find
+the minimum (according to their ASCII codes) of the characters and print it
+back to the user.
 
-Finally, print both the sum and the average.
+Note that the user should be able to input their characters separated by
+whitespace if they would like.
 
-For example, a run of your program may look like this:
+For example, compiling and running your program should look like this:
 
 ```
-[p19t655@csci112 classwork8]$ gcc -o classwork8 -Wall classwork8.c 
-[p19t655@csci112 classwork8]$ ./classwork8 
-Enter a number> 4.5
-Enter a number> -10.0
-Enter a number> 0.1
-sums=-5.40. avg=-1.80.
+[p19t655@csci112 mon]$ gcc -o min -Wall min.c
+[p19t655@csci112 mon]$ ./min
+Enter two characters: a A
+Min is A
+[p19t655@csci112 mon]$ ./min
+Enter two characters: 6 n
+Min is 6
+[p19t655@csci112 mon]$ ./min
+Enter two characters: y x
+Min is x
+[p19t655@csci112 mon]$ ./min
+Enter two characters: P A
+Min is A
 ```
 
+Optionally (you will not be graded on this), you can try using redirection to
+write your output to a file and/or read the input from a file.
 
-## Grading - 10 points
-* 1 point - there is a file called `classwork8.c` in your
-	`classwork/classwork8/` directory.
-* The file compiles and runs.
-* Note: you will not earn any points if your work is not committed and pushed to
-Github with the tag `classwork8`.
+Optionally (you will not be graded on this), you can store your `chars` in an
+array.
+
+### Hints
+* It is standard to include a newline (`\n`) at the end of the last line of any
+	file; thus, your final print statement should include a newline at the end.
+	If you get the error `\ No newline at end of file` in your `diff` below,
+	it's because you're missing the newline.
+* You can check that you will get full credit for this assignment by compiling
+	your program, running it and saving its output to a file, and comparing
+	that file to the example output. Specifically, do:
+```
+gcc -o exe -Wall min.c
+./exe < /public/classwork/week5/mon/test_input.txt > output.txt
+diff -w -i ~/classwork/week5/mon/output.txt /public/classwork/week5/mon/expected_output.txt
+```
+You will see any warnings during compilation and any differences between your output and the expected output on the
+screen. If nothing happens, the content of your output file exactly matches the
+expected content and there were no warnings when compiling. As long as your file is in the correct place and named
+correctly, this means that you will get full credit for the assignment.
 
 ## Grading turnaround
-This classwork will be graded with scores in Brightspace by 5pm the day it is
-due (May 24th).
+Preliminary results via autograder will be present in the appropriate classwork
+directory in the `autograder.txt`, refreshed every 5 minutes from 8am to 11am
+on the class day, and then
+every hour until 6am the following day. The 6am run is the final grade. Scores will be
+uploaded to D2L by the next class period.
