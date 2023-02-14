@@ -63,9 +63,9 @@ Row 2 has total 123.
 	your program, running it and saving its output to a file, and comparing
 	that file to the example output. Specifically, do:
 ```
-gcc -o exe -Wall min.c
+gcc -o exe -Wall 2d.c
 ./exe < /public/classwork/week5/wed/test_input.txt > output.txt
-diff -w -i ~/classwork/week5/wed/output.txt /public/classwork/week5/mon/expected_output.txt
+diff -w -i ~/classwork/week5/wed/output.txt /public/classwork/week5/wed/expected_output.txt
 ```
 You will see any warnings during compilation and any differences between your output and the expected output on the
 screen. If nothing happens, the content of your output file exactly matches the
