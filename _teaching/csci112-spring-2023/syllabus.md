@@ -26,7 +26,7 @@ Schedule subject to change.
 | Friday 2/10    |[Redirection](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/lecture1/#redirection) |      |[Ungraded classwork](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/ungraded_classwork3/)     |[Lab 1](https://lgw2.github.io/teaching/csci112-spring-2023/labs/lab1/)      |[link (audio only)](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3cbc905d-cf18-4139-860c-afa50107ea8d)|
 | Monday 2/13    |[Conditional operator; arrays](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/Chapter7.pdf)      |7      |[Classwork 8](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork8/)      |      |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e011b5d3-4d5c-4b0c-a5eb-afa801079bde)|
 | Wednesday 2/15 |Arrays      |7      |[Classwork 9](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork9/)      |      ||
-| Friday 2/17    |Arrays      |7      |      |[Lab 2](https://lgw2.github.io/teaching/csci112-spring-2023/labs/lab2/)||
+| Friday 2/17    |Arrays      |7      |[Ungraded classwork](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/ungraded_classwork4/)        |[Lab 2](https://lgw2.github.io/teaching/csci112-spring-2023/labs/lab2/)||
 | Monday 2/20    | President's day --- no class |      |      |      ||
 | Wednesday 2/22 |Review      |      |      |      ||
 | Friday 2/24    |Quiz 1 on D2L --- no class  |      |      |Lab 3      ||
