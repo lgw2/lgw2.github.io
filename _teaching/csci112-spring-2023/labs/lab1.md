@@ -10,7 +10,7 @@ title: "Lab 1"
 	directory, and that the snapshot (commit) of your repository containing the version of that file you want us to grade has been committed and
 	tagged as `lab1`. See the [git lecture](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/lecture2) and [classwork 4](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork4) for more
 	details.
-* Note that grading will be done on Gradescope, so you can see comments and
+* Note that grading will be done on D2L, so you can see comments and
 	and detailed breakdown of your score there, but you do not need to submit
 	anything there.
 * Deadline reminder: per the [late assignment policy](https://lgw2.github.io/teaching/csci112-spring-2023/syllabus/#late-assignment-policies), if you submit after the deadline but within 24 hours of it (i.e., by 6am on Sunday, February 12th) you will receive a 25% penalty. If you submit within 48 hours you will receive a 50% penalty. After that, no submissions will be accepted.
