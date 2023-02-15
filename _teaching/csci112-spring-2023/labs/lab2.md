@@ -41,6 +41,8 @@ average temperature.
 	stopping condition.
 
 ### Example output
+If you type in the numbers directly to the console, your output should look
+something like this (no need to match formatting exactly):
 ```
 [p19t655@csci112 lab2]$ ./a.out
 Enter a high temp reading (-99 to quit)> 56
@@ -57,6 +59,16 @@ Enter a high temp reading (-99 to quit)> -12
 Enter a high temp reading (-99 to quit)> 9
 Enter a high temp reading (-99 to quit)> -99
 
+Hot days:	****
+Pleasant days:	*
+Cold days:	*******
+Average temperature: 54.2
+```
+If you use redirection with the sample input file, it will look something like
+this:
+```
+[p19t655@csci112 lab2]$ ./lab2 </public/labs/lab2/input.txt
+Enter a high temp reading (-99 to quit)> Enter a high temp reading (-99 to quit)> Enter a high temp reading (-99 to quit)> Enter a high temp reading (-99 to quit)> Enter a high temp reading (-99 to quit)> Enter a high temp reading (-99 to quit)> Enter a high temp reading (-99 to quit)> Enter a high temp reading (-99 to quit)> Enter a high temp reading (-99 to quit)> Enter a high temp reading (-99 to quit)> Enter a high temp reading (-99 to quit)> Enter a high temp reading (-99 to quit)> Enter a high temp reading (-99 to quit)>
 Hot days:	****
 Pleasant days:	*
 Cold days:	*******
