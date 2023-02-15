@@ -48,9 +48,8 @@ order that they were passed in), and a count of the number of students who
 missed each question. For example, your program should output the following
 given the provided `testdata.txt` file.
 ```
-[p19t655@csci112 lab3]$ ./lab3 < testdata.txt
-Question	1 2 3 4 5 6 7 8
-Answer		c c d d a b c e
+Question	 1 2 3 4 5 6 7 8
+Answer		 c c d d a b c e
 
 ID	Grade(%)
 100	75.00
@@ -59,17 +58,9 @@ ID	Grade(%)
 115	37.50
 120	62.50
 
-Question	1 2 3 4 5 6 7 8
-Missed By	2 2 2 1 1 0 2 4
+Question	 1 2 3 4 5 6 7 8
+Missed by	 2 2 2 1 1 0 2 4
 ```
-
-### Requirements
-* Write your program in a file called `lab3.c` in your
-	`csci112-firstname-lastname/labs/lab3/` directory.
-* Your output formatting must match the example. Use a tool like
-	[diffchecker](https://www.diffchecker.com/) to compare your output with the sample
-	output. You do not need to worry about trailing spaces.
-
 
 ## Grading - 100 points
 **If your code does not compile, has a runtime error on the inputs shown in the example output,
