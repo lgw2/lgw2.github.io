@@ -4,50 +4,85 @@ title: "Lab 3"
 ---
 
 ## Logistics
-* Due: on Thursday, September 15th anywhere on earth (6am Friday). (Penalties from [the
-	syllabus](https://lgw2.github.io/teaching/csci132-fall-2022/syllabus/)
-	apply if you turn it in any later.)
-* Submission instructions: you have two options. The first option is to
-	demonstrate the execution of your lab to your TA during your assigned lab
-	section on Thursday.
-	The second option is to submit your `Pet.java` file to the Lab 3
-	assignment on D2L. (Note that you don't need to change `PetDemo.java`, so
-	you don't need to turn it in.)
-
+* Due: Friday, February 24th AoE.
+* Submission instructions: ensure that you have the source code you want us to
+	grade in a file called `lab3.c` in your `~/csci112_spring2023/labs/lab3`
+	directory, and that the snapshot (commit) of your repository containing the version of that file you want us to grade has been committed and
+	tagged as `lab3`. See the [git lecture](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/lecture2) and [classwork 4](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork4) for more
+	details.
+* Note that grading will be done on Gradescope, so you can see comments and
+	and detailed breakdown of your score there, but you do not need to submit
+	anything there.
+* Deadline reminder: per the [late assignment policy](https://lgw2.github.io/teaching/csci112-spring-2023/syllabus/#late-assignment-policies), if you submit after the deadline but within 24 hours of it you will receive a 25% penalty. If you submit within 48 hours you will receive a 50% penalty. After that, no submissions will be accepted.
 
 ## Learning outcomes
-* Practice using inheritance
-* Practice using an existing Java class
+* Practice using file redirection.
+* Practice using arrays.
 
 ## Assignment
 
-Download the starter code [here](https://lgw2.github.io/teaching/csci132-fall-2022/labs/lab3_starter.zip).
-Given the driver class `PetsDemo.java` and the (mostly) complete abstract `Pet`
-class, create a `Cat` class and a `Dog` class to extend `Pet`, and provide concrete
-methods for the abstract `getAgeInHumanYears`. The `Pet` class itself also has a
-`getAge` method that needs to be finished before it will work correctly.
+*This problem comes from problem 1, chapter 7 on page 445-446 of the book.*
 
-Inside the `getAgeInHumanYears` method, there are links that explain how to
-calculate the age of cats and dogs in human years. Note that you do not need to
-extrapolate between years! For example, a 9 month old dog can be considered to
-be 0 years old, and a 13 month old dog can be considered to be 1 year old.
+Write a program to grade an n-question multiple-choice exam, where n is between
+1 and 10. You receive the information about the exam from standard input (so you
+should use `scanf`), but you should read it using file redirection instead of
+typing the input.
+The first line contains the number of questions followed by the correct
+answer for each question. All of the following lines contain a student id
+number followed by that student's answers to each question. An example input
+file can be found in `/public/labs/lab3/testdata.txt`. It looks like this:
 
-## Sample run
-After you implement the `Pet` and `Cat` classes and finish the `getAge` method
-in the `Pet` class, the output of `PetDemo.java` should be:
 ```
-Chuki is 44 in human years.
-Buster is 0 in human years.
-Aspen is 64 in human years.
-Old Aspy is actually 12 years old.
+8 ccddabce
+100 bcddabca
+107 ccddcbab
+112 ccddabcc
+115 bbccabcd
+120 cdcdabde
+```
+meaning that there were 8 questions on the exam and five students took it.
+
+Your program should print out a report about the exam that shows the correct
+answer for each question, the grade for each student (by ID and in the same
+order that they were passed in), and a count of the number of students who
+missed each question. For example, your program should output the following
+given the provided `testdata.txt` file.
+```
+[p19t655@csci112 lab3]$ ./lab3 < testdata.txt
+Question	1 2 3 4 5 6 7 8
+Answer		c c d d a b c e
+
+ID	Grade(%)
+100	75.00
+107	62.50
+112	87.50
+115	37.50
+120	62.50
+
+Question	1 2 3 4 5 6 7 8
+Missed By	2 2 2 1 1 0 2 4
 ```
 
-## Grading - 10 points
-* 3 points - `getAge` is implemented and works correctly in the `Pet` class.
-* 4 points - `Cat` and `Dog` classes are created, and they properly extend the `Pet` class.
-* 2 points - both `Cat` and `Dog` `getAgeInHumanYears` methods calculate the correct age.
-* 1 points - Your code is clean and easy to read -- no unused clutter code or commented-out code.
+### Requirements
+* Write your program in a file called `lab3.c` in your
+	`csci112-firstname-lastname/labs/lab3/` directory.
+* Your output formatting must match the example. Use a tool like
+	[diffchecker](https://www.diffchecker.com/) to compare your output with the sample
+	output. You do not need to worry about trailing spaces.
+
+
+## Grading - 100 points
+**If your code does not compile, has a runtime error on the inputs shown in the example output,
+or uses global variables (variables declared outside of main), you get an
+automatic 0.**
+* 10 points: code is indented so it is readable
+* 10 points: compiles successfully with `-Wall` -- no warnings
+* 10 points: prints the output in a pleasing manner
+* 15 points: shows all information in output (true answers to every question, %
+	grade for every student id, and number of students who missed each
+	question)
+* 10: uses an array to store the correct answers and the number of miissed answers
+* 10: uses `%c` to read in the input (not `%s`)
 
 ## Grading turnaround
-This lab will be graded with scores in Brightspace before Tuesday, September
-20th.
+This lab will be graded within one week of its due date.
