@@ -71,7 +71,6 @@ You will see any warnings during compilation and any differences between your ou
 screen. If nothing happens, the content of your output file exactly matches the
 expected content and there were no warnings when compiling. As long as your file is in the correct place and named
 correctly, and you used a 3 by 5 array, this means that you will get full credit for the assignment.
-
 You can check that you used a 3 by 5 array by running
 ```
 grep "\[3]\[5]" 2d.c
