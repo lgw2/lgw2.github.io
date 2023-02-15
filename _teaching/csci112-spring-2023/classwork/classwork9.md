@@ -73,7 +73,7 @@ expected content and there were no warnings when compiling. As long as your file
 correctly, and you used a 3 by 5 array, this means that you will get full credit for the assignment.
 You can check that you used a 3 by 5 array by running
 ```
-grep "\[3]\[5]"  ~/classwork/week5/wed/2d.c
+grep "\[.*]\[.*]"  ~/classwork/week5/wed/2d.c
 ```
 If you see some output (likely something like this)
 ```
