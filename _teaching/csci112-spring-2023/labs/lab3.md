@@ -29,7 +29,12 @@ should use `scanf`), but you should read it using file redirection instead of
 typing the input.
 The first line contains the number of questions followed by the correct
 answer for each question. All of the following lines contain a student id
-number followed by that student's answers to each question. An example input
+number followed by that student's answers to each question. You may assume that
+no more than 20 students took the exam, though you can write the program
+without
+that assumption.
+
+An example input
 file can be found in `/public/labs/lab3/testdata.txt`. It looks like this:
 
 ```
@@ -80,6 +85,10 @@ automatic 0.**
 * 10 points: uses at least one function that takes an array as input
 * 5 points: source code is in a commit with tag `lab3`
 * 5 points: source code is in `csci112_spring2023/labs/lab3` directory
+
+## Go beyond
+* If you made an assumption about the number of students taking the exam, try
+	to change your program to not use that assumption.
 
 ## Grading turnaround
 This lab will be graded within one week of its due date.
