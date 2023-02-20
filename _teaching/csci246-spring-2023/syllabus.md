@@ -27,13 +27,13 @@ Schedule subject to change.
 | Monday 2/13 |[Introduction to predicate logic](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/classnotes9.pdf) |3.4-3.5 | | |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5f6eeff1-8498-4598-ade6-afa8015d039d)|
 | Wednesday 2/15 |[Proofs in predicate logic](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/classnotes10.pdf) |3.4-3.5  |[Optional: Homework 1 Corrections](https://lgw2.github.io/teaching/csci246-spring-2023/homework/hw1_corrections.pdf) | |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=475bf61c-6f06-427b-8429-afaa01077ba3)|
 | Friday 2/17 |[Introduction to functions](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/classnotes11.pdf)|2.5 | |Drill 5 covering [introduction to predicate logic](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/intro_predicates.pdf), [proofs in predicate logic](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/proofs_in_predicate_logic.pdf), and [intro to functions](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/intro_functions.pdf) |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5d57aa0f-6568-43e9-8102-afac015ca6ac)|
-| Monday 2/20    | President's day --- no class |      |[Homework 2](https://lgw2.github.io/teaching/csci246-spring-2023/homework/hw2.pdf); [LaTex source file](https://www.overleaf.com/read/mqdpvgqdxjbm) |      ||
+| Monday 2/20    | President's day --- no class |      |[Homework 2](https://lgw2.github.io/teaching/csci246-spring-2023/homework/hw2.pdf); [LaTeX source file](https://www.overleaf.com/read/mqdpvgqdxjbm) |      ||
 | Wednesday 2/22 |Review      |      |      |      ||
 | Friday 2/24    |Quiz ([description of content](https://lgw2.github.io/teaching/csci246-spring-2023/quizzes/quiz1)) in class     |      |      |no drill      ||
 | Monday 2/27    |More functions      |      |      |      ||
 | Wednesday 3/1  |Proof by construction      |      |      |      ||
 | Friday 3/3     |Pigeonhole principle      |      |      |Drill 6      ||
-| Monday 3/6     |Proofs by induction |      |[Homework 3](https://lgw2.github.io/teaching/csci246-spring-2023/homework/hw3.pdf)      |      ||
+| Monday 3/6     |Proofs by induction |      |[Homework 3](https://lgw2.github.io/teaching/csci246-spring-2023/homework/hw3.pdf); [LaTeX source file](https://www.overleaf.com/read/chvfjvnbyfrc)      |      ||
 | Wednesday 3/8  |Proofs by strong induction      |      |      |      ||
 | Friday 3/10    |Proofs by structural induction           |      |Survey 1      |Drill 7      ||
 | Spring break    |No class      |      |      |      ||
