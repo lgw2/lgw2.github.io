@@ -51,7 +51,7 @@ Schedule subject to change.
 | Friday 4/14    |Combinations and permutations |      |      |Drill 10      ||
 | Monday 4/17    |Probability    |      |      ||
 | Wednesday 4/19 |Conditional probability  |      |      |      ||
-| Friday 4/21    |Bayes Rule      |      |      |      |Drill 11      ||
+| Friday 4/21    |Bayes Rule      |  |      |Drill 11      ||
 | Monday 4/24    |Random variables and expectation      |      |Homework 6      |      ||
 | Wednesday 4/26 |Intro to graphs      |      |      |      ||
 | Friday 4/28 |      |      |      |Drill 12      ||
