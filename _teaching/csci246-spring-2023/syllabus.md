@@ -28,8 +28,8 @@ Schedule subject to change.
 | Wednesday 2/15 |[Proofs in predicate logic](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/classnotes10.pdf) |3.4-3.5  |[Optional: Homework 1 Corrections](https://lgw2.github.io/teaching/csci246-spring-2023/homework/hw1_corrections.pdf) | |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=475bf61c-6f06-427b-8429-afaa01077ba3)|
 | Friday 2/17 |Introduction to functions |2.5 | |Drill 5 covering [introduction to predicate logic](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/intro_predicates.pdf), [proofs in predicate logic](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/proofs_in_predicate_logic.pdf), and [intro to functions](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/intro_functions.pdf) ||
 | Monday 2/20    | President's day --- no class |      |[Homework 2](https://lgw2.github.io/teaching/csci246-spring-2023/homework/hw2.pdf)      |      ||
-| Wednesday 2/22 |Review as needed      |      |      |      ||
-| Friday 2/24    |Quiz in class      |      |      |no drill      ||
+| Wednesday 2/22 |Review      |      |      |      ||
+| Friday 2/24    |Quiz (more info [here](https://lgw2.github.io/teaching/csci246-spring-2023/quizzes/quiz1)) in class     |      |      |no drill      ||
 | Monday 2/27    |More functions      |      |      |      ||
 | Wednesday 3/1  |Proof by construction      |      |      |      ||
 | Friday 3/3     |Pigeonhole principle      |      |      |Drill 6      ||
