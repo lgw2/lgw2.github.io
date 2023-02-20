@@ -33,7 +33,7 @@ Schedule subject to change.
 | Monday 2/27    |More functions      |      |      |      ||
 | Wednesday 3/1  |Proof by construction      |      |      |      ||
 | Friday 3/3     |Pigeonhole principle      |      |      |Drill 6      ||
-| Monday 3/6     |Proofs by induction |      |Homework 3      |      ||
+| Monday 3/6     |Proofs by induction |      |[Homework 3](https://lgw2.github.io/teaching/csci246-spring-2023/homework/hw3.pdf)      |      ||
 | Wednesday 3/8  |Proofs by strong induction      |      |      |      ||
 | Friday 3/10    |Proofs by structural induction           |      |Survey 1      |Drill 7      ||
 | Spring break    |No class      |      |      |      ||
