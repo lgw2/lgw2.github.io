@@ -15,7 +15,7 @@ For the  quiz, you may access a lot of resources:
 * Any of the course videos
 * Anything in the course Discord
 * Anything linked from the course webpage
-* The course textbook (Data Structures and Algorithms in Java)
+* The course textbook (Problem Solving and Program Design in C)
 * Any of your assignments or code you have written in class, or code in the
 	`/public` directory on the server
 
