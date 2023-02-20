@@ -29,7 +29,7 @@ Schedule subject to change.
 | Friday 2/17    |[Arrays](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/Chapter7.pdf); intro Lab 3|7      |[Ungraded classwork](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/ungraded_classwork4/)        |[Lab 2](https://lgw2.github.io/teaching/csci112-spring-2023/labs/lab2/)|[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=06a2ab35-0cf7-442b-b99e-afac010767e3)|
 | Monday 2/20    | President's day --- no class |      |      |      ||
 | Wednesday 2/22 |Review      |      |      |      ||
-| Friday 2/24    |Quiz 1 on D2L --- no class  |      |      |[Lab 3](https://lgw2.github.io/teaching/csci112-spring-2023/labs/lab3/)      ||
+| Friday 2/24    |Quiz 1 (more info[https://lgw2.github.io/teaching/csci112-spring-2023/quizzes/quiz1/]) on D2L --- no class  |      |      |[Lab 3](https://lgw2.github.io/teaching/csci112-spring-2023/labs/lab3/)      ||
 | Monday 2/27    |Pointers   |6      |Classwork 10      |      ||
 | Wednesday 3/1  |Pointers   |6      |Classwork 11      |      ||
 | Friday 3/3     |Pointers   |6      |      |      ||
