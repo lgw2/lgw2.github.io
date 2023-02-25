@@ -30,8 +30,8 @@ Schedule subject to change.
 | Monday 2/20    | President's day --- no class |      |      |      ||
 | Wednesday 2/22 |Review      |      |      |      |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=71adf52a-c640-4da4-b2df-afb101079882)|
 | Friday 2/24    |Quiz 1 ([more info](https://lgw2.github.io/teaching/csci112-spring-2023/quizzes/quiz1/)) on D2L --- no class  |      |      |[Lab 3](https://lgw2.github.io/teaching/csci112-spring-2023/labs/lab3/)      ||
-| Monday 2/27    |Searching arrays   |7      |Classwork 10      |      ||
-| Wednesday 3/1  |Enumerated types   |7      |Classwork 11      |      ||
+| Monday 2/27    |[Searching, sorting arrays](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/Chapter7.pdf)|7|[Classwork 10](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork10/)  |      ||
+| Wednesday 3/1  |Pointers   |7      |Classwork 11      |      ||
 | Friday 3/3     |Pointers   |6      |      |      ||
 | Monday 3/6     |Pointers  |6      |Classwork 12      |      ||
 | Wednesday 3/8  |File I/O |6      |Classwork 13      |      ||
