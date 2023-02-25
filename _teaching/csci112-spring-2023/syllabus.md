@@ -30,33 +30,33 @@ Schedule subject to change.
 | Monday 2/20    | President's day --- no class |      |      |      ||
 | Wednesday 2/22 |Review      |      |      |      |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=71adf52a-c640-4da4-b2df-afb101079882)|
 | Friday 2/24    |Quiz 1 ([more info](https://lgw2.github.io/teaching/csci112-spring-2023/quizzes/quiz1/)) on D2L --- no class  |      |      |[Lab 3](https://lgw2.github.io/teaching/csci112-spring-2023/labs/lab3/)      ||
-| Monday 2/27    |Pointers   |6      |Classwork 10      |      ||
-| Wednesday 3/1  |Pointers   |6      |Classwork 11      |      ||
+| Monday 2/27    |Searching arrays   |7      |Classwork 10      |      ||
+| Wednesday 3/1  |Enumerated types   |7      |Classwork 11      |      ||
 | Friday 3/3     |Pointers   |6      |      |      ||
-| Monday 3/6     |C type strings  |8      |Classwork 12      |      ||
-| Wednesday 3/8  |C type strings  |8      |Classwork 13      |      ||
-| Friday 3/10    |C type strings  |8      |      |Lab 4      ||
+| Monday 3/6     |Pointers  |6      |Classwork 12      |      ||
+| Wednesday 3/8  |File I/O |6      |Classwork 13      |      ||
+| Friday 3/10    |C type strings  |      |      |Lab 4      ||
 | Spring break   |No class      |      |      |      ||
-| Monday 3/20    |Makefiles      |      |Classwork 14      |      ||
-| Wednesday 3/22 |Structs      |      |Classwork 15      |      ||
-| Friday 3/24    |Review      |      |      |Program 1      ||
-| Monday 3/27    |Quiz 2 on D2L --- no class|      |      |      ||
-| Wednesday 3/29 |Intro C++|      |Classwork 16      |      ||
-| Friday 3/31    |C++ strings      |      |      |      ||
-| Monday 4/3     |C++ strings      |      |Classwork 17      |      ||
-| Wednesday 4/5  |Vectors      |      |Classwork 18      |      ||
+| Monday 3/20    |C type strings      |      |Classwork 14      |      ||
+| Wednesday 3/22 |C type strings      |      |Classwork 15      |      ||
+| Friday 3/24    |C type strings      |      |      |Program 1      ||
+| Monday 3/27    |Structs|      |      |      ||
+| Wednesday 3/29 |Structs|      |Classwork 16      |      ||
+| Friday 3/31    |Compiler/linker      |      |      |Lab 5      ||
+| Monday 4/3     |Makefiles      |      |Classwork 17      |      ||
+| Wednesday 4/5  |Makefiles      |      |Classwork 18      |      ||
 | Friday 4/7     |University day --- no class      |      |      |      ||
-| Monday 4/10    |Errors/exception handling|  |Classwork 19      |      ||
-| Wednesday 4/12 |Classes      |      |Classwork 20      |      ||
-| Friday 4/14    |Classes      |      | |Lab 5          ||
-| Monday 4/17    |Classes      |      |Classwork 21      |      ||
-| Wednesday 4/19 |Classes      |      |Classwork 22      |      ||
-| Friday 4/21    |Reference variables      |      |      |Lab 6      ||
-| Monday 4/24    |Inheritance      |      |Classwork 23      |      ||
-| Wednesday 4/26 |Inheritance      |      |Classwork 24    |      ||
-| Friday 4/28 |Inheritance      |      |      |Lab 7      ||
-| Monday 5/1     |C++ memory management      |      |      |      ||
-| Wednesday 5/3  |Building vector from scratch      |      |      |      ||
+| Monday 4/10    |Review|  |Classwork 19      |      ||
+| Wednesday 4/12 |Quiz 2 on D2L --- no class |      |Classwork 20      |      ||
+| Friday 4/14    |Vectors      |      | |          ||
+| Monday 4/17    |Vectors      |      |Classwork 21      |      ||
+| Wednesday 4/19 |Errors/exception handling      |      |Classwork 22      |      ||
+| Friday 4/21    |Classes     |      |      |Lab 6      ||
+| Monday 4/24    |Classes      |      |Classwork 23      |      ||
+| Wednesday 4/26 |Classes      |      |Classwork 24    |      ||
+| Friday 4/28 |Reference variables      |      |      |Lab 7      ||
+| Monday 5/1     |Inheritance    |      |      |      ||
+| Wednesday 5/3  |Inheritance      |      |      |      ||
 | Friday 5/5     |Review      |      |      |Program 2      ||
 | Monday 5/8 |Final quiz on D2L--- extra office hours 8-9:50am   |      |      |      ||
 
