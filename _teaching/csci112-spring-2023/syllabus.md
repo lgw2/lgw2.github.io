@@ -39,24 +39,24 @@ Schedule subject to change.
 | Spring break   |No class      |      |      |      ||
 | Monday 3/20    |C type strings      |      |Classwork 14      |      ||
 | Wednesday 3/22 |C type strings      |      |Classwork 15      |      ||
-| Friday 3/24    |C type strings      |      |      |Program 1      ||
+| Friday 3/24    |Structs      |      |      |Program 1      ||
 | Monday 3/27    |Structs|      |      |      ||
-| Wednesday 3/29 |Structs|      |Classwork 16      |      ||
+| Wednesday 3/29 |Command line arguments|      |Classwork 16      |      ||
 | Friday 3/31    |Compiler/linker      |      |      |Lab 5      ||
 | Monday 4/3     |Makefiles      |      |Classwork 17      |      ||
 | Wednesday 4/5  |Makefiles      |      |Classwork 18      |      ||
 | Friday 4/7     |University day --- no class      |      |      |      ||
 | Monday 4/10    |Review|  |Classwork 19      |      ||
 | Wednesday 4/12 |Quiz 2 on D2L --- no class |      |Classwork 20      |      ||
-| Friday 4/14    |Vectors      |      | |          ||
-| Monday 4/17    |Vectors      |      |Classwork 21      |      ||
-| Wednesday 4/19 |Errors/exception handling      |      |Classwork 22      |      ||
-| Friday 4/21    |Classes     |      |      |Lab 6      ||
-| Monday 4/24    |Classes      |      |Classwork 23      |      ||
+| Friday 4/14    |C++ intro      |      | |          ||
+| Monday 4/17    |C++ strings      |      |Classwork 21      |      ||
+| Wednesday 4/19 |C++ strings    |      |Classwork 22      |      ||
+| Friday 4/21    |Vectors       |      |      |Lab 6      ||
+| Monday 4/24    |Errors/exceptions      |      |Classwork 23      |      ||
 | Wednesday 4/26 |Classes      |      |Classwork 24    |      ||
 | Friday 4/28 |Reference variables      |      |      |Lab 7      ||
-| Monday 5/1     |Inheritance    |      |      |      ||
-| Wednesday 5/3  |Inheritance      |      |      |      ||
+| Monday 5/1     |Classes   |      |      |      ||
+| Wednesday 5/3  |Classes      |      |      |      ||
 | Friday 5/5     |Review      |      |      |Program 2      ||
 | Monday 5/8 |Final quiz on D2L--- extra office hours 8-9:50am   |      |      |      ||
 
