@@ -31,8 +31,8 @@ file contains exactyly 5 doubles.
 	that file to the example output. Specifically, do:
 ```
 gcc -o exe -Wall read_file.c
-./exe < /public/classwork/week7/wed/input.txt > output.txt
-diff -w -i ~/classwork/week7/wed/output.txt /public/classwork/week7/wed/expected_output.txt
+./exe
+diff -w -i ~/classwork/week7/wed/max.txt /public/classwork/week7/wed/expected_output.txt
 ```
 You will see any warnings during compilation and any differences between your output and the expected output on the
 screen. If nothing happens, the content of your output file exactly matches the
