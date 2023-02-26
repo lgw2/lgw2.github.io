@@ -31,10 +31,10 @@ Schedule subject to change.
 | Wednesday 2/22 |Review      |      |      |      |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=71adf52a-c640-4da4-b2df-afb101079882)|
 | Friday 2/24    |Quiz 1 ([more info](https://lgw2.github.io/teaching/csci112-spring-2023/quizzes/quiz1/)) on D2L --- no class  |      |      |[Lab 3](https://lgw2.github.io/teaching/csci112-spring-2023/labs/lab3/)      ||
 | Monday 2/27    |[Searching, sorting arrays](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/Chapter7.pdf)|7|[Classwork 10](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork10/)  |      ||
-| Wednesday 3/1  |Pointers; file i/o   |7      |Classwork 11      |      ||
+| Wednesday 3/1  |Pointers; file i/o   |6      |[Classwork 11](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork11/)      |      ||
 | Friday 3/3     |Pointers   |6      |      |      ||
 | Monday 3/6     |Pointers  |6      |Classwork 12      |      ||
-| Wednesday 3/8  |C type strings |6      |Classwork 13      |      ||
+| Wednesday 3/8  |Pointers |6      |Classwork 13      |      ||
 | Friday 3/10    |C type strings  |      |      |[Lab 4](https://lgw2.github.io/teaching/csci112-spring-2023/labs/lab4/)      ||
 | Spring break   |No class      |      |      |      ||
 | Monday 3/20    |C type strings      |      |Classwork 14      |      ||
