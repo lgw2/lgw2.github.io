@@ -46,7 +46,7 @@ HCF of the water, so `compute_charge` must also
 take in two output parameters to send back these results.
 
 ## Grading - 100 points
-**If your code does not compile, has a runtime error on the inputs shown in the example output,
+**If your code does not compile, has a runtime error on the sample input,
 or uses global variables (variables declared outside of main), you get an
 automatic 0.**
 * 5 points: opens `/public/labs/lab4/usage.txt` for reading using `fopen`
