@@ -4,65 +4,52 @@ title: "Lab 4"
 ---
 
 ## Logistics
-* Due: on Thursday, September 22nd anywhere on earth (6am Friday). (Penalties from [the
-	syllabus](https://lgw2.github.io/teaching/csci132-fall-2022/syllabus/)
-	apply if you turn it in any later.)
-* Submission instructions: you have two options. The first option is to
-	demonstrate the execution of your lab to your TA during your assigned lab
-	section on Thursday.
-	The second option is to submit all six of your java files (demo, interface,
-	and four classes implementing the interface) to the  Lab 4
-	assignment on D2L.
+* Due: Friday, March 10th AoE.
+* Submission instructions: ensure that you have the source code you want us to
+	grade in a file called `lab4.c` in your `~/csci112_spring2023/labs/lab4`
+	directory, and that the snapshot (commit) of your repository containing the version of that file you want us to grade has been committed and
+	tagged as `lab4`. See the [git lecture](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/lecture2) and [classwork 4](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork4) for more
+	details.
+* Note that grading will be done on D2L, so you can see comments and a
+	 detailed breakdown of your score there, but you do not need to submit
+	anything there.
+* Deadline reminder: per the [late assignment policy](https://lgw2.github.io/teaching/csci112-spring-2023/syllabus/#late-assignment-policies), if you submit after the deadline but within 24 hours of it you will receive a 25% penalty. If you submit within 48 hours you will receive a 50% penalty. After that, no submissions will be accepted.
 
 ## Learning outcomes
-* Practice using interfaces
-* Practice using inheritance
+* Practice using pointers.
+* Practice reading and writing files.
 
 ## Assignment
 
-Create an interface called `RegularPolygon` with method signatures for `area()`
-(returns a `double`) and `perimeter()` (also returns a `double`).
+The city of Bozeman charges water customers $$2.40 per hundred cubic feet (HCF)
+of water used per month, up to 6 HCF. Additional water use is charged at $$3.31 per HCF.
+Write a function `compute_charge`
+that computes the total monthly charge for a customer based on the number of
+HCF used that month. The function should also calculate the average cost per
+HCF of the water (rounded to two decimal places), so `compute_charge` must also
+take in two output parameters to send back these results.
 
-Create the following classes to implement `RegularPolygon`:
+## Grading - 100 points
+**If your code does not compile, has a runtime error on the inputs shown in the example output,
+or uses global variables (variables declared outside of main), you get an
+automatic 0.**
+* 5 points: opens `/public/labs/lab4/usage.txt` for reading using `fopen`
+* 5 points: opens `charges.txt` for writing using `fopen`
+* 5 points: successfully reads input from file
+* 5 points: successfully writes output to file
+* 5 points: writes correct month and year
+* 10 points: can accept any number of customers in input file
+* 10 points: `compute_charge` takes in a double for HCF used, a pointer to a double for
+	the charge, and a pointer to a double for the average
+* 10 pooints: calls `compute_charge` to compute the charge and average cost
+* 10 points: correctly computes the charge
+* 5 points: correctly computes the average
+* 5 points: correctly writes the id of the customer
+* 5 points: closes both files
+* 10 points: source code is in a commit with tag `lab4`
+* 10 points: source code is in `csci112_spring2023/labs/lab4` directory
 
-* `EquilateralTriangle`
-* `Square`
-* `RegularPentagon`
-* `RegularHexagon`
-
-All of those classes will have different ways to calculate the area and perimeter given the length on one side. Google "area of an equilateral triangle" to see a nice formula -- all of the other polygons have similar Google entries.
-
-Use the downloadable [`RegularPolygonDemo.java`](https://lgw2.github.io/teaching/csci132-fall-2022/labs/RegularPolygonDemo.java) file to test your program.
-Add code to test the pentagon and hexagon. Notice that you can copy/past the
-square code and just change a couple of words to test the pentagon and again to
-test the hexagon. The RegularPolygon interface gives us a consistent way to
-treat all the different types of regular polygons there could be, even though
-they're all a bit different under the hood. A `RegularPolygon` can take many
-forms; that's polymorphism!
-
-## Sample run
-After you implement the four classes and update `RegularPolygonDemo.java` to
-test the two additional polygons, your sample output might look something like
-this:
-```
-Enter value: 5
-----------------------------------------------------
-     REGULAR POLYGON            AREA       PERIMETER
-Equilateral Triangle           10.83           15.00
-              Square           25.00           20.00
-    Regular Pentagon           43.01           25.00
-     Regular Hexagon           64.95           30.00
-----------------------------------------------------
-<end>
-```
-
-## Grading - 10 points
-* 2 points - Create the `RegularPolygon` interface.
-* 2 points - `EquilateralTriangle` demos successfully on user input
-* 2 points - `Square` demos successfully on user input (that's an easy one -- start with that)
-* 2 points - `RegularPentagon` demos successfully on user input (save that one for last)
-* 2 points - `RegularHexagon` demos successfully on user input
+## Go beyond
 
 ## Grading turnaround
-This lab will be graded with scores in Brightspace before Tuesday, September
-27th.
+This lab will be graded within one week of its due date.
