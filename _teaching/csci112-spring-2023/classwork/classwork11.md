@@ -4,57 +4,44 @@ title: "Classwork 11"
 ---
 
 ## Logistics
-* Due: Tuesday, June 1st no later than 1:35pm.
-* Submission instructions: push a commit with the tag `classwork11` to your git
-	repository.
+* Due: Wednesday, March 1st AoE.
+* Submission instructions: make sure that the required file (`read_file.c`) is in your
+	`/classwork/week7/wed/` directory.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
-	this assignment. If the deadline is approaching, submit what you have in
-	order to earn partial credit.
+	this assignment.
 
 ## Learning outcomes
-* Practice dynamically allocating memory and freeing it.
+* Practice reading and writing using a file pointer in C.
 
 ## Assignment
 
-Write a program called `classwork11.c` containing a struct that representing a
-two-dimensional point. Use `malloc` to dynamically allocate a point struct. Set
-the x and y coordinates of your point using the indirect component selection
-operator `->`. Print info about your point, again using `->`. 
-Finally, at the end of your program, free the memory using
-`free`. A skeleton for your code may look something like this:
+* Log in to the server.
+* From your home directory, navigate to `classwork/week7/wed/`, creating directories `week7` and `wed` if necessary.
+* Create a file called `read_file.c`, and inside it write a C program that does
+	the following:
 
+Use `fopen` to open the file `/public/classwork/week7/wed/input.txt`, read the
+doubles it contains, and print their maximum value to a file called `max.txt`
+in the same directory as your `read_file.c` file. You can assume that the input
+file contains exactyly 5 doubles.
+
+### Hints
+* You can check that you will get full credit for this assignment by compiling
+	your program, running it and saving its output to a file, and comparing
+	that file to the example output. Specifically, do:
 ```
-#include <stdio.h>
-#include <stdlib.h>
-
-# user-defined types
-typedef struct {
-	# components for point
-} point;
-
-int main(void) {
-	# declare pointer to a point struct
-
-	# dynamically allocate memory for the point struct that your pointer points
-	to
-
-	# set x and y coordinates to values of your choice
-
-	# print info about the point
-
-	# free the memory for the point
-
-	return(0);
-}
+gcc -o exe -Wall read_file.c
+./exe < /public/classwork/week7/wed/numbers.txt > output.txt
+diff -w -i ~/classwork/week7/wed/output.txt /public/classwork/week7/wed/expected_output.txt
 ```
-
-## Grading - 10 points
-* 1 point - there is a file called `classwork11.c` in your
-	`classwork/classwork11/` directory.
-* The file compiles and runs.
-* Note: you will not earn any points if your work is not committed and pushed to
-Github with the tag `classwork11`.
+You will see any warnings during compilation and any differences between your output and the expected output on the
+screen. If nothing happens, the content of your output file exactly matches the
+expected content and there were no warnings when compiling. As long as your file is in the correct place and named
+correctly,  this means that you will get full credit for the assignment.
 
 ## Grading turnaround
-This classwork will be graded with scores in Brightspace by 5pm the day it is
-due (June 1st).
+Preliminary results via autograder will be present in the appropriate classwork
+directory in the `autograder.txt`, refreshed every 2 minutes from 8am to 11am
+on the class day, and then
+every hour until 6am the following day. The 6am run is the final grade. Scores will be
+uploaded to D2L by the next class period.
