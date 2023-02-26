@@ -22,8 +22,9 @@ title: "Classwork 11"
 
 Use `fopen` to open the file `/public/classwork/week7/wed/input.txt`, read the
 doubles it contains, and print their maximum value to a file called `max.txt`
-in the same directory as your `read_file.c` file. You can assume that the input
-file contains exactyly 5 doubles.
+in the same directory as your `read_file.c` file. You should also use `fopen`
+to read the file you are writing to. You can assume that the input
+file contains exactly 5 doubles.
 
 ### Hints
 * You can check that you will get full credit for this assignment by compiling
