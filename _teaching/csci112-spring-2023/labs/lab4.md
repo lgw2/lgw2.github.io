@@ -27,7 +27,7 @@ of water used per month, up to 6 HCF. Additional water use is charged at \\$3.31
 
 Write a program that reads in usage data from customers from the file `/public/labs/lab4/usage.txt` and
 computes the monthly charge and average cost per HCF for each customer. Write the output to a file called `charges.txt`.
-For that file, your output might look something like this:
+That file might look something like this:
 
 ```
 Charges for 1/2023
