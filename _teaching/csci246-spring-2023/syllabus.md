@@ -32,7 +32,7 @@ Schedule subject to change.
 | Friday 2/24    |Quiz ([description of content](https://lgw2.github.io/teaching/csci246-spring-2023/quizzes/quiz1)) in class     |      |      |no drill      ||
 | Monday 2/27    |More functions      |      |      |      ||
 | Wednesday 3/1  |More functions      |      |      |      ||
-| Friday 3/3     |Pigeonhole principle      |      |      |Drill 6 covering [more functions](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/more_functions.pdf) and [pigeonhole principle]()https://lgw2.github.io/teaching/csci246-spring-2023/lectures/pigeonhole_principle.pdf      ||
+| Friday 3/3     |Pigeonhole principle      |      |      |Drill 6 covering [more functions](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/more_functions.pdf) and [pigeonhole principle](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/pigeonhole_principle.pdf)      ||
 | Monday 3/6     |Proofs by induction |      |[Homework 3](https://lgw2.github.io/teaching/csci246-spring-2023/homework/hw3.pdf); [LaTeX source file](https://www.overleaf.com/read/chvfjvnbyfrc)      |      ||
 | Wednesday 3/8  |Proofs by strong induction      |      |      |      ||
 | Friday 3/10    |Proofs by structural induction           |      |Survey 1      |Drill 7      ||
