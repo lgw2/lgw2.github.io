@@ -31,7 +31,7 @@ Schedule subject to change.
 | Wednesday 2/22 |Review; example quiz [1](https://lgw2.github.io/teaching/csci246-spring-2023/quizzes/example_quiz1_1.pdf) and [2](https://lgw2.github.io/teaching/csci246-spring-2023/quizzes/example_quiz1_2.pdf)      |      |      |      |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=45b16dfc-e362-4ced-affe-afb1015c9563)|
 | Friday 2/24    |Quiz ([description of content](https://lgw2.github.io/teaching/csci246-spring-2023/quizzes/quiz1)) in class     |      |      |no drill      ||
 | Monday 2/27    |[More functions](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/classnotes12.pdf); [function examples](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/function_examples.pdf)      |      |      |      |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c8cbd7b4-c3c6-4adf-a9c6-afb6015cfc74)|
-| Wednesday 3/1  |More functions      |      |      |      ||
+| Wednesday 3/1  |[More functions](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/classnotes13.pdf)      |      |      |      |[link](|
 | Friday 3/3     |Pigeonhole principle      |      |      |Drill 6 covering [more functions](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/more_functions.pdf) and [pigeonhole principle](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/pigeonhole_principle.pdf)      ||
 | Monday 3/6     |Proofs by induction |      |[Homework 3](https://lgw2.github.io/teaching/csci246-spring-2023/homework/hw3.pdf); [LaTeX source file](https://www.overleaf.com/read/chvfjvnbyfrc)      |      ||
 | Wednesday 3/8  |Proofs by strong induction      |      |      |      ||
