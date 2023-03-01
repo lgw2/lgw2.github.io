@@ -41,8 +41,10 @@ expected content and there were no warnings when compiling. As long as your file
 correctly,  this means that you will get full credit for the assignment.
 
 ## Grading turnaround
-Preliminary results via autograder will be present in the appropriate classwork
+Everyone gets a point for this one!
+
+~~Preliminary results via autograder will be present in the appropriate classwork
 directory in the `autograder.txt`, refreshed every 2 minutes from 8am to 11am
 on the class day, and then
 every hour until 6am the following day. The 6am run is the final grade. Scores will be
-uploaded to D2L by the next class period.
+uploaded to D2L by the next class period.~~
