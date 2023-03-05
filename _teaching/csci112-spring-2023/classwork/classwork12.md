@@ -4,44 +4,50 @@ title: "Classwork 12"
 ---
 
 ## Logistics
-* Due: Wednesday, June 2nd no later than 1:35pm.
-* Submission instructions: push a commit with the tag `classwork12` to your git
-	repository.
+* Due: Monday, March 6th AoE.
+* Submission instructions: make sure that the required file (`sum_and_average.c`) is in your
+	`/classwork/week8/mon/` directory.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
-	this assignment. If the deadline is approaching, submit what you have in
-	order to earn partial credit.
+	this assignment.
 
 ## Learning outcomes
-* Practice solving a problem using recursion.
+* Practice using pointers to pass by reference.
 
 ## Assignment
 
-Write a program called `classwork12.c` that uses recursion to count the number
-of letters in a word that the user inputs. You can assume that the word will be
-no more than 20 characters long.
+* Log in to the server.
+* From your home directory, navigate to `classwork/week8/mon/`, creating directories `week7`
+and `mon` if necessary.
+* Copy the file `/public/classwork/sum_n_avg.c` to your current directory. That
+	is, run
+	```
+	cp /public/classwork/week8/mon/sum_and_average.c .
+	```
+* In `sum_and_average.c`, complete the `sum_n_average` function so that it assigns
+	the sum and and average of the array to the variables pointed to by `sum`
+	and `average`.
+* in `main`, call the `sum_n_average` function to compute the values for `sum`
+	and `average`.
 
-```
-Enter a word (max length 20 characters)> Bozeman
-Length is 7
-```
 
-Optional: ask the user for a maximum number of expected letters and allocate
-space for your string dynamically. Before ending your program, use `free` to
-free the space used by your string. In this case, interaction with the user
-might look like:
+### Hints
+* You can check that you will get full credit for this assignment by compiling
+	your program, running it and saving its output to a file, and comparing
+	that file to the example output. Specifically, do:
 ```
-Enter a max word length> 20
-Enter a word no more than 20 characters> Bozeman
-Length is 7
+gcc -o exe -Wall sum_and_average.c
+./exe
+diff -w -i ~/classwork/week8/mon/output.txt /public/classwork/week8/mon/expected_output.txt
 ```
-
-## Grading - 10 points
-* 1 point - there is a file called `classwork12.c` in your
-	`classwork/classwork12/` directory.
-* The file compiles and runs.
-* Note: you will not earn any points if your work is not committed and pushed to
-Github with the tag `classwork12`.
+You will see any warnings during compilation and any differences between your output and the expected output on the
+screen. If nothing happens, the content of your output file exactly matches the
+expected content and there were no warnings when compiling. As long as your file is in the correct place and named
+correctly,  this means that you will get full credit for the assignment.
 
 ## Grading turnaround
-This classwork will be graded with scores in Brightspace by 5pm the day it is
-due (June 2nd).
+
+Preliminary results via autograder will be present in the appropriate classwork
+directory in the `autograder.txt`, refreshed every 5 minutes from 8am to 11am
+on the class day, and then
+every hour until 6am the following day. The 6am run is the final grade. Scores will be
+uploaded to D2L by the next class period.
