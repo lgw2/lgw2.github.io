@@ -16,16 +16,16 @@ title: "Classwork 12"
 ## Assignment
 
 * Log in to the server.
-* From your home directory, navigate to `classwork/week8/mon/`, creating directories `week7`
+* From your home directory, navigate to `classwork/week8/mon/`, creating directories `week8`
 and `mon` if necessary.
-* Copy the file `/public/classwork/sum_n_avg.c` to your current directory. That
+* Copy the file `/public/classwork/sum_and_average.c` to your current directory. That
 	is, run
 	```
 	cp /public/classwork/week8/mon/sum_and_average.c .
 	```
 * In `sum_and_average.c`, complete the `sum_n_average` function so that it assigns
 	the sum and and average of the array to the variables pointed to by `sum`
-	and `average`.
+	and ` avg`.
 * in `main`, call the `sum_n_average` function to compute the values for `sum`
 	and `average`.
 
@@ -36,7 +36,7 @@ and `mon` if necessary.
 	that file to the example output. Specifically, do:
 ```
 gcc -o exe -Wall sum_and_average.c
-./exe
+./exe > output.txt
 diff -w -i ~/classwork/week8/mon/output.txt /public/classwork/week8/mon/expected_output.txt
 ```
 You will see any warnings during compilation and any differences between your output and the expected output on the
