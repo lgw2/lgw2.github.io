@@ -36,7 +36,7 @@ and `mon` if necessary.
 	that file to the example output. Specifically, do:
 ```
 gcc -o exe -Wall sum_and_average.c
-./exe > output.txt
+./exe < /public/classwork/week8/mon/example_input.txt > output.txt
 diff -w -i ~/classwork/week8/mon/output.txt /public/classwork/week8/mon/expected_output.txt
 ```
 You will see any warnings during compilation and any differences between your output and the expected output on the
