@@ -44,20 +44,18 @@ automatic 0.**
 * 5 points: opens `winners.txt` for writing using `fopen`
 * 5 points: successfully reads input from file
 * 5 points: successfully writes output to file
-* 5 points: writes correct month and year
-* 10 points: can accept any number of customers in input file
-* 10 points: `compute_charge` takes in a double for HCF used, a pointer to a double for
-	the charge, and a pointer to a double for the average
-* 10 pooints: calls `compute_charge` to compute the charge and average cost for
-	each customer
-* 10 points: correctly computes the charge
-* 5 points: correctly computes the average
-* 5 points: correctly writes the ID of the customer
-* 5 points: closes both files
+* 5 points: stores each line in an array of strings
+* 5 points: uses `fgets` to read each line
+* 20 points: sorts the array alphabetically by first name
+* 10 points: uses`strtok` to separate parts of the lin
+* 5 points: prints the first name, last name, university, and year of each
+	winner
+* 5 points: prints in a pleasing manner
+* 10 points: uses at least two functions in addition to main
 * 10 points: source code is in a commit with tag `program1`
 * 10 points: source code is in `csci112_spring2023/programs/program1` directory
 
 ## Go beyond
 
 ## Grading turnaround
-This lab will be graded within one week of its due date.
+This program will be graded within one week of its due date.
