@@ -25,7 +25,7 @@ and `mon` if necessary.
 	```
 * In `sum_and_average.c`, complete the `sum_n_average` function so that it assigns
 	the sum and and average of the array to the variables pointed to by `sum`
-	and ` avg`.
+	and `avg`.
 * in `main`, call the `sum_n_average` function to compute the values for `sum`
 	and `average`.
 
