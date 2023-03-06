@@ -4,14 +4,14 @@ title: "Classwork 12"
 ---
 
 ## Logistics
-* Due: Monday, March 6th AoE.
-* Submission instructions: make sure that the required file (`sum_and_average.c`) is in your
-	`/classwork/week8/mon/` directory.
+* Due: Wednesday, March 8th AoE.
+* Submission instructions: make sure that the required file (`tokenize.c`) is in your
+	`/classwork/week8/wed1/` directory.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
 	this assignment.
 
 ## Learning outcomes
-* Practice using pointers to pass by reference.
+* Practice using `strtok` to tokenize a string.
 
 ## Assignment
 
