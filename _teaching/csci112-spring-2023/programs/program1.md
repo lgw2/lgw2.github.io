@@ -24,7 +24,7 @@ title: "Program 1"
 ## Assignment
 
 You are to write a program that will read information about nobel prize winners
-since 2002. Read the file `/public/programs/program1/nobel.csv'. Write the
+since 2002. Read the file `/public/programs/program1/nobel.csv`. Write the
 winners in alphabetical order by first name to a file called `winners.txt` in
 the same directory as your program. Write the first and last name, university,
 and year. For example, the first line of `winners.txt` could look like:
@@ -32,6 +32,9 @@ and year. For example, the first line of `winners.txt` could look like:
 ```
 Aaron Ciechanover of Technion - Israel Institute of Technology won in 2004
 ```
+
+Note that there are some special character in some names that may not display
+correctly. Don't worry about that.
 
 ## Grading - 100 points
 **If your code does not compile, has a runtime error on the sample input,
