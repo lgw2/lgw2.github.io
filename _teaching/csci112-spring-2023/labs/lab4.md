@@ -57,7 +57,7 @@ automatic 0.**
 * 10 points: can accept any number of customers in input file
 * 10 points: `compute_charge` takes in a double for HCF used, a pointer to a double for
 	the charge, and a pointer to a double for the average
-* 10 pooints: calls `compute_charge` to compute the charge and average cost for
+* 10 points: calls `compute_charge` to compute the charge and average cost for
 	each customer
 * 10 points: correctly computes the charge
 * 5 points: correctly computes the average
