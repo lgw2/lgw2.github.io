@@ -1,12 +1,12 @@
 ---
 collection: teaching
-title: "Classwork 12"
+title: "Classwork 13"
 ---
 
 ## Logistics
 * Due: Wednesday, March 8th AoE.
 * Submission instructions: make sure that the required file (`tokenize.c`) is in your
-	`/classwork/week8/wed1/` directory.
+	`/classwork/week8/wed/` directory.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
 	this assignment.
 
@@ -16,18 +16,14 @@ title: "Classwork 12"
 ## Assignment
 
 * Log in to the server.
-* From your home directory, navigate to `classwork/week8/mon/`, creating directories `week8`
-and `mon` if necessary.
-* Copy the file `/public/classwork/sum_and_average.c` to your current directory. That
+* From your home directory, navigate to `classwork/week8/wed/`, creating directories `week8`
+and `wed` if necessary.
+* Copy the file `/public/classwork/week8/wed/tokenize.c` to your current directory. That
 	is, run
 	```
-	cp /public/classwork/week8/mon/sum_and_average.c .
+	cp /public/classwork/week8/wed/tokenize.c .
 	```
-* In `sum_and_average.c`, complete the `sum_n_average` function so that it assigns
-	the sum and and average of the array to the variables pointed to by `sum`
-	and ` avg`.
-* in `main`, call the `sum_n_average` function to compute the values for `sum`
-	and `average`.
+* In `tokenize.c`, fill in the code described under `TODO`.
 
 
 ### Hints
@@ -35,9 +31,9 @@ and `mon` if necessary.
 	your program, running it and saving its output to a file, and comparing
 	that file to the example output. Specifically, do:
 ```
-gcc -o exe -Wall sum_and_average.c
-./exe < /public/classwork/week8/mon/example_input.txt > output.txt
-diff -w -i ~/classwork/week8/mon/output.txt /public/classwork/week8/mon/expected_output.txt
+gcc -o exe -Wall tokenize.c
+./exe > output.txt
+diff -w -i ~/classwork/week8/wed/output.txt /public/classwork/week8/wed/expected_output.txt
 ```
 You will see any warnings during compilation and any differences between your output and the expected output on the
 screen. If nothing happens, the content of your output file exactly matches the
