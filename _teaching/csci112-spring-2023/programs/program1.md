@@ -16,14 +16,14 @@ title: "Program 1"
 * Deadline reminder: per the [late assignment policy](https://lgw2.github.io/teaching/csci112-spring-2023/syllabus/#late-assignment-policies), if you submit after the deadline but within 24 hours of it you will receive a 25% penalty. If you submit within 48 hours you will receive a 50% penalty. After that, no submissions will be accepted.
 
 ## Learning outcomes
-* Practice input and output with strinigs
+* Practice input and output with strings
 * Practice reading from files using `fgets`
 * Practice sorting
 * Practice tokenizing strings using `strtok`
 
 ## Assignment
 
-You are to write a program that will read information about nobel prize winners
+You are to write a program that will read information about Nobel prize winners
 since 2002. Read the file `/public/programs/program1/nobel.csv`. Write the
 winners in alphabetical order by first name to a file called `winners.txt` in
 the same directory as your program. Write the first and last name, university,
@@ -33,8 +33,12 @@ and year. For example, the first line of `winners.txt` could look like:
 Aaron Ciechanover of Technion - Israel Institute of Technology won in 2004
 ```
 
-Note that there are some special character in some names that may not display
+### Hints
+
+* Note that there are some special character in some names that may not display
 correctly. Don't worry about that.
+* There is code for selection sort on an array of `int`s in `/public/classwork/week7/mon/solution.c` that
+you can use as a reference for sorting.
 
 ## Grading - 100 points
 **If your code does not compile, has a runtime error on the sample input,
@@ -44,10 +48,10 @@ automatic 0.**
 * 5 points: opens `winners.txt` for writing using `fopen`
 * 5 points: successfully reads input from file
 * 5 points: successfully writes output to file
-* 5 points: stores each line in an array of strings
+* 10 points: stores each line in an array of strings
 * 5 points: uses `fgets` to read each line
-* 20 points: sorts the array alphabetically by first name
-* 10 points: uses`strtok` to separate parts of the lin
+* 15 points: successfully sorts the data alphabetically by first name
+* 10 points: uses`strtok` to separate parts of the line
 * 5 points: prints the first name, last name, university, and year of each
 	winner
 * 5 points: prints in a pleasing manner
