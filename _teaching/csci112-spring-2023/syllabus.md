@@ -39,7 +39,7 @@ Schedule subject to change.
 | Spring break   |No class      |      |      |      ||
 | Monday 3/20    |C type strings      |      |Classwork 14      |      ||
 | Wednesday 3/22 |C type strings      |      |Classwork 15      |      ||
-| Friday 3/24    |Structs      |      |      |Program 1      ||
+| Friday 3/24    |Structs      |      |      |[Program 1](https://lgw2.github.io/teaching/csci112-spring-2023/programs/program1/)      ||
 | Monday 3/27    |Structs|      |      |      ||
 | Wednesday 3/29 |Command line arguments|      |Classwork 16      |      ||
 | Friday 3/31    |Compiler/linker      |      |      |Lab 5      ||
