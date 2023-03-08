@@ -33,6 +33,11 @@ and year. For example, the first line of `winners.txt` could look like:
 Aaron Ciechanover of Technion - Israel Institute of Technology won in 2004
 ```
 
+There is a full example output that you can check against in
+`/public/programs/program1/winners.txt`. You do not need to match the output
+format if you don't want to, but the order and data included on each line
+should be correct.
+
 ### Hints
 
 * Note that there are some special character in some names that may not display
@@ -58,8 +63,6 @@ automatic 0.**
 * 10 points: uses at least two functions in addition to main
 * 10 points: source code is in a commit with tag `program1`
 * 10 points: source code is in `csci112_spring2023/programs/program1` directory
-
-## Go beyond
 
 ## Grading turnaround
 This program will be graded within one week of its due date.
