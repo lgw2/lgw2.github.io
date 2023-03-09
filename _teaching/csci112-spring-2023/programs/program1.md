@@ -42,7 +42,7 @@ should be correct.
 
 * Note that there are some special character in some names that may not display
 correctly. Don't worry about that.
-* There is code for selection sort on an array of `int`s in `/public/classwork/week7/mon/solution.c` that
+* There is code for selection sort on an array of integers in `/public/classwork/week7/mon/solution.c` that
 you can use as a reference for sorting.
 
 ## Grading - 100 points
