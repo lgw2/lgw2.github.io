@@ -40,7 +40,7 @@ Schedule subject to change.
 | Monday 3/20    |Introduction to binary relations      |      |      |      ||
 | Wednesday 3/22 |Equivalence relations      |      |      |      ||
 | Friday 3/24    |Partial and total orders     |      |      |Drill 8      ||
-| Monday 3/27    |Introduction to asymptotic analysis (Big-O)      |      |[Homework 4](https://lgw2.github.io/teaching/csci246-spring-2023/homework/hw4.pdf)      |      ||
+| Monday 3/27    |Introduction to asymptotic analysis (Big-O)      |      |[Homework 4](https://lgw2.github.io/teaching/csci246-spring-2023/homework/hw4.pdf); [LaTeX source file](https://www.overleaf.com/read/kbcjftpxhbbc)      |      ||
 | Wednesday 3/29 |Properties of Big-O       |      |      |      ||
 | Friday 3/31    |Introduction to algorithms analysis      |      |      |Drill 9      ||
 | Monday 4/3     |Review as needed      |      |      |      ||
