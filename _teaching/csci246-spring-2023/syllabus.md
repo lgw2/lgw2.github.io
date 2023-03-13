@@ -40,7 +40,7 @@ Schedule subject to change.
 | Monday 3/20    |Introduction to asymptotic analysis (Big-O)    |      |      |      ||
 | Wednesday 3/22 |Properties of Big-O   |      |      |      ||
 | Friday 3/24    |Introduction to algorithms analysis     |      |      |Drill 8      ||
-| Monday 3/27    |Worst-case runtime analysis       |      |[Homework 4](https://lgw2.github.io/teaching/csci246-spring-2023/homework/hw4.pdf); [LaTeX source file](https://www.overleaf.com/read/kbcjftpxhbbc); [bonus question](https://lgw2.github.io/teaching/csci246-spring-2023/homework/hw4_bonus.pdf); [LaTeX source file]https://www.overleaf.com/read/bkvbfbdtchskr)      |      ||
+| Monday 3/27    |Worst-case runtime analysis       |      |[Homework 4](https://lgw2.github.io/teaching/csci246-spring-2023/homework/hw4.pdf); [LaTeX source file](https://www.overleaf.com/read/kbcjftpxhbbc); [bonus question](https://lgw2.github.io/teaching/csci246-spring-2023/homework/hw4_bonus.pdf); [LaTeX source file](https://www.overleaf.com/read/bkvbfbdtchskr)      |      ||
 | Wednesday 3/29 |Asymptotic analysis of recursive algorithms       |      |      |      ||
 | Friday 3/31    |More analysis of recursive algorithms      |      |      |Drill 9      ||
 | Monday 4/3     |Review as needed      |      |      |      ||
