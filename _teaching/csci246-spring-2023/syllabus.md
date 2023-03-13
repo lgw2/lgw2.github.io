@@ -37,17 +37,17 @@ Schedule subject to change.
 | Wednesday 3/8  |[More proofs by induction](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/classnotes15.pdf) and [in-class activity](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/induction_in_class.pdf)      |5.2; 5.4      |      |      |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7c7fcf64-8919-4d52-b9ae-afbf015cd72c)|
 | Friday 3/10    |[Recursively defined structeres and proofs by structural induction](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/classnotes16.pdf)           |5.4      |[Survey 1](https://lgw2.github.io/teaching/csci246-spring-2023/surveys/survey1)      |Drill 7 covering [proofs by mathematical induction](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/induction.pdf) and [recursively defined structures and structural induction](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/rec_structs.pdf)      |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e56317af-6d4d-4b2f-ad6b-afc1015ce60f)|
 | Spring break    |No class      |      |      |      ||
-| Monday 3/20    |Introduction to binary relations      |      |      |      ||
-| Wednesday 3/22 |Equivalence relations      |      |      |      ||
-| Friday 3/24    |Partial and total orders     |      |      |Drill 8      ||
-| Monday 3/27    |Introduction to asymptotic analysis (Big-O)      |      |[Homework 4](https://lgw2.github.io/teaching/csci246-spring-2023/homework/hw4.pdf); [LaTeX source file](https://www.overleaf.com/read/kbcjftpxhbbc)      |      ||
-| Wednesday 3/29 |Properties of Big-O       |      |      |      ||
-| Friday 3/31    |Introduction to algorithms analysis      |      |      |Drill 9      ||
+| Monday 3/20    |Introduction to asymptotic analysis (Big-O)    |      |      |      ||
+| Wednesday 3/22 |Properties of Big-O   |      |      |      ||
+| Friday 3/24    |Introduction to algorithms analysis     |      |      |Drill 8      ||
+| Monday 3/27    |Worst-case runtime analysis       |      |[Homework 4](https://lgw2.github.io/teaching/csci246-spring-2023/homework/hw4.pdf); [LaTeX source file](https://www.overleaf.com/read/kbcjftpxhbbc)      |      ||
+| Wednesday 3/29 |Asymptotic analysis of recursive algorithms       |      |      |      ||
+| Friday 3/31    |More analysis of recursive algorithms      |      |      |Drill 9      ||
 | Monday 4/3     |Review as needed      |      |      |      ||
 | Wednesday 4/5  |Quiz in class      |      |      |      ||
 | Friday 4/7     |University day --- no class      |      |      |no drill      ||
-| Monday 4/10    |Worst-case runtime analysis      |      |Homework 5      |      ||
-| Wednesday 4/12 |Asymptotic analysis of recursive algorithms      |      |      |      ||
+| Monday 4/10    |Introduction to binary relations      |      |Homework 5      |      ||
+| Wednesday 4/12 |Equivalence relations; partial and total orders      |      |      |      ||
 | Friday 4/14    |Combinations and permutations |      |      |Drill 10      ||
 | Monday 4/17    |Probability    |      |      ||
 | Wednesday 4/19 |Conditional probability  |      |      |      ||
