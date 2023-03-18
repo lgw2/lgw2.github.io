@@ -39,7 +39,7 @@ Schedule subject to change.
 | Spring break    |No class      |      |      |      ||
 | Monday 3/20    |Introduction to asymptotic analysis (Big-O)    |      |      |      ||
 | Wednesday 3/22 |Properties of Big-O   |      |      |      ||
-| Friday 3/24    |Introduction to algorithms analysis     |      |      |Drill 8      ||
+| Friday 3/24    |Introduction to algorithms analysis     |      |      |Drill 8 covering [intro to asymptotic analysis](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/intro_asymp_analysis.pdf), [properties of big O](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/props_big_o.pdf), and [intro to algorithm analysis](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/alg_analysis.pdf)      ||
 | Monday 3/27    |Worst-case runtime analysis       |      |[Homework 4](https://lgw2.github.io/teaching/csci246-spring-2023/homework/hw4.pdf); [LaTeX source file](https://www.overleaf.com/read/kbcjftpxhbbc); [bonus question](https://lgw2.github.io/teaching/csci246-spring-2023/homework/hw4_bonus.pdf); [LaTeX source file](https://www.overleaf.com/read/bkvbfbdtchskr)      |      ||
 | Wednesday 3/29 |Asymptotic analysis of recursive algorithms       |      |      |      ||
 | Friday 3/31    |More analysis of recursive algorithms      |      |      |Drill 9      ||
