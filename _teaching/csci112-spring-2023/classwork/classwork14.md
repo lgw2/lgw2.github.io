@@ -23,24 +23,17 @@ and `mon` if necessary.
 * In `swap.c`, fill in the code described under `TODO`.
 
 
-### Hints
-* You can check that you will get full credit for this assignment by compiling
-	your program, running it and saving its output to a file, and comparing
-	that file to the example output. Specifically, do:
+## Autograder
+
+You can run the autograder yourelf by running
 ```
-gcc -o exe -Wall swap.c
-./exe < /public/classwork/week9/mon/example_input.txt > output.txt
-diff -w -i ~/classwork/week9/mon/output.txt /public/classwork/week9/mon/expected_output.txt
+bash /public/classwork/week9/mon/autograder.sh
 ```
-You will see any warnings during compilation and any differences between your output and the expected output on the
-screen. If nothing happens, the content of your output file exactly matches the
-expected content and there were no warnings when compiling. As long as your file is in the correct place and named
-correctly,  this means that you will get full credit for the assignment.
+There will be some output and the `autograder.txt` file will be created or
+replaced.
 
 ## Grading turnaround
 
 Preliminary results via autograder will be present in the appropriate classwork
-directory in the `autograder.txt`, refreshed every 5 minutes from 8am to 11am
-on the class day, and then
-every hour until 6am the following day. The 6am run is the final grade. Scores will be
+directory in the `autograder.txt`, refreshed every hour from 8am until am the following day. The 6am run is the final grade. Scores will be
 uploaded to D2L by the next class period.
