@@ -11,8 +11,7 @@ title: "Classwork 15"
 	this assignment.
 
 ## Learning outcomes
-* Practice using an array of pointers to store a different ordering of strings
-	without making a copy
+* Practice converting numbers to strings
 
 ## Assignment
 
