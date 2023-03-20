@@ -25,11 +25,7 @@ and `mon` if necessary.
 
 ## Autograder
 
-~~You can run the autograder yourelf by running
-```
-bash /public/classwork/week9/mon/autograder.sh
-```
-~~
+~~You can run the autograder yourelf~~
 
 The `autograder.txt` file will be updated every 5 minutes.
 
