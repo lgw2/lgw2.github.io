@@ -34,6 +34,5 @@ replaced.
 
 ## Grading turnaround
 
-Preliminary results via autograder will be present in the appropriate classwork
-directory in the `autograder.txt`, refreshed every hour from 8am until am the following day. The 6am run is the final grade. Scores will be
+The autograder will be run at 6am to calculate final scores. Scores will be
 uploaded to D2L by the next class period.
