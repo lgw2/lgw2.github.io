@@ -29,7 +29,7 @@ You can run the autograder yourelf by running
 ```
 bash /public/classwork/week9/mon/autograder.sh
 ```
-There will be some output and the `autograder.txt` file will be created or
+The `autograder.txt` file will be created or
 replaced.
 
 ## Grading turnaround
