@@ -28,10 +28,11 @@ and `wed` if necessary.
 
 You can run the autograder yourelf by running
 ```
-bash /public/classwork/week9/wed/autograder.sh
+/public/classwork/week9/wed/autograder.sh
 ```
 The `autograder.txt` file will be created or
-replaced.
+replaced. You may get a few lines of output about not being able to remove
+files, etc. This is okay.
 
 ## Grading turnaround
 
