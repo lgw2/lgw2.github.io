@@ -48,8 +48,8 @@ Schedule subject to change.
 | Friday 4/7     |University day --- no class      |      |      |      ||
 | Monday 4/10    |Review|  |Classwork 19      |      ||
 | Wednesday 4/12 |Quiz 2 on D2L --- no class |      |Classwork 20      |      ||
-| Friday 4/14    |C++ intro      |      | |          ||
-| Monday 4/17    |C++ strings      |      |Classwork 21      |      ||
+| Friday 4/14    |Dynamic memory allocation      |      | |          ||
+| Monday 4/17    |Dynamic memory allocation     |      |Classwork 21      |      ||
 | Wednesday 4/19 |C++ strings    |      |Classwork 22      |      ||
 | Friday 4/21    |Vectors       |      |      |Lab 6      ||
 | Monday 4/24    |Errors/exceptions      |      |Classwork 23      |      ||
