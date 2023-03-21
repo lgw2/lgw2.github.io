@@ -25,7 +25,7 @@ title: "Lab 4"
 description on pages 56-57 of the textbook.*
 
 All data in computer memory is represented as strings of 0's and 1's. In order
-to store fractional values over a very large, from very large to very small, we
+to store fractional values over a very large range, from very large to very small, we
 typically store fractional numbers as *floating point numbers*. In this
 assignment, you will define a `struct` data type to represent floating point
 numbers and functions that perform basic operations on them.
