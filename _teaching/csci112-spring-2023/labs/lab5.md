@@ -33,15 +33,15 @@ numbers and implement functions that perform basic operations on them.
 The storage of a floating point number is divided into three parts: the sign (`0` for
 positive numbers, `1` for negative numbers), the mantissa (represnting a
 fractional number between 0.1 and 1 or -.1 and -1), and the exponent (representing the
-integer to which we raise a factor of 10).
+integer to which we raise a factor of 10 that multiplies the mantissa).
 
-For example, the number 18.1 has a sign of `0`, a mantissa of `.181`, and an
+For example, the number 18.1 is represented with a sign of `0`, a mantissa of `.181`, and a
 exponent of `2` in our description. The number -0.0000786 has a sign of `1`, a
 mantissa of `.786`, and an exponent of `-4`.
 
 Note that in reality floating point numbers are represented in binary. For the
 purpose of this assignment, we represent our floating point numbers in base 10,
-or decimal, so we use a normal `int` to represent the exponent and a `double`
+or decimal, so we use an `int` to represent the exponent and a `double`
 to represent the mantissa.
 
 ### Adding floating point numbers
@@ -80,8 +80,8 @@ inputs and return types. You may optionially start with the code in
 
 ### Hints
 
-* Remember that you can add a space to your `scanf` format string so that `%c`
-	doesn't read in whitespace.
+* Remember that reading chars using `scanf` can be tricky, because it will read
+	whitespace and assign that. You can add a space to your `scanf` format string to avoid that. For example: `scanf(" %c", &c)"`.
 * The math library (use with `#include <math.h>`) has useful functions like
 	`pow(a,b)` to raise `a` to the power of `b` and `fabs(a)` to return the
 	absolute value of `float` or `double` `a`. (For `int` `a`, the function is
@@ -89,6 +89,48 @@ inputs and return types. You may optionially start with the code in
 * If you want to use the `math.h` library, remember to compile with `-lm`.
 * Recall that structs are passed by value as a default, unlike arrays and
 	strings. To pass a struct by reference, use `&` when calling the function.
+
+### Sample run
+
+You don't need to match the output format.
+
+```
+[p19t655@csci112 lab5]$ gcc -o lab5 -Wall -lm lab5.c
+[p19t655@csci112 lab5]$ ./lab5 < /public/labs/lab5/input.txt
+Enter a float in the following format: sign,mantissa,exponent.
+For example: +,0.245,-5
+Enter a float in the following format: sign,mantissa,exponent.
+For example: +,0.245,-5
+Enter a float in the following format: sign,mantissa,exponent.
+For example: +,0.245,-5
+Enter a float in the following format: sign,mantissa,exponent.
+For example: +,0.245,-5
+Enter a float in the following format: sign,mantissa,exponent.
+For example: +,0.245,-5
+Enter a float in the following format: sign,mantissa,exponent.
+For example: +,0.245,-5
+Enter a float in the following format: sign,mantissa,exponent.
+For example: +,0.245,-5
+Enter a float in the following format: sign,mantissa,exponent.
+For example: +,0.245,-5
+Enter a float in the following format: sign,mantissa,exponent.
+For example: +,0.245,-5
+Enter a float in the following format: sign,mantissa,exponent.
+For example: +,0.245,-5
+
+first 3 in float pt. and decimal:
+0.910000x10^-1
+0.091000
+-0.400000x10^2
+-40.000000
+-0.120100x10^4
+-1201.000000
+
+first 2 added:
+-0.399090x10^2
+next 2 added:
+-0.124100x10^4
+```
 
 ## Grading - 100 points
 **If your code does not compile, has a runtime error on the sample input,
