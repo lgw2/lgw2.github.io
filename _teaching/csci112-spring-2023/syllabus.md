@@ -46,14 +46,14 @@ Schedule subject to change.
 | Monday 4/3     |Makefiles      |      |Classwork 17      |      ||
 | Wednesday 4/5  |Makefiles      |      |Classwork 18      |      ||
 | Friday 4/7     |University day --- no class      |      |      |      ||
-| Monday 4/10    |Review|  |Classwork 19      |      ||
-| Wednesday 4/12 |Quiz 2 on D2L --- no class |      |Classwork 20      |      ||
-| Friday 4/14    |Dynamic memory allocation      |      | |          ||
-| Monday 4/17    |Dynamic memory allocation     |      |Classwork 21      |      ||
-| Wednesday 4/19 |C++ strings    |      |Classwork 22      |      ||
+| Monday 4/10    |Review|  |      |      ||
+| Wednesday 4/12 |Quiz 2 on D2L --- no class |      |    |      ||
+| Friday 4/14    |Dynamic memory allocation      |      |Classwork 21 |          ||
+| Monday 4/17    |Dynamic memory allocation     |      |Classwork 22      |      ||
+| Wednesday 4/19 |C++ strings    |      |Classwork 23      |      ||
 | Friday 4/21    |Vectors       |      |      |Lab 6      ||
-| Monday 4/24    |Errors/exceptions      |      |Classwork 23      |      ||
-| Wednesday 4/26 |Classes      |      |Classwork 24    |      ||
+| Monday 4/24    |Errors/exceptions      |      |Classwork 24      |      ||
+| Wednesday 4/26 |Classes      |      |Classwork 25    |      ||
 | Friday 4/28 |Reference variables      |      |      |Lab 7      ||
 | Monday 5/1     |Classes   |      |      |      ||
 | Wednesday 5/3  |Classes      |      |      |      ||
