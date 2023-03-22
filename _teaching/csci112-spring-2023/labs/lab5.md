@@ -63,9 +63,20 @@ Remember to deal with the sign of the numbers as well!
 
 ### Program specification
 
-Your program must include the following functions with exactly the specified
+Your program must include the following structs functions with exactly the specified
 inputs and return types. You may optionially start with the code in
 `/public/labs/lab5/lab5_starter.c`, which has the correct function headers.
+* struct `float_pt_t` with data members for sign, mantissa, and exponent
+* function `scan_float_pt_t` taking in a pointer to a `float_pt_t` and
+	returning nothing (or, do the go beyonod item), which reads in a floating
+	point number from standard in and assigns its values to the values of the
+	pointed to `float_pt_t`
+* function `print_float_pt_t` taking in a `float_pt_t` and returning void,
+	which prints the `float_pt_t`
+* function `float_pt_t_to_double`, taking in a `float_pt_t` and returning the
+	double version of the number
+* function `add`, taking in two `float_pt_t`s and returning another, which is
+	their sum
 
 ### Hints
 
