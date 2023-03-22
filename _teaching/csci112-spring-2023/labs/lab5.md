@@ -1,6 +1,6 @@
 ---
 collection: teaching
-title: "Lab 4"
+title: "Lab 5"
 ---
 
 ## Logistics
@@ -21,15 +21,12 @@ title: "Lab 4"
 
 ## Assignment
 
-*The following description of floating point numbers is based off of the
-description on pages 56-57 of the textbook.*
-
 All data in computer memory is represented as strings of 0's and 1's. In order
 to store fractional values over a very large range of values with high precision, from very large (say, the diameter of the Milky Way, 10^18 kilometers),
 to very small (say, the mass of an electron, 10^-27 grams), we
 typically store fractional numbers as *floating point numbers*. In this
-assignment, you will define a `struct` data type to represent floating point
-numbers and functions that perform basic operations on them.
+assignment, you will define a `struct` to represent floating point
+numbers and implement functions that perform basic operations on them.
 
 ### Floating point numbers
 
@@ -55,11 +52,20 @@ same exponent. We could choose to convert the second number to have the same
 exponent as the first, so we would represent it as 0.0000091x10^3. Then, we can
 add the two to get 0.4100091x10^3.
 
-Recall that valid floating point numbers can only have mantissas between .1 and 1. If we add,
+Recall that valid floating point numbers can only have mantissas between .1 and 1 (or -.1 and -1 if negative).
+If we add,
 for example, 0.7x10^2+0.8x10^2, the resulting floating point number has a
 mantissa of 0.15 and an exponent of 3.
 
+You will need to figure out the exact algorithm to use to add your floating
+point numbers.
 Remember to deal with the sign of the numbers as well!
+
+### Program specification
+
+Your program must include the following functions with exactly the specified
+inputs and return types. You may optionially start with the code in
+`/public/labs/lab5/lab5_starter.c`, which has the correct function headers.
 
 ### Hints
 
@@ -71,7 +77,7 @@ Remember to deal with the sign of the numbers as well!
 	`abs(a)`.)
 * If you want to use the `math.h` library, remember to compile with `-lm`.
 * Recall that structs are passed by value as a default, unlike arrays and
-	strings. To pass by reference, use `&` when calling the function.
+	strings. To pass a struct by reference, use `&` when calling the function.
 
 ## Grading - 100 points
 **If your code does not compile, has a runtime error on the sample input,
@@ -80,17 +86,21 @@ automatic 0.**
 * 10 points: implement the function `scan_float_pt_t` as described above
 	(recall that it must take in a pointer to a `float_pt_t`).
 * 10 points: implement the function `print_float_pt_t` as described above.
-* 10 points: implement the function `add_float_pt_t` as described above.
-* 10 points: read in the 10 floating point numbers from `/public/labs/lab5/input.txt`
+* 10 points: implement the function `float_pt_t_to_double` as described above.
+* 20 points: implement the function `add_float_pt_t` as described above.
+* 10 points: read in the 10 floating point numbers from `/public/labs/lab5/input.txt` using `scan_float_pt_t`
 	and store them in an array of type `float_pt_t`.
-* 10 points:
-* 10 points: source code is in a commit with tag `lab5`
-* 10 points: source code is in `csci112_spring2023/labs/lab5` directory
+* 5 points: print the first 3 floating point numbers using `print_float_pt_t`.
+* 5 points: print the first 3 floating point numbers as regular decimal
+	numbers  using
+	`float_pt_t_to_double`.
+* 10 points: compute the sums of the 1st and 2nd and 2nd and 3rd floating point numbers by calling `add_float_pt_t` and print the results using `print_float_pt_t`.
+* 10 points: source code is in a commit with tag `lab5`.
+* 10 points: source code is in `csci112_spring2023/labs/lab5` directory.
 
 ## Go beyond
 * Implement subtraction, multipliication, and division for your floating point
 	numbers.
-* Think about
 
 ## Grading turnaround
 This lab will be graded within one week of its due date.
