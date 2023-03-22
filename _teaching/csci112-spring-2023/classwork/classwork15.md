@@ -26,7 +26,7 @@ and `wed` if necessary.
 
 ## Autograder
 
-You can run the autograder yourelf by running
+You can run the autograder yourself by running
 ```
 /public/classwork/week9/wed/autograder.sh
 ```
