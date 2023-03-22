@@ -32,7 +32,7 @@ numbers and implement functions that perform basic operations on them.
 
 The storage of a floating point number is divided into three parts: the sign (`0` for
 positive numbers, `1` for negative numbers), the mantissa (represnting a
-fractional number between 0.1 and 1 or -.1 and -1), and the exponent (representing the
+fractional number between 0.1 and 1), and the exponent (representing the
 integer to which we raise a factor of 10 that multiplies the mantissa).
 
 For example, the number 18.1 is represented with a sign of `0`, a mantissa of `.181`, and a
@@ -52,7 +52,7 @@ same exponent. We could choose to convert the second number to have the same
 exponent as the first, so we would represent it as 0.0000091x10^3. Then, we can
 add the two to get 0.4100091x10^3.
 
-Recall that valid floating point numbers can only have mantissas between .1 and 1 (or -.1 and -1 if negative).
+Recall that valid floating point numbers can only have mantissas between .1 and 1.
 If we add,
 for example, 0.7x10^2+0.8x10^2, the resulting floating point number has a
 mantissa of 0.15 and an exponent of 3.
