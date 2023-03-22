@@ -42,7 +42,7 @@ Schedule subject to change.
 | Friday 3/24    |Structs      |      |      |[Program 1](https://lgw2.github.io/teaching/csci112-spring-2023/programs/program1/)      ||
 | Monday 3/27    |Structs|      |      |      ||
 | Wednesday 3/29 |Command line arguments|      |Classwork 16      |      ||
-| Friday 3/31    |Compiler/linker      |      |      |Lab 5      ||
+| Friday 3/31    |Compiler/linker      |      |      |[Lab 5](https://lgw2.github.io/teaching/csci112-spring-2023/labs/lab5/)      ||
 | Monday 4/3     |Makefiles      |      |Classwork 17      |      ||
 | Wednesday 4/5  |Makefiles      |      |Classwork 18      |      ||
 | Friday 4/7     |University day --- no class      |      |      |      ||
