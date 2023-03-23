@@ -154,7 +154,7 @@ automatic 0.**
 ## Go beyond
 * Implement subtraction, multipliication, and division for your floating point
 	numbers.
-* Have `scan_float_pt_t` return an integer indicatig the success or failure of
+* Have `scan_float_pt_t` return an integer indicating the success or failure of
 	reading in a `float_pt_t`. The value `0` should indicate success.
 
 ## Grading turnaround
