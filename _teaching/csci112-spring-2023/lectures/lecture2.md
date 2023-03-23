@@ -316,8 +316,35 @@ you delete the correct `.git` directory.
 
 ## Optional: more advanced git
 
+### Adding a remote to your repository
+
+If you would like to connect your `csci112_spring2023` repository to GitHub,
+do the following steps:
+
+1. [Create a new repository on GitHub.com](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository).
+Do not initialize the new repository with README, license, or gitignore files.
+
+2. On the server, navigate to your `csci112_spring2023` repository.
+
+3. Run
+```
+git remote add origin <REMOTE_URL>
+```
+
+4.
+
+
+follow the documentation [from GitHub](https://docs.github.com/en/migrations/importing-source-code/using-the-command-line-to-import-source-code/adding-locally-hosted-code-to-github#adding-a-local-repository-to-github-using-git). Note that you can skip steps 4-6, because we've already initialized our directory
+as a git repository and have been committing our changes. *Please make this
+repository private so that I can reuse assignments for this course without the
+solutions being available online!*
+
+
+### Additional resources
+
 You can watch the lecture and/or read the text from the MIT Missing Semester
 [lecture on git](https://missing.csail.mit.edu/2020/version-control/).
 
 You can look at the [git tutorial](https://swcarpentry.github.io/git-novice/) from the software carpentries program, which aims
 to teach researchers basic computing skills.
+
