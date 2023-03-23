@@ -146,6 +146,9 @@ would copy the file `myfile.txt` from your home directory (`/home/<netid>`) on
 the server into a file called `myfile.txt`, *in whatever directory you are in
 when you run the command on your computer*.
 
+To copy from your computer to the server, you would reverse the order of the
+arguments.
+
 ### Additional resources
 
 There are plenty of Linux and shell tutorials out there. The one that I
