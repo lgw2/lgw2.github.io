@@ -319,15 +319,16 @@ you delete the correct `.git` directory.
 ### Adding a remote to your repository
 
 If you would like to connect your `csci112_spring2023` repository to GitHub,
-do the following steps:
+do the following steps. You must choose whether to use HTTPS or SSH to
+communicate with GitHub. Either is fine, but HTTPS is simpler, so I recommend
+that.
 
 1. [Create a new repository on GitHub.com](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository).
 Do not initialize the new repository with README, license, or gitignore files.
 **Please make this
 repository private so that I can reuse assignments for this course without the
-solutions being available online!**
+solutions being available online!** Copy the remote url with https in it.
 2. On the server, navigate to your `csci112_spring2023` repository and run
-
 ```
 git remote add origin <REMOTE_URL>
 ```
@@ -336,6 +337,8 @@ git remote add origin <REMOTE_URL>
 git push --set-upstream origin master
 ```
 
+You may need to [generate and enter a person access token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token#creating-a-personal-access-token-classic) here.
+
 Everything in your repository is now stored on the connected GitHub repository
 as well! But updates are not automatic. After any new commits, if you would
 like to send them to the GitHub repository, run
@@ -343,10 +346,20 @@ like to send them to the GitHub repository, run
 git push
 ```
 
+### Cloning that repo to your local computer
 
+To copy over the files in your `csci112_spring2023` directory (and now on
+GitHub as well) to a local computer, clone the GitHub repository.
 
+In a terminal window, enter
+```
+git clone <REMOTE_URL>
+```
 
-
+This will create a directory called `csci112_spring2023` that holds everything
+that was in the GitHub repo. If you make an update there (by pushing from the
+server) and want to get that update on your computer, navigate into the
+`csci112_spring2023` directory and run `git pull`.
 
 ### Additional resources
 
