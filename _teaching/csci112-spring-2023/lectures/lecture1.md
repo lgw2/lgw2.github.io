@@ -134,7 +134,7 @@ Enter five integers:
 The numbers you entered are 1, 2, 3, 4, 5
 ```
 
-### Copying files from server to your local computer (or vice versa)
+### Copying files from the server to your local computer
 
 You can use the	`scp` command to copy files from your the server to your local
 computer. The first argument is where to copy from and the second is where to
