@@ -337,7 +337,7 @@ git remote add origin <REMOTE_URL>
 git push --set-upstream origin master
 ```
 
-You may need to [generate and enter a person access token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token#creating-a-personal-access-token-classic) here.
+You may need to [generate and enter a personal access token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token#creating-a-personal-access-token-classic) here.
 
 Everything in your repository is now stored on the connected GitHub repository
 as well! But updates are not automatic. After any new commits, if you would
