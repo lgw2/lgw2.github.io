@@ -140,7 +140,7 @@ automatic 0.**
 	(recall that it must take in a pointer to a `float_pt_t`).
 * 10 points: implement the function `print_float_pt_t` as described above.
 * 10 points: implement the function `float_pt_t_to_double` as described above.
-* 20 points: implement the function `add_float_pt_t` as described above.
+* 20 points: implement the function `add` as described above.
 * 10 points: read in the 10 floating point numbers from `/public/labs/lab5/input.txt` using `scan_float_pt_t`
 	and store them in an array of type `float_pt_t`.
 * 5 points: print the first 3 floating point numbers using `print_float_pt_t`.
