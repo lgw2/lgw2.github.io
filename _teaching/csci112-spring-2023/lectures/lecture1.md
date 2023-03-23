@@ -144,7 +144,8 @@ scp <netid>@csci112.cs.montana.edu:/home/<netid>/myfile.txt myfile.txt
 ```
 would copy the file `myfile.txt` from your home directory (`/home/<netid>`) on
 the server into a file called `myfile.txt`, *in whatever directory you are in
-when you run the command on your computer*.
+when you run the command on your computer*. You can add the `-r` flag after
+`scp` to copy an entire directory.
 
 To copy from your computer to the server, you would reverse the order of the
 arguments.
