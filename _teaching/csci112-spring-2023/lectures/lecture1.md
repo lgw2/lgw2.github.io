@@ -134,6 +134,18 @@ Enter five integers:
 The numbers you entered are 1, 2, 3, 4, 5
 ```
 
+### Copying files from server to your local computer (or vice versa)
+
+You can use the	`scp` command to copy files from your the server to your local
+computer. The first argument is where to copy from and the second is where to
+copy to. For example,
+```
+scp <netid>@csci112.cs.montana.edu:/home/<netid>/myfile.txt myfile.txt
+```
+would copy the file `myfile.txt` from your home directory (`/home/<netid>`) on
+the server into a file called `myfile.txt`, *in whatever directory you are in
+when you run the command on your computer*.
+
 ### Additional resources
 
 There are plenty of Linux and shell tutorials out there. The one that I
