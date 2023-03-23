@@ -323,21 +323,29 @@ do the following steps:
 
 1. [Create a new repository on GitHub.com](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository).
 Do not initialize the new repository with README, license, or gitignore files.
+**Please make this
+repository private so that I can reuse assignments for this course without the
+solutions being available online!**
+2. On the server, navigate to your `csci112_spring2023` repository and run
 
-2. On the server, navigate to your `csci112_spring2023` repository.
-
-3. Run
 ```
 git remote add origin <REMOTE_URL>
 ```
+3. Now run
+```
+git push --set-upstream origin master
+```
 
-4.
+Everything in your repository is now stored on the connected GitHub repository
+as well! But updates are not automatic. After any new commits, if you would
+like to send them to the GitHub repository, run
+```
+git push
+```
 
 
-follow the documentation [from GitHub](https://docs.github.com/en/migrations/importing-source-code/using-the-command-line-to-import-source-code/adding-locally-hosted-code-to-github#adding-a-local-repository-to-github-using-git). Note that you can skip steps 4-6, because we've already initialized our directory
-as a git repository and have been committing our changes. *Please make this
-repository private so that I can reuse assignments for this course without the
-solutions being available online!*
+
+
 
 
 ### Additional resources
