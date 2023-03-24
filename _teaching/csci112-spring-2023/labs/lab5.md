@@ -63,7 +63,7 @@ Remember to deal with the sign of the numbers as well!
 
 ### Program specification
 
-Your program must include the following structs functions with exactly the specified
+Your program must include the following structs and functions with exactly the specified
 inputs and return types. You may optionially start with the code in
 `/public/labs/lab5/lab5_starter.c`, which has the correct function headers.
 * struct `float_pt_t` with data members for sign, mantissa, and exponent
