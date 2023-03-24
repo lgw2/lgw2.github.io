@@ -53,7 +53,7 @@ automatic 0.**
 * 5 points: opens `winners.txt` for writing using `fopen`
 * 5 points: successfully reads input from file
 * 5 points: successfully writes output to file
-* 10 points: stores each line in an array of strings
+* 10 points: stores each line (or a string related to each line) in an array of strings
 * 5 points: uses `fgets` to read each line
 * 15 points: successfully sorts the data alphabetically by first name
 * 10 points: uses`strtok` to separate parts of the line
