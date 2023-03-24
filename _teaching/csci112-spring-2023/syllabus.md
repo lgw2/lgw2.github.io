@@ -39,7 +39,7 @@ Schedule subject to change.
 | Spring break   |No class      |      |      |      ||
 | Monday 3/20    |[C type strings](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/Chapter8.pdf)      |8     |[Classwork 14](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork14/)      |      |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3885120c-bca8-4377-91f2-afcb00f74bbf)|
 | Wednesday 3/22 |[C type strings](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/Chapter8.pdf); [structs](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/Chapter10.pdf)|8; 10      |[Classwork 15](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork15/)      |      |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1b46a3d7-895b-4fea-8dc6-afcd00f760d1)|
-| Friday 3/24    |[Structs](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/Chapter10.pdf); intro Lab 5  |10      |[Ungraded classwork](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/ungraded_classwork7/)      |[Program 1](https://lgw2.github.io/teaching/csci112-spring-2023/programs/program1/)      ||
+| Friday 3/24    |[Structs](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/Chapter10.pdf); Lab 5 intro |10      |[Ungraded classwork](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/ungraded_classwork7/)      |[Program 1](https://lgw2.github.io/teaching/csci112-spring-2023/programs/program1/)      ||
 | Monday 3/27    |Structs|10      |      |      ||
 | Wednesday 3/29 |Command line arguments|      |Classwork 16      |      ||
 | Friday 3/31    |Compiler/linker      |      |      |[Lab 5](https://lgw2.github.io/teaching/csci112-spring-2023/labs/lab5/)      ||
