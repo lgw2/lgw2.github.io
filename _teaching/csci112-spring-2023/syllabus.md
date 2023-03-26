@@ -39,26 +39,26 @@ Schedule subject to change.
 | Spring break   |No class      |      |      |      ||
 | Monday 3/20    |[C type strings](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/Chapter8.pdf)      |8     |[Classwork 14](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork14/)      |      |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3885120c-bca8-4377-91f2-afcb00f74bbf)|
 | Wednesday 3/22 |[C type strings](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/Chapter8.pdf); [structs](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/Chapter10.pdf)|8; 10      |[Classwork 15](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork15/)      |      |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1b46a3d7-895b-4fea-8dc6-afcd00f760d1)|
-| Friday 3/24    |[Structs](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/Chapter10.pdf); Lab 5 intro |10      |[Ungraded classwork](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/ungraded_classwork7/)      |[Program 1](https://lgw2.github.io/teaching/csci112-spring-2023/programs/program1/)      ||
-| Monday 3/27    |Structs|10      |      |      ||
-| Wednesday 3/29 |Command line arguments|      |Classwork 16      |      ||
-| Friday 3/31    |Compiler/linker      |      |      |[Lab 5](https://lgw2.github.io/teaching/csci112-spring-2023/labs/lab5/)      ||
-| Monday 4/3     |Makefiles      |      |Classwork 17      |      ||
-| Wednesday 4/5  |Makefiles      |      |Classwork 18      |      ||
-| Friday 4/7     |University day --- no class      |      |      |      ||
+| Friday 3/24    |[Structs](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/Chapter10.pdf); Lab 5 intro |10      |[Ungraded classwork](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/ungraded_classwork7/)      |[Program 1](https://lgw2.github.io/teaching/csci112-spring-2023/programs/program1/)      |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=621b42ad-7748-4a5e-b1a3-afcf00f6f8ee)|
+| Monday 3/27    |[Structs](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/Chapter10.pdf); Lab 5 intro|10      |[Classwork 16](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork16/)      |      ||
+| Wednesday 3/29 |Splitting C programs into multiple files|      |[Classwork 17](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork17/)       |      ||
+| Friday 3/31    |Compiler/linker review      |      |      |[Lab 5](https://lgw2.github.io/teaching/csci112-spring-2023/labs/lab5/)      ||
+| Monday 4/3     |Makefiles      |      |Classwork 18      |      ||
+| Wednesday 4/5  |Command line arguments     |      |Classwork 19      |      ||
+| Friday 4/7     |University day---no class      |      |      |      ||
 | Monday 4/10    |Review|  |      |      ||
 | Wednesday 4/12 |Quiz 2 on D2L --- no class |      |    |      ||
-| Friday 4/14    |Dynamic memory allocation      |      |Classwork 21 |          ||
-| Monday 4/17    |Dynamic memory allocation     |      |Classwork 22      |      ||
-| Wednesday 4/19 |C++ strings    |      |Classwork 23      |      ||
-| Friday 4/21    |Vectors       |      |      |Lab 6      ||
-| Monday 4/24    |Errors/exceptions      |      |Classwork 24      |      ||
-| Wednesday 4/26 |Classes      |      |Classwork 25    |      ||
-| Friday 4/28 |Reference variables      |      |      |Lab 7      ||
+| Friday 4/14    |Lucy gone---no class      |      | |          ||
+| Monday 4/17    |Lucy gone---no class     |      |      |      ||
+| Wednesday 4/19 |Dynamic memory allocation    |      |Classwork 20      |      ||
+| Friday 4/21    |Dynamic memory allocation       |      |      |Lab 6      ||
+| Monday 4/24    |Dynamic data structures      |      |Classwork 21      |      ||
+| Wednesday 4/26 |Pointer arithmetic      |      |Classwork 22    |      ||
+| Friday 4/28 |      |      |      |Lab 7      ||
 | Monday 5/1     |Classes   |      |      |      ||
-| Wednesday 5/3  |Classes      |      |      |      ||
+| Wednesday 5/3  |Bit masking      |      |      |      ||
 | Friday 5/5     |Review      |      |      |Program 2      ||
-| Monday 5/8 |Final quiz on D2L--- extra office hours 8-9:50am   |      |      |      ||
+| Monday 5/8 |Final quiz on D2L---extra office hours 8-9:50am   |      |      |      ||
 
 ## Catalog description
 
