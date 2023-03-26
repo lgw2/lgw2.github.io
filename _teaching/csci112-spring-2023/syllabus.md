@@ -29,7 +29,7 @@ Schedule subject to change.
 | Friday 2/17    |[Arrays](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/Chapter7.pdf); intro Lab 3|7      |[Ungraded classwork](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/ungraded_classwork4/)        |[Lab 2](https://lgw2.github.io/teaching/csci112-spring-2023/labs/lab2/)|[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=06a2ab35-0cf7-442b-b99e-afac010767e3)|
 | Monday 2/20    | President's day --- no class |      |      |      ||
 | Wednesday 2/22 |Review      |      |      |      |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=71adf52a-c640-4da4-b2df-afb101079882)|
-| Friday 2/24    |Quiz 1 ([more info](https://lgw2.github.io/teaching/csci112-spring-2023/quizzes/quiz1/)) on D2L --- no class  |      |      |[Lab 3](https://lgw2.github.io/teaching/csci112-spring-2023/labs/lab3/)      ||
+| Friday 2/24    |Quiz 1 ([more info](https://lgw2.github.io/teaching/csci112-spring-2023/quizzes/quiz1/)) on D2L---no class  |      |      |[Lab 3](https://lgw2.github.io/teaching/csci112-spring-2023/labs/lab3/)      ||
 | Monday 2/27    |[Searching, sorting arrays](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/Chapter7.pdf)|7|[Classwork 10](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork10/)  |      |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=329e4a28-6894-4705-8e9a-afb601078b07)|
 | Wednesday 3/1  |Quiz review; [Pointers; file i/o](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/Chapter6.pdf)   |6      |[Classwork 11](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork11/)      |      |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=07792a32-9edd-4628-8aeb-afb80107be8f)|
 | Friday 3/3     |[Pointers](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/Chapter6.pdf); Lab 4 intro   |6      |[Ungraded classwork](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/ungraded_classwork5/)      |      |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7b0451b0-4c6b-4fe3-bd91-afba01078c18)|
@@ -47,7 +47,7 @@ Schedule subject to change.
 | Wednesday 4/5  |Command line arguments     |      |Classwork 19      |      ||
 | Friday 4/7     |University day---no class      |      |      |      ||
 | Monday 4/10    |Review|  |      |      ||
-| Wednesday 4/12 |Quiz 2 on D2L --- no class |      |    |      ||
+| Wednesday 4/12 |Quiz 2 on D2L---no class |      |    |      ||
 | Friday 4/14    |Lucy gone---no class      |      | |          ||
 | Monday 4/17    |Lucy gone---no class     |      |      |      ||
 | Wednesday 4/19 |Dynamic memory allocation    |      |Classwork 20      |      ||
