@@ -4,7 +4,7 @@ title: "Classwork 16"
 ---
 
 ## Logistics
-* Due: Monday, March 22nd AoE.
+* Due: Monday, March 27th AoE.
 * Submission instructions: make sure that the required file (`locations.c`) is in your
 	`/classwork/week10/mon/` directory.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
@@ -23,7 +23,7 @@ and `mon` if necessary.
 ```
 Museum of the Rockies location is LAT: 45 6 N, LON: 111 4 W
 ```
-Note the use of the `.` notation twice in setting the values of `mor`'s data
+Note the use of the `.` operator twice in setting the values of `mor`'s data
 members. That's because `lat` and `lon` are themselves structs! So you'll need
 to define a second struct in order to create `Location`.
 
