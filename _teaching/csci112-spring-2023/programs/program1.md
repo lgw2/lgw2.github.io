@@ -4,7 +4,7 @@ title: "Program 1"
 ---
 
 ## Logistics
-* Due: Friday, March 24th AoE.
+* Due: ~~Friday, March 24th AoE~~ extended to Wednesday, March 29th AoE.
 * Submission instructions: ensure that you have the source code you want us to
 	grade in a file called `program1.c` in your `~/csci112_spring2023/programs/program1`
 	directory, and that the snapshot (commit) of your repository containing the version of that file you want us to grade has been committed and
@@ -13,7 +13,6 @@ title: "Program 1"
 * Note that grading will be done on D2L, so you can see comments and a
 	 detailed breakdown of your score there, but you do not need to submit
 	anything there.
-* Deadline reminder: per the [late assignment policy](https://lgw2.github.io/teaching/csci112-spring-2023/syllabus/#late-assignment-policies), if you submit after the deadline but within 24 hours of it you will receive a 25% penalty. If you submit within 48 hours you will receive a 50% penalty. After that, no submissions will be accepted.
 
 ## Learning outcomes
 * Practice input and output with strings
