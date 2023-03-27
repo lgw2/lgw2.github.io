@@ -168,7 +168,7 @@ By the end of the course, students should be able to:
 ## Grading
 
 You will be graded on the following:
-* 23 classwork assignments (lowest four dropped): 10%
+* 25 classwork assignments (lowest five dropped): 10%
 * 7 labs (lowest two dropped): 40%
 * 2 projects: 30%
 * 3 quizzes (including final): 18%
