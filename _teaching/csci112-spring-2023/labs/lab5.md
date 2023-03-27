@@ -31,7 +31,7 @@ numbers and implement functions that perform basic operations on them.
 ### Floating point numbers
 
 The storage of a floating point number is divided into three parts: the sign (`0` for
-positive numbers, `1` for negative numbers), the mantissa (represnting a
+positive numbers, `1` for negative numbers), the mantissa (representing a
 fractional number between 0.1 and 1), and the exponent (representing the
 integer to which we raise a factor of 10 that multiplies the mantissa).
 
@@ -64,11 +64,11 @@ Remember to deal with the sign of the numbers as well!
 ### Program specification
 
 Your program must include the following structs and functions with exactly the specified
-inputs and return types. You may optionially start with the code in
+inputs and return types. You may optionally start with the code in
 `/public/labs/lab5/lab5_starter.c`, which has the correct function headers.
 * struct `float_pt_t` with data members for sign, mantissa, and exponent
 * function `scan_float_pt_t` taking in a pointer to a `float_pt_t` and
-	returning nothing (or, do the go beyonod item), which reads in a floating
+	returning nothing (or, do the go beyond item), which reads in a floating
 	point number from standard in and assigns its values to the values of the
 	pointed to `float_pt_t`
 * function `print_float_pt_t` taking in a `float_pt_t` and returning void,
