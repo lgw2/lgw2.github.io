@@ -150,6 +150,12 @@ when you run the command on your computer*. You can add the `-r` flag after
 To copy from your computer to the server, you would reverse the order of the
 arguments.
 
+Some useful examples:
+* `scp -r <netid>@csci112.cs.montana.edu:/home/<netid>/classwork classwork`
+	would copy your entire `classwork` directory to a directory called
+	`classwork` on your computer
+* `scp <netid>@csci112.cs.montana.edu:/public/classwork/week10/mon/solution.c program.c` would copy week 10 Monday's classwork solution to a file called `program.c`
+
 ### Additional resources
 
 There are plenty of Linux and shell tutorials out there. The one that I
