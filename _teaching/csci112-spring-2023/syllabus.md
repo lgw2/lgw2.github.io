@@ -53,9 +53,9 @@ Schedule subject to change.
 | Wednesday 4/19 |Dynamic memory allocation    |      |Classwork 20      |      ||
 | Friday 4/21    |Dynamic memory allocation       |      |      |Lab 6      ||
 | Monday 4/24    |Dynamic data structures      |      |Classwork 21      |      ||
-| Wednesday 4/26 |Pointer arithmetic      |      |Classwork 22    |      ||
-| Friday 4/28 |      |      |      |Lab 7      ||
-| Monday 5/1     |Classes   |      |      |      ||
+| Wednesday 4/26 |Dynamic data structures      |      |Classwork 22    |      ||
+| Friday 4/28 |Pointer arithmetic      |      |      |Lab 7      ||
+| Monday 5/1     |Bit masking   |      |      |      ||
 | Wednesday 5/3  |Bit masking      |      |      |      ||
 | Friday 5/5     |Review      |      |      |Program 2      ||
 | Monday 5/8 |Final quiz on D2L---extra office hours 8-9:50am   |      |      |      ||
