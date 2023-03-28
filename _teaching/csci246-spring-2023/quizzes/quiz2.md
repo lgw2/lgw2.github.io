@@ -13,4 +13,5 @@ The quiz will have four questions.
 2. Write a simple proof using mathematical induction.
 3. Answer some drill-style questions. Many of these will in fact be questions from the
    drills.
-4. Give
+4. Given some psuedocode, give a function expressing the number of primitive
+   operations in terms of the input size, and give the "best" big O
