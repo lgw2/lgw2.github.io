@@ -44,7 +44,7 @@ Schedule subject to change.
 | Wednesday 3/29 |Worst-case runtime analysis       |6.3      |      |      ||
 | Friday 3/31    |Analysis of recursive algorithms      |6.4      |      |Drill 9 on [intro to algorithm analysis](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/alg_analysis.pdf) and [worst-case runtime analysis](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/worst_case_analysis.pdf)||
 | Monday 4/3     |Review as needed      |      |      |      ||
-| Wednesday 4/5  |Quiz in class      |      |      |      ||
+| Wednesday 4/5  |Quiz ([description of content](https://lgw2.github.io/teaching/csci246-spring-2023/quizzes/quiz2.pdf)) in class      |      |      |      ||
 | Friday 4/7     |University day --- no class      |      |      |no drill      ||
 | Monday 4/10    |Introduction to binary relations      |      |[Homework 5](https://lgw2.github.io/teaching/csci246-spring-2023/homework/hw5.pdf); [LaTeX source file](https://www.overleaf.com/read/fjzscnpfkmqh); [bonus question](https://lgw2.github.io/teaching/csci246-spring-2023/homework/hw5_bonus.pdf); [LaTeX source file](https://www.overleaf.com/read/nkhynswvbwnx)      |      ||
 | Wednesday 4/12 |Equivalence relations; partial and total orders      |      |      |      ||
