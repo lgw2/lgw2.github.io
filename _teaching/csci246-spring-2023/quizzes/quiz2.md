@@ -6,7 +6,7 @@ title: "Quiz 2"
 The second quiz
 will focus on everything since the first quiz, so functions, pigeon hole
 principle, proofs by induction and recursively defined structures, big O, and
-worst-case runtime analysis.
+worst-case runtime analysis, including analyzing recursive functions.
 
 The quiz will have four questions. All will be  worth 20, except the drill-style
 questions, which will be worth 40.
