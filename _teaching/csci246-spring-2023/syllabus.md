@@ -46,7 +46,7 @@ Schedule subject to change.
 | Monday 4/3     |Review as needed      |      |      |      ||
 | Wednesday 4/5  |Quiz in class      |      |      |      ||
 | Friday 4/7     |University day --- no class      |      |      |no drill      ||
-| Monday 4/10    |Introduction to binary relations      |      |Homework 5 [part 1](https://lgw2.github.io/teaching/csci246-spring-2023/homework/hw5.1.pdf) (note that 3 is bonus); [LaTeX source file](https://www.overleaf.com/read/fjzscnpfkmqh)      |      ||
+| Monday 4/10    |Introduction to binary relations      |      |[Homework 51](https://lgw2.github.io/teaching/csci246-spring-2023/homework/hw5.pdf) (note that 5 is bonus); [LaTeX source file](https://www.overleaf.com/read/fjzscnpfkmqh)      |      ||
 | Wednesday 4/12 |Equivalence relations; partial and total orders      |      |      |      ||
 | Friday 4/14    |Combinations and permutations |      |      |Drill 10      ||
 | Monday 4/17    |Probability    |      |      ||
