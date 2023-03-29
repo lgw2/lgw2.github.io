@@ -81,7 +81,7 @@ inputs and return types. You may optionally start with the code in
 ### Hints
 
 * Remember that reading chars using `scanf` can be tricky, because it will read
-	whitespace and assign that. You can add a space to your `scanf` format string to avoid that. For example: `scanf(" %c", &c)"`.
+	whitespace and assign that. You can add a space to your `scanf` format string to avoid that. For example: `scanf(" %c", &c)`.
 * The math library (use with `#include <math.h>`) has useful functions like
 	`pow(a,b)` to raise `a` to the power of `b` and `fabs(a)` to return the
 	absolute value of `float` or `double` `a`. (For `int` `a`, the function is
