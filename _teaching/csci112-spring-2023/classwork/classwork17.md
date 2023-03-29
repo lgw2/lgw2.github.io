@@ -17,7 +17,7 @@ title: "Classwork 17"
 
 * Log in to the server.
 * From your home directory, navigate to `classwork/week10/wed/`, creating directories `week10`
-and `mon` if necessary.
+and `wed` if necessary.
 * Copy your `locations.c` file from Monday's classwork, or copy the solution
 	from `/public/classwork/week10/mon/solution.c` into a `locations.c` file.
 * Move the `Location` struct definition to a header file called `location.h`.
