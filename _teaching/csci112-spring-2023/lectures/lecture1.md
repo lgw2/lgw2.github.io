@@ -253,8 +253,7 @@ explanation of the choices can be found on the [vim help site](https://vimhelp.o
 ### Opening multiple tabs
 
 You can open multiple files in vim using `tabe`. With one file open in vim,
-enter command mode by typing `:` while in normal mode. Then type `tabe
-<filename>` and press enter. This will open the other file. You can switch
+enter command mode by typing `:` while in normal mode. Then type `tabe <filename>` and press enter. This will open the other file. You can switch
 between the two windows by typing `gt` in normal mode.
 
 ### Additional resources
