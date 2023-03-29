@@ -47,9 +47,9 @@ Schedule subject to change.
 | Wednesday 4/5  |Quiz ([description of content](https://lgw2.github.io/teaching/csci246-spring-2023/quizzes/quiz2)) in class      |      |      |      ||
 | Friday 4/7     |University day --- no class      |      |      |no drill      ||
 | Monday 4/10    |Introduction to binary relations      |      |[Homework 5](https://lgw2.github.io/teaching/csci246-spring-2023/homework/hw5.pdf); [LaTeX source file](https://www.overleaf.com/read/fjzscnpfkmqh); [bonus question](https://lgw2.github.io/teaching/csci246-spring-2023/homework/hw5_bonus.pdf); [LaTeX source file](https://www.overleaf.com/read/nkhynswvbwnx)      |      ||
-| Wednesday 4/12 |Equivalence relations; partial and total orders      |      |      |      ||
-| Friday 4/14    |Combinations and permutations |      |      |Drill 10      ||
-| Monday 4/17    |Probability    |      |      ||
+| Wednesday 4/12 |Equivalence relations; partial and total orders---watch lecture video, no class      |      |      |      ||
+| Friday 4/14    |Combinations and permutations---watch lecture video, no class |      |      |Drill 10      ||
+| Monday 4/17    |Probability---watch lecture video, no class    |      |      ||
 | Wednesday 4/19 |Conditional probability  |      |      |      ||
 | Friday 4/21    |Bayes Rule      |  |      |Drill 11      ||
 | Monday 4/24    |Random variables and expectation      |      |Homework 6      |      ||
