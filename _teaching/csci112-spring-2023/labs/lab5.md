@@ -147,7 +147,7 @@ automatic 0.**
 * 5 points: print the first 3 floating point numbers as regular decimal
 	numbers  using
 	`float_pt_t_to_double`.
-* 10 points: compute the sums of the 1st and 2nd and 2nd and 3rd floating point numbers by calling `add_float_pt_t` and print the results using `print_float_pt_t`.
+* 10 points: compute the sums of the 1st and 2nd and 2nd and 3rd floating point numbers by calling `add` and print the results using `print_float_pt_t`.
 * 10 points: source code is in a commit with tag `lab5`.
 * 10 points: source code is in `csci112_spring2023/labs/lab5` directory.
 
