@@ -189,7 +189,7 @@ quarter of a point. Only the first person to post about an error gets the points
 
 #### Additional work throughout the semester
 
-Since four classworks and two labs are dropped, your work on dropped
+Since five classworks and two labs are dropped, your work on dropped
 assignments may
 be counted as a bonus. There may be additional assignments that you can complete
 for bonus as well. The exact computation will be decided later in the semester;
