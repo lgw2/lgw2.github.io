@@ -42,7 +42,7 @@ Schedule subject to change.
 | Friday 3/24    |[Structs](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/Chapter10.pdf) |10      |[Ungraded classwork](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/ungraded_classwork7/)      |~~[Program 1](https://lgw2.github.io/teaching/csci112-spring-2023/programs/program1/)~~      |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=621b42ad-7748-4a5e-b1a3-afcf00f6f8ee)|
 | Monday 3/27    |[Structs](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/Chapter10.pdf); Lab 5 intro|10      |[Classwork 16](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork16/)      |      |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e3b19391-c626-4d7b-99f1-afd200f729ba)|
 | Wednesday 3/29 |[Splitting C programs into multiple files](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/splitting_up_program.pdf)|      |[Classwork 17](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork17/)       |[Program 1](https://lgw2.github.io/teaching/csci112-spring-2023/programs/program1/)|[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f85014f2-8b85-489d-bdd9-afd400f74c00)|
-| Friday 3/31    |[Makefiles](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/splitting_up_program.pdf)|      |      |[Lab 5](https://lgw2.github.io/teaching/csci112-spring-2023/labs/lab5/)      |[Ungraded classwork](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/ungraded_classwork7/)|
+| Friday 3/31    |[Makefiles](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/splitting_up_program.pdf)|      |      |[Lab 5](https://lgw2.github.io/teaching/csci112-spring-2023/labs/lab5/) (bonus)      |[Ungraded classwork](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/ungraded_classwork7/)|
 | Monday 4/3     |Go over program 1      |      |Classwork 18      |      ||
 | Wednesday 4/5  |Command line arguments     |      |Classwork 19      |      ||
 | Friday 4/7     |University day---no class      |      |      |      ||
@@ -169,7 +169,7 @@ By the end of the course, students should be able to:
 
 You will be graded on the following:
 * 25 classwork assignments (lowest five dropped): 10%
-* 7 labs (lowest two dropped): 40%
+* 6 labs (lowest two dropped): 40%
 * 2 projects: 30%
 * 3 quizzes (including final): 18%
 * 2 course surveys: 2%
