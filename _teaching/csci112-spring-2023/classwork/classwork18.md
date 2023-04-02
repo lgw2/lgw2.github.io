@@ -27,9 +27,9 @@ and `mon` if necessary.
 	copy `/public/classwork/week11/mon/Makefile` to get you started.
 * Remember that Lab 3 takes in an input file via redirection. To test your
 	executable, you will need to run
-	```
-	./lab3 /public/labs/lab3/testdata.txt
-	```
+```
+./lab3 < /public/labs/lab3/testdata.txt
+```
 
 ## Autograder
 
