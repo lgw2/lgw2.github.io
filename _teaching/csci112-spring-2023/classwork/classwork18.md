@@ -41,6 +41,8 @@ The `autograder.txt` file will be created or
 replaced. You may get a few lines of output about not being able to remove
 files, etc. This is okay.
 
+You can see the output that `make` got when it was run by the autograder in `tmp_make_output.txt`. Looking at this may help if you not getting full credit due to a make issue.
+
 ## Grading turnaround
 
 The autograder will be run at 6am to calculate final scores. Scores will be
