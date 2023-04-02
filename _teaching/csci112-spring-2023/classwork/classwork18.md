@@ -25,6 +25,11 @@ and `mon` if necessary.
 	`lab3`. It should have four rules: one to link the three object files, and
 	one to compile the objet file for each C file. If you would like, you can
 	copy `/public/classwork/week11/mon/Makefile` to get you started.
+* Remember that Lab 3 takes in an input file via redirection. To test your
+	executable, you will need to run
+	```
+	./lab3 /public/labs/lab3/testdata.txt
+	```
 
 ## Autograder
 
