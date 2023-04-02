@@ -18,7 +18,7 @@ title: "Classwork 19"
 * Log in to the server.
 * From your home directory, navigate to `classwork/week11/wed/`, creating directories `week11`
 and `wed` if necessary.
-* Write a C program that takes one argument from the command line and prints
+* Write a C program in the file `hi.c` that takes one argument from the command line and prints
 	`Hello, <arg>`! For example, if you run it with the input `Champ`, it
 	should look like this:
 ```
