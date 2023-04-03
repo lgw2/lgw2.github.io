@@ -5,7 +5,7 @@ title: "Classwork 18"
 
 ## Logistics
 * Due: Monday, April 3rd AoE.
-* Submission instructions: make sure that the required files (`lab3.c`, `lab3.h`,`priint.c.`, `read.c`, `Makefile`) are in your
+* Submission instructions: make sure that the required files (`lab3.c`, `lab3.h`,`print.c.`, `read.c`, `Makefile`) are in your
 	`/classwork/week11/mon/` directory.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
 	this assignment.
