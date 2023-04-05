@@ -11,7 +11,7 @@ title: "Classwork 19"
 	this assignment.
 
 ## Learning outcomes
-* Practice using header files
+* Practice using command line inputs
 
 ## Assignment
 
