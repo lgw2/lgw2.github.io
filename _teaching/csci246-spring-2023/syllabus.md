@@ -48,13 +48,13 @@ Schedule subject to change.
 | Friday 4/7     |University day---no class      |      |      |no drill      ||
 | Monday 4/10    |Introduction to relations      |      |[Homework 5](https://lgw2.github.io/teaching/csci246-spring-2023/homework/hw5.pdf); [LaTeX source file](https://www.overleaf.com/read/fjzscnpfkmqh); [bonus question](https://lgw2.github.io/teaching/csci246-spring-2023/homework/hw5_bonus.pdf); [LaTeX source file](https://www.overleaf.com/read/nkhynswvbwnx)      |      ||
 | Wednesday 4/12 |Equivalence relations [video 1](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=241f76b2-c0ac-4ab0-a785-afdf01228951) and [video 2](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2dcf19ff-4bae-43d6-b02d-afdf0141331a); [notes](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/equiv_relations.pdf)      |      |      |      ||
-| Friday 4/14    |Partial and total orders [video](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2dcf19ff-4bae-43d6-b02d-afdf0141331a), [notes](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/orders.pdf) |      |      |Drill 10 covering [intro to relations](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/relations.pdf), equivalence relations, and partial and total orders (see links to videos/notes))      ||
+| Friday 4/14    |Partial and total orders [video](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2dcf19ff-4bae-43d6-b02d-afdf0141331a), [notes](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/orders.pdf) |      |      |Drill 10 covering [intro to relations](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/relations.pdf), equivalence relations, and partial and total orders (see links to videos/notes)      ||
 | Monday 4/17    |No class |      |      ||
-| Wednesday 4/19 |Combinations and permutations  |      |      |      ||
-| Friday 4/21    |Probability      |  |      |Drill 11      ||
-| Monday 4/24    |Conditional probability      |      |[Homework 6](https://lgw2.github.io/teaching/csci246-spring-2023/homework/hw6.pdf); [LaTex source file](https://www.overleaf.com/read/mpbbnzsrjvkq)      |      ||
-| Wednesday 4/26 |Intro to graphs      |      |      |      ||
-| Friday 4/28 |      |      |      |Drill 12      ||
+| Wednesday 4/19 |Intro to graphs |      |      |      ||
+| Friday 4/21    | |  |      |Drill 11      ||
+| Monday 4/24    | |      |[Homework 6](https://lgw2.github.io/teaching/csci246-spring-2023/homework/hw6.pdf); [LaTex source file](https://www.overleaf.com/read/mpbbnzsrjvkq)      |      ||
+| Wednesday 4/26 |      |      |      |      ||
+| Friday 4/28 |Probability and counting      |      |      |Drill 12      ||
 | Monday 5/1     |      |      |      |      ||
 | Wednesday 5/3  |      |      |      |      ||
 | Friday 5/5     |Review      |      |Survey 2      |Drill 13      ||
