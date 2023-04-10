@@ -47,7 +47,7 @@ Schedule subject to change.
 | Wednesday 4/5  |[Command line arguments](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/command_line_args.pdf)     |      |[Classwork 19](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork19/)      |      |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b55f7528-ff1c-4708-bddd-afdb00f74249)|
 | Friday 4/7     |University day---no class      |      |      |      ||
 | Monday 4/10    |Review|  |      |      ||
-| Wednesday 4/12 |Quiz 2 on D2L---no class |      |    |      ||
+| Wednesday 4/12 |Quiz 2 ([more info](https://lgw2.github.io/teaching/csci112-spring-2023/quizzes/quiz2/)) on D2L---no class |      |    |      ||
 | Friday 4/14    |Lucy gone---no class      |      | |          ||
 | Monday 4/17    |Lucy gone---no class     |      |      |      ||
 | Wednesday 4/19 |Dynamic memory allocation    |      |Classwork 20      |      ||
