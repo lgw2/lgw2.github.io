@@ -23,7 +23,7 @@ and `mon` if necessary.
 	`/public/labs/lab3/` and split it into those four files.
 * Write a makefile in a file called `Makefile` that builds the executable
 	`lab3`. It should have four rules: one to link the three object files, and
-	one to compile the objet file for each C file. If you would like, you can
+	one to compile the object file for each C file. If you would like, you can
 	copy `/public/classwork/week11/mon/Makefile` to get you started.
 * Remember that Lab 3 takes in an input file via redirection. To test your
 	executable, you will need to run
