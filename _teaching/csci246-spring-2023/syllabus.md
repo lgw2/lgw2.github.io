@@ -52,7 +52,7 @@ Schedule subject to change.
 | Monday 4/17    |No class |      |      ||
 | Wednesday 4/19 |Combinations and permutations  |      |      |      ||
 | Friday 4/21    |Probability      |  |      |Drill 11      ||
-| Monday 4/24    |Conditional probability      |      |Homework 6      |      ||
+| Monday 4/24    |Conditional probability      |      |[Homework 6](https://lgw2.github.io/teaching/csci246-spring-2023/homework/hw6.pdf); [LaTex source file](https://www.overleaf.com/read/mpbbnzsrjvkq)      |      ||
 | Wednesday 4/26 |Intro to graphs      |      |      |      ||
 | Friday 4/28 |      |      |      |Drill 12      ||
 | Monday 5/1     |      |      |      |      ||
