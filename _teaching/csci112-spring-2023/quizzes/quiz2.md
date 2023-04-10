@@ -8,7 +8,7 @@ The second quiz
 will cover everything we have learned in the course through the lecture on Wednesday, April 5th.
 
 Once you start the quiz, you have one hour to complete it. It will be open from
-8am on Tuesday, April 10th until 6am on Thursday, April 13th.
+8am on Tuesday, April 11th until 6am on Thursday, April 13th.
 
 For the  quiz, you may access a lot of resources:
 * Any of the course videos
