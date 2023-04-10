@@ -46,7 +46,7 @@ Schedule subject to change.
 | Monday 4/3     |[Makefiles](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/splitting_up_program.pdf); Go over program 1      |      |[Classwork 18](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork18/)      |      |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=63857b0b-2a5b-4087-86a5-afd900f749cb)|
 | Wednesday 4/5  |[Command line arguments](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/command_line_args.pdf)     |      |[Classwork 19](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork19/)      |      |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b55f7528-ff1c-4708-bddd-afdb00f74249)|
 | Friday 4/7     |University day---no class      |      |      |      ||
-| Monday 4/10    |Review|  |      |      ||
+| Monday 4/10    |Review|  |      |      |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2ca57087-41bb-4409-be00-afe000f713b7)|
 | Wednesday 4/12 |Quiz 2 ([more info](https://lgw2.github.io/teaching/csci112-spring-2023/quizzes/quiz2/)) on D2L---no class |      |    |      ||
 | Friday 4/14    |Lucy gone---no class      |      | |          ||
 | Monday 4/17    |Lucy gone---no class     |      |      |      ||
