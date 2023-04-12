@@ -51,7 +51,7 @@ Schedule subject to change.
 | Friday 4/14    |Lucy gone---no class      |      | |          ||
 | Monday 4/17    |Lucy gone---no class     |      |      |      ||
 | Wednesday 4/19 |Dynamic memory allocation    |      |Classwork 20      |      ||
-| Friday 4/21    |Dynamic memory allocation       |      |      |Lab 6      ||
+| Friday 4/21    |Dynamic memory allocation       |      |      |[Lab 6](https://lgw2.github.io/teaching/csci112-spring-2023/labs/lab6/)      ||
 | Monday 4/24    |Dynamic data structures      |      |Classwork 21      |      ||
 | Wednesday 4/26 |Dynamic data structures      |      |Classwork 22    |      ||
 | Friday 4/28 |Pointer arithmetic      |      |      |Lab 7      ||
