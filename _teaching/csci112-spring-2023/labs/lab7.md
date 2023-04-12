@@ -6,7 +6,7 @@ title: "Lab 7"
 ## Logistics
 * Due: Friday, April 28th AoE.
 * Submission instructions: ensure that you have the source code you want us to
-	grade in a file called `lab7.c` in your `~/csci112_spring2023/labs/lab7`
+	grade in your `~/csci112_spring2023/labs/lab7`
 	directory, and that the snapshot (commit) of your repository containing the version of that file you want us to grade has been committed and
 	tagged as `lab7`. See the [git lecture](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/lecture2) and [classwork 4](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork4) for more
 	details.
@@ -26,23 +26,46 @@ Write a struct called an `Exhibit` that holds information about exhibits in a
 zoo, and can also be used as a node in a linked list containing an arbitrary
 number of `Exhibit` nodes. Then, write functions to create and return a new
 `Exhibit`, add to the list at the front, delete a given exhibit from the list,
-and print the whole list.
+and print the whole list. At the end of your `main` function, you should free
+the entire list. **Note that the file /public/labs/lab7/lab7.h gives the
+Exhibit struct and all of the function prototypes that you need.** You can just
+use this as the header file in your program if you would like.
 
 ### Program specification
 
 Your program must include the following structs and functions with exactly the specified
-inputs and return types. You may optionally start with the code in
-`/public/labs/lab7/lab7_starter.c`, which has the correct function headers.
-* struct `Exhibit` with data members the name of the exhibit and the next
-	exhibit
-* function `print_exhibits`
-* function `create_new_exhibit` which must use `malloc` to create an exhibit on
-	the heap
-* function `insert_exhibit_at_front`
-* function `delete_exhibit` which must use `free` to free the memory on the
-	heap
+inputs and return types.
+* Struct `Exhibit` with fields for the name of the exhibit and the next
+	exhibit (a pointer to an `Exhibit`).
+* Function `print_exhibits` that takes in a pointer to an Exhibit and
+	prints out the entire list starting from that node.
+* Function `create_new_exhibit` which takes in an exhibit name and returns a
+	pointer to an exhibit with that name. It must use `malloc` to allocate
+	space for the new exhibit on the heap.
+* Function `insert_exhibit_at_front` which takes in a double pointer to an
+	`Exhibit` (for the start of the list) and a pointer to the exhibit to be
+	added, and adds the new exhibit to the front.
+* Function `delete_exhibit` which takes in a double pointer to an `Exhibit` (for the start of the list) and an exhibit name and removes an exhibit with that name from the list. It must
+use `free` to free the memory on the heap for the deleted node.
+* Function `delete_all` which takes in a pointer to an `Exhibit` (for the start of the list) and uses `free` to free the memory for the entire
+	list.
 
 ### Hints
+* Use the sample header file from `/public/labs/lab7/`.
+* Follow the implementations of print, insert at front, delete, and delete all
+	for linked lists from class.
+* You can check for memory leaks using `valgrind`. For example, run
+```
+valgrind --leak-check=full \
+         --show-leak-kinds=all \
+         --track-origins=yes \
+         --verbose \
+         --log-file=valgrind-out.txt \
+         ./lab7 < /public/labs/lab7/test1.txt
+```
+and check the `valgrind-out.txt` file. At the bottom of the file you will find
+information about whether you have memory leaks. If you do, check that you are freeing all of the memory you allocate! See [this stack overflow
+post]() if you would like to know more about valgrind.
 
 ### Sample run
 
