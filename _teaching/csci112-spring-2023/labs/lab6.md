@@ -4,10 +4,10 @@ title: "Lab 6"
 ---
 
 ## Logistics
-* Due: Friday, April 28th AoE.
+* Due: Friday, April 21th AoE.
 * Submission instructions: ensure that you have the source code you want us to
-	grade in a file called `lab6.c` in your `~/csci112_spring2023/labs/lab6`
-	directory, and that the snapshot (commit) of your repository containing the version of that file you want us to grade has been committed and
+	grade in your `~/csci112_spring2023/labs/lab6`
+	directory, and that the snapshot (commit) of your repository containing the version of that directory you want us to grade has been committed and
 	tagged as `lab6`. See the [git lecture](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/lecture2) and [classwork 4](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork4) for more
 	details.
 * Note that grading will be done on D2L, so you can see comments and a
@@ -36,7 +36,8 @@ When two characters fight, this is what should happen:
 * Otherwise, the character with higher XP is the winner and the character with
 	lower XP is the loser. The winner deals the difference in XP damage to the
 	loser's HP. The winner's XP increases by adding the log base 10 (`log10`
-	function from `math.h`). The loser's XP increases by multiplying by 1.5. If
+	function from `math.h`) of their current XP to their current XP.
+	The loser's XP increases by multiplying their current XP by 1.5. If
 	you store XP as an int, you may round however you like.
 * If the loser's HP goes to 0 (or smaller), add "(deceased)" to their name.
 
@@ -57,7 +58,6 @@ functions if you would like, but the details are up to you.
 
 ### Hints
 * remember to compile with `lm` when you use the math library.
-*
 
 ### Sample run
 
@@ -130,8 +130,6 @@ automatic 0.**
 * 5 points: print information about the program's run in a pleasing manner
 * 5 points: source code is in a commit with tag `lab6`.
 * 5 points: source code is in `csci112_spring2023/labs/lab6` directory.
-
-## Go beyond
 
 ## Grading turnaround
 This lab will be graded within one week of its due date.
