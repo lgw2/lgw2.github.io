@@ -89,7 +89,6 @@ Mario (36 XP, 100 HP)
 [p19t655@csci112 lab6]$ ./lab6 Bowser 22 100 Mario 22 100
 ### LET'S FIGHT ###
 Bowser (22 XP, 100 HP) vs. Mario (22 XP, 100 HP)
-
 It's a tie!
 
 Result is:
@@ -109,28 +108,32 @@ Mario (33 XP, 82 HP)
 **If your code does not compile, has a runtime error on the sample input,
 or uses global variables (variables declared outside of main), you get an
 automatic 0.**
-* 10 points: correctly take in 6 arguments on the command line. These should
+* 5 points: correctly take in 6 arguments on the command line. These should
 	be, in this order: name of character 1, XP of character 1, HP of character 1, name of
-	character 2, XP of character 1, HP of character 2.
-* 5 points: define the `Character` struct as described
+	character 2, XP of character 2, HP of character 2.
+* 5 points: define the `Character` struct as described.
 * 5 points: create two `Character` structs from the information passed from
 	the command line.
 * 10 points: implement the `fight` function to take in two pointers to
-	`Character` structs
+	`Character` structs.
 * 10 points: modify the two `Character` structs in the `fight` function by
-	following the pointers
-* 5 points: handle the tie case correctly
-* 5 points: correctly update XP if not a tie
-* 5 points: correctly update HP (of loser) if not a tie
-* 5 points: modify the name of a character if it gets 0 or fewer HP
-* 10 points: store your `Character` definition and at least one function
-	protoptye in a header file
-* 5 points: use at least two `.c` files
-* 10 points: include a header guard in your header file
+	following the pointers.
+* 5 points: handle the tie case correctly.
+* 5 points: correctly update XP for both characters if not a tie.
+* 5 points: use the `log10` function from the math library.
+* 5 points: correctly update HP of loser if not a tie.
+* 5 points: modify the name of a character if it gets 0 or fewer HP.
+* 5 points: store your `Character` definition and at least one function
+	protoptye in a header file.
+* 5 points: use at least two `.c` files.
+* 5 points: include a header guard in your header file.
 * 5 points: print information about the program's run in a pleasing manner
+* 5 points: provide a Makefile that correctly creates a `lab6` executable from
+	your source code.
+* 5 points: correctly encode the dependencies of the parts of your program in
+	the Makefile.
 * 5 points: source code is in a commit with tag `lab6`.
 * 5 points: source code is in `csci112_spring2023/labs/lab6` directory.
 
 ## Grading turnaround
 This lab will be graded within one week of its due date.
-
