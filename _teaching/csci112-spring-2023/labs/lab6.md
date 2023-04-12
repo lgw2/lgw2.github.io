@@ -38,7 +38,7 @@ When two characters fight, this is what should happen:
 	loser's HP. The winner's XP increases by adding the log base 10 (`log10`
 	function from `math.h`) of their current XP to their current XP.
 	The loser's XP increases by multiplying their current XP by 1.5. If
-	you store XP as an int, you may round however you like.
+	you store XP as an `int`, you may round however you like.
 * If the loser's HP goes to 0 (or smaller), add "(deceased)" to their name.
 
 ### Program specification
