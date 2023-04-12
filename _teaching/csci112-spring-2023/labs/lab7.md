@@ -64,8 +64,7 @@ valgrind --leak-check=full \
          ./lab7 < /public/labs/lab7/test1.txt
 ```
 and check the `valgrind-out.txt` file. At the bottom of the file you will find
-information about whether you have memory leaks. If you do, check that you are freeing all of the memory you allocate! See [this stack overflow
-post]() if you would like to know more about valgrind.
+information about whether you have memory leaks. If you do, check that you are freeing all of the memory you allocate! See [this stack overflow post](https://stackoverflow.com/questions/5134891/how-do-i-use-valgrind-to-find-memory-leaks) if you would like to know more about valgrind.
 
 ### Sample run
 
