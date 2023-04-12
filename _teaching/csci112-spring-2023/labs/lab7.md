@@ -102,14 +102,17 @@ or uses global variables (variables declared outside of main), you get an
 automatic 0.**
 * 10 points: struct `Exhibit` is implemented as described
 * 10 points: function `print_exhibits` is implemented as described
-* 5 points: function `create_new_exhibit` is implemented as described (with or without
-	`malloc`)
+* 5 points: function `create_new_exhibit` is implemented as described
+	(excluding `malloc`)
 * 5 points: function `create_new_exhibit` correctly uses `malloc` to allocate memory on the heap
 * 10 points: function `insert_exhibit_at_front` is implemented as described
-* 15 points: function `delete_exhibit` is implemented as described (with or without
+* 10 points: function `delete_exhibit` is implemented as described (excluding
 	`free`)
 * 5 points: function `delete_exhibit` correctly uses `free` to free the memory allocated for the deleted node
-* 5 points: prompts the user
+* 5 points: function `delete_all` successfully deletes all nodeds from the
+	list
+* 5 points: function `delete_all` correctly uses `free` to free the memory allocated for the all remaining nodes and is called at the end of `main`
+* 5 points: program prompts the user as in the sample
 * 5 points: uses at least one header file and at least two C source code files
 * 5 points: provides a Makefile that correctly encodes the dependencies between
     the files and can successfully compile it
@@ -117,9 +120,7 @@ automatic 0.**
 * 5 points: source code is in `csci112_spring2023/labs/lab7` directory.
 
 ## Go beyond
-* Implement your `print_exhibits` function recursively.
-* Use TBD to check that your program has no memory leaks.
+* Implement your `print_exhibits` and `delete_all` functions recursively.
 
 ## Grading turnaround
 This lab will be graded within one week of its due date.
-
