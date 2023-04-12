@@ -4,7 +4,7 @@ title: "Lab 6"
 ---
 
 ## Logistics
-* Due: Friday, April 21th AoE.
+* Due: Friday, April 21st AoE.
 * Submission instructions: ensure that you have the source code you want us to
 	grade in your `~/csci112_spring2023/labs/lab6`
 	directory, and that the snapshot (commit) of your repository containing the version of that directory you want us to grade has been committed and
@@ -124,7 +124,7 @@ automatic 0.**
 * 5 points: correctly update HP of loser if not a tie.
 * 5 points: modify the name of a character if it gets 0 or fewer HP.
 * 5 points: store your `Character` definition and at least one function
-	protoptye in a header file.
+	prototype in a header file.
 * 5 points: use at least two `.c` files.
 * 5 points: include a header guard in your header file.
 * 5 points: print information about the program's run in a pleasing manner
