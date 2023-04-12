@@ -57,7 +57,7 @@ For creating the structs and printing them, you may choose to use separate
 functions if you would like, but the details are up to you.
 
 ### Hints
-* remember to compile with `lm` when you use the math library.
+* remember to compile with `-lm` when you use the math library.
 
 ### Sample run
 
