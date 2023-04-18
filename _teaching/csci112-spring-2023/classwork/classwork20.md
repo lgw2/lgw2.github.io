@@ -5,39 +5,31 @@ title: "Classwork 20"
 
 ## Logistics
 * Due: Wednesday, April 19th AoE.
-* Submission instructions: make sure that the required file (`memory.c`) is in your
-	`/classwork/week12/wed/` directory.
+* Submission instructions: make sure that the required file (`dynamic.c`) is in your
+	`/classwork/week13/wed/` directory.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
 	this assignment.
 
 ## Learning outcomes
-* Practice dynamically allocatiing memory using `malloc` and `calloc`
-* Practice freeing memory with `free`
+* Practice using `malloc` and `calloc` to dynamically allocate memory
 
 ## Assignment
 
 * Log in to the server.
-* From your home directory, navigate to `classwork/week12/wed/`, creating directories `week12`
+* From your home directory, navigate to `classwork/week13/wed/`, creating directories `week13`
 and `wed` if necessary.
-* Write a C program in the file `memory.c` that takes one argument from the command line and prints
-	`Hello, <arg>`! For example, if you run it with the input `Champ`, it
-	should look like this:
-```
-[p19t655@csci112 wed]$ gcc -o hi -Wall hi.c
-[p19t655@csci112 wed]$ ./hi Champ
-Hello, Champ!
-```
-
+* Copy the `dynamic.c` file from `/public/classwork/week13/wed` and fill in the
+	two TODOs. You should only need to add two lines of code to the file.
 
 ## Autograder
 
-You can run the autograder yourself by running
+The autograder is not written yet, but your output should be
 ```
-/public/classwork/week11/wed/autograder.sh
+mypoint coordinates: 10, 5
+intarr[2]=2
 ```
-The `autograder.txt` file will be created or
-replaced. You may get a few lines of output about not being able to remove
-files, etc. This is okay.
+if you have done the assignment correctly.
+
 
 ## Grading turnaround
 
