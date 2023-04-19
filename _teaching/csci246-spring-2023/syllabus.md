@@ -159,8 +159,8 @@ assignments, at the end of this course, students should:
 ## Grading
 
 You will be graded on the following:
-* 13 weekly drills (lowest three dropped): 10%
-* 7 problem sets (lowest two dropped): 60%
+* 13 weekly drills (lowest three dropped): 8%
+* 7 problem sets (lowest two dropped): 62%
 * 3 quizzes (including final): 30%
 
 After any curving, your grade will be determined by your total score as follows:
