@@ -46,7 +46,7 @@ Schedule subject to change.
 | Monday 4/3     |Practice quiz [1](https://lgw2.github.io/teaching/csci246-spring-2023/quizzes/example_quiz2_1.pdf) [2](https://lgw2.github.io/teaching/csci246-spring-2023/quizzes/example_quiz2_2.pdf)    |      |      |      |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4b9e27f4-475f-4dd8-ae3f-afd9014ca001)|
 | Wednesday 4/5  |Quiz ([description of content](https://lgw2.github.io/teaching/csci246-spring-2023/quizzes/quiz2)) in class      |      |      |      ||
 | Friday 4/7     |University day---no class      |      |      |no drill      ||
-| Monday 4/10    |Introduction to relations      |8.1-8.3      |[Homework 5](https://lgw2.github.io/teaching/csci246-spring-2023/homework/hw5.pdf); [LaTeX source file](https://www.overleaf.com/read/fjzscnpfkmqh); [bonus question](https://lgw2.github.io/teaching/csci246-spring-2023/homework/hw5_bonus.pdf); [LaTeX source file](https://www.overleaf.com/read/nkhynswvbwnx)      |      ||
+| Monday 4/10    |[Introduction to relations](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/classnotes22.pdf)      |8.1-8.3      |[Homework 5](https://lgw2.github.io/teaching/csci246-spring-2023/homework/hw5.pdf); [LaTeX source file](https://www.overleaf.com/read/fjzscnpfkmqh); [bonus question](https://lgw2.github.io/teaching/csci246-spring-2023/homework/hw5_bonus.pdf); [LaTeX source file](https://www.overleaf.com/read/nkhynswvbwnx)      |      ||
 | Wednesday 4/12 |Equivalence relations [video 1](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=241f76b2-c0ac-4ab0-a785-afdf01228951) and [video 2](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2dcf19ff-4bae-43d6-b02d-afdf0141331a); [notes](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/equiv_relations.pdf)      |8.4      |      |      ||
 | Friday 4/14    |Partial and total orders [video](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c9275723-55ec-42bd-8945-afe00014fff0), [notes](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/orders.pdf) |8.4      |      |Drill 10 covering [intro to relations](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/relations.pdf), equivalence relations, and partial and total orders (see links to videos/notes)      ||
 | Monday 4/17    |No class |      |      ||
@@ -57,7 +57,7 @@ Schedule subject to change.
 | Friday 4/28 |Probability and counting      |      |      |Drill 12      ||
 | Monday 5/1     |      |      |      |      ||
 | Wednesday 5/3  |      |      |      |      ||
-| Friday 5/5     |Review      |      |Survey 2      |Drill 13      ||
+| Friday 5/5     |Review      |      |      |Drill 13      ||
 | Monday 5/8     |Finals week --- no class      |      |Homework 7      |      ||
 | Wednesday 5/10 |Final --- in classroom, 2-3:50pm   |      |      |      ||
 
@@ -159,10 +159,9 @@ assignments, at the end of this course, students should:
 ## Grading
 
 You will be graded on the following:
-* 13 weekly drills (lowest three dropped): 8%
+* 13 weekly drills (lowest three dropped): 10%
 * 7 problem sets (lowest two dropped): 60%
 * 3 quizzes (including final): 30%
-* 2 course surveys: 2%
 
 After any curving, your grade will be determined by your total score as follows:
 93+: A; 90+: A-; 87+: B+; 83+: B; 80+: B-; 77+: C+; 73+: C; 70+: C-; 67+: D+; 63: D; 60: D-.

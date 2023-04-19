@@ -45,7 +45,9 @@ and a pointer to the next exhibit (edit from Lab 7)
 * function `insert_exhibit_at_front` (from Lab 7)
 * function `delete_exhibit` (from Lab 7)
 * function `print_animal`
-* function `create_new_animal`
+* function `create_new_animal` which takes in an animal name, age, and species and returns a
+	pointer to an animal with that data assigned to its fields. It must use `malloc` to allocate
+	space for the new animal on the heap.
 * function `insert_animal_at_front` that takes in adds an animal to the front of a given exhibit's animal list,
 but only if the number of animals is not at capacity
 * function `delete_animal` that takes in a pointer to the start of the exhibit
