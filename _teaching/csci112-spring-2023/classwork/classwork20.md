@@ -23,13 +23,13 @@ and `wed` if necessary.
 
 ## Autograder
 
-The autograder is not written yet, but your output should be
+You can run the autograder yourself by running
 ```
-mypoint coordinates: 10, 5
-intarr[2]=2
+/public/classwork/week13/wed/autograder.sh
 ```
-if you have done the assignment correctly.
-
+The `autograder.txt` file will be created or
+replaced. You may get a few lines of output about not being able to remove
+files, etc. This is okay.
 
 ## Grading turnaround
 
