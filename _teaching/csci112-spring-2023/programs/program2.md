@@ -36,8 +36,8 @@ below.
 
 Your program must include the following structs and functions with exactly the specified
 inputs and return types.
-* struct `Exhibit` with data members the name of the exhibit, the capacity, and the next
-	exhibit (edit from Lab 7)
+* struct `Exhibit` with data members the name of the exhibit, the capacity, and a pointer to an `Animal` struct (the start of the list of animals for this exhibit)
+and a pointer to the next exhibit (edit from Lab 7)
 * struct `Animal` with data members the name, age, and species of the animal and a pointer to the next
 	animal
 * function `print_exhibits` (edit from Lab 7)
