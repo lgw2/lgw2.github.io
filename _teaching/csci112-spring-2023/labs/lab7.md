@@ -26,7 +26,8 @@ Write a struct called an `Exhibit` that holds information about an exhibit in a
 zoo, and can also be used as a node in a linked list containing an arbitrary
 number of `Exhibit` nodes stored on the heap. Then, write functions to create and return a new
 `Exhibit`, add to the list at the front, delete a given exhibit from the list,
-and print the whole list. At the end of your `main` function, you should free
+and print the whole list. In `main`, use your functions to create a list of
+exhibits, remove some, and add some more. At the end of your `main` function, you should free
 the entire list. **If you would like, you can use a pre-written `main` and
 header file containing the function prototypes and `Exhibit` definition, found in `/public/labs/lab7` in the files
 `lab7.c` and `lab7.h`, respectively. In this case, you just need to provide the
