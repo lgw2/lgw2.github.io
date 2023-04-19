@@ -178,7 +178,7 @@ After any curving, your grade will be determined by your total score as follows:
 
 ### Bonus
 
-There are two ways to earn bonus points in this class.
+There are three ways to earn bonus points in this class.
 
 #### Catch errors in course materials
 
@@ -194,6 +194,12 @@ be counted as a bonus. There may be additional assignments that you can complete
 for bonus as well. The exact computation will be decided later in the semester;
 however, the maximum bonus you may earn from this is 3 points out of 100 for
 the semester.
+
+#### Course survey and evaluation
+
+If 75% or more of the class completes the mid-semester course survey (through
+D2L), whole class gets 1 bonus point. Same goes for the course evaluation
+(through the university system).
 
 ### Late assignment policies
 To run a course of this size we cannot accommodate individual requests for
