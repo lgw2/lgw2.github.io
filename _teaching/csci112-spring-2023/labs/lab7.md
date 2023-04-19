@@ -37,7 +37,7 @@ and your own header file, that is also fine.
 
 Your program must include the following structs and functions with exactly the specified
 inputs and return types. **These are already in the `/public/labs/lab7/lab7.h`
-file.**
+file** if you want to use it.
 * Struct `Exhibit` with fields for the name of the exhibit and the next
 	exhibit (a pointer to an `Exhibit`).
 * Function `print_exhibits` that takes in a pointer to an Exhibit and
