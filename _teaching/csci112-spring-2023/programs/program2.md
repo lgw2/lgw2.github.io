@@ -24,20 +24,18 @@ in them. Luckily, you recall that way back in your student days (or was it just
 last week?), you wrote a
 linked list of zoo exhibits, so you decide to build on that. However, you will
 need a nice menu for your employees to interact with, and you also need to keep
-track of the animals that are living in each exhibit. You also need to add
-functionality to delete exhibits.
+track of the animals that are living in each exhibit.
 
 ### Program specification
 
-You should start by copying your `lab7.c` files over to your `program2`
+You should start by copying your Lab 7 files over to your `program2`
 directory, or copying the solution code
 from the `/public/lab7` directory (available after the late due date for Lab 7, so on Monday May 1st).
 Add to your `Exhibit` struct and add the additional functions as described
 below.
 
 Your program must include the following structs and functions with exactly the specified
-inputs and return types. You may optionally start with the code in
-`/public/labs/lab7/lab7_starter.c`, which has the correct function headers.
+inputs and return types.
 * struct `Exhibit` with data members the name of the exhibit, the capacity, and the next
 	exhibit (edit from Lab 7)
 * struct `Animal` with data members the name, age, and species of the animal and a pointer to the next
