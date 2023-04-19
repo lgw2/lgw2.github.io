@@ -27,14 +27,17 @@ zoo, and can also be used as a node in a linked list containing an arbitrary
 number of `Exhibit` nodes. Then, write functions to create and return a new
 `Exhibit`, add to the list at the front, delete a given exhibit from the list,
 and print the whole list. At the end of your `main` function, you should free
-the entire list. **Note that the file /public/labs/lab7/lab7.h gives the
-Exhibit struct and all of the function prototypes that you need.** You can just
-use this as the header file in your program if you would like.
+the entire list. **If you would like, you can use a pre-written `main` and
+header the function prototypes, found in `/public/labs/lab7` in the files
+`lab7.c` and `lab7.h`, respectively. In this case, you just need to provide the
+`funcs.c` file (and a Makefile).** If you would like to write your own `main`
+and your own header file, that is also fine.
 
 ### Program specification
 
 Your program must include the following structs and functions with exactly the specified
-inputs and return types.
+inputs and return types. **These are already in the `/public/labs/lab7/lab7.h`
+file.**
 * Struct `Exhibit` with fields for the name of the exhibit and the next
 	exhibit (a pointer to an `Exhibit`).
 * Function `print_exhibits` that takes in a pointer to an Exhibit and
@@ -51,7 +54,6 @@ use `free` to free the memory on the heap for the deleted node.
 	list.
 
 ### Hints
-* Use the sample header file from `/public/labs/lab7/`.
 * Follow the implementations of print, insert at front, delete, and delete all
 	for linked lists from class.
 * You can check for memory leaks using `valgrind`. For example, run
