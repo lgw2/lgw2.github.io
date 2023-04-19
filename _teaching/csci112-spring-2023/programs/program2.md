@@ -18,7 +18,7 @@ title: "Program 2"
 
 ## Assignment
 
-As the CTO for the (soon-to-be-announced) Bozeman Zoo, you need
+As the software developer for the (soon-to-be-announced) Bozeman Zoo, you need
 to write a program that keeps track of the exhibits and the animals that live
 in them. Luckily, you recall that way back in your student days (or was it just
 last week?), you wrote a
