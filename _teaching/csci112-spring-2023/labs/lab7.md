@@ -51,7 +51,7 @@ file** if you want to use it.
 	added, and adds the new exhibit to the front.
 * Function `delete_exhibit` which takes in a double pointer to an `Exhibit` (for the start of the list) and an exhibit name and removes an exhibit with that name from the list. It must
 use `free` to free the memory on the heap for the deleted node.
-* Function `delete_all` which takes in a pointer to an `Exhibit` (for the start of the list) and uses `free` to free the memory for the entire
+* Function `delete_all` which takes in a double pointer to an `Exhibit` (for the start of the list) and uses `free` to free the memory for the entire
 	list.
 
 ### Hints
