@@ -97,20 +97,7 @@ After the user chooses to exit, you should call `delete_all` to delete the
 whole list of exhibits and animals and free all heap memory.
 
 ### Hints
-* If you aren't sure how to implement one of the functions, draw a picture of
-    what it needs to do.
-* You can check for memory leaks using `valgrind`. For example, run
-```
-valgrind --leak-check=full \
-         --show-leak-kinds=all \
-         --track-origins=yes \
-         --verbose \
-         --log-file=valgrind-out.txt \
-         ./program2 < /public/programs/program2/test.txt
-```
-and check the `valgrind-out.txt` file. At the bottom of the file you will find
-information about whether you have memory leaks. If you do, check that you are freeing all of the memory you allocate! See [this stack overflow post](https://stackoverflow.com/questions/5134891/how-do-i-use-valgrind-to-find-memory-leaks) if you would like to know more about valgrind.
-* There is a working makefile in `/public/programs/program2/` that you can use.
+* See the hints from Lab 7.
 
 ## Test data
 
