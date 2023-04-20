@@ -15,7 +15,7 @@ title: "Program 2"
 	anything there.
 
 ## Learning outcomes
-* Practice using pointers to create a linked list
+* Practice using pointers to create a linked list.
 * Practice using `malloc` and `free` to dynamically allocate and deallocate
 	memory.
 * Write a menu-driven program.
@@ -32,25 +32,19 @@ track of the animals that are living in each exhibit.
 
 ### Program specification
 
-You should start by copying your Lab 7 files over to your `program2`
-directory, or copying the solution code
-from the `/public/lab7` directory (available after the late due date for Lab 7, so on Monday May 1st).
-Add to your `Exhibit` struct and add the additional functions as described
-below.
+Note that you can reuse a lot of your code from Lab 7, though you will need to
+edit it.
 
-Your program must include the following structs and functions with exactly the specified
-inputs, return types, and functionality.
-
-There are two structs. You may use the pre-written header file at
+Your program must include the following two structs. You may use the pre-written header file at
 `/public/programs/program2/structs.h` if you would like.
 1. struct `Exhibit` with data members the name of the exhibit, the capacity, and a pointer to an `Animal` struct (the start of the list of animals for this exhibit)
-and a pointer to the next exhibit (edit from Lab 7).
+and a pointer to the next exhibit.
 2. struct `Animal` with data members the name, age, and species of the animal and a pointer to the next
 	animal.
 
-There are nine functions. You can see their inputs and return types in
-`/public/programs/program2/funcs.h`. You will need to edit your exhibit-related
-functions from Lab 7.
+Your program must include the following nine functions. You can see their inputs and return types in
+`/public/programs/program2/funcs.h`, which yuo can include in your own program
+if you would like.
 1. `print_exhibits`, which should print all exhibit information, including
    capacity and the current animal lists for each exhibit.
 2. `create_new_exhibit`, which must use `malloc` to allocate space for the new
