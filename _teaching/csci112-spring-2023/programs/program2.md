@@ -4,7 +4,7 @@ title: "Program 2"
 ---
 
 ## Logistics
-* Due: Friday, May 5th AoE.
+* Due: Monday, May 8th AoE.
 * Submission instructions: ensure that you have the source code you want us to
 	grade in a file called `program2.c` in your `~/csci112_spring2023/programs/program2`
 	directory, and that the snapshot (commit) of your repository containing the version of that file you want us to grade has been committed and
