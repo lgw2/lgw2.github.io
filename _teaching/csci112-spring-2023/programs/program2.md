@@ -37,13 +37,13 @@ edit it.
 
 Your program must include the following two structs. You may use the pre-written header file at
 `/public/programs/program2/structs.h` if you would like.
-1. struct `Exhibit` with data members the name of the exhibit, the capacity, and a pointer to an `Animal` struct (the start of the list of animals for this exhibit)
+1. struct `Exhibit` with data members for the name of the exhibit, the capacity, and a pointer to an `Animal` struct (the start of the list of animals for this exhibit)
 and a pointer to the next exhibit.
 2. struct `Animal` with data members the name, age, and species of the animal and a pointer to the next
 	animal.
 
 Your program must include the following nine functions. You can see their inputs and return types in
-`/public/programs/program2/funcs.h`, which yuo can include in your own program
+`/public/programs/program2/funcs.h`, which you can include in your own program
 if you would like.
 1. `print_exhibits`, which should print all exhibit information, including
    capacity and the current animal lists for each exhibit.
