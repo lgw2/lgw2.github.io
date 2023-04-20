@@ -486,13 +486,7 @@ Menu
 5 - Remove exhibit
 6 - Exit
 Enter choice: 6
-  THE ZOO
-  Forest exhibit (2 animal capacity):
-  Xander (Monkey, age 3)->Alfie (Squirrel, age 1)->
-  Riverside exhibit (2 animal capacity):
-  Mary (Otter, age 12)->Harry (Otter, age 1)->
-  Desert exhibit (1 animal capacity):
-  No animals.
+Emptying the zoo.
   THE ZOO
   The zoo is empty.
 ```
