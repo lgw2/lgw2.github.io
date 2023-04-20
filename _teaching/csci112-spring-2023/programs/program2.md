@@ -58,8 +58,7 @@ if you would like.
    (You should probably call this function inside `print_exhibits`.)
 7. `create_new_animal`, which must use `malloc` to allocate space for the new animal on the heap.
 8. `insert_animal_at_front`, which adds an animal to the front of a given exhibit's animal list,
-but only if the number of animals is not at capacity. You may assume that the
-exhibit exists.
+You may assume that the exhibit exists.
 9. `delete_animal`, which must use `free` to free the given animal in the given
    exhibit from the
    heap. You may assume that the exhibit and animal exist.
