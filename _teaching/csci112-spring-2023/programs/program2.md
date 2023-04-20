@@ -35,9 +35,10 @@ Add to your `Exhibit` struct and add the additional functions as described
 below.
 
 Your program must include the following structs and functions with exactly the specified
-inputs and return types.
+inputs, return types, and functionality.
 
-There are two structs:
+There are two structs. You may use the pre-written header file at
+`/public/programs/program2/structs.h` if you would like.
 1. struct `Exhibit` with data members the name of the exhibit, the capacity, and a pointer to an `Animal` struct (the start of the list of animals for this exhibit)
 and a pointer to the next exhibit (edit from Lab 7).
 2. struct `Animal` with data members the name, age, and species of the animal and a pointer to the next
@@ -65,13 +66,18 @@ exhibit exists.
    exhibit from the
    heap. You may assume that the exhibit and animal exist.
 
+You may want to include other functions as well, but you are not required to.
+For example, in my implementation, I had a function to check whether a given
+exhibit has enough capacity, and a function to count the number of animals in
+an exhibit.
+
 ### Menu details
 
 You should offer the user the following choices:
 1. Create a brand new zoo. Ask for the number of exhibits, and then prompt the
-   user for the name of each exhibit. Put all of the exhibits in a linked list.
+   user for the name and capacity of each exhibit. Put all of the exhibits in a linked list.
 2. Add an exhibit to the zoo. Ask the user for the name of the exhibit, and
-   then add the exhibit at the end of the linked list.
+   then add the exhibit at the front of the linked list.
 3. Add an animal to an exhibit. Ask the user for the name of the exhibit, check
    that the exhibit has capacity, and if it does,
    and then prompt the user for the information about
@@ -80,14 +86,17 @@ You should offer the user the following choices:
    not prompt the user for additional information about the animal.
 4. Remove an animal from an exhibit. Ask the user for the exhibit name and the
    animal name. Find the animal in the exhibit's animal linked list and remove
-   it.
-5. Remove an exhibit. This action should only be allowed if all of the animals
-   have already been removed from the exhibit.
+   it. You may assume that the given animal and exhiibit exist.
+5. Remove an exhibit. You may assume that all animals have been removed from
+   the exhibit if this choice is made.
 6. Exit the program.
 
 After the user makes a choice, the program should print the current state of
 the zoo (i.e., all of the exhibits and the animals they contain), and prompt
 the user to make another choice.
+
+After the user chooses to exit, you should call `delete_all` to delete the
+whole list of exhibits and animals and free all heap memory.
 
 ### Hints
 
@@ -95,7 +104,17 @@ the user to make another choice.
 **If your code does not compile, has a runtime error on the sample input,
 or uses global variables (variables declared outside of main), you get an
 automatic 0.**
-* 5 points: uses at least one header file and at least two C source code files
+For each of the 9 functions:
+* 5 points: successfully implements the functionality of the function (ignoring
+    allocating/deallocating memory)
+
+For the 5 functions that allocate/deallocate memory:
+* 5 points: memory is correctly allocated/deallocated
+
+
+* 5 points: menu works correctly
+* 5 points: prints all information and in a pleasing manner
+* 5 points: uses at least one header file and two `.c` files
 * 5 points: provides a Makefile that correctly encodes the dependencies between
     the files and can successfully compile it
 * 5 points: source code is in a commit with tag `program2`
