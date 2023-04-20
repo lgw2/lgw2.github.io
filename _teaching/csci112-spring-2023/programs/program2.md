@@ -36,22 +36,34 @@ below.
 
 Your program must include the following structs and functions with exactly the specified
 inputs and return types.
-* struct `Exhibit` with data members the name of the exhibit, the capacity, and a pointer to an `Animal` struct (the start of the list of animals for this exhibit)
-and a pointer to the next exhibit (edit from Lab 7)
-* struct `Animal` with data members the name, age, and species of the animal and a pointer to the next
-	animal
-* function `print_exhibits` (edit from Lab 7)
-* function `create_new_exhibit` (edit from Lab 7)
-* function `insert_exhibit_at_front` (from Lab 7)
-* function `delete_exhibit` (from Lab 7)
-* function `print_animal`
-* function `create_new_animal` which takes in an animal name, age, and species and returns a
-	pointer to an animal with that data assigned to its fields. It must use `malloc` to allocate
-	space for the new animal on the heap.
-* function `insert_animal_at_front` that takes in adds an animal to the front of a given exhibit's animal list,
-but only if the number of animals is not at capacity
-* function `delete_animal` that takes in a pointer to the start of the exhibit
-    list, an exhibit name, and an animal name, and deletes the animal from the
+
+There are two structs:
+1. struct `Exhibit` with data members the name of the exhibit, the capacity, and a pointer to an `Animal` struct (the start of the list of animals for this exhibit)
+and a pointer to the next exhibit (edit from Lab 7).
+2. struct `Animal` with data members the name, age, and species of the animal and a pointer to the next
+	animal.
+
+There are nine functions. You can see their inputs and return types in
+`/public/programs/program2/funcs.h`. You will need to edit your exhibit-related
+functions from Lab 7.
+1. `print_exhibits`, which should print all exhibit information, including
+   capacity and the current animal lists for each exhibit.
+2. `create_new_exhibit`, which must use `malloc` to allocate space for the new
+   animal on the heap.
+3. `insert_exhibit_at_front`
+4. `delete_exhibit`, which must use `free` to free the given exhibit from the
+   heap. You may assume that the exhibit exists and that it has no animals.
+5. `delete_all`, which must use `free` to free all of the animals and all of
+   the exhibits on the heap.
+6. `print_animals`, which should print all information for a given animal list.
+   (You should probably call this function inside `print_exhibits`.)
+7. `create_new_animal`, which must use `malloc` to allocate space for the new animal on the heap.
+8. `insert_animal_at_front`, which adds an animal to the front of a given exhibit's animal list,
+but only if the number of animals is not at capacity. You may assume that the
+exhibit exists.
+9. `delete_animal`, which must use `free` to free the given animal in the given
+   exhibit from the
+   heap. You may assume that the exhibit and animal exist.
 
 ### Menu details
 
@@ -95,6 +107,10 @@ This program will be graded within one week of its due date.
 ## Go beyond
 * Be able to handle the case when the user enters an exhibit that doesn't exist
     or an animal that doesn't exist when trying to add.
+* Be able to handle the case when the user enters an exhibit that doesn't exist
+    or an animal that doesn't exist when trying to delete.
+* Allow a user to delete an exhibit if it still has animals in it, but make
+    sure you have no memory leaks!
 * Add menu items to add multiple animals at once and delete multiple animals at
 once.
 * Add (and test!) a function to add exhibits in the middle of list (for
