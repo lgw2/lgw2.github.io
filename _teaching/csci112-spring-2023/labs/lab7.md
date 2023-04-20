@@ -57,6 +57,8 @@ use `free` to free the memory on the heap for the deleted node.
 ### Hints
 * Follow the implementations of print, insert at front, delete, and delete all
 	for linked lists from class.
+* If you aren't sure how to implement one of the functions, draw a picture of
+    what it needs to do before writing code.
 * You can check for memory leaks using `valgrind`. For example, run
 ```
 valgrind --leak-check=full \
