@@ -15,6 +15,10 @@ title: "Program 2"
 	anything there.
 
 ## Learning outcomes
+* Practice using pointers to create a linked list
+* Practice using `malloc` and `free` to dynamically allocate and deallocate
+	memory.
+* Write a menu-driven program.
 
 ## Assignment
 
@@ -104,14 +108,15 @@ whole list of exhibits and animals and free all heap memory.
 **If your code does not compile, has a runtime error on the sample input,
 or uses global variables (variables declared outside of main), you get an
 automatic 0.**
-For each of the 9 functions:
+
+*For each of the 9 functions:*
 * 5 points: successfully implements the functionality of the function (ignoring
     allocating/deallocating memory)
 
-For the 5 functions that allocate/deallocate memory:
+*For the 5 functions that allocate/deallocate memory:*
 * 5 points: memory is correctly allocated/deallocated
 
-
+*Other:*
 * 5 points: menu works correctly
 * 5 points: prints all information and in a pleasing manner
 * 5 points: uses at least one header file and two `.c` files
