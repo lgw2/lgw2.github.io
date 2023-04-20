@@ -149,8 +149,6 @@ once.
 You do not need to match the output format.
 
 ```
-[p19t655@csci112 program2]$ ls
-funcs.c  funcs.h  Makefile  myfuncs.h  program2.c  structs.h  test.txt
 [p19t655@csci112 program2]$ make
 gcc -c program2.c -Wall
 gcc -c funcs.c -Wall
