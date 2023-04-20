@@ -75,12 +75,9 @@ You should offer the user the following choices:
    user for the name and capacity of each exhibit. Put all of the exhibits in a linked list.
 2. Add an exhibit to the zoo. Ask the user for the name of the exhibit, and
    then add the exhibit at the front of the linked list.
-3. Add an animal to an exhibit. Ask the user for the name of the exhibit, check
-   that the exhibit has capacity, and if it does,
-   and then prompt the user for the information about
-   each animal, and then add the animal to the animals linked list field for the exhibit.
-   If there is no capacity in the exhibit, print a message saying so, and do
-   not prompt the user for additional information about the animal.
+3. Add an animal to an exhibit. Prompt the user for the information about
+   each animal and which exhibit it should be added to. If there is capacity in the exhibit, add the animal. If not, print a message saying there is no
+   capacity, and don't add the animal.
 4. Remove an animal from an exhibit. Ask the user for the exhibit name and the
    animal name. Find the animal in the exhibit's animal linked list and remove
    it. You may assume that the given animal and exhiibit exist.
