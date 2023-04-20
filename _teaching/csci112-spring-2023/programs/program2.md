@@ -104,6 +104,7 @@ whole list of exhibits and animals and free all heap memory.
 
 ### Hints
 
+
 ## Grading - 100 points
 **If your code does not compile, has a runtime error on the sample input,
 or uses global variables (variables declared outside of main), you get an
@@ -137,7 +138,364 @@ This program will be graded within one week of its due date.
     sure you have no memory leaks!
 * Add menu items to add multiple animals at once and delete multiple animals at
 once.
-* Add (and test!) a function to add exhibits in the middle of list (for
+* Add a function to add exhibits in the middle of list (for
     example, after another exhibit with a given name).
-* Add (and test!) a function to add animals in the middle of list (for
+* Add a function to add animals in the middle of list (for
     example, after another animal with a given name).
+
+
+## Sample output
+
+You do not need to match the output format.
+
+```
+[p19t655@csci112 program2]$ ls
+funcs.c  funcs.h  Makefile  myfuncs.h  program2.c  structs.h  test.txt
+[p19t655@csci112 program2]$ make
+gcc -c program2.c -Wall
+gcc -c funcs.c -Wall
+gcc program2.o funcs.o -o program2
+[p19t655@csci112 program2]$ ./program2
+Menu
+1 - Create new zoo
+2 - Add exhibit
+3 - Add animal
+4 - Remove animal
+5 - Remove exhibit
+6 - Exit
+Enter choice: 1
+How many exhibits would you like to start with? > 3
+Enter exhibit name > Sea
+Enter exhibit capacity > 3
+Enter exhibit name > Forest
+Enter exhibit capacity > 5
+Enter exhibit name > Desert
+Enter exhibit capacity > 1
+  THE ZOO
+  Desert exhibit (1 animal capacity):
+  No animals.
+  Forest exhibit (5 animal capacity):
+  No animals.
+  Sea exhibit (3 animal capacity):
+  No animals.
+Menu
+1 - Create new zoo
+2 - Add exhibit
+3 - Add animal
+4 - Remove animal
+5 - Remove exhibit
+6 - Exit
+Enter choice: 3
+Enter animal name > Bob
+Enter animal age > 10
+Enter animal species > Lion
+Enter animal's exhibit > Forest
+  THE ZOO
+  Desert exhibit (1 animal capacity):
+  No animals.
+  Forest exhibit (5 animal capacity):
+  Bob (Lion, age 10)->
+  Sea exhibit (3 animal capacity):
+  No animals.
+Menu
+1 - Create new zoo
+2 - Add exhibit
+3 - Add animal
+4 - Remove animal
+5 - Remove exhibit
+6 - Exit
+Enter choice: 3
+Enter animal name > Sally
+Enter animal age > 11
+Enter animal species > Lion
+Enter animal's exhibit > Forest
+  THE ZOO
+  Desert exhibit (1 animal capacity):
+  No animals.
+  Forest exhibit (5 animal capacity):
+  Sally (Lion, age 11)->Bob (Lion, age 10)->
+  Sea exhibit (3 animal capacity):
+  No animals.
+Menu
+1 - Create new zoo
+2 - Add exhibit
+3 - Add animal
+4 - Remove animal
+5 - Remove exhibit
+6 - Exit
+Enter choice: 2
+Enter exhibit name > Riverside
+Enter exhibit capacity > 2
+  THE ZOO
+  Riverside exhibit (2 animal capacity):
+  No animals.
+  Desert exhibit (1 animal capacity):
+  No animals.
+  Forest exhibit (5 animal capacity):
+  Sally (Lion, age 11)->Bob (Lion, age 10)->
+  Sea exhibit (3 animal capacity):
+  No animals.
+Menu
+1 - Create new zoo
+2 - Add exhibit
+3 - Add animal
+4 - Remove animal
+5 - Remove exhibit
+6 - Exit
+Enter choice: 3
+Enter animal name > Harry
+Enter animal age > 1
+Enter animal species > Otter
+Enter animal's exhibit > Riverside
+  THE ZOO
+  Riverside exhibit (2 animal capacity):
+  Harry (Otter, age 1)->
+  Desert exhibit (1 animal capacity):
+  No animals.
+  Forest exhibit (5 animal capacity):
+  Sally (Lion, age 11)->Bob (Lion, age 10)->
+  Sea exhibit (3 animal capacity):
+  No animals.
+Menu
+1 - Create new zoo
+2 - Add exhibit
+3 - Add animal
+4 - Remove animal
+5 - Remove exhibit
+6 - Exit
+Enter choice: 3
+Enter animal name > Felix
+Enter animal age > 2
+Enter animal species > Otter
+Enter animal's exhibit > Riverside
+  THE ZOO
+  Riverside exhibit (2 animal capacity):
+  Felix (Otter, age 2)->Harry (Otter, age 1)->
+  Desert exhibit (1 animal capacity):
+  No animals.
+  Forest exhibit (5 animal capacity):
+  Sally (Lion, age 11)->Bob (Lion, age 10)->
+  Sea exhibit (3 animal capacity):
+  No animals.
+Menu
+1 - Create new zoo
+2 - Add exhibit
+3 - Add animal
+4 - Remove animal
+5 - Remove exhibit
+6 - Exit
+Enter choice: 3
+Enter animal name > Mary
+Enter animal age > 12
+Enter animal species > Otter
+Enter animal's exhibit > Riverside
+Exhibit is already at capacity!
+  THE ZOO
+  Riverside exhibit (2 animal capacity):
+  Felix (Otter, age 2)->Harry (Otter, age 1)->
+  Desert exhibit (1 animal capacity):
+  No animals.
+  Forest exhibit (5 animal capacity):
+  Sally (Lion, age 11)->Bob (Lion, age 10)->
+  Sea exhibit (3 animal capacity):
+  No animals.
+Menu
+1 - Create new zoo
+2 - Add exhibit
+3 - Add animal
+4 - Remove animal
+5 - Remove exhibit
+6 - Exit
+Enter choice:
+4
+Enter animal name > Felix
+Enter exhibit name > Riverside
+Found the exhibit! now let's delete the animal
+  THE ZOO
+  Riverside exhibit (2 animal capacity):
+  Harry (Otter, age 1)->
+  Desert exhibit (1 animal capacity):
+  No animals.
+  Forest exhibit (5 animal capacity):
+  Sally (Lion, age 11)->Bob (Lion, age 10)->
+  Sea exhibit (3 animal capacity):
+  No animals.
+Menu
+1 - Create new zoo
+2 - Add exhibit
+3 - Add animal
+4 - Remove animal
+5 - Remove exhibit
+6 - Exit
+Enter choice: 5
+Enter exhibit name > Sea
+  THE ZOO
+  Riverside exhibit (2 animal capacity):
+  Harry (Otter, age 1)->
+  Desert exhibit (1 animal capacity):
+  No animals.
+  Forest exhibit (5 animal capacity):
+  Sally (Lion, age 11)->Bob (Lion, age 10)->
+Menu
+1 - Create new zoo
+2 - Add exhibit
+3 - Add animal
+4 - Remove animal
+5 - Remove exhibit
+6 - Exit
+Enter choice: 3
+Enter animal name > Mary
+Enter animal age > 12
+Enter animal species > Otter
+Enter animal's exhibit > Riverside
+  THE ZOO
+  Riverside exhibit (2 animal capacity):
+  Mary (Otter, age 12)->Harry (Otter, age 1)->
+  Desert exhibit (1 animal capacity):
+  No animals.
+  Forest exhibit (5 animal capacity):
+  Sally (Lion, age 11)->Bob (Lion, age 10)->
+Menu
+1 - Create new zoo
+2 - Add exhibit
+3 - Add animal
+4 - Remove animal
+5 - Remove exhibit
+6 - Exit
+Enter choice: 4
+Enter animal name > Sally
+Enter exhibit name > Forest
+Found the exhibit! now let's delete the animal
+  THE ZOO
+  Riverside exhibit (2 animal capacity):
+  Mary (Otter, age 12)->Harry (Otter, age 1)->
+  Desert exhibit (1 animal capacity):
+  No animals.
+  Forest exhibit (5 animal capacity):
+  Bob (Lion, age 10)->
+Menu
+1 - Create new zoo
+2 - Add exhibit
+3 - Add animal
+4 - Remove animal
+5 - Remove exhibit
+6 - Exit
+Enter choice: 4
+Enter animal name > Bob
+Enter exhibit name > Forest
+Found the exhibit! now let's delete the animal
+  THE ZOO
+  Riverside exhibit (2 animal capacity):
+  Mary (Otter, age 12)->Harry (Otter, age 1)->
+  Desert exhibit (1 animal capacity):
+  No animals.
+  Forest exhibit (5 animal capacity):
+  No animals.
+Menu
+1 - Create new zoo
+2 - Add exhibit
+3 - Add animal
+4 - Remove animal
+5 - Remove exhibit
+6 - Exit
+Enter choice: 5
+Enter exhibit name > Forest
+  THE ZOO
+  Riverside exhibit (2 animal capacity):
+  Mary (Otter, age 12)->Harry (Otter, age 1)->
+  Desert exhibit (1 animal capacity):
+  No animals.
+Menu
+1 - Create new zoo
+2 - Add exhibit
+3 - Add animal
+4 - Remove animal
+5 - Remove exhibit
+6 - Exit
+Enter choice: 2
+Enter exhibit name > Forest
+Enter exhibit capacity > 2
+  THE ZOO
+  Forest exhibit (2 animal capacity):
+  No animals.
+  Riverside exhibit (2 animal capacity):
+  Mary (Otter, age 12)->Harry (Otter, age 1)->
+  Desert exhibit (1 animal capacity):
+  No animals.
+Menu
+1 - Create new zoo
+2 - Add exhibit
+3 - Add animal
+4 - Remove animal
+5 - Remove exhibit
+6 - Exit
+Enter choice: 3
+Enter animal name > Alfie
+Enter animal age >
+1
+Enter animal species > Squirrel
+Enter animal's exhibit > Forest
+  THE ZOO
+  Forest exhibit (2 animal capacity):
+  Alfie (Squirrel, age 1)->
+  Riverside exhibit (2 animal capacity):
+  Mary (Otter, age 12)->Harry (Otter, age 1)->
+  Desert exhibit (1 animal capacity):
+  No animals.
+Menu
+1 - Create new zoo
+2 - Add exhibit
+3 - Add animal
+4 - Remove animal
+5 - Remove exhibit
+6 - Exit
+Enter choice: 3
+Enter animal name > Xander
+Enter animal age > 3
+Enter animal species > Monkey
+Enter animal's exhibit > Forest
+  THE ZOO
+  Forest exhibit (2 animal capacity):
+  Xander (Monkey, age 3)->Alfie (Squirrel, age 1)->
+  Riverside exhibit (2 animal capacity):
+  Mary (Otter, age 12)->Harry (Otter, age 1)->
+  Desert exhibit (1 animal capacity):
+  No animals.
+Menu
+1 - Create new zoo
+2 - Add exhibit
+3 - Add animal
+4 - Remove animal
+5 - Remove exhibit
+6 - Exit
+Enter choice: 3
+Enter animal name > Jess
+Enter animal age > 3
+Enter animal species > Monkey
+Enter animal's exhibit > Forest
+Exhibit is already at capacity!
+  THE ZOO
+  Forest exhibit (2 animal capacity):
+  Xander (Monkey, age 3)->Alfie (Squirrel, age 1)->
+  Riverside exhibit (2 animal capacity):
+  Mary (Otter, age 12)->Harry (Otter, age 1)->
+  Desert exhibit (1 animal capacity):
+  No animals.
+Menu
+1 - Create new zoo
+2 - Add exhibit
+3 - Add animal
+4 - Remove animal
+5 - Remove exhibit
+6 - Exit
+Enter choice: 6
+  THE ZOO
+  Forest exhibit (2 animal capacity):
+  Xander (Monkey, age 3)->Alfie (Squirrel, age 1)->
+  Riverside exhibit (2 animal capacity):
+  Mary (Otter, age 12)->Harry (Otter, age 1)->
+  Desert exhibit (1 animal capacity):
+  No animals.
+  THE ZOO
+  The zoo is empty.
+```
