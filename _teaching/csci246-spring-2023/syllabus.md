@@ -50,10 +50,10 @@ Schedule subject to change.
 | Wednesday 4/12 |Equivalence relations [video 1](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=241f76b2-c0ac-4ab0-a785-afdf01228951) and [video 2](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2dcf19ff-4bae-43d6-b02d-afdf0141331a); [notes](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/equiv_relations.pdf)      |8.4      |      |      ||
 | Friday 4/14    |Partial and total orders [video](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c9275723-55ec-42bd-8945-afe00014fff0), [notes](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/orders.pdf) |8.4      |      |Drill 10 covering [intro to relations](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/relations.pdf), equivalence relations, and partial and total orders (see links to videos/notes)      ||
 | Monday 4/17    |No class |      |      ||
-| Wednesday 4/19 |[Intro to graphs](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/classnotes23.pdf) |      |      |      |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bf13dda0-b2f8-4d52-90a1-afe9014d5b3a)|
-| Friday 4/21    |Proofs about graphs |  |      |Drill 11 covering [intro to graphs](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/intro_to_graphs.pdf) and [graph proofs](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/graph_proofs.pdf) (ungraded)||
-| Monday 4/24    | |      |[Homework 6](https://lgw2.github.io/teaching/csci246-spring-2023/homework/hw6.pdf); [LaTex source file](https://www.overleaf.com/read/mpbbnzsrjvkq)      |      ||
-| Wednesday 4/26 |      |      |      |      ||
+| Wednesday 4/19 |[Intro to graphs](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/classnotes23.pdf) |11.1-11.2      |      |      |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bf13dda0-b2f8-4d52-90a1-afe9014d5b3a)|
+| Friday 4/21    |Proofs about graphs |11.2  |      |Drill 11 covering [intro to graphs](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/intro_to_graphs.pdf) and [graph proofs](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/graph_proofs.pdf) (ungraded)||
+| Monday 4/24    |Special graphs |11.2.4      |[Homework 6](https://lgw2.github.io/teaching/csci246-spring-2023/homework/hw6.pdf); [LaTex source file](https://www.overleaf.com/read/mpbbnzsrjvkq)      |      ||
+| Wednesday 4/26 |Paths, cycles, and trees      |11.3      |      |      ||
 | Friday 4/28 |Probability and counting      |      |      |Drill 12      ||
 | Monday 5/1     |      |      |      |      ||
 | Wednesday 5/3  |      |      |      |      ||
