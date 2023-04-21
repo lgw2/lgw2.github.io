@@ -51,7 +51,7 @@ Schedule subject to change.
 | Friday 4/14    |Lucy gone---no class      |      | |          ||
 | Monday 4/17    |Lucy gone---no class     |      |      |      ||
 | Wednesday 4/19 |[Dynamic memory allocation](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/Chapter13.pdf)    |      |[Classwork 20](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork20/)      |      |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b58f5701-a21a-4f93-8756-afe900f7584b)|
-| Friday 4/21    |[Dynamic memory allocation](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/Chapter13.pdf)     |      |      |      ||
+| Friday 4/21    |[Dynamic memory allocation](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/Chapter13.pdf)     |      |      |      |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5793b573-c441-43f7-bb21-afeb00f74c4d)|
 | Monday 4/24    |Dynamic data structures      |      |Classwork 21      |[Lab 6](https://lgw2.github.io/teaching/csci112-spring-2023/labs/lab6/)      ||
 | Wednesday 4/26 |Dynamic data structures      |      |Classwork 22    |      ||
 | Friday 4/28 |Pointer arithmetic      |      |      |[Lab 7](https://lgw2.github.io/teaching/csci112-spring-2023/labs/lab7/)      ||
