@@ -51,7 +51,7 @@ Schedule subject to change.
 | Friday 4/14    |Partial and total orders [video](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c9275723-55ec-42bd-8945-afe00014fff0), [notes](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/orders.pdf) |8.4      |      |Drill 10 covering [intro to relations](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/relations.pdf), equivalence relations, and partial and total orders (see links to videos/notes)      ||
 | Monday 4/17    |No class |      |      ||
 | Wednesday 4/19 |Intro to graphs |      |      |      ||
-| Friday 4/21    |Proofs about graphs |  |      |Drill 11 covering [intro to graphs](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/intro_to_graphs.pdf) and [graph proofs](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/graph_proofs.pdf)||
+| Friday 4/21    |Proofs about graphs |  |      |Drill 11 covering [intro to graphs](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/intro_to_graphs.pdf) and [graph proofs](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/graph_proofs.pdf) (ungraded)||
 | Monday 4/24    | |      |[Homework 6](https://lgw2.github.io/teaching/csci246-spring-2023/homework/hw6.pdf); [LaTex source file](https://www.overleaf.com/read/mpbbnzsrjvkq)      |      ||
 | Wednesday 4/26 |      |      |      |      ||
 | Friday 4/28 |Probability and counting      |      |      |Drill 12      ||
@@ -159,7 +159,7 @@ assignments, at the end of this course, students should:
 ## Grading
 
 You will be graded on the following:
-* 13 weekly drills (lowest three dropped): 8%
+* 12 weekly drills (lowest three dropped): 8%
 * 7 problem sets (lowest two dropped): 62%
 * 3 quizzes (including final): 30%
 
