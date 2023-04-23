@@ -15,7 +15,7 @@ title: "Lab 7"
 	anything there.
 * Deadline reminder: **for this assignment, no lates will be accepted.**
 
- ## Learning outcomes
+## Learning outcomes
 * Practice using pointers to create a linked list
 * Practice using `malloc` and `free` to dynamically allocate and deallocate
 	memory.
