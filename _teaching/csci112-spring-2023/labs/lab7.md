@@ -13,9 +13,9 @@ title: "Lab 7"
 * Note that grading will be done on D2L, so you can see comments and a
 	 detailed breakdown of your score there, but you do not need to submit
 	anything there.
-* Deadline reminder: per the [late assignment policy](https://lgw2.github.io/teaching/csci112-spring-2023/syllabus/#late-assignment-policies), if you submit after the deadline but within 24 hours of it you will receive a 25% penalty. If you submit within 48 hours you will receive a 50% penalty. After that, no submissions will be accepted.
+* Deadline reminder: **for this assignment, no lates will be accepted.**
 
-## Learning outcomes
+ ## Learning outcomes
 * Practice using pointers to create a linked list
 * Practice using `malloc` and `free` to dynamically allocate and deallocate
 	memory.
