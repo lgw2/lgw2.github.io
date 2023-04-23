@@ -54,7 +54,7 @@ Schedule subject to change.
 | Friday 4/21    |[Proofs about graphs](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/classnotes24.pdf) |11.2  |      |Drill 11 covering [intro to graphs](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/intro_to_graphs.pdf) and [graph proofs](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/graph_proofs.pdf) (ungraded)|[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5554a872-71c6-42eb-bc01-afeb014c9c0d)|
 | Monday 4/24    |Special graphs |11.2.4      |[Homework 6](https://lgw2.github.io/teaching/csci246-spring-2023/homework/hw6.pdf); [LaTex source file](https://www.overleaf.com/read/mpbbnzsrjvkq)      |      ||
 | Wednesday 4/26 |Paths, cycles, and trees      |11.3      |      |      ||
-| Friday 4/28 |Introduction to probability|10.2      |      |Drill 12 covering [special graphs](), [paths, cycles, and trees](), and [introduction to probability]()||
+| Friday 4/28 |Introduction to probability|9.2, 10.2      |      |Drill 12 covering [special graphs](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/special_graphs.pdf), [paths, cycles, and trees](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/paths_cycles_trees.pdf), and [introduction to probability](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/intro_probability.pdf)||
 | Monday 5/1     |Independence and conditional probability|10.3      |      |      ||
 | Wednesday 5/3  |Random variables and expectation  |10.4      |      |      ||
 | Friday 5/5     |Review      |      |      |Drill 13      ||
