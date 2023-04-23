@@ -52,10 +52,10 @@ Schedule subject to change.
 | Monday 4/17    |Lucy gone---no class     |      |      |      ||
 | Wednesday 4/19 |[Dynamic memory allocation](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/Chapter13.pdf)    |      |[Classwork 20](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork20/)      |      |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b58f5701-a21a-4f93-8756-afe900f7584b)|
 | Friday 4/21    |[Dynamic memory allocation](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/Chapter13.pdf)     |      |      |      |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5793b573-c441-43f7-bb21-afeb00f74c4d)|
-| Monday 4/24    |Dynamic data structures      |      |Classwork 21      |[Lab 6](https://lgw2.github.io/teaching/csci112-spring-2023/labs/lab6/)      ||
+| Monday 4/24    |Dynamic data structures      |      |Classwork 21      |    ||
 | Wednesday 4/26 |Dynamic data structures      |      |Classwork 22    |      ||
-| Friday 4/28 |Pointer arithmetic      |      |      |[Lab 7](https://lgw2.github.io/teaching/csci112-spring-2023/labs/lab7/)      ||
-| Monday 5/1     |Bit masking   |      |Classwork 23      |      ||
+| Friday 4/28 |Pointer arithmetic      |      |      |[Lab 6](https://lgw2.github.io/teaching/csci112-spring-2023/labs/lab6/)       ||
+| Monday 5/1     |Bit masking   |      |Classwork 23      | [Lab 7](https://lgw2.github.io/teaching/csci112-spring-2023/labs/lab7/)      ||
 | Wednesday 5/3  |Bit masking|      |Classwork 24      |      |      |
 | Friday 5/5     |Review      |      |      |||
 | Monday 5/8 |Final quiz on D2L ([more info](https://lgw2.github.io/teaching/csci112-spring-2023/quizzes/quiz3/))---extra office hours 8-9:50am   |      |      |      |[Program 2](https://lgw2.github.io/teaching/csci112-spring-2023/programs/program2/)---final deadline (no lates)|
