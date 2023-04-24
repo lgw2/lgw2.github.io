@@ -70,12 +70,19 @@ int main(void) {
 
 ## Autograder
 
-The grader is not written yet, but you know that you will get full credit if
-your program has the output
+You can run the autograder yourself by running
+```
+/public/classwork/week14/mon/autograder.sh
+```
+The `autograder.txt` file will be created or
+replaced. You may get a few lines of output about not being able to remove
+files, etc. This is okay.
+
+For those who DM their code, if your program has the output
 ```
 1->2->3->
 ```
-and your file is in the correct place and called `llist.c`.
+you will get full credit.
 
 ## Grading turnaround
 
