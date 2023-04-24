@@ -75,6 +75,7 @@ your program has the output
 ```
 1->2->3->
 ```
+and your file is in the correct place and called `llist.c`.
 
 ## Grading turnaround
 
