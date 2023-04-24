@@ -12,6 +12,7 @@ title: "Classwork 21"
 
 ## Learning outcomes
 * Practice writing a linked list function
+* Practice allocating memory on the heap
 
 ## Assignment
 
@@ -20,12 +21,15 @@ If on campus and connected to a MSU network:
 * From your home directory, navigate to `classwork/week14/mon/`, creating directories `week14`
 and `mon` if necessary.
 * Copy the `llist.c` file from `/public/classwork/week14/mon` and fill in
-	`create_new_digit` function.
+	`create_new_digit` function. You should call `malloc` to put the new node on
+	the heap.
 
 If off campus:
 * Copy the code below. Using a C compiler of your choice (if you don't have
 	one, use https://www.jdoodle.com/c-online-compiler/), fill in the
 	`create_new_digit` function so that the program prints `1->2->3->`.
+	You should call `malloc` to put the new node on
+	the heap.
 * In a DM to Lucy on Discord, copy your code.
 
 ## Autograder
