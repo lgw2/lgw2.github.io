@@ -15,11 +15,18 @@ title: "Classwork 21"
 
 ## Assignment
 
+If on campus and connected to a MSU network:
 * Log in to the server.
 * From your home directory, navigate to `classwork/week14/mon/`, creating directories `week14`
 and `mon` if necessary.
 * Copy the `llist.c` file from `/public/classwork/week14/mon` and fill in
 	`create_new_digit` function.
+
+If off campus:
+* Copy the code below. Using a C compiler of your choice (if you don't have
+	one, use https://www.jdoodle.com/c-online-compiler/), fill in the
+	`create_new_digit` function so that the program prints `1->2->3->`.
+* In a DM to Lucy on Discord, copy your code.
 
 ## Autograder
 
