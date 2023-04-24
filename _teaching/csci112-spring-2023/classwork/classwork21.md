@@ -32,6 +32,42 @@ If off campus:
 	the heap.
 * In a DM to Lucy on Discord, copy your code.
 
+```
+#include <stdlib.h>
+#include <stdio.h>
+#include <string.h>
+
+typedef struct digit {
+    int d;
+    struct digit* next;
+} digit;
+
+void print_list(digit* head) {
+    digit* temp = head;
+
+    while (temp != NULL) {
+        printf("%d->", temp->d);
+        temp = temp->next;
+    }
+    printf("\n");
+}
+
+digit* create_new_digit(int d) {
+    // TODO
+}
+
+int main(void) {
+    digit* head;
+
+    head = create_new_digit(1);
+    head->next = create_new_digit(2);
+    head->next->next = create_new_digit(3);
+
+    print_list(head);
+
+}
+```
+
 ## Autograder
 
 The grader is not written yet, but you know that you will get full credit if
