@@ -4,7 +4,7 @@ title: "Lab 7"
 ---
 
 ## Logistics
-* Due: Friday, April 28th AoE.
+* Due: Monday, May 1st AoE.
 * Submission instructions: ensure that you have the source code you want us to
 	grade in your `~/csci112_spring2023/labs/lab7`
 	directory, and that the snapshot (commit) of your repository containing the version of that file you want us to grade has been committed and
