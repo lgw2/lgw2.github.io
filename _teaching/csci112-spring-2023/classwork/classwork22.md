@@ -57,11 +57,6 @@ List is:
 ```
 you will get full credit.
 
-## Grading turnaround
-
-The autograder will be run at 6am to calculate final scores. Scores will be
-uploaded to D2L by the next class period.
-
 ## Code to copy
 
 ```
