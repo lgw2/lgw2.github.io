@@ -181,9 +181,16 @@ quarter of a point. Only the first person to post about an error gets the points
 Since two problem sets and three drills are dropped, if you do additional
 problem sets and drills beyond those that count, they may
 be counted as a bonus. There may be additional problems that you can complete
-for bonus as well. The exact computation will be decided later in the semester;
-however, the maximum bonus you may earn from this is 3 points out of 100 for
+for bonus as well. The maximum bonus you may earn from this is 3 points out of 100 for
 the semester.
+
+How bonus will be computed: first, recall that you can only earn three points
+total, even if you got more than three total. The following things earn you bonus points:
+* 1 point: any extra (more than 5) problem set turned in with a score of 50% or
+	more;
+* 1/2 point: any in-class bonus counted on D2L; any bonus question on a
+	homework completed correctly
+* 1/4 point: any extra (more than 10) drill completed with a score of 50% or more
 
 #### Course survey and evaluation
 
