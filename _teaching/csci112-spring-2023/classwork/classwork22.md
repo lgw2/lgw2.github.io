@@ -37,7 +37,7 @@ List is:
 ```
 * In a DM to Lucy on Discord, copy your code. Surround your code with three
     backticks (\` \` \`, found under the tilde (~) on your keyboard) on the first line and last line so that Discord doesn't
-    think asterisks are meant to italicize.
+    think asterisks are meant to italicize. Or attach it as a file.
 
 ## Autograder
 
