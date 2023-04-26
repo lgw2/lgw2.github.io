@@ -184,13 +184,15 @@ be counted as a bonus. There may be additional problems that you can complete
 for bonus as well. The maximum bonus you may earn from this is 3 points out of 100 for
 the semester.
 
-How bonus will be computed: first, recall that you can only earn three points
-total, even if you got more than three total. The following things earn you bonus points:
+Here's how this bonus category will be computed. First, recall that you can only earn three points
+total, even if you got more than three total. The following things sum up for
+your bonus score:
 * 1 point: any extra (more than 5) problem set turned in with a score of 50% or
 	more;
-* 1/2 point: any in-class bonus counted on D2L; any bonus question on a
-	homework completed correctly
-* 1/4 point: any extra (more than 10) drill completed with a score of 50% or more
+* 1/2 point: any in-class bonus activity or bonus question on a
+	homework completed correctly (these are all marked on D2L under the "bonus"
+	category)
+* 1/4 point: any extra (more than 10) drill completed with a score of 50% or more.
 
 #### Course survey and evaluation
 
