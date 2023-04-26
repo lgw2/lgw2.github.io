@@ -32,7 +32,7 @@ If off campus:
 List is:
 1->4->9->16->25->36->49->64->81->
 List is:
-4->9->16->25->36->49->
+4->9->16->25->36->49->81->
 ```
 * In a DM to Lucy on Discord, copy your code. Surround your code with three
     backticks (\` \` \`, found under the tilde (~) on your keyboard) on the first line and last line so that Discord doesn't
@@ -53,7 +53,7 @@ For those who DM their code, if your program has the output
 List is:
 1->4->9->16->25->36->49->64->81->
 List is:
-4->9->16->25->36->49->
+4->9->16->25->36->49->81->
 ```
 you will get full credit.
 
