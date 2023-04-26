@@ -62,3 +62,87 @@ you will get full credit.
 
 The autograder will be run at 6am to calculate final scores. Scores will be
 uploaded to D2L by the next class period.
+
+## Code to copy
+
+```
+#include <stdlib.h>
+#include <stdio.h>
+#include <string.h>
+
+typedef struct digit {
+    int d;
+    struct digit* next;
+} digit;
+
+void print_list(digit* head) {
+    digit* temp = head;
+
+    while (temp != NULL) {
+        printf("%d->", temp->d);
+        temp = temp->next;
+    }
+    printf("\n");
+}
+
+digit* create_new_digit(int d) {
+    digit* new = malloc(sizeof(digit));
+    new->d = d;
+    new->next = NULL;
+    return new;
+}
+
+void insert_digit_at_end(digit** head, digit* new) {
+    // find end
+    digit* current = *head;
+    if (*head == NULL) {
+        *head = new;
+    } else {
+        while (current->next != NULL) {
+            current = current->next;
+        }
+        // found end
+        current->next = new;
+    }
+}
+
+void delete_last_digit(digit** head) {
+    digit* current = *head;
+    digit* to_free;
+    if (current == NULL) {
+        // no nodes
+        return;
+    } else if (current->next == NULL) {
+        //
+        *head = NULL;
+        free(current);
+    } else {
+        while (current->next->next != NULL) {
+            current = current->next;
+        }
+        to_free = current->next;
+        current->next = NULL;
+        free(to_free);
+    }
+}
+
+void delete_digit(digit** head, int d) {
+    // TODO
+}
+
+
+int main(void) {
+    digit* head;
+
+    for (int i = 1; i < 10; i++) {
+        insert_digit_at_end(&head, create_new_digit(i*i));
+    }
+    printf("List is:\n");
+    print_list(head);
+    delete_digit(&head, 64);
+    delete_digit(&head, 1);
+    printf("List is:\n");
+    print_list(head);
+
+}
+```
