@@ -48,7 +48,7 @@ if you would like.
 1. `print_exhibits`, which should print all exhibit information, including
    capacity and the current animal lists for each exhibit.
 2. `create_new_exhibit`, which must use `malloc` to allocate space for the new
-   animal on the heap.
+   exhibit on the heap.
 3. `insert_exhibit_at_front`
 4. `delete_exhibit`, which must use `free` to free the given exhibit from the
    heap. You may assume that the exhibit exists and that it has no animals.
@@ -72,7 +72,7 @@ an exhibit.
 
 You should offer the user the following choices:
 1. Create a brand new zoo. Ask for the number of exhibits, and then prompt the
-   user for the name and capacity of each exhibit. Put all of the exhibits in a linked list.
+   user for the name and capacity of each exhibit. Put all of the exhibits in a linked list. You may assume that this is always the first thing the user chooses, and that they only choose it once.
 2. Add an exhibit to the zoo. Ask the user for the name of the exhibit, and
    then add the exhibit at the front of the linked list.
 3. Add an animal to an exhibit. Prompt the user for the information about
@@ -137,6 +137,9 @@ once.
     example, after another exhibit with a given name).
 * Add a function to add animals in the middle of list (for
     example, after another animal with a given name).
+* Allow the user to create new zoo even when a zoo already exists. In this
+    case, delete the old zoo before prompting for information about the new
+    zoo.
 
 
 ## Sample output
