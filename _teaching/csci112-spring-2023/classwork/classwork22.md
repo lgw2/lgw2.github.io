@@ -36,7 +36,7 @@ List is:
 4->9->16->25->36->49->
 ```
 * In a DM to Lucy on Discord, copy your code. Surround your code with three
-    backticks (\`\`\`) on the first line and last line so that Discord doesn't
+    backticks (\` \` \`, found under the tilde (~) on your keyboard) on the first line and last line so that Discord doesn't
     think asterisks are meant to italicize.
 
 ## Autograder
