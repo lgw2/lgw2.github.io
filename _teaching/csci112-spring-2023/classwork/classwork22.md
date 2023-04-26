@@ -7,8 +7,7 @@ title: "Classwork 22"
 * Due: Wednesday, April 26th AoE.
 * Submission instructions: make sure that the required file (`find_and_delete.c`) is in your
 	`/classwork/week14/wed/` directory.
-* Deadline reminder: after the deadline passes, you cannot earn any points for
-	this assignment.
+* Note: this assignment is ungraded.
 
 ## Learning outcomes
 * Practice writing a linked list function
