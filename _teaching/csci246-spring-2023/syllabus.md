@@ -190,7 +190,7 @@ your bonus score:
 * 1 point: any extra (more than 5) problem set turned in with a score of 50% or
 	more;
 * 1/2 point: any in-class bonus activity or bonus question on a
-	homework completed correctly (these are all marked on D2L under the "bonus"
+	homework completed correctly (these are all marked in D2L grades under the "bonus"
 	category)
 * 1/4 point: any extra (more than 10) drill completed with a score of 50% or more.
 
