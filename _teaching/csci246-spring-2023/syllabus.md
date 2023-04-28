@@ -58,7 +58,7 @@ Schedule subject to change.
 | Monday 5/1     |Independence and conditional probability|10.3      |      |      ||
 | Wednesday 5/3  |Random variables and expectation  |10.4      |      |      ||
 | Friday 5/5     |Review      |      |      |Drill 13      ||
-| Monday 5/8     |Finals week --- no class      |      |[Homework 7](https://lgw2.github.io/teaching/csci246-spring-2023/homework/hw7.pdf) [LaTex source](https://www.overleaf.com/read/rstpqnpnghdt)      |      ||
+| Monday 5/8     |Finals week --- no class      |      |[Homework 7](https://lgw2.github.io/teaching/csci246-spring-2023/homework/hw7.pdf); [LaTex source](https://www.overleaf.com/read/rstpqnpnghdt)      |      ||
 | Wednesday 5/10 |Final --- in classroom, 2-3:50pm   |      |      |      ||
 
 ## Catalog description
