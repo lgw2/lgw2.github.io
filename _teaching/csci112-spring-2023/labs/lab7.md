@@ -114,7 +114,7 @@ automatic 0.**
 * 10 points: function `delete_exhibit` is implemented as described (excluding
 	`free`)
 * 5 points: function `delete_exhibit` correctly uses `free` to free the memory allocated for the deleted node
-* 5 points: function `delete_all` successfully deletes all nodeds from the
+* 5 points: function `delete_all` successfully deletes all nodes from the
 	list
 * 5 points: function `delete_all` correctly uses `free` to free the memory allocated for the all remaining nodes and is called at the end of `main`
 * 5 points: program prompts the user as in the sample
