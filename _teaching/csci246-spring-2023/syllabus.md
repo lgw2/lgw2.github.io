@@ -57,7 +57,7 @@ Schedule subject to change.
 | Friday 4/28 |[Introduction to probability](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/classnotes27.pdf) |9.2, 10.2      |      |Drill 12 covering [special graphs](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/special_graphs.pdf), [paths, cycles, and trees](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/paths_cycles_trees.pdf), and [introduction to probability](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/intro_probability.pdf)|[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c685c643-95a5-4bf2-9c50-aff2014c29ef)|
 | Monday 5/1     |Independence and conditional probability|10.3      |      |      ||
 | Wednesday 5/3  |Random variables and expectation  |10.4      |      |      ||
-| Friday 5/5     |Review      |      |      |Drill 13      ||
+| Friday 5/5     |Review      |      |      |Drill 13 covering [tree diagrams and choosing](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/tree_diagrams_and_choosing.pdf) and [expectation](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/expectation.pdf)      ||
 | Monday 5/8     |Finals week --- no class      |      |[Homework 7](https://lgw2.github.io/teaching/csci246-spring-2023/homework/hw7.pdf); [LaTex source](https://www.overleaf.com/read/rstpqnpnghdt)      |      ||
 | Wednesday 5/10 |Final --- in classroom, 2-3:50pm   |      |      |      ||
 
