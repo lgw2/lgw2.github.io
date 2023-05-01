@@ -55,8 +55,8 @@ Schedule subject to change.
 | Monday 4/24    |[Dynamic data structures](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/Chapter13.pdf)      |      |[Classwork 21](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork21/)      |    |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6b0d4f60-6592-4cec-97b2-afee00f745e7)|
 | Wednesday 4/26 |[Dynamic data structures](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/Chapter13.pdf)      |      |[Classwork 22](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork22/)  (ungraded)  |      |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=18be5b8f-d1f2-4d50-8f73-aff000f7e42a)|
 | Friday 4/28 |[Pointer arithmetic](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/Chapter13.pdf)      |      |[Ungraded classwork](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/ungraded_classwork8/)       |[Lab 6](https://lgw2.github.io/teaching/csci112-spring-2023/labs/lab6/)       |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a70d8744-0120-43bb-b52e-aff200f702ed) |
-| Monday 5/1     |Bit masking   |      |Classwork 23      | [Lab 7](https://lgw2.github.io/teaching/csci112-spring-2023/labs/lab7/)      ||
-| Wednesday 5/3  |Bit masking|      |Classwork 24      |      |      |
+| Monday 5/1     |[Bit masking](https://en.wikipedia.org/wiki/Bitwise_operations_in_C)   |      |Classwork 23      | [Lab 7](https://lgw2.github.io/teaching/csci112-spring-2023/labs/lab7/)      ||
+| Wednesday 5/3  |Go over Lab 7|      |      |      |      |
 | Friday 5/5     |Review      |      |      |||
 | Monday 5/8 |Final quiz on D2L ([more info](https://lgw2.github.io/teaching/csci112-spring-2023/quizzes/quiz3/))---extra office hours 8-9:50am   |      |      |      |[Program 2](https://lgw2.github.io/teaching/csci112-spring-2023/programs/program2/)---final deadline (no lates)|
 
