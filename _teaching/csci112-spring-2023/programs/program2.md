@@ -141,6 +141,10 @@ once.
     case, delete the old zoo before prompting for information about the new
     zoo.
 
+## Starter code
+
+If you do not have access to the server, download the starter code [here](https://lgw2.github.io/teaching/csci112-spring-2023/programs/program2.zip).
+
 
 ## Sample output
 
