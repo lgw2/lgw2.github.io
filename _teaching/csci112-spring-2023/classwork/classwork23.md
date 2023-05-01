@@ -1,10 +1,10 @@
 ---
 collection: teaching
-title: "Classwork 22"
+title: "Classwork 23"
 ---
 
 ## Logistics
-* Due: Wednesday, April 26th AoE.
+* Due: Monday, May 1st AoE.
 * Submission instructions: make sure that the required file (`flags.c`) is in your
 	`/classwork/week15/mon/` directory.
 * Note: this assignment is ungraded.
