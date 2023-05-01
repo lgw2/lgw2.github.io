@@ -129,3 +129,9 @@ automatic 0.**
 
 ## Grading turnaround
 This lab will be graded within one week of its due date.
+
+## Starter code
+
+If you are unable to access the server, here are the two starter files.
+* [lab7.c](https://lgw2.github.io/teaching/csci112-spring-2023/labs/lab7.c)
+* [lab7.h](https://lgw2.github.io/teaching/csci112-spring-2023/labs/lab7.h)
