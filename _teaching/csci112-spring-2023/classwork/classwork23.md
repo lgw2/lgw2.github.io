@@ -25,7 +25,8 @@ and `mon` if necessary.
 If off campus:
 * Copy the code below. Using a C compiler of your choice (if you don't have
 	one, use https://www.jdoodle.com/c-online-compiler/), fill in the
-	`create_new_digit` function as described above so that the program prints
+    two TODOs. Don't change the if statements or print statements. Your program
+	should print
 ```
 First flag set
 Second flag set
