@@ -7,7 +7,8 @@ title: "Classwork 23"
 * Due: Monday, May 1st AoE.
 * Submission instructions: make sure that the required file (`flags.c`) is in your
 	`/classwork/week15/mon/` directory.
-* Note: this assignment is ungraded.
+* Deadline reminder: after the deadline passes, you cannot earn any points for
+	this assignment.
 
 ## Learning outcomes
 * Practice using bitwise operators
