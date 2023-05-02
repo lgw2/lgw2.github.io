@@ -58,7 +58,7 @@ Schedule subject to change.
 | Monday 5/1     |[Bitwise operators](https://en.wikipedia.org/wiki/Bitwise_operations_in_C) and [bit masking](https://en.wikipedia.org/wiki/Mask_(computing))   |Appendix C      |[Classwork 23](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork23/)      | [Lab 7](https://lgw2.github.io/teaching/csci112-spring-2023/labs/lab7/)      |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d59c9039-0050-4047-acfb-aff500f7d6ac)|
 | Wednesday 5/3  |Go over Lab 7; [dynamic arrays](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/Chapter13.pdf)|      |      |      |      |
 | Friday 5/5     |Review      |      |      |||
-| Monday 5/8 |Final quiz on D2L ([more info](https://lgw2.github.io/teaching/csci112-spring-2023/quizzes/quiz3/))---extra office hours 8-9:50am   |      |      |      |[Program 2](https://lgw2.github.io/teaching/csci112-spring-2023/programs/program2/)---final deadline (no lates)|
+| Monday 5/8 |Final quiz on D2L ([more info](https://lgw2.github.io/teaching/csci112-spring-2023/quizzes/quiz3/))---extra office hours 10-noon in CS success center|      |      |      |[Program 2](https://lgw2.github.io/teaching/csci112-spring-2023/programs/program2/)---final deadline (no lates)|
 
 ## Catalog description
 
