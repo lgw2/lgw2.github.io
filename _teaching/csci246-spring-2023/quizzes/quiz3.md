@@ -1,6 +1,6 @@
 ---
 collection: teaching
-title: "Quiz 2"
+title: "Quiz 3"
 ---
 
 The third quiz
@@ -12,7 +12,7 @@ The quiz will have six questions. All will be  worth 15 points, except the drill
 questions, which will be worth 25. Here is what the questions will cover:
 1. Given two proofs, determine whether they are valid or not. If they are not
    valid, give a reason.
-2. Given a relation, determine which of the 5 properties it satisfies, whether
+2. Given a relation, determine which of the 5 properties it satisfies and whether
    it is an equivalence relation or partial/total order.
 3. Given some graphs, decide whether they satisfy certain graph properties.
    Given some graph properties, give example graphs that satisfy them.
