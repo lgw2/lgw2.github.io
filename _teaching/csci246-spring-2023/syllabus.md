@@ -59,7 +59,7 @@ Schedule subject to change.
 | Wednesday 5/3  |Random variables and expectation  |10.4      |      |      ||
 | Friday 5/5     |Review      |      |      |Drill 13 covering [tree diagrams and choosing](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/tree_diagrams_and_choosing.pdf) and [expectation](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/expectation.pdf)      ||
 | Monday 5/8     |Finals week --- no class      |      |[Homework 7](https://lgw2.github.io/teaching/csci246-spring-2023/homework/hw7.pdf); [LaTex source](https://www.overleaf.com/read/rstpqnpnghdt)      |      ||
-| Wednesday 5/10 |Final --- in classroom, 2-3:50pm   |      |      |      ||
+| Wednesday 5/10 |Final ([description of content](https://lgw2.github.io/teaching/csci246-spring-2023/quizzes/quiz3))---in classroom, 2-3:50pm   |      |      |      ||
 
 ## Catalog description
 
