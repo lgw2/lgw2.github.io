@@ -1,29 +1,25 @@
 ---
 collection: teaching
-title: "Quiz 3"
+title: "Quiz 2"
 ---
 
-Quizzes will be on Brightspace and can be done on your own time. You can also
-come to the lecture classroom during the final period and take the quiz there so that
-you can get immediate help from a TA or the instructor if a question is unclear or you have any
-technical difficulties.
+The third quiz
+will focus on everything since the second quiz: relations, graphs, and
+probability. However, a few questions will relate to content from the
+previous parts of the course.
 
-The third and final quiz
-will cover everything we have learned in the course, with a focus on the material starting on 11/12.
-Once you start the quiz, you have one hour to complete it. It will be open from
-8am on Monday, December 12th until 6am on Wednesday, December 14th.
-A practice quiz will be available by Wednesday, 12/7.
-
-For the  quiz, you may access a lot of resources:
-* Any of the course videos
-* Anything in the course Discord
-* Anything linked from the course webpage (including the code linked from
-	the lectures, the Java documentation, and the Runestone Interactive
-	textbook)
-* The course textbook (Data Structures and Algorithms in Java)
-* Any of your assignments or code you have written in class or on your own to
-	practice
-
-Finally, you can write and run your own Java code to check your answers.
-
-You may *not* ask anyone else for help or Google anything.
+The quiz will have six questions. All will be  worth 15 points, except the drill-style
+questions, which will be worth 25. Here is what the questions will cover:
+1. Given two proofs, determine whether they are valid or not. If they are not
+   valid, give a reason.
+2. Given a relation, determine which of the 5 properties it satisfies, whether
+   it is an equivalence relation or partial/total order.
+3. Given some graphs, decide whether they satisfy certain graph properties.
+   Given some graph properties, give example graphs that satisfy them.
+4. Count the size of some sets, give the probability of an outcome or event,
+   etc.
+5. Given some psuedocode, give a function expressing the number of primitive
+   operations in terms of the input size, and give the "best" (i.e., tightest)
+   big O bound on the function.
+6. Answer some drill-style questions. Many of these will in fact be questions from the
+   drills.
