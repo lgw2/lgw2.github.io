@@ -58,7 +58,7 @@ Schedule subject to change.
 | Monday 5/1     |[Tree diagrams and choosing](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/classnotes28.pdf)|10.2; 9.4      |      |      |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2b094972-4970-48a6-9d5e-aff5014c89ff)|
 | Wednesday 5/3  |[Random variables and expectation](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/classnotes29.pdf)  |10.4      |      |      |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c85b79a8-b6bd-4dc7-82a6-aff7014c478a)|
 | Friday 5/5     |Review      |      |      |Drill 13 covering [tree diagrams and choosing](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/tree_diagrams_and_choosing.pdf) and [expectation](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/expectation.pdf)      ||
-| Monday 5/8     |Finals week --- no class      |      |[Homework 7](https://lgw2.github.io/teaching/csci246-spring-2023/homework/hw7.pdf); [LaTex source](https://www.overleaf.com/read/rstpqnpnghdt)      |      ||
+| Monday 5/8     |Finals week---no class, but extra office hour in CS Success Center 1-3pm      |      |[Homework 7](https://lgw2.github.io/teaching/csci246-spring-2023/homework/hw7.pdf); [LaTex source](https://www.overleaf.com/read/rstpqnpnghdt)      |      ||
 | Wednesday 5/10 |Final ([description of content](https://lgw2.github.io/teaching/csci246-spring-2023/quizzes/quiz3))---in classroom, 2-3:50pm   |      |      |      ||
 
 ## Catalog description
