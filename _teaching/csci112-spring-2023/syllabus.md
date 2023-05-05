@@ -191,9 +191,16 @@ quarter of a point. Only the first person to post about an error gets the points
 Since five classworks and two labs are dropped, your work on dropped
 assignments may
 be counted as a bonus. There may be additional assignments that you can complete
-for bonus as well. The exact computation will be decided later in the semester;
-however, the maximum bonus you may earn from this is 3 points out of 100 for
+for bonus as well.
+The maximum bonus you may earn from this is 3 points out of 100 for
 the semester.
+
+Here's how this bonus category will be computed. First, recall that you can only earn three points
+total, even if you got more than three total. The following things sum up for
+your bonus score:
+* 1 point: a score of 50% or more on Lab 5;
+* 1 point: a score of 50% or more on any of the 6 labs beyond your required 4;
+* 0.1 point: any classwork beyond your required 17
 
 #### Course survey and evaluation
 
