@@ -57,7 +57,7 @@ Schedule subject to change.
 | Friday 4/28 |[Pointer arithmetic](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/Chapter13.pdf)      |Appendix A      |[Ungraded classwork](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/ungraded_classwork8/)       |[Lab 6](https://lgw2.github.io/teaching/csci112-spring-2023/labs/lab6/)       |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a70d8744-0120-43bb-b52e-aff200f702ed) |
 | Monday 5/1     |[Bitwise operators](https://en.wikipedia.org/wiki/Bitwise_operations_in_C) and [bit masking](https://en.wikipedia.org/wiki/Mask_(computing))   |Appendix C      |[Classwork 23](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork23/)      | [Lab 7](https://lgw2.github.io/teaching/csci112-spring-2023/labs/lab7/)      |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d59c9039-0050-4047-acfb-aff500f7d6ac)|
 | Wednesday 5/3  |Go over Lab 7; [dynamic arrays](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/Chapter13.pdf)|      |      |      |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2c5cbde8-b2fd-4050-936b-aff700f70aff)      |
-| Friday 5/5     |Review      |      |      |||
+| Friday 5/5     |[Review](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/Review.pdf)      |      |      |||
 | Monday 5/8 |Final quiz on D2L ([more info](https://lgw2.github.io/teaching/csci112-spring-2023/quizzes/quiz3/))---extra office hours 10-noon in CS success center|      |      |      |[Program 2](https://lgw2.github.io/teaching/csci112-spring-2023/programs/program2/)---final deadline (no lates)|
 
 ## Catalog description
