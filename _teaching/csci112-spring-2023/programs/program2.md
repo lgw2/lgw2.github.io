@@ -80,7 +80,7 @@ You should offer the user the following choices:
    capacity, and don't add the animal.
 4. Remove an animal from an exhibit. Ask the user for the exhibit name and the
    animal name. Find the animal in the exhibit's animal linked list and remove
-   it. You may assume that the given animal and exhiibit exist.
+   it. You may assume that the given animal and exhibit exist.
 5. Remove an exhibit. You may assume that all animals have been removed from
    the exhibit if this choice is made.
 6. Exit the program.
