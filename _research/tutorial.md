@@ -1,3 +1,8 @@
+---
+title: "test"
+collection: research
+---
+
 ## Install conda/mamba
 
 ### Option  1: install conda and then use it to install mamba
@@ -89,10 +94,42 @@ At this point, `snakemake` has a bug, so run
 mamba install 'tabulate=0.8.10'
 ```
 
-to fix.
+Similarly, one of the packages uses an old version of numpy, so run
+
+```
+mamba install `numpy<1.24`
+```
+
+Similarly, we should use an older version of `nextclade`, so run
+```
+mamba install -c bioconda 'nextclade=1.10'
+```
+
+We also need `ggplot2`, `ggrepl`, `dplyr`:
+
+```
+mamba install -c conda-forge r-ggplot2
+mamba install -c bioconda r-ggrepel
+mamba install -c conda-forge r-dplyr
+mamba install -c conda-forge r-stringr
+mamba install -c conda-forge r-tidyr
+```
 
 Now, run the pipeline with
 
+
 ```
 snakemake -s pipe_reads_to_lineages.smk --configfile config_files/my_config.yaml --dry-run
+```
+
+If that works, then run
+
+```
+snakemake -s pipe_reads_to_lineages.smk --configfile /home/shared_files/example_UM_config.yaml --cores 1
+```
+
+If you want to copy the results to your local machine, run
+
+```
+
 ```
