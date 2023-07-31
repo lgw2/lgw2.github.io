@@ -11,54 +11,54 @@ location: "Bozeman, Montana"
 
 Schedule subject to change.
 
-|Date|Lecture Topic (notes written during class linked)|Recommended Reading|Homework Due (via Gradescope)|Drill Due (via D2L); notes on topics linked|
-|:---|:---|:---|:---|:---|
-|Wednesday 8/23|Intro & syllabus||||
-|Friday 8/25|[Direct proofs; disproof by example](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/classnotes1.pdf)|4.3, 2.2.1-2.2.3, 2.2.6|      |Drill 1      |
-|Monday 8/28|[Proof by cases](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/classnotes2.pdf)|4.3, 2.3|||[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=42be5237-8ca1-438f-80f3-af93015cde62)|
-|Wednesday 8/30|[Intro to sets](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/classnotes3.pdf)|2.3      |      |      |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=83c097b4-71c8-4e59-b0f0-af95015cd897)|
-|Friday 9/1|[Sets part 2](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/classnotes4.pdf)      |2.3      |      | |[link to lecture video](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=63e247bd-38b4-4b65-9730-af97015cfc01) [link to proof of last claim](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=36bd3391-d415-404a-a6d7-af9a00df7309)|
-|Monday 9/4| Labor Day---no class||||
-|Wednesday 9/6|[Sets part 3](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/classnotes5.pdf)      |2.3, 9.2, 2.4      |bonus --- submit Homework 1, Problem 1 to Homework 0 on Gradescope  |Drill 2 covering [direct proofs and disproofs by example](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/direct_proofs_proofs_by_example.pdf), [proof by cases](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/proof_by_cases.pdf), and [sets](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/sets.pdf) |[link to lecture video](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d09c915f-7661-432c-80ad-af9a0179bf45) [link to proof of De Morgan's Law](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2bb51615-3de2-418a-95ba-af9a011fed62)|
-|Friday 9/8|[Proofs by contradiction](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/classnotes6.pdf) | 4.3| | |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7f70d681-7231-44df-ba65-af9c015cf239)|
-|Monday 9/11|[Propositional logic](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/classnotes7.pdf) | 3.1-3.3| |Drill 3 covering [proofs by contradiction](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/proofs_by_contradiction.pdf) and [propositional logic](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/propositional_logic.pdf) |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6aaaf6a8-c2cf-4039-a871-af9e015ce7a8)|
-|Wednesday 9/13|[More propositional logic](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/classnotes7.pdf) |3.1-3.3 |[Homework 1](https://lgw2.github.io/teaching/csci246-spring-2023/homework/hw1.pdf) | |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=38acf1c8-578e-4abe-9876-afa1015cab39)|
-|Friday 9/15|[Proofs by contrapositive](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/classnotes8.pdf) |4.3 | | |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=024c7ede-a9f4-49dd-9d5a-afa3015ccc85)|
-|Monday 9/18|[More proofs by contrapositive](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/classnotes8.pdf); HW 1 solutions|4.3 | |Drill 4 covering [more propositionial logic](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/prop_logic_contd.pdf) and [proofs by contrapositive](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/proof_by_contrapositive.pdf)|[link (contrapositive only; DM for recording on HW)](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fadd1398-5e86-4086-9f3a-afa5015cc030)|
-|Wednesday 9/20|[Introduction to predicate logic](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/classnotes9.pdf) |3.4-3.5 | | |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5f6eeff1-8498-4598-ade6-afa8015d039d)|
-|Friday 9/22|[Proofs in predicate logic](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/classnotes10.pdf) |3.4-3.5  |[Optional: Homework 1 Corrections](https://lgw2.github.io/teaching/csci246-spring-2023/homework/hw1_corrections.pdf) | |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ea573553-eb04-4131-bd80-afaa015d3dc1)|
-|Monday 9/25|[Introduction to functions](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/classnotes11.pdf)|2.5 | |Drill 5 covering [introduction to predicate logic](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/intro_predicates.pdf), [proofs in predicate logic](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/proofs_in_predicate_logic.pdf), and [intro to functions](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/intro_functions.pdf) |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5d57aa0f-6568-43e9-8102-afac015ca6ac)|
-|Wednesday 9/27|Review; example quiz [1](https://lgw2.github.io/teaching/csci246-spring-2023/quizzes/example_quiz1_1.pdf) and [2](https://lgw2.github.io/teaching/csci246-spring-2023/quizzes/example_quiz1_2.pdf)      |      |      |      |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=45b16dfc-e362-4ced-affe-afb1015c9563)|
-|Friday 9/29|Quiz ([description of content](https://lgw2.github.io/teaching/csci246-spring-2023/quizzes/quiz1)) in class     |      |      |no drill      ||
-|Monday 10/2|[More functions](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/classnotes12.pdf); [function examples](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/function_examples.pdf)      |2.5      |      |      |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c8cbd7b4-c3c6-4adf-a9c6-afb6015cfc74)|
-|Wednesday 10/4|[More functions](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/classnotes13.pdf)      |2.5      |      |      |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=41435075-3d28-44f6-a6d7-afb8015d023f)|
-|Friday 10/6|[More functions](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/classnotes13.pdf); [Pigeonhole principle](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/classnotes14.pdf)      |2.5; 9.3      |      |Drill 6 covering [more functions](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/more_functions.pdf) and [pigeonhole principle](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/pigeonhole_principle.pdf)      |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=97d7de05-2677-4ca0-8c0b-afba015cdd44)|
-|Monday 10/9|[More PHP](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/classnotes14.pdf); [proofs by induction](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/classnotes15.pdf) |9.3; 5.1-5.2      |[Homework 3](https://lgw2.github.io/teaching/csci246-spring-2023/homework/hw3.pdf); [LaTeX source file](https://www.overleaf.com/read/chvfjvnbyfrc)      |      |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fbd356c2-33a0-40be-a026-afbd015c9e4b)|
-|Wednesday 10/11|[More proofs by induction](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/classnotes15.pdf) and [in-class activity](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/induction_in_class.pdf)      |5.2; 5.4      |      |      |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7c7fcf64-8919-4d52-b9ae-afbf015cd72c)|
-|Friday 10/13|[Recursively defined structeres and proofs by structural induction](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/classnotes16.pdf)           |5.4      |[Survey 1](https://lgw2.github.io/teaching/csci246-spring-2023/surveys/survey1)      |Drill 7 covering [proofs by mathematical induction](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/induction.pdf) and [recursively defined structures and structural induction](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/rec_structs.pdf)      |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e56317af-6d4d-4b2f-ad6b-afc1015ce60f)|
-|Monday 10/16|[Introduction to asymptotic analysis (Big-O)](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/classnotes17.pdf)    |6.1-6.1      |      |      |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=12fcca46-05b4-422b-8618-afcb014c2f67)|
-|Wednesday 10/18|[Properties of Big-O](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/classnotes18.pdf)   |6.2      |      |      |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ec3b6f68-32ef-4907-9221-afcd014c776b)|
-|Friday 10/20|[Properties of Big O](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/classnotes18.pdf); [Introduction to algorithms analysis](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/classnotes19.pdf)     |6.3      |      |Drill 8 covering [intro to asymptotic analysis](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/intro_asymp_analysis.pdf), [properties of big O](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/props_big_o.pdf), and [intro to algorithm analysis](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/alg_analysis.pdf)      |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6f9db1ee-8f71-446c-8e53-afcf014c1c98)|
-|Monday 10/23|[Intro to algorithm analysis](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/classnotes19.pdf)    |6.3      |[Homework 4](https://lgw2.github.io/teaching/csci246-spring-2023/homework/hw4.pdf); [LaTeX source file](https://www.overleaf.com/read/kbcjftpxhbbc); [bonus question](https://lgw2.github.io/teaching/csci246-spring-2023/homework/hw4_bonus.pdf); [LaTeX source file](https://www.overleaf.com/read/bkvbfbdtchsk)      |      |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cc557990-2061-4828-b792-afd2014c2e66)|
-|Wednesday 10/25|[Worst-case runtime analysis](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/classnotes20.pdf)       |6.3      |      |      |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3f47947f-a2b2-4fac-afe9-afd4014c2707)|
-|Friday 10/27|[Analysis of recursive algorithms](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/classnotes21.pdf)      |6.4      |      |Drill 9 on [intro to algorithm analysis](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/alg_analysis.pdf) and [worst-case runtime analysis](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/worst_case_analysis.pdf)|[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7e9ba50e-11ca-453b-b9e9-afd6014c68f8)|
-|Monday 10/30|Practice quiz [1](https://lgw2.github.io/teaching/csci246-spring-2023/quizzes/example_quiz2_1.pdf) [2](https://lgw2.github.io/teaching/csci246-spring-2023/quizzes/example_quiz2_2.pdf)    |      |      |      |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4b9e27f4-475f-4dd8-ae3f-afd9014ca001)|
-|Wednesday 11/1|Quiz ([description of content](https://lgw2.github.io/teaching/csci246-spring-2023/quizzes/quiz2)) in class      |      |      |      ||
-|Friday 11/3|Quiz ([description of content](https://lgw2.github.io/teaching/csci246-spring-2023/quizzes/quiz2)) in class      |      |      |      ||
-|Monday 11/6|[Introduction to relations](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/classnotes22.pdf)      |8.1-8.3      |[Homework 5](https://lgw2.github.io/teaching/csci246-spring-2023/homework/hw5.pdf); [LaTeX source file](https://www.overleaf.com/read/fjzscnpfkmqh); [bonus question](https://lgw2.github.io/teaching/csci246-spring-2023/homework/hw5_bonus.pdf); [LaTeX source file](https://www.overleaf.com/read/nkhynswvbwnx)      |      |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=be106e15-950b-42d7-b8b9-afe0014c7f1f)|
-|Wednesday 11/8|Equivalence relations [video 1](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=241f76b2-c0ac-4ab0-a785-afdf01228951) and [video 2](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2dcf19ff-4bae-43d6-b02d-afdf0141331a); [notes](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/equiv_relations.pdf)      |8.4      |      |      ||
-|Friday 11/10|Veteran's Day---no class||||
-|Monday 11/13|Partial and total orders [video](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c9275723-55ec-42bd-8945-afe00014fff0), [notes](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/orders.pdf) |8.4      |      |Drill 10 covering [intro to relations](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/relations.pdf), equivalence relations, and partial and total orders (see links to videos/notes)      ||
-|Wednesday 11/15|[Intro to graphs](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/classnotes23.pdf) |11.1-11.2      |      |      |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bf13dda0-b2f8-4d52-90a1-afe9014d5b3a)|
-|Friday 11/18|[Proofs about graphs](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/classnotes24.pdf) |11.2  |      |Drill 11 covering [intro to graphs](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/intro_to_graphs.pdf) and [graph proofs](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/graph_proofs.pdf) (ungraded)|[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5554a872-71c6-42eb-bc01-afeb014c9c0d)|
+|Date|Lecture Topic (notes written during class linked)|Recommended Reading|Homework Due|
+|:---|:---|:---|:---|
+|Wednesday 8/23|Course intro & syllabus| | |
+|Friday 8/25|Direct proofs; disproof by example|4.3, 2.2.1-2.2.3, 2.2.6|      |
+|Monday 8/28|Proof by cases|4.3, 2.3| |
+|Wednesday 8/30|Intro to sets|2.3|      |
+|Friday 9/1|Sets part 2 |2.3| |
+|Monday 9/4| Labor Day---no class||Homework 1|
+|Wednesday 9/6|Sets part 3|2.3, 9.2, 2.4||
+|Friday 9/8|Proofs by contradiction|4.3| |
+|Monday 9/11|Propositional logic| 3.1-3.3|Homework 2|
+|Wednesday 9/13|More propositional logic|3.1-3.3 ||
+|Friday 9/15|Proofs by contrapositive|4.3 | |
+|Monday 9/18|More proofs by contrapositive|4.3|Homework 3|
+|Wednesday 9/20|Introduction to predicate logic|3.4-3.5 | |
+|Friday 9/22|Proofs in predicate logic|3.4-3.5||
+|Monday 9/25|Introduction to functions|2.5|Homework 4|
+|Wednesday 9/27|More on functions|2.5| |
+|Friday 9/29|More on functions|2.5| |
+|Monday 10/2|Pigeonhole principle|2.5, 9.3 |Homework 5|
+|Wednesday 10/4|Quiz review| | |
+|Friday 10/6|Quiz in class| | |
+|Monday 10/9|Proofs by induction|5.1-5.2|Mid-course survey|
+|Wednesday 10/11|More proofs by induction|5.2; 5.4||
+|Friday 10/13|Recursively defined structures and proofs by structural induction|5.4||
+|Monday 10/16|Introduction to asymptotic analysis (Big-O)|6.1|Homework 6|
+|Wednesday 10/18|Properties of Big-O|6.2| |
+|Friday 10/20|Introduction to algorithms analysis|6.3||
+|Monday 10/23|More on algorithm analysis|6.3|Homework 7|
+|Wednesday 10/25|Worst-case runtime analysis|6.3| |
+|Friday 10/27|Analysis of recursive algorithms|6.4| |
+|Monday 10/30|Introdution to relations|8.1-8.3|Homework 8|
+|Wednesday 11/1|Equivalence relations|8.4| |
+|Friday 11/3|Partial and total orders|8.4||
+|Monday 11/6|Introduction to graphs|11.1-11.2|Homework 9|
+|Wednesday 11/8|Proofs about graphs|11.2| |
+|Friday 11/10|Veteran's Day---no class|||
+|Monday 11/13|More on graphs|11|Homework 10|
+|Wednesday 11/15|Quiz review| | |
+|Friday 11/18|Quiz in class| | |
 |Monday 11/20--Friday 11/24|Fall break---no class|||
-|Monday 11/27|[Special graphs](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/classnotes25.pdf) |11.2.4      |[Homework 6](https://lgw2.github.io/teaching/csci246-spring-2023/homework/hw6.pdf); [LaTex source file](https://www.overleaf.com/read/mpbbnzsrjvkq)      |      |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6866abbc-f870-4f29-967f-afee014c9fe6)|
-|Wednesday 11/29|[Paths, cycles, and trees](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/classnotes26.pdf)      |11.3      |      | |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=83ab19cf-6bbc-44bb-9624-aff0014c3797)|
-|Friday 12/1|[Introduction to probability](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/classnotes27.pdf) |9.2, 10.2      |      |Drill 12 covering [special graphs](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/special_graphs.pdf), [paths, cycles, and trees](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/paths_cycles_trees.pdf), and [introduction to probability](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/intro_probability.pdf)|[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c685c643-95a5-4bf2-9c50-aff2014c29ef)|
-|Monday 12/4|[Tree diagrams and choosing](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/classnotes28.pdf)|10.2; 9.4      |      |      |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2b094972-4970-48a6-9d5e-aff5014c89ff)|
-|Wednesday 12/6|[Random variables and expectation](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/classnotes29.pdf)  |10.4      |      |      |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c85b79a8-b6bd-4dc7-82a6-aff7014c478a)|
-|Friday 12/8|[Practice quiz](https://lgw2.github.io/teaching/csci246-spring-2023/quizzes/example_quiz3.pdf)|      |      |Drill 13 covering [tree diagrams and choosing](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/tree_diagrams_and_choosing.pdf) and [expectation](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/expectation.pdf)      |[link](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cc2feda4-3597-4696-8555-aff9014c7523)|
-|Monday 12/11, 4:00-5:50|Final in lecture classroom||||
+|Monday 11/27|Introduction to probability|9.2, 10.2||
+|Wednesday 11/29|Tree diagrams and choosing|10.2, 9.4||
+|Friday 12/1|Random variables and expectation|10.4| |
+|Monday 12/4|Linearity of expectation|10.4|Homework 11|
+|Wednesday 12/6|Full course review part 1| | |
+|Friday 12/8|Full course review part 2| | |
+|Monday 12/11, 4:00-5:50|Final in lecture classroom|||
 
 ## Catalog description
 
@@ -69,7 +69,7 @@ COREQUISITE: CSCI 132. This course covers logic, discrete probability, recurrenc
 ## Course Info
 
 This course meets for lectures on Mondays, Wednesdays, and Fridays from
-4:10pm-5pm in Reid Hall 105. Lectures will be recorded and available on the day's lecture page (see schedule above) if you
+4:10pm-5pm in Reid Hall 105. Lectures will be recorded and available afterward if you
 would like to rewatch them. We will use
 Discord as the primary method of course communication, and all course
 information will be posted on this website or on the Discord server; D2L will
