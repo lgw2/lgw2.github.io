@@ -77,7 +77,7 @@ be used *only* for grading.
 
 In an ideal world, your participation in this course would look like this:
 * Before lecture, skim the recommended reading (about 15 minutes per lecture).
-* Attend lecture, taking notes and asking questions as you have them (about 50 minutes per lecture).
+* Attend lecture, taking notes, asking questions as you have them, and participating in in-class activities (about 50 minutes per lecture).
 * Attend an optional tutorial section and/or office hours (about 1 hour per
 	week).
 * Complete the homework assignments to get independent practice developing
@@ -109,27 +109,28 @@ notes in about that, too.
 
 ### Course assistants
 
-We have two course assistants for this course: Adiesha Liyanage and Jasmine
-Vang. Jasmine will be available in the [CS Student Success Center](https://www.cs.montana.edu/student-success-center.html) (Barnard 259)
-from 9am-11am Mondays and Adiesha will be available 9am-11am Fridays.
+This section will be updated when course assistants are assigned.
 
 ### Lecture videos
 
 Lectures are recorded and available to watch after class. However, if there are
 technical difficulties recording a lecture, it will not be re-recorded, so come
 to class when you can to make sure that you do not miss course content or
-announcements. Videos are linked in the schedule above, or you can access them
-through the [Panopto folder](https://montana.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=faf37315-500c-4fcd-abe6-af8e015819e9).
+announcements. Videos can be be found in the [Panopto folder](https://montana.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=a2e302c9-69f1-4a36-89a0-b05101553b63).
 
 ### Instructor office hours
 
-My office hours are Thursdays and Fridays, 3-4:30 in the CS Success Center
+My office hours are TBD in the CS Success Center
 (Barnard 259). You can also contact me on Discord to set up a
 different meeting time, or drop by my office (Barnard 359) if my door is open.
 You can find office hours for all CS faculty [here](https://www.cs.montana.edu/office-hours.html).
 
 ### Computer Science Success Center
 There are free tutors available in Barnard 259. More information [here](https://www.cs.montana.edu/student-success-center.html).
+
+### SmartyCats tutoring
+
+TBD
 
 ### Discord server
 
@@ -157,9 +158,10 @@ assignments, at the end of this course, students should:
 ## Grading
 
 You will be graded on the following:
-* 12 weekly drills (lowest three dropped): 8%
-* 7 problem sets (lowest two dropped): 62%
-* 3 quizzes (including final): 30%
+* 11 homework assignments (lowest score dropped): 50%
+* 3 quizzes (including final): 40%
+* In-class assignments (1 point for particpating in each one, for up to 10
+	points total): 10%
 
 After any curving, your grade will be determined by your total score as follows:
 93+: A; 90+: A-; 87+: B+; 83+: B; 80+: B-; 77+: C+; 73+: C; 70+: C-; 67+: D+; 63: D; 60: D-.
@@ -174,28 +176,16 @@ If you find an error in any of the course materials (typo, incorrect statement, 
 it's truly an error and not a duplicate. If it is really an error, you get a
 quarter of a point. Only the first person to post about an error gets the points. You can earn a max of 1 total point toward your 100 for the course (for four errors).
 
-#### Additional work throughout the semester
+#### Participation in additional in-class assignments
 
-Since two problem sets and three drills are dropped, if you do additional
-problem sets and drills beyond those that count, they may
-be counted as a bonus. There may be additional problems that you can complete
-for bonus as well. The maximum bonus you may earn from this is 3 points out of 100 for
-the semester.
-
-Here's how this bonus category will be computed. First, recall that you can only earn three points
-total, even if you got more than three total. The following things sum up for
-your bonus score:
-* 1 point: any extra (more than 5) problem set turned in with a score of 50% or
-	more;
-* 1/2 point: any in-class bonus activity or bonus question on a
-	homework completed correctly (these are all marked in D2L grades under the "bonus"
-	category)
-* 1/4 point: any extra (more than 10) drill completed with a score of 50% or more.
+Because the max score you can receive for the in-class assignment category is
+10, but there will be at least 15 in-class assignments, any additional in-class
+assignment will be added as a half point to your score at the end of the
+semeseter.
 
 #### Course survey and evaluation
 
-If 75% or more of the class completes the mid-semester course survey (through
-D2L), whole class gets 1 bonus point. Same goes for the course evaluation
+If 75% or more of the class completes the mid-semester course survey, the whole class gets 1 bonus point. Same goes for the course evaluation
 (through the university system).
 
 ### Late assignment policies
@@ -205,16 +195,15 @@ are due, but have some leeway built in. Please read the bullet points below care
 respect the policy, and *get help early if
 you are having any problems.* We want you to succeed!
 
-* You are responsible for any announcements about assignments  made in class, on Discord, on D2L,  and here
+* You are responsible for any announcements about assignments  made in class, on Discord, on D2L, and here
 	on the course website.
 * All assignments are due on their due date by the [Anywhere on Earth (AoE)
 	timezone](https://www.timeanddate.com/time/zones/aoe), which is 6 hours behind Bozeman (Actually, it's only 5 hours behind during standard time, but we'll go with 6 hours behind at all times). This means that the real due
-	date is 6am the following day. If you submit labs and programs  within 24 hours of the due date, you get 25% off of whatever score you earn. If you
+	date is 6am the following day. If you submit within 24 hours of the due date, you get 25% off of whatever score you earn. If you
 	submit within two days of the due date you get 50% off.
 	Otherwise, no points are possible.
 * You can submit as many times as you would like; only your last submission will be
 	graded.
-* Drills cannot be submitted late.
 
 ### Missed quiz policy
 
@@ -223,14 +212,22 @@ I follow University policy on makeups, which allows that serious illness or a
 serious family emergency are valid reasons requiring an accommodation. Most
 other reasons (employment conflict, travel plans) are not valid.
 
+### Missed in-class asssignment policy
+
+If you know that you will miss class consistently, please come talk to me or
+send me a Discord message ASAP and we will work something out.
+
 ### Collaboration policy
-On all assignments, you may:
+On all homework assignments, you may:
 * Discuss problems and approaches with your peers.
 
 You may not:
 * Copy your peers' proofs or write-ups of solutions to homework problems, even
 	if you worked together to develop solutions.
-* Use the internet to search for or solicit approaches or ideas.
+* Use the internet to search for or solicit approaches or ideas to assigned
+	homework problems.
+* Use generative AI (e.g., ChatGPT) to search for approaches or ideas to
+	assigned homework problems.
 * Post the assignments or quizzes for this course on the internet.
 
 ### Academic misconduct
@@ -281,9 +278,7 @@ time.
 * Do your own work.
 
 What I can do:
-* Grade promptly (exact guarantees TBD).
-* Post assignments well in advance (at least one week in advance for drills and
-	at least two weeks in advance for homeworks).
+* Grade assignments and quizzes promptly (exact guarantees TBD).
 * Respond to all Discord messages within one business day.
 * Create a course atmosphere conducive to learning by respecting
 all of my students and being
