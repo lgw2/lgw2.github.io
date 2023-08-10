@@ -1,56 +1,56 @@
 ---
 collection: teaching
-title: "Classwork 2: Hello, world!"
+title: "Classwork 2: Getting started with Linux, vim, and the course server"
 ---
 
 ## Logistics
-* Due: Monday, January 23rd AoE (Tuesday 6am Bozeman time).
-* Submission instructions: make sure that the required file (`hello_world.c`) is in your
-	`/classwork/week2/mon/` directory.
+* Due: Friday, August 24th AoE (Saturday 6am Bozeman time).
+* Submission instructions: make sure that the required file is in your
+	`/classwork/week1/fri/` directory.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
 	this assignment.
+* You get 10 points if your file is in the correct place with the correct name
+	and 0 otherwise.
+
+## Outside resources
+
+On this assignment, there are NO RESTRICTIONS on the use of outside resources
+for help in any way, including AI tools like ChatGPT.
 
 ## Learning outcomes
-* Write, compile, and run your first C program.
+* Be able to `ssh` into the course server and use basic Linux commands to
+	navigate and perform basic tasks.
+* Be able to read and edit files using vim.
+* Understand how you will complete classwork assignments in this course.
 
 ## Assignment
 
-* Log in to the server.
-* From your home directory, navigate to `classwork/week2/mon/`, creating directories `week2` and `mon` if necessary.
-* Inside this directory, create a file called `hello_world.c`.
-* Type or paste the following:
+* If on Windows, you can either use [Windows Subsystem for Linux (WSL)]() or
+	[Cygwin]() to open a Linux terminal. You may have WSL already installed.
+Whichever you choose, open it and then use it as you would the Mac/Linux
+	terminal in the next step.
+* Log in to the server: open a terminal window and type
 
-```c
-#include <stdio.h>
-
-int main(void) {
-
-     // prints "Hello, world!"
-     printf("Hello, world!\n");
-
-     // exit with no errors
-     return(0);
-}
 ```
-* Compile your program to the executable file `exe` (or other filename of your
-	choice) using `gcc -o exe -Wall hello_world.c`.
-* Run your program using `./<filename>` (`./exe` if you compiled into `exe`).
+ssh <netid>@csci112.cs.montana.edu
+```
 
-You can check that you will get full credit for this assignment by compiling
-	your program, running it and saving its output to a file, and comparing
-	that file to the example output. Specifically, do:
+* Enter your netid password when prompted.
+* Use `mkdir` to create a `classwork` directory.
+* Use `cd` to navigate into the `classwork` directory.
+* Repeat the same process to create a `week1` directory and navigate into it.
+* Create another directory inside `week1` called `fri` and navigate into that.
+* Inside `fri`, use `vim` to create a file
+	called `example.txt`. Write any text you like inside of it. Note that if
+	you leave the file entirely blank, it will not be created.
+* You can run the autograder by running
 ```
-gcc -o exe -Wall hello_world.c
-./exe > output.txt
-diff ~/classwork/week2/mon/output.txt /public/classwork/week2/mon/expected_output.txt
+/public/classwork/week1/fri/autograder.sh
 ```
-You will see any warnings during compilation and any differences between your output and the expected output on the
-screen. If nothing happens, the content of your output file exactly matches the
-expected content and there were no warnings when compiling. As long as your file is in the correct place and named
-correctly, this means that you will get full credit for the assignment.
+
+The file `autograder.txt` will be created with your score.
 
 ## Grading turnaround
-Preliminary results via autograder will be present in the appropriate classwork
-directory in the `autograder.txt` file at the end of
-class and refereshed at 5pm. Final grading will be run at 6am tomorrow and scores will be
-uploaded to D2L by the next class period.
+
+Final scores will be run at 6am Saturday and scores will be
+uploaded to D2L by class time Monday.

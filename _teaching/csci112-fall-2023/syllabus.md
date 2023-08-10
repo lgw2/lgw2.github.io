@@ -14,9 +14,9 @@ Schedule subject to change.
 |Date|Lecture Topic (notes linked)|Textbook Chapter|Classwork Due/Quiz|Lab Due|
 |:---|:---|:---|:---|:---|
 |Wednesday 8/23|Intro & syllabus||[Classwork 1](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork1/)||
-|Friday 8/25|Course server; intro Linux and vim; classwork submission setup||Classwork 2|
+|Friday 8/25|Course server; intro Linux and vim; classwork submission setup||[Classwork 2](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork2/)|
 |Monday 8/28|Intro to C; more Linux & vim|2.1|Classwork 3|
-|Wednesday 8/30|Computer hardware and software; more intro to C|1, 2.1-2.6|Classwork 4|
+|Wednesday 8/30|Git and GitHub|1, 2.1-2.6|Classwork 4|
 |Friday 9/1|More intro to C/linux + vim|2.1-2.6|Quiz 1|Lab 1|
 |Monday 9/4| Labor Day---no class||||
 |Wednesday 9/6|functions|3.1-3.5|Classwork 5|

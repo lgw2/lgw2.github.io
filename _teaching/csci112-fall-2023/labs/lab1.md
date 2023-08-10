@@ -9,15 +9,6 @@ title: "Lab 0"
 	repo on the server. (You should have set up your `git` repo in [Classwork
 	4]().)
 
-## Learning outcomes
-* Make sure that your `git` repository is set up correctly.
-* Stage, commit, and tag the state of your repository.
-* Use prepocessor directives (e.g., `#include`, `#define`).
-* Get input from the console.
-* Do a basic calculation.
-* Print and format output.
-* Become familiar with the autograder for labs.
-
 ## Outside resources
 
 On this assignment, there are NO RESTRICTIONS on the use of outside resources
@@ -28,6 +19,16 @@ code.
 However, please do not post your
 completed C code on Discord for those who would like to write
 the code themselves without hints.
+
+## Learning outcomes
+* Make sure that your `git` repository is set up correctly.
+* Stage, commit, and tag the state of your repository.
+* Use prepocessor directives (e.g., `#include`, `#define`).
+* Get input from the console.
+* Do a basic calculation.
+* Print and format output.
+* Become familiar with the autograder for labs.
+
 
 ## Assignment
 
