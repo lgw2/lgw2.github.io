@@ -13,21 +13,21 @@ Schedule subject to change.
 
 |Date|Lecture Topic (notes linked)|Textbook Chapter|Classwork Due/Quiz|Lab Due|
 |:---|:---|:---|:---|:---|
-|Wednesday 8/23|Intro & syllabus||Classwork 1||
-|Friday 8/25|[Course server; intro Linux and vim; classwork submission setup](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/lecture1/)||[Classwork 2](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork1/)|
-|Monday 8/28|[Intro to C](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/Chapter2.pdf); more Linux & vim|2.1|[Classwork 3](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork2/)|
-|Wednesday 8/30|[Computer hardware and software](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/Chapter1.pdf); more intro to C|1, 2.1-2.6|[Classwork 4](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork3/)|
+|Wednesday 8/23|Intro & syllabus||[Classwork 1](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork1/)||
+|Friday 8/25|Course server; intro Linux and vim; classwork submission setup||Classwork 2|
+|Monday 8/28|Intro to C; more Linux & vim|2.1|Classwork 3|
+|Wednesday 8/30|Computer hardware and software; more intro to C|1, 2.1-2.6|Classwork 4|
 |Friday 9/1|More intro to C/linux + vim|2.1-2.6|Quiz 1|Lab 1|
 |Monday 9/4| Labor Day---no class||||
-|Wednesday 9/6|functions|3.1-3.5|[Classwork 5](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork4/)|
-|Friday 9/8|functions|3.1-3.5|Quiz 2|Lab 2|
-|Monday 9/11|[Logical operators; if and switch statements](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/Chapter4.pdf)|4.1-4.8|Classwork 6||
-|Wednesday 9/13|More logical operators; if and switch statements||[Classwork 7](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork6/)||
-|Friday 9/15|[Loops](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/Chapter5.pdf)|5.1-5.8|Quiz 3|Lab 3|
+|Wednesday 9/6|functions|3.1-3.5|Classwork 5|
+|Friday 9/8|Functions|3.1-3.5|Quiz 2|Lab 2|
+|Monday 9/11|Logical operators; if and switch statements|4.1-4.8|Classwork 6||
+|Wednesday 9/13|More logical operators; if and switch statements||Classwork 7||
+|Friday 9/15|Loops|5.1-5.8|Quiz 3|Lab 3|
 |Monday 9/18|loops||Classwork 8||
-|Wednesday 9/20|[Conditional operator; arrays](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/Chapter7.pdf)|7|[Classwork 9](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork8/)|
-|Friday 9/22|[Arrays](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/Chapter7.pdf)|7|Quiz 4|Lab 4|
-|Monday 9/25|[Arrays](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/Chapter7.pdf)|7|Classwork 10||
+|Wednesday 9/20|Conditional operator; arrays|7|Classwork 9|
+|Friday 9/22|Arrays|7|Quiz 4|Lab 4|
+|Monday 9/25|Arrays|7|Classwork 10||
 |Wednesday 9/27|Command line arguments|7|Classwork 10||
 |Friday 9/29|Searching arrays||Quiz 5|Lab 5|
 |Monday 10/2|Sorting arrays||Classwork 12||
