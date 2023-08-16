@@ -17,14 +17,14 @@ Schedule subject to change.
 |Friday 8/25|Course server; intro Linux and vim; classwork submission setup||[Classwork 2](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork2/)|
 |Monday 8/28|Intro to C; more Linux & vim|2.1|[Classwork 3](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork2/)|
 |Wednesday 8/30|Git and GitHub||Classwork 4|
-|Friday 9/1|More intro to C/linux + vim|2.1-2.6||Lab 1|
+|Friday 9/1|More intro to C/linux + vim|2.1-2.6|Practice Quiz (ungraded)|Lab 1|
 |Monday 9/4| Labor Day---no class||||
 |Wednesday 9/6|functions|3.1-3.5|Classwork 5|
 |Friday 9/8|Functions|3.1-3.5|Quiz 1|Lab 2|
 |Monday 9/11|Logical operators; if and switch statements|4.1-4.8|Classwork 6||
 |Wednesday 9/13|More logical operators; if and switch statements||Classwork 7||
 |Friday 9/15|Loops|5.1-5.8||Lab 3|
-|Monday 9/18|loops||Classwork 8||
+|Monday 9/18|Loops||Classwork 8||
 |Wednesday 9/20|Conditional operator; arrays|7|Classwork 9|
 |Friday 9/22|Arrays|7|Quiz 2|Lab 4|
 |Monday 9/25|Arrays|7|Classwork 10||
@@ -185,7 +185,7 @@ Since five classworks and two labs are dropped, your work on dropped
 assignments may
 be counted as a bonus. You get:
 
-* 1 point for a score of 75% or more on any lab beyond your required 10;
+* 1 point for a score of 75% or more on any lab beyond your required 10, and
 * 0.1 point for any completed classwork beyond your required 22.
 
 #### Course survey and evaluation
@@ -224,7 +224,7 @@ On all assignments, you may:
 * Help others debug their code (or receive help debugging your code from someone
 	else).
 
-You may not:
+You may not (unless the assignment explicitly says you can):
 * Share your code with other people.
 * Submit code that you did not write.
 * Use generative AI (e.g., ChatGPT) to search for approaches or ideas to
