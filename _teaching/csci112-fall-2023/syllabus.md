@@ -281,9 +281,7 @@ time.
 * Do your own work.
 
 What I can do:
-* Grade promptly (exact guarantees TBD).
-* Post assignments well in advance (at least two weeks before due date for labs;
-	at least three weeks before due date for programs).
+* Grade promptly (all assignments graded before the next class period).
 * Respond to all Discord messages and emails within one business day.
 * Create a course atmosphere conducive to learning by respecting
 all of my students and being
