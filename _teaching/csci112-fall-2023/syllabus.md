@@ -213,6 +213,7 @@ you are having any problems.* We want you to succeed!
 
 ### Missed quiz policy
 
+Note that quizzes are taken in-class on alternating Fridays.
 Any conflicts with a quiz must be discussed with me prior to missing the quiz.
 I follow University policy on makeups, which allows that serious illness or a
 serious family emergency are valid reasons requiring an accommodation. Most
