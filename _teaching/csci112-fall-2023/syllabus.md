@@ -15,49 +15,49 @@ Schedule subject to change.
 |:---|:---|:---|:---|:---|
 |Wednesday 8/23|Intro & syllabus||[Classwork 1](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork1/)||
 |Friday 8/25|Course server; intro Linux and vim; classwork submission setup||[Classwork 2](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork2/)|
-|Monday 8/28|Intro to C; more Linux & vim|2.1|Classwork 3|
-|Wednesday 8/30|Git and GitHub|1, 2.1-2.6|Classwork 4|
-|Friday 9/1|More intro to C/linux + vim|2.1-2.6|Quiz 1|Lab 1|
+|Monday 8/28|Intro to C; more Linux & vim|2.1|[Classwork 3](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork2/)|
+|Wednesday 8/30|Git and GitHub||Classwork 4|
+|Friday 9/1|More intro to C/linux + vim|2.1-2.6||Lab 1|
 |Monday 9/4| Labor Day---no class||||
 |Wednesday 9/6|functions|3.1-3.5|Classwork 5|
-|Friday 9/8|Functions|3.1-3.5|Quiz 2|Lab 2|
+|Friday 9/8|Functions|3.1-3.5|Quiz 1|Lab 2|
 |Monday 9/11|Logical operators; if and switch statements|4.1-4.8|Classwork 6||
 |Wednesday 9/13|More logical operators; if and switch statements||Classwork 7||
-|Friday 9/15|Loops|5.1-5.8|Quiz 3|Lab 3|
+|Friday 9/15|Loops|5.1-5.8||Lab 3|
 |Monday 9/18|loops||Classwork 8||
 |Wednesday 9/20|Conditional operator; arrays|7|Classwork 9|
-|Friday 9/22|Arrays|7|Quiz 4|Lab 4|
+|Friday 9/22|Arrays|7|Quiz 2|Lab 4|
 |Monday 9/25|Arrays|7|Classwork 10||
 |Wednesday 9/27|Command line arguments|7|Classwork 10||
-|Friday 9/29|Searching arrays||Quiz 5|Lab 5|
+|Friday 9/29|Searching arrays|||Lab 5|
 |Monday 10/2|Sorting arrays||Classwork 12||
 |Wednesday 10/4|Pointers; file i/o||Classwork 13||
-|Friday 10/6|Pointers||Quiz 6|Lab 6|
+|Friday 10/6|Pointers||Quiz 3|Lab 6|
 |Monday 10/9|C type strings||Classwork 14||
 |Wednesday 10/11|C type strings||Classwork 15||
-|Friday 10/13|C type strings|12|Quiz 7|Lab 7|
+|Friday 10/13|C type strings|12||Lab 7|
 |Monday 10/16|Structs||Classwork 16||
 |Wednesday 10/18|Structs||Classwork 17||
-|Friday 10/20|Structs|12|Quiz 8|Lab 8|
+|Friday 10/20|Structs|12|Quiz 4|Lab 8|
 |Monday 10/23|Splitting C program into multiple files||Classwork 18||
 |Wednesday 10/25|compilation review||Classwork 19||
-|Friday 10/27|Makefiles|12|Quiz 9|Lab 9|
+|Friday 10/27|Makefiles|12||Lab 9|
 |Monday 10/30|Makefiles||Classwork 20||
 |Wednesday 11/1|Using an IDE off server||Classwork 21||
-|Friday 11/3|Using an IDE off server|12|Quiz 10|Lab 10|
+|Friday 11/3|Using an IDE off server|12|Quiz 5|Lab 10|
 |Monday 11/6|CL args||Classwork 22||
 |Wednesday 11/8|CL args||Classwork 23||
 |Friday 11/10|Veteran's Day---no class||||
 |Monday 11/13|Dynamic memory allocation||Classwork 24||
 |Wednesday 11/15|Dynamic memory allocation||Classwork 25||
-|Friday 11/18|Dynamic memory allocation||Quiz 11|Lab 11|
+|Friday 11/18|Dynamic memory allocation|||Lab 11|
 |Monday 11/20--Friday 11/24|Fall break---no class|||
 |Monday 11/27|Dynamic data structures||Classwork 26||
 |Wednesday 11/29|Dynamic data structures||Classwork 27||
-|Friday 12/1|Dynamic data structures||Quiz 12|Lab 12|
+|Friday 12/1|Dynamic data structures||Quiz 6|Lab 12|
 |Monday 12/4|Bit masking||Classwork 26||
 |Wednesday 12/6|Bit masking||Classwork 27||
-|Friday 12/8|Bit masking||Quiz 13|Lab 13|
+|Friday 12/8|Bit masking|||Lab 13|
 |Monday 12/11|Optional final (to replace quiz grade) in lecture classroom||||
 
 ## Catalog description
@@ -75,7 +75,7 @@ Discord as the primary method of course communication, and all course
 information will be posted on this website or on the Discord server; D2L will
 be used *only* for grading.
 
-There is an *optional* lab
+There is an *optional* lab on Fridays that you may attend to get extra help.
 
 Note that this class is for Computer Science and Computer Engineering majors.
 If you are not one of those majors, you should take CSCI 109 instead of this
@@ -108,12 +108,11 @@ will be taking this class in the future is. [Here's](https://docs.google.com/doc
 
 ### Optional open lab and TAs
 
-There is an optional open lab on Fridays in the CS Success Center (Barnard Hall
-254) from 10am to 4pm.  *Note that there is no lab during
-the first week of classes (Friday, January 20th)!* However, even during weeks
+There is an optional open lab on Fridays in Roberts Hall 111 from noon to 4pm.
+*Note that there is no lab during the first week of classes (Friday, August 23rd)!* However, after this week, even
 when no lab is due, there will still be TAs in the lab to help you.
 
-Our TAs are Britney Gibbs (in lab 10-1pm; grading sections 001 and 003) and Shahnaj Mou (in lab 1-4pm; grading sections 002 and 004).
+Our TAS are TBD.
 
 You should contact your TA via Discord if you have any
 questions about grading on labs or programs or need extra help.
@@ -128,9 +127,9 @@ in this [public Panopto folder](https://montana.hosted.panopto.com/Panopto/Pages
 
 ### Instructor office hours
 
-My office hours are Thursdays and Fridays, 3-4:30 in the CS Success Center
+My office hours are TBD in the CS Success Center
 (Barnard 259). You can also contact me on Discord to set up a
-different meeting time, or drop by my office (Barnard 359) if my door is open.
+different meeting time, make an appointment via my [calendar](https://calendar.google.com/calendar/appointments/schedules/AcZssZ2hjUnXFy55TwZXrSyiG53_QoYEz592Vki7k0zvjmu2eWGXBG6x9c6zYfpe7JNylzyUeQYrMp0c),  or drop by my office (Barnard 359) if my door is open.
 You can find office hours for all CS faculty [here](https://www.cs.montana.edu/office-hours.html).
 
 ### SmartyCats
@@ -153,22 +152,19 @@ out Discord's [Notification Settings 101 page](https://support.discord.com/hc/en
 By the end of the course, students should be able to:
 * Navigate a Linux operating system using the command line.
 * Use `vim` to edit files.
+* Use `git` to version control their work.
 * Write code using C syntax.
 * Build computer programs using the C language.
 * Take advantage of major capabilities of the C language, including pointers, dynamic memory allocation and structs.
 * Apply the power of pointers, structs and strings to C programs.
 * Apply the programming knowledge you learned to solve basic real-world problems.
-* Write object oriented code in C++.
-* Build object oriented computer programs using C++.
-* Explain the difference between procedural programming and object oriented programming.
 
 ## Grading
 
 You will be graded on the following:
-* 25 classwork assignments (lowest five dropped): 10%
-* 6 labs (lowest two dropped): 40%
-* 2 projects: 32%
-* 3 quizzes (including final): 18%
+* 27 classwork assignments (lowest five dropped): 20%
+* 12 labs (lowest two dropped): 60%
+* 6 in-class quizzes (or replace with final): 20%
 
 After any curving, your grade will be determined by your total score as follows:
 93+: A; 90+: A-; 87+: B+; 83+: B; 80+: B-; 77+: C+; 73+: C; 70+: C-; 67+: D+; 63: D; 60: D-.
@@ -187,23 +183,15 @@ quarter of a point. Only the first person to post about an error gets the points
 
 Since five classworks and two labs are dropped, your work on dropped
 assignments may
-be counted as a bonus. There may be additional assignments that you can complete
-for bonus as well.
-The maximum bonus you may earn from this is 3 points out of 100 for
-the semester.
+be counted as a bonus. You get:
 
-Here's how this bonus category will be computed. First, recall that you can only earn three points
-total, even if you got more than three total. The following things sum up for
-your bonus score:
-* 1 point: a score of 50% or more on Lab 5;
-* 1 point: a score of 50% or more on any of the 6 labs beyond your required 4;
-* 0.1 point: any classwork beyond your required 17
+* 1 point for a score of 75% or more on any lab beyond your required 10;
+* 0.1 point for any completed classwork beyond your required 22.
 
 #### Course survey and evaluation
 
-If 75% or more of the class completes the mid-semester course survey (through
-D2L), whole class gets 1 bonus point. Same goes for the course evaluation
-(through the university system).
+If 75% or more of the class completes the mid-semester course survey, the whole
+class gets 1 bonus point. Same goes for the course evaluation.
 
 ### Late assignment policies
 To run a course of this size we cannot accommodate individual requests for
@@ -239,6 +227,8 @@ On all assignments, you may:
 You may not:
 * Share your code with other people.
 * Submit code that you did not write.
+* Use generative AI (e.g., ChatGPT) to search for approaches or ideas to
+	assigned coding problems.
 * Modify someone else's solution and claim it as your own.
 * Post your own solutions on the internet.
 * Post the course assignments or quizzes on the internet.
@@ -250,9 +240,9 @@ In line with the [MSU student code of conduct](https://www.montana.edu/policy/st
 ## Important dates
 
 The last day to drop the course online (with no instructor or advisor approval)
-is January 31st. The last day to drop without a W grade (instructor or advisor
-approval required) is February 7th. The last day to drop with a W grade
-(instructor and advisor approval required) is April 19th. See the full
+is September 6th. The last day to drop without a W grade (instructor or advisor
+approval required) is September 13th. The last day to drop with a W grade
+(instructor and advisor approval required) is November 15th. See the full
 [add/drop schedule](https://www.montana.edu/registrar/add_drop_schedule.html)
 for more information.
 
