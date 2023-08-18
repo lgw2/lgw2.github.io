@@ -43,8 +43,8 @@ Schedule subject to change.
 |Wednesday 10/25|compilation review||Classwork 19||
 |Friday 10/27|Makefiles|12||Lab 9|
 |Monday 10/30|Makefiles||Classwork 20||
-|Wednesday 11/1|Splitting program into multiple files||Classwork 21||
-|Friday 11/3|Splitting program into multiple files|12|Quiz 5|Lab 10|
+|Wednesday 11/1|TBD||Classwork 21||
+|Friday 11/3|TBD|12|Quiz 5|Lab 10|
 |Monday 11/6|CL args||Classwork 22||
 |Wednesday 11/8|CL args||Classwork 23||
 |Friday 11/10|Veteran's Day---no class||||
@@ -55,8 +55,8 @@ Schedule subject to change.
 |Monday 11/27|Dynamic data structures||Classwork 26||
 |Wednesday 11/29|Dynamic data structures||Classwork 27||
 |Friday 12/1|Dynamic data structures||Quiz 6|Lab 12|
-|Monday 12/4|Bit masking||Classwork 26||
-|Wednesday 12/6|Bit masking||Classwork 27||
+|Monday 12/4|Bit masking||Classwork 28||
+|Wednesday 12/6|Bit masking||Classwork 29||
 |Friday 12/8|Bit masking|||Lab 13|
 |Monday 12/11, 8:00-9:50am|Optional final (to replace quiz grade) in lecture classroom||||
 
