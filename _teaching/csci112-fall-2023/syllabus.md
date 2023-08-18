@@ -58,7 +58,7 @@ Schedule subject to change.
 |Monday 12/4|Bit masking||Classwork 26||
 |Wednesday 12/6|Bit masking||Classwork 27||
 |Friday 12/8|Bit masking|||Lab 13|
-|Monday 12/11|Optional final (to replace quiz grade) in lecture classroom||||
+|Monday 12/11, 8:00-9:50am|Optional final (to replace quiz grade) in lecture classroom||||
 
 ## Catalog description
 
@@ -69,7 +69,7 @@ PREREQUISITE: CSCI 127. Programming knowledge. Introduces imperative programming
 ## Course Info
 
 This course meets for lectures on Mondays, Wednesdays, and Fridays from
-8-8:50am in Leon Johnson Hall 346. Lectures will be recorded and available after class if you
+8-8:50am in Leon Johnson Hall 346. The first 30 minutes of lecture will be spent learning new material, and the last 20 minutes will be spent on small programming assignments (or, every other Friday, on short quizzes). Lectures will be recorded and available after class if you
 would like to rewatch them. We will use
 Discord as the primary method of course communication, and all course
 information will be posted on this website or on the Discord server; D2L will
@@ -103,8 +103,6 @@ page](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/lecture1/).
 
 At the end of the semester, I ask students what their advice for students who
 will be taking this class in the future is. [Here's](https://docs.google.com/document/d/1_LzKcU1-jvHh8P8MJaxYzXBP0dJPxXOIVVaayRhDVKk/edit?usp=sharing) the compiled advice. There are some changes to the course this semester, but a lot of the advice is still relevant.
-
-
 
 ### Optional open lab and TAs
 

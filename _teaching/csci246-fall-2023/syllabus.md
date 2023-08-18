@@ -42,7 +42,7 @@ Schedule subject to change.
 |Monday 10/23|More on algorithm analysis|6.3|Homework 7|
 |Wednesday 10/25|Worst-case runtime analysis|6.3| |
 |Friday 10/27|Analysis of recursive algorithms|6.4| |
-|Monday 10/30|Introdution to relations|8.1-8.3|Homework 8|
+|Monday 10/30|Introduction to relations|8.1-8.3|Homework 8|
 |Wednesday 11/1|Equivalence relations|8.4| |
 |Friday 11/3|Partial and total orders|8.4||
 |Monday 11/6|Introduction to graphs|11.1-11.2|Homework 9|
@@ -73,7 +73,7 @@ This course meets on Mondays, Wednesdays, and Fridays from
 lecture and in-class group and solo activities. We will use
 Discord as the primary method of course communication, and all course
 information will be posted on this website or on the Discord server; D2L will
-be used *only* for grading.
+be used *only* for recording grades.
 Lectures will be recorded and available afterward if you
 would like to rewatch them; however, in-class activities make up 10% of your
 grade so it is in your best interest to attend class.
@@ -102,7 +102,7 @@ This section will be updated when course assistants are assigned.
 Lectures are recorded and available to watch after class. However, if there are
 technical difficulties recording a lecture, it will not be re-recorded, so come
 to class when you can to make sure that you do not miss course content or
-announcements. Videos can be be found in the [Panopto folder](https://montana.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=a2e302c9-69f1-4a36-89a0-b05101553b63).
+announcements. Videos can be found in the [Panopto folder](https://montana.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=a2e302c9-69f1-4a36-89a0-b05101553b63).
 
 ### Instructor office hours
 
@@ -200,7 +200,7 @@ I follow University policy on makeups, which allows that serious illness or a
 serious family emergency are valid reasons requiring an accommodation. Most
 other reasons (employment conflict, travel plans) are not valid.
 
-### Missed in-class asssignment policy
+### Missed in-class asignment policy
 
 If you know that you will miss class consistently, please come talk to me or
 send me a Discord message ASAP and we will work something out.

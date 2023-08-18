@@ -4,9 +4,9 @@ title: "Classwork 2: Getting started with Linux, vim, and the course server"
 ---
 
 ## Logistics
-* Due: Friday, August 24th AoE (Saturday 6am Bozeman time).
+* Due: Friday, August 25th AoE (Saturday 6am Bozeman time).
 * Submission instructions: make sure that the required file is in your
-	`/classwork/week1/fri/` directory.
+	`csci112_fall2023/classwork/week1/fri/` directory.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
 	this assignment.
 * You get 10 points if your file is in the correct place with the correct name
@@ -14,8 +14,8 @@ title: "Classwork 2: Getting started with Linux, vim, and the course server"
 
 ## Outside resources
 
-On this assignment, there are NO RESTRICTIONS on the use of outside resources
-for help in any way, including AI tools like ChatGPT.
+On this assignment, there are no restrictions on the use of outside resources
+for help in any way, including use of AI tools like ChatGPT.
 
 ## Learning outcomes
 * Be able to `ssh` into the course server and use basic Linux commands to
@@ -25,8 +25,8 @@ for help in any way, including AI tools like ChatGPT.
 
 ## Assignment
 
-* If on Windows, you can either use [Windows Subsystem for Linux (WSL)]() or
-	[Cygwin]() to open a Linux terminal. You may have WSL already installed.
+* If on Windows, you can either use [Windows Subsystem for Linux (WSL)](https://learn.microsoft.com/en-us/windows/wsl/install) or
+	[Cygwin](https://www.cygwin.com/) to open a Linux terminal. You may have WSL already installed.
 Whichever you choose, open it and then use it as you would the Mac/Linux
 	terminal in the next step.
 * Log in to the server: open a terminal window and type
