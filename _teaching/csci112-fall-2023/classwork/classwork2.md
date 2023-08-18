@@ -43,12 +43,14 @@ ssh <netid>@csci112.cs.montana.edu
 * Inside `fri`, use `vim` to create a file
 	called `example.txt`. Write any text you like inside of it. Note that if
 	you leave the file entirely blank, it will not be created.
-* You can run the autograder by running
+* You can run the autograder by running (that is, pasting the following into
+	your terminal and pressing enter)
 ```
 /public/classwork/week1/fri/autograder.sh
 ```
 
-The file `autograder.txt` will be created with your score.
+The file `autograder.txt` will be created with your score. Use `vim
+autograder.txt` to open it and read its contents.
 
 ## Grading turnaround
 
