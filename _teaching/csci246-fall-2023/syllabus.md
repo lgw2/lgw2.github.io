@@ -68,28 +68,22 @@ COREQUISITE: CSCI 132. This course covers logic, discrete probability, recurrenc
 
 ## Course Info
 
-This course meets for lectures on Mondays, Wednesdays, and Fridays from
-4:10pm-5pm in Reid Hall 105. Lectures will be recorded and available afterward if you
-would like to rewatch them. We will use
+This course meets on Mondays, Wednesdays, and Fridays from
+4:10pm-5pm in Reid Hall 105. Our course meetings will be a combination of
+lecture and in-class group and solo activities. We will use
 Discord as the primary method of course communication, and all course
 information will be posted on this website or on the Discord server; D2L will
 be used *only* for grading.
+Lectures will be recorded and available afterward if you
+would like to rewatch them; however, in-class activities make up 10% of your
+grade so it is in your best interest to attend class.
 
-In an ideal world, your participation in this course would look like this:
-* Before lecture, skim the recommended reading (about 15 minutes per lecture).
-* Attend lecture, taking notes, asking questions as you have them, and participating in in-class activities (about 50 minutes per lecture).
-* Attend an optional tutorial section and/or office hours (about 1 hour per
-	week).
-* Complete the homework assignments to get independent practice developing
-	proofs and writing them up clearly (about 3 hours each most weeks).
-* Reference the textbook, lecture notes, and lecture videos, and attend
-	instructor office hours, use tutoring services, or visit the CS Success
-	center as needed.
 
 ## Course Resources
 
 ### Textbook
 
+The content in this course is based off of
 *Connecting Discrete Mathematics and Computer Science* by David Liben-Nowell. A free PDF version of the book is available [here](https://cs.carleton.edu/faculty/dln/book/). The physical book is about $80 and is available in the bookstore if you prefer that.
 
 ### Problem solving tips
@@ -98,14 +92,6 @@ Check out [this document](https://lgw2.github.io/teaching/csci246-spring-2023/ho
 tips for homework assignments in this class, and strategies for getting the
 homework assignments done. This document is a work in progress and may be
 updated throughout the semester.
-
-### Lecture extra notes
-
-We may go over some notation and definitions quickly during lecture. If you're
-feeling rusty on your math notation, check out the [lecture extras](https://lgw2.github.io/teaching/csci246-spring-2023/lectures/extras.pdf) document.
-It'll be updated throughout the course with notes for the day's lecture, and if
-I get a lot of questions about something from a day's lecture, I'll put more
-notes in about that, too.
 
 ### Course assistants
 
@@ -120,9 +106,10 @@ announcements. Videos can be be found in the [Panopto folder](https://montana.ho
 
 ### Instructor office hours
 
-My office hours are TBD in the CS Success Center
+My office hours are 5:10-6:30pm (right after class) on Mondays and 9:30-11am on
+Thursdaysin the CS Success Center
 (Barnard 259). You can also contact me on Discord to set up a
-different meeting time, or drop by my office (Barnard 359) if my door is open.
+different meeting time, make an appointment via my [calendar](https://calendar.google.com/calendar/appointments/schedules/AcZssZ2hjUnXFy55TwZXrSyiG53_QoYEz592Vki7k0zvjmu2eWGXBG6x9c6zYfpe7JNylzyUeQYrMp0c), or drop by my office (Barnard 359) if my door is open.
 You can find office hours for all CS faculty [here](https://www.cs.montana.edu/office-hours.html).
 
 ### Computer Science Success Center
@@ -130,7 +117,7 @@ There are free tutors available in Barnard 259. More information [here](https://
 
 ### SmartyCats tutoring
 
-TBD
+We have a SmartyCats tutor for this course! Visit [the SmartyCats website](https://www.montana.edu/aycss/success/smartycats/) to book a tutoring appointment or see more info on drop-in hours.
 
 ### Discord server
 
@@ -161,7 +148,7 @@ You will be graded on the following:
 * 11 homework assignments (lowest score dropped): 50%
 * 3 quizzes (including final): 40%
 * In-class assignments (1 point for particpating in each one, for up to 10
-	points total): 10%
+	points total; there will be at least 15 total): 10%
 
 After any curving, your grade will be determined by your total score as follows:
 93+: A; 90+: A-; 87+: B+; 83+: B; 80+: B-; 77+: C+; 73+: C; 70+: C-; 67+: D+; 63: D; 60: D-.
@@ -181,12 +168,13 @@ quarter of a point. Only the first person to post about an error gets the points
 Because the max score you can receive for the in-class assignment category is
 10, but there will be at least 15 in-class assignments, any additional in-class
 assignment will be added as a half point to your score at the end of the
-semeseter.
+semeseter. The max points you can earn from this bonus is 2.
 
 #### Course survey and evaluation
 
-If 75% or more of the class completes the mid-semester course survey, the whole class gets 1 bonus point. Same goes for the course evaluation
-(through the university system).
+If 75% or more of the class completes the mid-semester course survey, the whole
+class gets 1 bonus point. Same goes for the course evaluation at the end of the
+semester.
 
 ### Late assignment policies
 To run a course of this size we cannot accommodate individual requests for
@@ -237,9 +225,9 @@ In line with the [MSU student code of conduct](https://www.montana.edu/policy/st
 ## Important dates
 
 The last day to drop the course online (with no instructor or advisor approval)
-is January 31st. The last day to drop without a W grade (instructor or advisor
-approval required) is February 7th. The last day to drop with a W grade
-(instructor and advisor approval required) is April 19th. See the full
+is September 6thj. The last day to drop without a W grade (instructor or advisor
+approval required) is September 13th. The last day to drop with a W grade
+(instructor and advisor approval required) is November 15th. See the full
 [add/drop schedule](https://www.montana.edu/registrar/add_drop_schedule.html)
 for more information.
 
