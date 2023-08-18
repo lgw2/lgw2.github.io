@@ -17,9 +17,9 @@ Schedule subject to change.
 |Friday 8/25|Course server; intro Linux and vim; classwork submission setup||[Classwork 2](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork2/)|
 |Monday 8/28|Intro to C; more Linux & vim|2.1|[Classwork 3](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork2/)|
 |Wednesday 8/30|Git and GitHub||Classwork 4|
-|Friday 9/1|More intro to C/linux + vim|2.1-2.6|Practice Quiz (ungraded)|Lab 1|
+|Friday 9/1|More intro to C/Linux + vim|2.1-2.6|Practice Quiz (ungraded)|Lab 1|
 |Monday 9/4| Labor Day---no class||||
-|Wednesday 9/6|functions|3.1-3.5|Classwork 5|
+|Wednesday 9/6|Functions|3.1-3.5|Classwork 5|
 |Friday 9/8|Functions|3.1-3.5|Quiz 1|Lab 2|
 |Monday 9/11|Logical operators; if and switch statements|4.1-4.8|Classwork 6||
 |Wednesday 9/13|More logical operators; if and switch statements||Classwork 7||
@@ -43,8 +43,8 @@ Schedule subject to change.
 |Wednesday 10/25|compilation review||Classwork 19||
 |Friday 10/27|Makefiles|12||Lab 9|
 |Monday 10/30|Makefiles||Classwork 20||
-|Wednesday 11/1|Using an IDE off server||Classwork 21||
-|Friday 11/3|Using an IDE off server|12|Quiz 5|Lab 10|
+|Wednesday 11/1|Splitting program into multiple files||Classwork 21||
+|Friday 11/3|Splitting program into multiple files|12|Quiz 5|Lab 10|
 |Monday 11/6|CL args||Classwork 22||
 |Wednesday 11/8|CL args||Classwork 23||
 |Friday 11/10|Veteran's Day---no class||||
