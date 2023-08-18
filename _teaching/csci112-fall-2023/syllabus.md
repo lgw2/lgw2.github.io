@@ -125,9 +125,10 @@ in this [public Panopto folder](https://montana.hosted.panopto.com/Panopto/Pages
 
 ### Instructor office hours
 
-My office hours are TBD in the CS Success Center
+My office hours are 5:10-6:30pm on Mondays and 9:30-11am on
+Thursdaysin the CS Success Center
 (Barnard 259). You can also contact me on Discord to set up a
-different meeting time, make an appointment via my [calendar](https://calendar.google.com/calendar/appointments/schedules/AcZssZ2hjUnXFy55TwZXrSyiG53_QoYEz592Vki7k0zvjmu2eWGXBG6x9c6zYfpe7JNylzyUeQYrMp0c),  or drop by my office (Barnard 359) if my door is open.
+different meeting time, make an appointment via my [calendar](https://calendar.google.com/calendar/appointments/schedules/AcZssZ2hjUnXFy55TwZXrSyiG53_QoYEz592Vki7k0zvjmu2eWGXBG6x9c6zYfpe7JNylzyUeQYrMp0c), or drop by my office (Barnard 359) if my door is open.
 You can find office hours for all CS faculty [here](https://www.cs.montana.edu/office-hours.html).
 
 ### SmartyCats
@@ -279,7 +280,7 @@ time.
 * Do your own work.
 
 What I can do:
-* Grade promptly (all assignments graded before the next class period).
+* Grade promptly (exact guarantees TBD.
 * Respond to all Discord messages and emails within one business day.
 * Create a course atmosphere conducive to learning by respecting
 all of my students and being
