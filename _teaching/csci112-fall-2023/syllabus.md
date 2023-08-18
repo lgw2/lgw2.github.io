@@ -15,7 +15,7 @@ Schedule subject to change.
 |:---|:---|:---|:---|:---|
 |Wednesday 8/23|Intro & syllabus||[Classwork 1](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork1/)||
 |Friday 8/25|Course server; intro Linux and vim; classwork submission setup||[Classwork 2](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork2/)|
-|Monday 8/28|Intro to C; more Linux & vim|2.1|[Classwork 3](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork2/)|
+|Monday 8/28|Intro to C; more Linux & vim|2.1|[Classwork 3](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork3/)|
 |Wednesday 8/30|Git and GitHub||Classwork 4|
 |Friday 9/1|More intro to C/Linux + vim|2.1-2.6|Practice Quiz (ungraded)|Lab 1|
 |Monday 9/4| Labor Day---no class||||
@@ -45,8 +45,8 @@ Schedule subject to change.
 |Monday 10/30|Makefiles||Classwork 20||
 |Wednesday 11/1|TBD||Classwork 21||
 |Friday 11/3|TBD|12|Quiz 5|Lab 10|
-|Monday 11/6|CL args||Classwork 22||
-|Wednesday 11/8|CL args||Classwork 23||
+|Monday 11/6|TBD||Classwork 22||
+|Wednesday 11/8|TBD||Classwork 23||
 |Friday 11/10|Veteran's Day---no class||||
 |Monday 11/13|Dynamic memory allocation||Classwork 24||
 |Wednesday 11/15|Dynamic memory allocation||Classwork 25||
@@ -161,7 +161,7 @@ By the end of the course, students should be able to:
 ## Grading
 
 You will be graded on the following:
-* 27 classwork assignments (lowest five dropped): 20%
+* 29 classwork assignments (lowest five dropped): 20%
 * 12 labs (lowest two dropped): 60%
 * 6 in-class quizzes (or replace with final): 20%
 
