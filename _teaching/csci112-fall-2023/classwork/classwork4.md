@@ -10,7 +10,7 @@ title: "Classwork 4"
 	autograder knows to put your file. You can still get full credit even
 	without doing this, but you won't get the preliminary results.
 * Submission instructions: make sure that the required directory
-	(`csci112_spring2023`) is in your home directory, that it is a git
+	(`csci112_fall2023`) is in your home directory, that it is a git
 	repository, and that it has a commit with the tag `my_first_tag`.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
 	this assignment.
@@ -26,12 +26,12 @@ for help in any way, including use of AI tools like ChatGPT.
 ## Assignment
 
 * Log in to the server.
-* In your home directory, navigate to your `csci112_spring2023` directory, or
+* In your home directory, navigate to your `csci112_fall2023` directory, or
 	create it if it doesn't not exist. Note
 	that you must match this directory name exactly.
 * Follow the instructions from the [git lecture notes](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/lecture2/) to initialize a git
 	repository.
-* Follow the instructions from the [git lecture notes](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/lecture2/) to add all changes,
+* Follow the instructions from the [git lecture notes](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/lecture2/) to add all changes,
 	commit, and tag the current snapshot of your repository as `my_first_tag`.
 
 ## Grading turnaround
