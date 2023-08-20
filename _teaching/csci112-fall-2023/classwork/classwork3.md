@@ -21,7 +21,7 @@ for help in any way, including use of AI tools like ChatGPT.
 ## Assignment
 
 * Log in to the server.
-* From your home directory, navigate to `classwork/week2/mon/`, creating directories `week2` and `mon` if necessary.
+* From your home directory, navigate to `csci112_fall2023/classwork/week2/mon/` creating directories `week2` and `mon` if necessary.
 * Inside this directory, create a file called `hello_world.c`.
 * Type or paste the following:
 
@@ -39,7 +39,7 @@ int main(void) {
 ```
 * Compile your program to the executable file `exe` (or other filename of your
 	choice) using `gcc -o exe -Wall hello_world.c`.
-* Run your program using `./<filename>` (`./exe` if you compiled into `exe`).
+* Run your program using `./exe`.
 
 * You can run the autograder by running
 ```
