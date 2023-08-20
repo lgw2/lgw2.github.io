@@ -27,7 +27,7 @@ for help in any way, including use of AI tools like ChatGPT.
 
 * Log in to the server.
 * In your home directory, navigate to your `csci112_fall2023` directory, or
-	create it if it doesn't not exist. Note
+	create it if it doesn't exist. Note
 	that you must match this directory name exactly.
 * Follow the instructions from the [git lecture notes](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/lecture2/) to initialize a git
 	repository.
