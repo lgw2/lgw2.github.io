@@ -75,7 +75,7 @@ Discord as the primary method of course communication, and all course
 information will be posted on this website or on the Discord server; D2L will
 be used *only* for grading.
 
-There is an *optional* lab on Fridays that you may attend to get extra help.
+There is an *optional* lab on Fridays from noon to 4pm in Roberts Hall 111 that you may attend to get extra help.
 
 Note that this class is for Computer Science and Computer Engineering majors.
 If you are not one of those majors, you should take CSCI 109 instead of this
