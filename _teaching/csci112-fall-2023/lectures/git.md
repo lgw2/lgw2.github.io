@@ -18,10 +18,75 @@ be used when working by yourself so that you can keep a history of your changes
 and why you made them.
 
 Git is *not* GitHub. GitHub is a service that hosts many git repositories.
-Other similar services include GitLab and BitBucket. Other version control
-systems (so, these are comparable to git) include Mercurial and Subversion.
+Other similar services include GitLab and BitBucket. In this course, we will
+not cover hosting services.
 
-## Minimum setup for assignment submission
+Other version control
+systems include Mercurial and Subversion. Because these are version control
+systems, they are comparable to git. In this course, we will focus on git, not
+other version control systems.
+
+### Git repositories
+
+The basic organizational unit in git is called a *repository*, or a
+*repo* for short. As the name implies, it is a place to store things. In
+practice, a repository is a directory in your filesystem. Any subdirectories
+are also part of the repository. For example, at some point during this class,
+your `csci112_fall2023` directory might look like this:
+```
+csci112_fall2023/
+├── classwork
+│   ├── week1
+│   │   └── fri
+│   │       ├── autograder.txt
+│   │       └── example.txt
+│   └── week2
+│       └── mon
+│           ├── autograder.txt
+│           ├── hello_world.c
+│           └── out.txt
+└── labs
+    └── lab1
+          ├── autograder.txt
+          ├── lab1.c
+          └── temp.txt
+```
+This means that the `csci112_fall2023` directory contains two subdirectories,
+`classwork` and `labs`, each of which can contain their own subdirectories, and
+inside those subdirectories are various files.
+
+If we make `csci112_fall2023` a git repository, all of the subdirectories and
+files inside of it are part of the repository.
+
+### Git commits
+
+The snapshots of our repository that we use git to record are called *commits*.
+We make a commit every time make a change that we would like to record.
+Although we may only change one file, a commit is actually a snapshot of the
+entire directory at the time that we make the commit. In practice, making a
+commit looks like this:
+
+```
+git commit -m "<Put a description of the changes made in this commit in the quotes>"
+```
+
+### Staging in git (`git add`)
+
+Git includes an extra step to making a commit that many other version control
+systems do not: *staging*. In order to make a commit, we first must *stage* our
+changes: that is, tell git which files were changed and should thus be included
+in the next commit. We can either stage files by name:
+```
+git add file1.txt
+```
+or we can stage all files in the repository that have changed:
+```
+git add -A
+```
+
+Note that you must stage your files before you can commit them!
+
+## Setup for assignment submission
 
 For this course, we're going to create a git repository and use it to tag
 the version of our programs that we would like to be graded.
@@ -29,22 +94,19 @@ the version of our programs that we would like to be graded.
 ### Creating a git repository
 
 To start, create a directory. For this course, your directory should be called
-`csci112_spring2023`, so we will use that as an example.
+`csci112_fall2023`, so we will use that as an example. You should already
+have this directory, but if you didn't, you would create it using `mkdir csci112_fall2023`.
 
-Create the directory using:
-```
-mkdir csci112_spring2023
-```
 Navigate into the directory:
 
 ```
-cd csci112_spring2023
+cd csci112_fall2023
 ```
 Initialize a git repository inside the directory:
 ```
 git init
 ```
-You will see the following message. Don't worry about it:
+You will see the following message. You can ignore the first part about hints:
 ```
 hint: Using 'master' as the name for the initial branch. This default branch name
 hint: is subject to change. To configure the initial branch name to use in all
@@ -56,21 +118,29 @@ hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
 hint: 'development'. The just-created branch can be renamed via this command:
 hint:
 hint: 	git branch -m <name>
+Initialized empty Git repository in /home/<your_netid>/csci112_fall2023/.git/
 ```
 
-Your `csci112_spring2023` directory is now a git repository!
+But notice the last line: `Initialized empty Git repository in /home/<your_netid>/csci112_fall2023/.git/`.
+ `csci112_fall2023` directory is now a git repository!
 
 Try running `git status` to see the status of your repository. You should see
-this:
+something like this:
 ```
+[p19t655@csci112 csci112_fall2023]$ git status
 On branch master
 
 No commits yet
 
-nothing to commit (create/copy files and use "git add" to track)
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	classwork/
+
+nothing added to commit but untracked files present (use "git add" to track)
 ```
 
-Now create a file with some text in it. You could do this by opening a new file
+If you just created your `csci112_fall2023` directory for the first time and it
+is empty, you will need to create a file something for git to track. You could do this by opening a new file
 with `vim`, putting some text in, and saving it. Or you can copy the following:
 ```
 echo "Hello, world!" > example.txt
@@ -79,32 +149,7 @@ echo "Hello, world!" > example.txt
 redirects that output to a file instead of the screen.) You may want to check
 that the file is there by running `ls`.
 
-Now, run `git status` again. You should get this:
-```
-On branch master
-
-No commits yet
-
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-	example.txt
-
-nothing added to commit but untracked files present (use "git add" to track)
-```
-
-### Committing changes
-
-In git, the basic idea for keeping track of changes to your respository is to
-save snapshots of the respository, which are called commits. You choose when to
-save the snapshots, and write a message (called a commit message) describing
-the changes that were made from the previous commit to this one.
-
-Git allows you to choose which of the changes that you have made
-should be included in a commit. This is helpful when you are a more advanced
-git user, but for our purposes, we can just include all changes whenever we are
-ready to create a new snapshot (commit).
-
-To specify that all changes should be included, we can run
+Now, we can stage all of your files by running
 ```
 git add -A
 ```
@@ -116,41 +161,46 @@ No commits yet
 
 Changes to be committed:
   (use "git rm --cached <file>..." to unstage)
-	new file:   example.txt
+	new file:   classwork/week1/fri/autograder.txt
+	new file:   classwork/week1/fri/example.txt
+	new file:   classwork/week2/mon/autograder.txt
+	new file:   classwork/week2/mon/hello_world.c
+	new file:   classwork/week2/mon/out.txt
 ```
-This means that the file `example.txt` has been added (or "staged", in the
-terminology git uses). Multiple files may be staged, and they would all be
-listed under "Changes to be committed" when you run `git status`.
+This means that all of the files in your repository have been staged.
 
 Now, we are finally ready to commit. We also need to provide a description of
 this commit, called a commit message, which we specify with the `-m` option
 followed by our message in quotes. For example, we might do:
 ```
-git commit -m "Add example.txt file"
+git commit -m "Add previous classworks"
 ```
 And then we see a message like this:
 ```
-[master (root-commit) 2c82f20] Add example.txt file
- 1 file changed, 1 insertion(+)
- create mode 100644 example.txt
+[master (root-commit) 2c82f20] Add previous classworks
+ 5 files changed, 30 insertions(+)
+ create mode 100644 classwork/week1/fri/autograder.txt
+ create mode 100644 classwork/week1/fri/example.txt
+ create mode 100644 classwork/week2/mon/autograder.txt
+ create mode 100644 classwork/week2/mon/hello_world.c
+ create mode 100644 classwork/week2/mon/out.txt
 ```
 Running `git status` again shows that we have no unsaved changes:
 ```
 On branch master
 nothing to commit, working tree clean
 ```
-
 We can run
 ```
 git log
 ```
 to see a history of all of  our commits. In this case, it looks something like
 ```
-commit 2c82f20e9b41b4fe09b6c142d381dce32f95abe3 (HEAD -> master)
+commit 9a8c77c95593a302436dfb9509663658271f43e9 (HEAD -> master)
 Author: lgw2 <lgw2@uw.edu>
-Date:   Thu Jan 26 19:55:31 2023 -0700
+Date:   Sun Aug 20 18:40:50 2023 -0600
 
-    Add example.txt file
+    Add previous classworks
 ```
 
 ### Tagging a commit
