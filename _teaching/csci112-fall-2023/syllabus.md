@@ -99,11 +99,6 @@ We have a shared course server for you to develop, compile, and run your C
 programs on. Details for how to access the server can be found on the [lecture 1
 page](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/lecture1/).
 
-### Advice from previous students
-
-At the end of the semester, I ask students what their advice for students who
-will be taking this class in the future is. [Here's](https://docs.google.com/document/d/1_LzKcU1-jvHh8P8MJaxYzXBP0dJPxXOIVVaayRhDVKk/edit?usp=sharing) the compiled advice. There are some changes to the course this semester, but a lot of the advice is still relevant.
-
 ### Optional open lab and TAs
 
 There is an optional open lab on Fridays in Roberts Hall 111 from noon to 4pm.
