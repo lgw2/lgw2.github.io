@@ -7,7 +7,7 @@ title: "Course server; intro Linux and vim; classwork submission setup"
 
 We will write our programs on the course server, a Linux computer that we
 access remotely from our own computers. Its hostname is `csci112.cs.montana.edu`. To access it, we can
-open up a terminal (on Mac or Linux) or [Cygwin](https://www.cygwin.com/) (on Windows) and run the `ssh`
+open up a terminal (on Mac or Linux) or [Windows Subsystem for Linux (WSL)](https://learn.microsoft.com/en-us/windows/wsl/install) or [Cygwin](https://www.cygwin.com/) (on Windows) and run the `ssh`
 (secure shell) command to log in using our netid, like so:
 
 ```
