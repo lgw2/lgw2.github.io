@@ -4,16 +4,11 @@ title: "Lab 1"
 ---
 
 ## Logistics
-* Due: Friday, September 1.
-
-* Submission instructions: ensure that you have the source code you want us to
-	grade in a file called `lab3.c` in your `~/csci112_fall2023/labs/lab3`
-	directory, and that the snapshot (commit) of your repository containing the version of that file you want us to grade has been committed and
-	tagged as `lab3`. See the [git lecture](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/lecture2) and [classwork 4](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork4) for more
+* Due: Friday, September 1 AoE.
 * Submission instructions: ensure that you have the source code you want us to
 	grade in a file called `lab1.c` in your `~/csci112_fall2023/labs/lab1`
 	directory, and that the snapshot (commit) of your repository containing the version of that file you want us to grade has been committed and
-	tagged as `lab1`. (You should have set up your `git` repo and practiced taggina a commit in [Classwork 4](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork4/).)
+	tagged as `lab1`. (You should have set up your `git` repo and practiced tagging a commit in [Classwork 4](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork4/).)
 
 ## Outside resources
 

@@ -15,7 +15,8 @@ title: "Classwork 1: group syllabus activity"
 
 ## Assignment
 
-See [handout]().
+See
+[handout](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/first_day_activity_112.pdf).
 
 ## Grading turnaround
 
