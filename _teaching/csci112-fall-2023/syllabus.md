@@ -97,7 +97,7 @@ You can find free PDFs of the textbook online.
 
 We have a shared course server for you to develop, compile, and run your C
 programs on. Details for how to access the server can be found on the [lecture 1
-page](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/lecture1/).
+page](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/lecture1/).
 
 ### Optional open lab and TAs
 
