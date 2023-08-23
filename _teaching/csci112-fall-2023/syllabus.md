@@ -102,7 +102,7 @@ page](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/lecture1/).
 ### Optional open lab and TAs
 
 There is an optional open lab on Fridays in Roberts Hall 111 from noon to 4pm.
-*Note that there is no lab during the first week of classes (Friday, August 23rd)!* However, after this week, even
+*Note that there is no lab during the first week of classes (Friday, August 25th)!* However, after this week, even
 when no lab is due, there will still be TAs in the lab to help you.
 
 Our TAS are TBD.
