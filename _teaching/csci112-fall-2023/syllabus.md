@@ -180,7 +180,7 @@ assignments may
 be counted as a bonus. You get:
 
 * 1 point for a score of 75% or more on any lab beyond your required 10, and
-* 0.1 point for any completed classwork beyond your required 22.
+* 0.1 point for any completed classwork beyond your required 24.
 
 #### Course survey and evaluation
 
