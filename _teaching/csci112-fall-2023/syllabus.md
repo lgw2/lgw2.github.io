@@ -108,7 +108,7 @@ when no lab is due, there will still be TAs in the lab to help you.
 Our TAS are TBD.
 
 You should contact your TA via Discord if you have any
-questions about grading on labs or programs or need extra help.
+questions about grading on labs or need extra help.
 
 ### Lecture videos
 
