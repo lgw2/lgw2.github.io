@@ -50,7 +50,7 @@ Schedule subject to change.
 |Friday 11/10|Veteran's Day---no class||||
 |Monday 11/13|Dynamic memory allocation||Classwork 24||
 |Wednesday 11/15|Dynamic memory allocation||Classwork 25||
-|Friday 11/18|Dynamic memory allocation|||Lab 11|
+|Friday 11/17|Dynamic memory allocation|||Lab 11|
 |Monday 11/20--Friday 11/24|Fall break---no class|||
 |Monday 11/27|Dynamic data structures||Classwork 26||
 |Wednesday 11/29|Dynamic data structures||Classwork 27||
@@ -157,7 +157,7 @@ By the end of the course, students should be able to:
 
 You will be graded on the following:
 * 29 classwork assignments (lowest five dropped): 20%
-* 12 labs (lowest two dropped): 60%
+* 13 labs (lowest two dropped): 60%
 * 6 in-class quizzes (or replace with final): 20%
 
 After any curving, your grade will be determined by your total score as follows:
@@ -275,7 +275,7 @@ time.
 * Do your own work.
 
 What I can do:
-* Grade promptly (exact guarantees TBD.
+* Grade promptly (exact guarantees TBD).
 * Respond to all Discord messages and emails within one business day.
 * Create a course atmosphere conducive to learning by respecting
 all of my students and being
