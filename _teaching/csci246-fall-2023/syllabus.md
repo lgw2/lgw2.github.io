@@ -9,7 +9,7 @@ location: "Bozeman, Montana"
 
 ## Course schedule
 
-Schedule subject to change.
+Schedule subject to change. Find all lecture videos in [this Panopto folder](https://montana.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=a2e302c9-69f1-4a36-89a0-b05101553b63).
 
 |Date|Lecture Topic (notes written during class linked)|Recommended Reading|Homework Due|
 |:---|:---|:---|:---|
