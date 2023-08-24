@@ -7,8 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-*News* I will be joining the computer science faculty at the University of
+### News
+
+I will be joining the computer science faculty at the University of
 Montana as an assistant professor in January 2024!
+
+### About me
 
 I am an assistant teaching & research professor in computer science at Montana
 State University in Bozeman, Montana. You can reach me at lucia.williams (at)
