@@ -50,7 +50,7 @@ Schedule subject to change. Find all lecture videos in [this Panopto folder](htt
 |Friday 11/10|Veteran's Day---no class|||
 |Monday 11/13|More on graphs|11|Homework 10|
 |Wednesday 11/15|Quiz review| | |
-|Friday 11/18|Quiz in class| | |
+|Friday 11/17|Quiz in class| | |
 |Monday 11/20--Friday 11/24|Fall break---no class|||
 |Monday 11/27|Introduction to probability|9.2, 10.2||
 |Wednesday 11/29|Tree diagrams and choosing|10.2, 9.4||
@@ -107,7 +107,7 @@ announcements. Videos can be found in the [Panopto folder](https://montana.hoste
 ### Instructor office hours
 
 My office hours are 5:10-6:30pm (right after class) on Mondays and 9:30-11am on
-Thursdaysin the CS Success Center
+Thursdays in the CS Success Center
 (Barnard 259). You can also contact me on Discord to set up a
 different meeting time, make an appointment via my [calendar](https://calendar.google.com/calendar/appointments/schedules/AcZssZ2hjUnXFy55TwZXrSyiG53_QoYEz592Vki7k0zvjmu2eWGXBG6x9c6zYfpe7JNylzyUeQYrMp0c), or drop by my office (Barnard 359) if my door is open.
 You can find office hours for all CS faculty [here](https://www.cs.montana.edu/office-hours.html).
@@ -147,7 +147,7 @@ assignments, at the end of this course, students should:
 You will be graded on the following:
 * 11 homework assignments (lowest score dropped): 50%
 * 3 quizzes (including final): 40%
-* In-class assignments (1 point for particpating in each one, for up to 10
+* In-class assignments (1 point for participating in each one, for up to 10
 	points total; there will be at least 15 total): 10%
 
 After any curving, your grade will be determined by your total score as follows:
@@ -168,7 +168,7 @@ quarter of a point. Only the first person to post about an error gets the points
 Because the max score you can receive for the in-class assignment category is
 10, but there will be at least 15 in-class assignments, any additional in-class
 assignment will be added as a half point to your score at the end of the
-semeseter. The max points you can earn from this bonus is 2.
+semester. The max points you can earn from this bonus is 2.
 
 #### Course survey and evaluation
 
@@ -200,7 +200,7 @@ I follow University policy on makeups, which allows that serious illness or a
 serious family emergency are valid reasons requiring an accommodation. Most
 other reasons (employment conflict, travel plans) are not valid.
 
-### Missed in-class asignment policy
+### Missed in-class assignment policy
 
 If you know that you will miss class consistently, please come talk to me or
 send me a Discord message ASAP and we will work something out.
@@ -225,7 +225,7 @@ In line with the [MSU student code of conduct](https://www.montana.edu/policy/st
 ## Important dates
 
 The last day to drop the course online (with no instructor or advisor approval)
-is September 6thj. The last day to drop without a W grade (instructor or advisor
+is September 6th. The last day to drop without a W grade (instructor or advisor
 approval required) is September 13th. The last day to drop with a W grade
 (instructor and advisor approval required) is November 15th. See the full
 [add/drop schedule](https://www.montana.edu/registrar/add_drop_schedule.html)
