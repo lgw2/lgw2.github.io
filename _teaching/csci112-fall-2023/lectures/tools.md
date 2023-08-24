@@ -22,6 +22,22 @@ is sort of like the name of the computer, and then the part after is the
 current location on the computer. The tilde (`~`) is an alias for the user's
 "home".
 
+### Paths
+
+To navigate a computer's file system using the command line, we use commands
+like `cd` (change directory) and `pwd` (print out the present working
+directory).
+
+To move to another folder inside our current directory, we can use a relative
+path, like this:
+
+
+```
+luciawilliams@BZ-CS-LW-MBP ~ % cd Desktop/
+```
+
+To move
+
 ## Course server
 
 We will write our programs on the course server, a Linux computer that we
