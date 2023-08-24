@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-
-
 I am an assistant teaching & research professor in computer science at Montana
 State University in Bozeman, Montana. You can reach me at lucia.williams (at)
 montana.edu.
@@ -30,7 +28,7 @@ company in Seattle, after earning undergraduate degrees in applied math and
 urban planning.  Outside of work, my main hobby is playing and coaching
 Ultimate Frisbee.  I also enjoy human-powered outdoor adventures.
 
-### News
+## News
 
 I will be joining the computer science faculty at the University of
 Montana as an assistant professor in January 2024!
