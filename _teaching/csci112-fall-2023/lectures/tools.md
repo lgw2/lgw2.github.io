@@ -45,7 +45,7 @@ Are you sure you want to continue connecting (yes/no/[fingerprint])?
 ```
 You should type `yes` and press enter.
 
-When you're prompted to enter your password. nothing will show up, but you are
+When you're prompted to enter your password, nothing will show up, but you are
 typing!
 
 Note that if you have three unsuccessful login attempts, you will be blocked
