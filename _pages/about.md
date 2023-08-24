@@ -7,11 +7,14 @@ redirect_from:
   - /about.html
 ---
 
+*News* I will be joining the computer science faculty at the University of
+Montana as an assistant professor in January 2024!
+
 I am an assistant teaching & research professor in computer science at Montana
 State University in Bozeman, Montana. You can reach me at lucia.williams (at)
 montana.edu.
 
-In spring 2023, I will teach CSCI 112 and CSCI 246.
+In fall 2023, I am teaching CSCI 112 and CSCI 246.
 See my [teaching page](https://lgw2.github.io/teaching/) for all of my
 course materials.
 
