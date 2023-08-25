@@ -193,7 +193,7 @@ The numbers you entered are 1, 2, 3, 4, 5
 
 ### Copying files from the server to your local computer
 
-You can use the	`scp` command to copy files from your the server to your local
+You can use the	`scp` command to copy files from the server to your local
 computer. **Note that you need to do this from your own computer, not from the
 server!** The first argument is where to copy from and the second is where to
 copy to. For example,
