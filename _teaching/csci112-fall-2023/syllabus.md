@@ -9,7 +9,7 @@ location: "Bozeman, Montana"
 
 ## Course schedule
 
-Schedule subject to change.
+Schedule subject to change. Find all lecture videos in [this Panopto folder](https://montana.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=4e5bb230-6655-46f4-8f8a-af8e0125c460).
 
 |Date|Lecture Topic (notes linked)|Textbook Chapter|Classwork Due/Quiz|Lab Due|
 |:---|:---|:---|:---|:---|
@@ -28,7 +28,7 @@ Schedule subject to change.
 |Wednesday 9/20|Conditional operator; arrays|7|Classwork 9|
 |Friday 9/22|Arrays|7|Quiz 2|Lab 4|
 |Monday 9/25|Arrays|7|Classwork 10||
-|Wednesday 9/27|Command line arguments|7|Classwork 10||
+|Wednesday 9/27|Command line arguments|7|Classwork 11||
 |Friday 9/29|Searching arrays|||Lab 5|
 |Monday 10/2|Sorting arrays||Classwork 12||
 |Wednesday 10/4|Pointers; file i/o||Classwork 13||
@@ -97,7 +97,7 @@ You can find free PDFs of the textbook online.
 
 We have a shared course server for you to develop, compile, and run your C
 programs on. Details for how to access the server can be found on the [lecture 1
-page](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/lecture1/).
+page](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/tools/).
 
 ### Optional open lab and TAs
 
