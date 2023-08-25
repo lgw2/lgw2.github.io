@@ -14,7 +14,7 @@ Schedule subject to change. Find all lecture videos in [this Panopto folder](htt
 |Date|Lecture Topic (notes written during class linked)|Recommended Reading|Homework Due|
 |:---|:---|:---|:---|
 |Wednesday 8/23|Course intro & syllabus| | |
-|Friday 8/25|[Direct proofs; disproof by example](https://lgw2.github.io/teaching/csci246-fall-2023/lectures/direct_proofs_and_proofs_by_counterexample.pdf)|4.3, 2.2.1-2.2.3, 2.2.6|      |
+|Friday 8/25|[Direct proofs; disproof by counter-example](https://lgw2.github.io/teaching/csci246-fall-2023/lectures/direct_proofs_and_proofs_by_counterexample.pdf)|4.3, 2.2.1-2.2.3, 2.2.6|      |
 |Monday 8/28|Proof by cases|4.3, 2.3| |
 |Wednesday 8/30|Intro to sets|2.3|      |
 |Friday 9/1|Sets part 2 |2.3| |
