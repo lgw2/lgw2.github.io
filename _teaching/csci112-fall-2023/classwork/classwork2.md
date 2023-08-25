@@ -25,11 +25,8 @@ for help in any way, including use of AI tools like ChatGPT.
 
 ## Assignment
 
-* If on Windows, you can either use [Windows Subsystem for Linux (WSL)](https://learn.microsoft.com/en-us/windows/wsl/install) or
-	[Cygwin](https://www.cygwin.com/) to open a Linux terminal. You may have WSL already installed.
-Whichever you choose, open it and then use it as you would the Mac/Linux
-	terminal in the next step.
-* Log in to the server: open a terminal window and type
+* Log in to the server: open a terminal window (the Terminal program on Mac and
+	the Command Prompt program on Windows) and type
 
 ```
 ssh <netid>@csci112.cs.montana.edu
