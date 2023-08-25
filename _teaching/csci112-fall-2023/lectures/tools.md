@@ -3,6 +3,14 @@ collection: teaching
 title: "Course server; intro Linux and vim; classwork submission setup"
 ---
 
+This page gives a description of many of the tools we will use in this class.
+We will refer to it multiple times throughout the semester.
+
+Contents:
+1. [Using the command line](#using-a-computer-via-the-command-line)
+1. [Course server](#course-server)
+1. [Vim](#vim)
+
 ## Using a computer via the command line
 
 You are probably used to interacting with a computer via a graphical user
@@ -58,14 +66,8 @@ will help you get it.
 
 ## Using the Linux shell
 
-On the server, we can't run programs using their own graphical user interfaces
-(GUIs)
-like we might on our own computers. Instead, we interact with the computer
-using a shell. Technically, a shell is a program that interacts with the
-operating system and a terminal is the GUI that allows you
-to run the shell, but in this course we will use the two words interchangeably.
-
-You use the shell using the shell prompt, which looks something like this:
+The server is using an operating system called Linux. Linux can be used with a GUI, but we will use the server via the command prompt only.
+The command prompt looks something like this:
 
 ```
 [username@csci112 ~]$
@@ -83,12 +85,13 @@ programming.
 	and all of its contents)
 * `mv <path> <newpath>`, move a file or directory to a new location (can also
 	be used to rename a file or directory)
+* `clear`, clear the screen
 
 You'll also want to be familiar with the following functionality and ideas:
 * The up and down arrow keys allow you to scroll through previous commands you
 	have run. You can edit these and run them again.
 * `..` is the directory above the current one; `.` is the current directory.
-* tab completion: if you press tab, the shell will try to autocomplete whatever
+* Tab completion: if you press tab, the shell will try to autocomplete whatever
 	you have written. Use this *all of the time*.
 * `Ctrl-c` quits whatever program is currently running. If you accidentally
 	start something you didn't want to start, use this.
@@ -115,7 +118,7 @@ cd dir1
 ```
 
 to go into `dir1`, or if there is a file called `text.txt` I can open it in
-`vim` by running
+`vim` (discussed later)  by running
 
 ```
 vim dir1/text.txt
