@@ -105,10 +105,7 @@ There is an optional open lab on Fridays in Roberts Hall 111 from noon to 4pm.
 *Note that there is no lab during the first week of classes (Friday, August 25th)!* However, after this week, even
 when no lab is due, there will still be TAs in the lab to help you.
 
-Our TAS are TBD.
-
-You should contact your TA via Discord if you have any
-questions about grading on labs or need extra help.
+Our TA is TBD.
 
 ### Lecture videos
 
