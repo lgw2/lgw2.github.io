@@ -29,9 +29,9 @@ for help in any way, including use of AI tools like ChatGPT.
 * In your home directory, navigate to your `csci112_fall2023` directory, or
 	create it if it doesn't exist. Note
 	that you must match this directory name exactly.
-* Follow the instructions from the [git lecture notes](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/lecture2/) to initialize a git
+* Follow the instructions from the [git lecture notes](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/git/) to initialize a git
 	repository.
-* Follow the instructions from the [git lecture notes](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/lecture2/) to add all changes,
+* Follow the instructions from the [git lecture notes](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/git/) to add all changes,
 	commit, and tag the current snapshot of your repository as `my_first_tag`.
 
 ## Grading turnaround
