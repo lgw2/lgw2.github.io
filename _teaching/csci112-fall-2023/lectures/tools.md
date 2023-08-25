@@ -36,7 +36,7 @@ current location on the computer. The tilde (`~`) is an alias for the user's
 We will write our programs on the course server, a Linux computer that we
 access remotely from our own computers. Its hostname is `csci112.cs.montana.edu`. To access it, we can
 open up a terminal (on Mac or Linux) or command prompt
-(on Windows since Windows 10) and run the `ssh`
+(on Windows) and run the `ssh`
 (secure shell) command to log in using our netid, like so:
 
 ```
