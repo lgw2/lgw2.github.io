@@ -116,7 +116,7 @@ Lectures are recorded and available to watch after class. However, if there are
 technical difficulties recording a lecture, it will not be re-recorded, so come
 to class when you can to make sure that you do not miss course content or
 announcements. The videos are linked in the schedule above and are all stored
-in this [public Panopto folder](https://montana.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=4e5bb230-6655-46f4-8f8a-af8e0125c460) if you'd like to access them that way.
+in this [public Panopto folder](https://montana.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=5772861a-1645-42f4-b27e-b04b011b0c4a) if you'd like to access them that way.
 
 ### Instructor office hours
 
