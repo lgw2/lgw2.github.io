@@ -35,14 +35,20 @@ current location on the computer. The tilde (`~`) is an alias for the user's
 
 We will write our programs on the course server, a Linux computer that we
 access remotely from our own computers. Its hostname is `csci112.cs.montana.edu`. To access it, we can
-open up a terminal (on Mac or Linux) or [Windows Subsystem for Linux (WSL)](https://learn.microsoft.com/en-us/windows/wsl/install) or [Cygwin](https://www.cygwin.com/) (on Windows) and run the `ssh`
+open up a terminal (on Mac or Linux) or command prompt
+(on Windows since Windows 10) and run the `ssh`
 (secure shell) command to log in using our netid, like so:
 
 ```
 ssh <netid>@csci112.cs.montana.edu
 ```
 
-Note that whenever you see something in angle brackets (`<` and `>`), it means you should replace whatever's in them *and* them with something else. (In this case, your netid).
+Note that whenever you see something in angle brackets (`<` and `>`), it means you should replace whatever's in them *and* them with something else. (In this case, your netid). So, for example, with the netid `p19t655`, the command would be
+
+
+```
+ssh p19t655@csci112.cs.montana.edu
+```
 
 The first time you log in to the server, you will see a message like this:
 
