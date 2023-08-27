@@ -12,21 +12,22 @@ title: "Lab 1"
 
 ## Outside resources
 
-On this assignment, there are no restrictions on the use of outside resources
-for help in any way, including AI tools like ChatGPT. The main challenge of
-this assignment is using `git` and the autograder system, not writing the C
-code.
+On this assignment, you may not use the the internet or generative AI such as
+ChatGPT to solicit solutions to the programming part of the assignment. If you
+are having trouble writing your program, please go to lab (Fridays, 12-4 in
+Roberts 111) or post in Discord to
+get help.
 
-However, please do not post your
-completed C code on Discord for those who would like to write
-the code themselves without hints.
+However, you may use those resources for help with navigating the Linux
+terminal, using vim, and using git, although you may get better answers to your
+questions by going to lab or posting on Discord anyway.
 
 ## Learning outcomes
 * Make sure that your `git` repository is set up correctly.
 * Stage, commit, and tag the state of your repository.
 * Use prepocessor directives (e.g., `#include`, `#define`).
 * Get input from the console.
-* Do a basic calculation.
+* Do a basic calculation in C.
 * Print and format output.
 * Become familiar with the autograder for labs.
 
