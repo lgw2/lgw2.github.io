@@ -46,25 +46,32 @@ whole hours and minutes. Note that you will need to convert the elapsed time
 into hours. For example, if the user entered 2 30 (2 hours 30 minutes), you
 would need to convert this to 2.5 hours.
 
-### Example output
+### Input/output format
 
+For this assignment, you must match the output format exactly, and take input
+from the user precisely as described.
 
-### Hints
+You must prompt the user as follows:
+
+```
+Hours and minutes since power outage? (e.g., 2 30 for 2 hours, 30 minutes)
+```
+And you should print the result as follows, with exactly two numbers after the
+decimal point:
+
+```
+Estimated current temperature: -4.64 degrees Celsius
+```
+
+Thus, a full run of your program might look like this:
+
+```
+Hours and minutes since power outage? (e.g., 2 30 for 2 hours, 30 minutes)
+Estimated current temperature: -4.64 degrees Celsius
+```
 
 ## Grading - 100 points
-* 10 points – includes comments explaining what your program does
-* 10 points – code is indented so it is readable
-* 10 points – compiles successfully with `-Wall` – no warnings
-* 5 points – discount is computed in own function
-* 5 points - a separate function is used to print the results
-* 20 points – uses proper math equations to compute taxes and discount
-* 10 points – prints the output to exactly match the sample output
-* 10 points – reads in the input to exactly match the sample
-* 10 points – allows `y`, `Y`, `n`, `N` as input for military question
-* 10 points – prints error message if any other input for military question, exactly matching example
-* BONUS: 5 points - in a comment in your program, explain why your program can
-	accept longer strings of characters as long as they begin with `y`, `Y`,
-	`n`, or `N`.
+TODO
 
 ## Grading turnaround
 Scores will be uploaded to D2L by class time on Wednesday, September 6th.
