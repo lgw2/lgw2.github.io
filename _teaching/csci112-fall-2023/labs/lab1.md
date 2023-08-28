@@ -46,6 +46,12 @@ whole hours and minutes. Note that you will need to convert the elapsed time
 into hours. For example, if the user entered 2 30 (2 hours 30 minutes), you
 would need to convert this to 2.5 hours.
 
+### Requirements
+
+You must:
+* include the `stdio` library
+* use a constant macro preprocessor directive
+
 ### Input/output format
 
 For this assignment, you must match the output format exactly, and take input
@@ -80,6 +86,10 @@ Estimated current temperature: -4.64 degrees Celsius
 * 5: output reporting temperature matches exactly
 * 10: prints temperature with exactly 2 decimal places
 * 10 points each: computes correct temperature for 4 test cases
+
+### Autograder
+
+An autograder to check your work will be available by Wednesday, August 30th.
 
 ## Grading turnaround
 Scores will be uploaded to D2L by class time on Wednesday, September 6th.
