@@ -15,7 +15,7 @@ Schedule subject to change. Find all lecture videos in [this Panopto folder](htt
 |:---|:---|:---|:---|:---|
 |Wednesday 8/23|Intro & syllabus||[Classwork 1](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork1/)||
 |Friday 8/25|[Course server; intro Linux and vim; classwork submission setup](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/tools/)||[Classwork 2](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork2/)|
-|Monday 8/28|Intro to C; more Linux & vim|2.1|[Classwork 3](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork3/)|
+|Monday 8/28|[Intro to C](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter2/); more Linux & vim|2.1|[Classwork 3](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork3/)|
 |Wednesday 8/30|Git and GitHub||[Classwork 4](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork4/)|
 |Friday 9/1|More intro to C/Linux + vim|2.1-2.6|Practice Quiz (ungraded)|Lab 1|
 |Monday 9/4| Labor Day---no class||||
@@ -104,8 +104,6 @@ page](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/tools/).
 There is an optional open lab on Fridays in Roberts Hall 111 from noon to 4pm.
 *Note that there is no lab during the first week of classes (Friday, August 25th)!* However, after this week, even
 when no lab is due, there will still be TAs in the lab to help you.
-
-Our TA is TBD.
 
 ### Lecture videos
 
