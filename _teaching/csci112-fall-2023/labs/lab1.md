@@ -70,8 +70,14 @@ Hours and minutes since power outage? (e.g., 2 30 for 2 hours, 30 minutes)
 Estimated current temperature: -4.64 degrees Celsius
 ```
 
-## Grading - 100 points
-TODO
+## Grading--100 points
+* 10: source file exists with correct name in correct location
+* 10: source file compiles
+* 10: source file compiles without warnings
+* 5: includes `stdio.h`
+* 5: defines a constant macro
+* 5: prompt to user matches exactly
+* 5: output reporting
 
 ## Grading turnaround
 Scores will be uploaded to D2L by class time on Wednesday, September 6th.
