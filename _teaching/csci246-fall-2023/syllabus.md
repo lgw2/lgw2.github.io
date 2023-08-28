@@ -18,7 +18,7 @@ Schedule subject to change. Find all lecture videos in [this Panopto folder](htt
 |Monday 8/28|Proof by cases|4.3, 2.3| |
 |Wednesday 8/30|Intro to sets|2.3|      |
 |Friday 9/1|Sets part 2 |2.3| |
-|Monday 9/4| Labor Day---no class||Homework 1|
+|Monday 9/4| Labor Day---no class||[Homework 1](https://lgw2.github.io/teaching/csci246-fall-2023/homework/hw1.pdf)|
 |Wednesday 9/6|Sets part 3|2.3, 9.2, 2.4||
 |Friday 9/8|Proofs by contradiction|4.3| |
 |Monday 9/11|Propositional logic| 3.1-3.3|Homework 2|
