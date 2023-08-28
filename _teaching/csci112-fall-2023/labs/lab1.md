@@ -72,7 +72,7 @@ Estimated current temperature: -4.64 degrees Celsius
 Thus, a full run of your program might look like this:
 
 ```
-Hours and minutes since power outage? (e.g., 2 30 for 2 hours, 30 minutes)
+Hours and minutes since power outage? (e.g., 2 30 for 2 hours, 30 minutes) 2 30
 Estimated current temperature: -4.64 degrees Celsius
 ```
 
