@@ -95,7 +95,8 @@ updated throughout the semester.
 
 ### Course assistants
 
-This section will be updated when course assistants are assigned.
+Breaden is our course assistant. His office hours are Thursday 9-10 and Friday
+12-1 in the CS Success Center, Barnard 259.
 
 ### Lecture videos
 
