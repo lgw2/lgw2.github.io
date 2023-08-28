@@ -77,7 +77,9 @@ Estimated current temperature: -4.64 degrees Celsius
 * 5: includes `stdio.h`
 * 5: defines a constant macro
 * 5: prompt to user matches exactly
-* 5: output reporting
+* 5: output reporting temperature matches exactly
+* 10: prints temperature with exactly 2 decimal places
+* 10 points each: computes correct temperature for 4 test cases
 
 ## Grading turnaround
 Scores will be uploaded to D2L by class time on Wednesday, September 6th.
