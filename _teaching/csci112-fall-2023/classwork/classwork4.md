@@ -7,7 +7,7 @@ title: "Classwork 4"
 * Due: Wednesday, August 30th AoE.
 * **If you want to see the results of the autograder so that you can check that you will get full credit**: create the directory `csci112_fall2023/classwork/week2/wed`.
 	You  don't need to put anything in it. But that's the only place that the
-	autograder knows to put your file. You can still get full credit even
+	autograder knows to put your `autograder.txt` file. You can still get full credit even
 	without doing this, but you won't get the preliminary results. As usual,
 	you can run the autograder using
 	`/public/classwork/week2/wed/autograder.sh`.
