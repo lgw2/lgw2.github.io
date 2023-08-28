@@ -8,7 +8,9 @@ title: "Classwork 4"
 * **If you want to see the results of the autograder so that you can check that you will get full credit**: create the directory `csci112_fall2023/classwork/week2/wed`.
 	You  don't need to put anything in it. But that's the only place that the
 	autograder knows to put your file. You can still get full credit even
-	without doing this, but you won't get the preliminary results.
+	without doing this, but you won't get the preliminary results. As usual,
+	you can run the autograder using
+	`/public/classwork/week2/wed/autograder.sh`.
 * Submission instructions: make sure that the required directory
 	(`csci112_fall2023`) is in your home directory, that it is a git
 	repository, and that it has a commit with the tag `my_first_tag`.
