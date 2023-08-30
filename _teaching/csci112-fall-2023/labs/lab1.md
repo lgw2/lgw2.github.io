@@ -89,7 +89,13 @@ Estimated current temperature: -4.64 degrees Celsius
 
 ### Autograder
 
-An autograder to check your work will be available by Wednesday, August 30th.
+You can run the autograder using
+
+```
+/public/labs/lab1/autograder.sh
+```
+
+A detailed breakdown of your score will be present in `autograder.txt`.
 
 ## Grading turnaround
 Scores will be uploaded to D2L by class time on Wednesday, September 6th.
