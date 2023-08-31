@@ -18,10 +18,11 @@ title: "Classwork 5"
 
 * Log in to the server.
 * From your home directory, navigate to `csci112_fall2023/classwork/week3/wed/`, creating directories `week3` and `wed` if necessary.
-* **Copy the file with the starting code.** It's the file `cw5.c` in the directory `/public/classwork/week3/wed`. You will
+* **Copy the file with the starting code and make sure that it is renamed to `remainder.c`.** It's the file `cw5.c` in the directory `/public/classwork/week3/wed`. You will
 	probably need to use the `cp` command, and maybe the `mv` command if you
 	didn't rename your file when you copied it. See the [Linux notes from the
-	first lecture]() for a review of those commands.
+	first lecture](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/tools/) for a review of those commands.
+*
 
 Prompt the user for two integers, one to use a dividend and one to be used as a
 divisor. Write a function `rem` that takes in both integers and returns the
