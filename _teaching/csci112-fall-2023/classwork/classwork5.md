@@ -17,7 +17,7 @@ title: "Classwork 5"
 ## Assignment
 
 * Log in to the server.
-* From your home directory, navigate to `classwork/week3/wed/`, creating directories `week3` and `wed` if necessary.
+* From your home directory, navigate to `csci112_fall2023/classwork/week3/wed/`, creating directories `week3` and `wed` if necessary.
 * **Copy the file with the starting code.** It's the file `cw5.c` in the directory `/public/classwork/week3/wed`. You will
 	probably need to use the `cp` command, and maybe the `mv` command if you
 	didn't rename your file when you copied it. See the [Linux notes from the
