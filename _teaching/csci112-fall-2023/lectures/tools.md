@@ -91,6 +91,7 @@ programming.
 	and all of its contents)
 * `mv <path> <newpath>`, move a file or directory to a new location (can also
 	be used to rename a file or directory)
+* `cp <path> <newpath>`, copy a file or directory to a new location
 * `clear`, clear the screen
 
 You'll also want to be familiar with the following functionality and ideas:
