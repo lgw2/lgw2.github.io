@@ -11,7 +11,7 @@ title: "Classwork 5"
 	this assignment.
 
 ## Learning outcomes
-* Write a function that takes in two inputs and returns one output.
+* Write a function in C.
 * Use a function prototype and define your function below `main`.
 
 ## Assignment
