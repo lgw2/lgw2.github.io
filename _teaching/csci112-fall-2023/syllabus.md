@@ -17,7 +17,7 @@ Schedule subject to change. Find all lecture videos in [this Panopto folder](htt
 |Friday 8/25|[Course server; intro Linux and vim; classwork submission setup](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/tools/)||[Classwork 2](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork2/)|
 |Monday 8/28|[Intro to C](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter2.pdf); more [Linux & vim](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/tools/)|2.1|[Classwork 3](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork3/)|
 |Wednesday 8/30|[Git and GitHub](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/git)||[Classwork 4](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork4/)|
-|Friday 9/1|[More intro to C](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter2.pdf)|2.1-2.6|Practice Quiz (ungraded)|[Lab 1](https://lgw2.github.io/teaching/csci112-fall-2023/labs/lab1/)|
+|Friday 9/1|[More intro to C](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter2.pdf)|2.1-2.6|[Practice Quiz (ungraded)](https://lgw2.github.io/teaching/csci112-fall-2023/quizzes/practice.pdf)|[Lab 1](https://lgw2.github.io/teaching/csci112-fall-2023/labs/lab1/)|
 |Monday 9/4| Labor Day---no class||||
 |Wednesday 9/6|Functions|3.1-3.5|[Classwork 5](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork5/)|
 |Friday 9/8|Functions|3.1-3.5|Quiz 1|Lab 2|
