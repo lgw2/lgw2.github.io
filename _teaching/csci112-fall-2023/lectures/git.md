@@ -272,7 +272,7 @@ Date:   Thu Jan 26 20:18:53 2023 -0700
 
     Update
 ```
-and I want to tag the commit with the comment "lab1" with the tag `lab1` , I cound run
+and I want to tag the commit with the comment "lab1" with the tag `lab1` , I could run
 ```
 git tag lab1 3601b167efb9a1c6ed3f384c55a720c740f4ab07
 ```
@@ -295,7 +295,7 @@ before the third command above.
 
 ### Nested repositories
 
-In general, you do not want to have nested git respositories. This is what
+In general, you do not want to have nested git repositories. This is what
 happens if you run `git init` in one directory, and then run it again in one of
 the subdirectories of that directory later. You'll know if you have nested
 repositories if `git log` looks different in different directories of your
@@ -368,7 +368,7 @@ you delete the correct `.git` directory.
 
 ### Adding a remote to your repository
 
-If you would like to connect your `csci112_spring2023` repository to GitHub,
+If you would like to connect your `csci112_fall2023` repository to GitHub,
 do the following steps. You must choose whether to use HTTPS or SSH to
 communicate with GitHub. Either is fine, but HTTPS is simpler, so I recommend
 that.
@@ -378,7 +378,7 @@ Do not initialize the new repository with README, license, or gitignore files.
 **Please make this
 repository private so that I can reuse assignments for this course without the
 solutions being available online!** Copy the remote url with https in it.
-2. On the server, navigate to your `csci112_spring2023` repository and run
+2. On the server, navigate to your `csci112_fall2023` repository and run
 ```
 git remote add origin <REMOTE_URL>
 ```
@@ -398,7 +398,7 @@ git push
 
 ### Cloning that repo to your local computer
 
-To copy over the files in your `csci112_spring2023` directory (and now on
+To copy over the files in your `csci112_fall2023` directory (and now on
 GitHub as well) to a local computer, clone the GitHub repository.
 
 In a terminal window, enter
@@ -406,10 +406,10 @@ In a terminal window, enter
 git clone <REMOTE_URL>
 ```
 
-This will create a directory called `csci112_spring2023` that holds everything
+This will create a directory called `csci112_fall2023` that holds everything
 that was in the GitHub repo. If you make an update there (by pushing from the
 server) and want to get that update on your computer, navigate into the
-`csci112_spring2023` directory and run `git pull`.
+`csci112_fall2023` directory and run `git pull`.
 
 ### Additional resources
 
