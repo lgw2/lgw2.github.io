@@ -1,6 +1,6 @@
 ---
 collection: teaching
-title: "Lab 1"
+title: "Lab 2"
 ---
 
 ## Logistics
