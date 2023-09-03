@@ -31,8 +31,8 @@ questions by going to lab or posting on Discord anyway.
 ## Assignment
 
 In order to earn some extra money over the three-day holiday weekend, you take
-a job working security at a music festival. In order to entice workers, the
-festival has offered different rates of pay for different days.
+a job working security at a music festival. However, the compensation is a bit
+complex: the hourly wage is different on different days of the festival.
 
 To make sure you are compensated fairly, you decide to write a program
 to compute your total pay based on the hours you worked each day and the hourly
