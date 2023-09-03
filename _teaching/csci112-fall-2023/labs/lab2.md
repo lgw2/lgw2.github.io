@@ -1,102 +1,100 @@
 ---
 collection: teaching
-title: "Lab 2"
+title: "Lab 1"
 ---
 
 ## Logistics
-* Due: Friday, February 17th AoE.
+* Due: Friday, September 8th AoE.
 * Submission instructions: ensure that you have the source code you want us to
-	grade in a file called `lab2.c` in your `~/csci112_spring2023/labs/lab2`
+	grade in a file called `lab2.c` in your `~/csci112_fall2023/labs/lab2`
 	directory, and that the snapshot (commit) of your repository containing the version of that file you want us to grade has been committed and
-	tagged as `lab2`. See the [git lecture](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/lecture2) and [classwork 4](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork4) for more
-	details.
-* Note that grading will be done on D2L, so you can see comments and
-	and detailed breakdown of your score there, but you do not need to submit
-	anything there.
-* Deadline reminder: per the [late assignment policy](https://lgw2.github.io/teaching/csci112-spring-2023/syllabus/#late-assignment-policies), if you submit after the deadline but within 24 hours of it you will receive a 25% penalty. If you submit within 48 hours you will receive a 50% penalty. After that, no submissions will be accepted.
+	tagged as `lab2`. (You should have set up your `git` repo and practiced tagging a commit in [Classwork 4](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork4/).)
+
+## Outside resources
+
+On this assignment, you may not use the the internet or generative AI such as
+ChatGPT to solicit solutions to the programming part of the assignment. If you
+are having trouble writing your program, please go to lab (Fridays, 12-4 in
+Roberts 111) or post in Discord to
+get help.
+
+However, you may use those resources for help with navigating the Linux
+terminal, using vim, and using git, although you may get better answers to your
+questions by going to lab or posting on Discord anyway.
 
 ## Learning outcomes
-* Practice using `if` statements.
-* Practice using loops.
+* Practice getting input from the console using `scanf`.
+* Practice printing using `printf`.
+* Reuse code with functions.
+* Practice function syntax in C.
 
 ## Assignment
 
-*This is based on problem 7, chapter 5 on page 309.*
+In order to earn some extra money over the three-day holiday weekend, you take
+a job working security at a music festival. In order to entice workers, the
+festival has offered different rates of pay for different days.
 
-Write a program to process a collection of daily high temperatures. Your
-program should count  the number of hot days (high temperature 85 or
-higher), the number of pleasant days (high temperature 60-84), and the number
-of cold days (high temperatures less than 60). Then, it should print a
-visualization of those numbers (see sample output for an example) and the
-average temperature.
+To make sure you are compensated fairly, you decide to write a program
+to compute your total pay based on the hours you worked each day and the hourly
+wage promised for that day. As a challenge, and to practice your new knowledge
+of using functions to reuse code, you decide not to use the `printf` function
+in `main`, nor to use for loops.
 
-### Notes
-* Write your program in a file called `lab2.c` in your
-	`csci112-spring2023/labs/lab2/` directory.
-* You can assume that the user will only enter integers.
-* To check your work quickly, you can run `./<your-executable> < /public/labs/lab2/input.txt`, which will input the numbers entered by the
-	user in the example output below without you having to type them.
-* You may choose to accept inputs less than -99 as valid high temperatures, or
-	not. You will only be tested on inputs greater than -99 and -99 as the
-	stopping condition.
+In a file called `lab2.c` in your `csci112_fall2023/labs/lab2` directory, write a program that computes your earnings over the course of the 3 days.
 
-### Example output
-If you type in the numbers directly to the console, your output should look
-something like this (no need to match formatting exactly):
+### Requirements
+
+You must:
+* not use any for loops
+* not use `printf` in `main`
+
+### Input/output format
+
+For this assignment, you must match the output format exactly, and take input
+from the user precisely as described.
+
+For each of the three days, you must prompt the user for the number of hours
+they worked and the wage for that day.
+
+After receiving information about the hours worked and wage for each day,
+report the total pay that you are owed.
+
+Thus, a full run of your program would look like this if you entered `3`,
+`21.40`, `5`, `25`, `8`, and `33.33`:
+
 ```
-[p19t655@csci112 lab2]$ ./a.out
-Enter a high temp reading (-99 to quit)> 56
-Enter a high temp reading (-99 to quit)> 76
-Enter a high temp reading (-99 to quit)> 12
-Enter a high temp reading (-99 to quit)> 34
-Enter a high temp reading (-99 to quit)> 55
-Enter a high temp reading (-99 to quit)> 99
-Enter a high temp reading (-99 to quit)> 101
-Enter a high temp reading (-99 to quit)> 90
-Enter a high temp reading (-99 to quit)> 87
-Enter a high temp reading (-99 to quit)> 43
-Enter a high temp reading (-99 to quit)> -12
-Enter a high temp reading (-99 to quit)> 9
-Enter a high temp reading (-99 to quit)> -99
+Enter hours worked for day 1: 3
+Enter hourly wage for day 1: $21.40
+Enter hours worked for day 2: 5
+Enter hourly wage for day 2: $25
+Enter hours worked for day 3: 8
+Enter hourly wage for day 3: $33.33
 
-Hot days:	****
-Pleasant days:	*
-Cold days:	*******
-Average temperature: 54.2
-```
-If you use redirection with the sample input file, it will look something like
-this:
-```
-[p19t655@csci112 lab2]$ ./lab2 </public/labs/lab2/input.txt
-Enter a high temp reading (-99 to quit)> Enter a high temp reading (-99 to quit)> Enter a high temp reading (-99 to quit)> Enter a high temp reading (-99 to quit)> Enter a high temp reading (-99 to quit)> Enter a high temp reading (-99 to quit)> Enter a high temp reading (-99 to quit)> Enter a high temp reading (-99 to quit)> Enter a high temp reading (-99 to quit)> Enter a high temp reading (-99 to quit)> Enter a high temp reading (-99 to quit)> Enter a high temp reading (-99 to quit)> Enter a high temp reading (-99 to quit)>
-Hot days:	****
-Pleasant days:	*
-Cold days:	*******
-Average temperature: 54.2
+Your total pay is $455.84
 ```
 
-## Grading - 100 points
-**If your code does not compile, has a runtime error on the inputs shown in the example output,
-or uses global variables (variables declared outside of main), you get an
-automatic 0.**
-* 10 points: code is indented so it is readable
-* 10 points: compiles successfully with `-Wall` -- no warnings
-* 10 points: the program stops collecting data when the user enters -99
-* 10 points: -99 is not counted as a temperature
-* 5 points: hot temperatures are counted correctly
-* 5 points: pleasant temperatures are counted correctly
-* 5 points: cold temperatures are counted correctly
-* 10 points: data visualization is correct based on counts
-* 15 points: the average computation is correct
-* 10 points: the average temperatures is printed with exactly one decimal
-	place
+You can assume that the hours worked will always be a whole number.
+
+## Grading--100 points
+* 10: source file exists with correct name in correct location
+* 10: source file compiles
+* 10: source file compiles without warnings
+* 20: does not use `printf` in `main`
+* 10: does not use a for loop
+* 10: prompt to user matches exactly
+* 10: output reporting earnings matches exactly (include linebreak and number
+	of decimal places)
+* 5 points each: computes correct total earnings for 4 test cases
+
+### Autograder
+
+You can run the autograder using
+
+```
+/public/labs/lab2/autograder.sh
+```
+
+A detailed breakdown of your score will be present in `autograder.txt`.
 
 ## Grading turnaround
-This lab will be graded within one week of its due date.
-
-## Go beyond
-* Use functions to avoid repeated code when printing your visualization.
-* Use the increment operator `++` and addition assignment `+=` when possible.
-* If you used a `while` loop, try changing your code to use a `do while` loop.
-	If you used a `do while` loop, try changing your code to use a `while`
-	loop.
+Scores will be uploaded to D2L by class time on Wednesday, Septmber 13th.
