@@ -38,14 +38,14 @@ To make sure you are compensated fairly, you decide to write a program
 to compute your total pay based on the hours you worked each day and the hourly
 wage promised for that day. As a challenge, and to practice your new knowledge
 of using functions to reuse code, you decide not to use the `printf` function
-in `main`, nor to use for loops.
+in `main`, nor to use for or while loops.
 
 In a file called `lab2.c` in your `csci112_fall2023/labs/lab2` directory, write a program that computes your earnings over the course of the 3 days.
 
 ### Requirements
 
 You must:
-* not use any for loops
+* not use any loops
 * not use `printf` in `main`
 
 ### Input/output format
@@ -63,12 +63,12 @@ Thus, a full run of your program would look like this if you entered `3`,
 `21.40`, `5`, `25`, `8`, and `33.33`:
 
 ```
-Enter hours worked for day 1: 3
-Enter hourly wage for day 1: $21.40
-Enter hours worked for day 2: 5
-Enter hourly wage for day 2: $25
-Enter hours worked for day 3: 8
-Enter hourly wage for day 3: $33.33
+Enter hours worked on day 1: 3
+Enter hourly wage on day 1: $21.40
+Enter hours worked on day 2: 5
+Enter hourly wage on day 2: $25
+Enter hours worked on day 3: 8
+Enter hourly wage on day 3: $33.33
 
 Your total pay is $455.84
 ```
@@ -80,7 +80,7 @@ You can assume that the hours worked will always be a whole number.
 * 10: source file compiles
 * 10: source file compiles without warnings
 * 20: does not use `printf` in `main`
-* 10: does not use a for loop
+* 10: does not use a for or while loop
 * 10: prompt to user matches exactly
 * 10: output reporting earnings matches exactly (include linebreak and number
 	of decimal places)
