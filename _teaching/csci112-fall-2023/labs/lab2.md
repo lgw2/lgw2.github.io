@@ -88,13 +88,7 @@ You can assume that the hours worked will always be a whole number.
 
 ### Autograder
 
-You can run the autograder using
-
-```
-/public/labs/lab2/autograder.sh
-```
-
-A detailed breakdown of your score will be present in `autograder.txt`.
+An autograder will be available by Wednesday, September 6th..
 
 ## Grading turnaround
 Scores will be uploaded to D2L by class time on Wednesday, Septmber 13th.
