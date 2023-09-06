@@ -17,7 +17,7 @@ Schedule subject to change. Find all lecture videos in [this Panopto folder](htt
 |Friday 8/25|[Direct proofs; disproof by counter-example](https://lgw2.github.io/teaching/csci246-fall-2023/lectures/direct_proofs_and_proofs_by_counterexample.pdf)|4.3, 2.2.1-2.2.3, 2.2.6|      |
 |Monday 8/28|[Proof by cases](https://lgw2.github.io/teaching/csci246-fall-2023/lectures/proof_by_cases.pdf)|4.3, 2.3| |
 |Wednesday 8/30|[Proof by cases part 2](https://lgw2.github.io/teaching/csci246-fall-2023/lectures/proof_by_cases.pdf)|2.3|      |
-|Friday 9/1|Intro to sets|2.3| |
+|Friday 9/1|[Intro to sets](https://lgw2.github.io/teaching/csci246-fall-2023/lectures/sets.pdf)|2.3| |
 |Monday 9/4| Labor Day---no class||[Homework 1](https://lgw2.github.io/teaching/csci246-fall-2023/homework/hw1.pdf)|
 |Wednesday 9/6|Sets part 2|2.3, 9.2, 2.4||
 |Friday 9/8|Proofs by contradiction|4.3| |
