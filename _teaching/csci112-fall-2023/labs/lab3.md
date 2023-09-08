@@ -152,7 +152,8 @@ Substance is silver
 
 ### Autograder
 
-An autograder for this assignment will be available before the due date.
+An autograder for this assignment will be available before Wednesday,
+Septmember 13th.
 
 ## Grading turnaround
 Scores will be uploaded to D2L by class time on Wednesday, Septmber 20th.
