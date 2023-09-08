@@ -74,34 +74,62 @@ is, (`ref - x% * ref`) $\leq$ `data` $\leq$  (`ref + x% * ref`). Otherwise
 and 323 falls between 321.3 and 392.7. **You must use this function to decide
 what the substance is.**
 
-### Input/output format
-
-For this assignment, you must match the output format exactly, and take input
-from the user precisely as described.
-
-For each of the three days, you must prompt the user for the number of hours
-they worked and the wage for that day.
-
-After receiving information about the hours worked and wage for each day,
-report the total pay that you are owed.
-
-Thus, a full run of your program would look like this if you entered `3`,
-`21.40`, `5`, `25`, `8`, and `33.33`:
+### Example output
 
 ```
-Enter hours worked on day 1: 3
-Enter hourly wage on day 1: $21.40
-Enter hours worked on day 2: 5
-Enter hourly wage on day 2: $25
-Enter hours worked on day 3: 8
-Enter hourly wage on day 3: $33.33
-
-Your total pay is $455.84
+[p19t655@csci112 lab3]$ pwd
+/home/p19t655/csci112_spring2023/labs/lab3
+[p19t655@csci112 lab3]$ gcc -o lab3 -Wall lab3.c
+[p19t655@csci112 lab3]$ ./lab3
+Observed boiling point (in deg. C)? 101
+You entered 101.00
+Custom error percent? n for no (5% default), y for yes: n
+Substance is water
+[p19t655@csci112 lab3]$ ./lab3
+Observed boiling point (in deg. C)? 500
+You entered 500.00
+Custom error percent? n for no (5% default), y for yes: n
+Substance unknown
+[p19t655@csci112 lab3]$ ./lab3
+Observed boiling point (in deg. C)? 400
+You entered 400.00
+Custom error percent? n for no (5% default), y for yes: y
+Enter error percent: 10
+You entered 10.00 percent
+Substance unknown
+[p19t655@csci112 lab3]$ ./lab3
+Observed boiling point (in deg. C)? 400
+You entered 400.00
+Custom error percent? n for no (5% default), y for yes: y
+Enter error percent: 15
+You entered 15.00 percent
+Substance is mercury
+[p19t655@csci112 lab3]$ ./lab3
+Observed boiling point (in deg. C)? 400
+You entered 400.00
+Custom error percent? n for no (5% default), y for yes: 15
+Error: bad input
+[p19t655@csci112 lab3]$ ./lab3
+Observed boiling point (in deg. C)? 2200
+You entered 2200.00
+Custom error percent? n for no (5% default), y for yes: y
+Enter error percent: 50
+You entered 50.00 percent
+Substance is silver
 ```
 
-You can assume that the hours worked will always be a whole number.
+### Hints
+* If you are having trouble reading in a `char`, you may need to add a space so
+	that `scanf` doesn't consume whitespace from a previous `printf`. See [this
+	stackoverlow
+	post](https://stackoverflow.com/questions/13542055/how-to-do-scanf-for-single-char-in-c/13543113).
+* To print a `%`, use the format `%%`. For example, `printf("5%%")` would print
+	`5%`.
+* Think about what `main` returns in order to quit the program early.
+
 
 ## Grading--100 points
+
 * 5: source file exists with correct name in correct location
 * 10: source file compiles
 * 5: source file compiles without warnings
