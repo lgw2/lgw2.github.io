@@ -74,6 +74,11 @@ is, (`ref - x% * ref`) $\leq$ `data` $\leq$  (`ref + x% * ref`). Otherwise
 and 323 falls between 321.3 and 392.7. **You must use this function to decide
 what the substance is.**
 
+You may optionally start from the starter code in
+`/public/labs/lab3/lab3_starter.c`, which gives a skeleton of the program and
+an example of how you would use `within_x_percent` to decide whether your
+observed substance is water.
+
 ### Example output
 
 ```
