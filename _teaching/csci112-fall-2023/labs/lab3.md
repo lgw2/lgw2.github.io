@@ -46,7 +46,7 @@ points:
 Write a
 program that prompts the user for the observed boiling point of a substance in
 degrees Celsius, prints the number they entered with only two decimal places,
-and then prompts them to custom an error percent. Then, identify the substance
+and then prompts them enter a custom error percent. Then, identify the substance
 if the observed boiling point is within that percent of the expected boiling
 point. If the data input is outside of range for all of the boiling points in
 the table, the program should
