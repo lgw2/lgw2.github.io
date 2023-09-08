@@ -20,7 +20,7 @@ Schedule subject to change. Find all lecture videos in [this Panopto folder](htt
 |Friday 9/1|[Intro to sets](https://lgw2.github.io/teaching/csci246-fall-2023/lectures/sets.pdf)|2.3| |
 |Monday 9/4| Labor Day---no class||[Homework 1](https://lgw2.github.io/teaching/csci246-fall-2023/homework/hw1.pdf)|
 |Wednesday 9/6|[Sets part 2](https://lgw2.github.io/teaching/csci246-fall-2023/lectures/sets.pdf)|2.3, 9.2, 2.4||
-|Friday 9/8|Sets part 3|2.3, 9.2, 2.4| |
+|Friday 9/8|[Sets part 3](https://lgw2.github.io/teaching/csci246-fall-2023/lectures/sets.pdf); [full proof of De Morgan's law to reference for HW2](https://lgw2.github.io/teaching/csci246-fall-2023/lectures/de_morgan.pdf)|2.3, 9.2, 2.4| |
 |Monday 9/11|Proof by contradiction; propositional logic|4.3; 3.1-3.3|[Homework 2](https://lgw2.github.io/teaching/csci246-fall-2023/homework/hw2.pdf); [Optional: Homework 1 corrections](https://lgw2.github.io/teaching/csci246-fall-2023/homework/hw1_corrections.pdf)|
 |Wednesday 9/13|More propositional logic|3.1-3.3 ||
 |Friday 9/15|Proofs by contrapositive|4.3 | |
