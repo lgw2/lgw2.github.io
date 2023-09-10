@@ -161,4 +161,4 @@ An autograder for this assignment will be available before Wednesday,
 September 13th.
 
 ## Grading turnaround
-Scores will be uploaded to D2L by class time on Wednesday, Septmber 20th.
+Scores will be uploaded to D2L by class time on Wednesday, September 20th.
