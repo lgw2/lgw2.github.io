@@ -44,7 +44,7 @@ You earned at least 63 points in the class.
 
 You can run the autograder by running
 ```
-/public/classwork/week3/wed/autograder.sh
+/public/classwork/week4/wed/autograder.sh
 ```
 
 The file `autograder.txt` will be created with your score.
