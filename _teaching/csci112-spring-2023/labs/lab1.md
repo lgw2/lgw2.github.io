@@ -38,7 +38,7 @@ The table below shows the normal boiling points of several substances.
 Write a
 program that prompts the user for the observed boiling point of a substance in
 degrees Celsius, prints the number they entered with only two decimal places,
-and then prompts them to custom an error percent. Then, identify the substance
+and then prompts them to enter a custom error percent. Then, identify the substance
 if the observed boiling point is within that percent of the expected boiling
 point. If the data input is outside of range for all of the boiling points in
 the table, the program should
@@ -74,6 +74,7 @@ and 323 falls between 321.3 and 392.7.
 	print the substance with the lowest temperature that matches.
 
 ### Example output
+
 ```
 [p19t655@csci112 lab1]$ pwd
 /home/p19t655/csci112_spring2023/labs/lab1
