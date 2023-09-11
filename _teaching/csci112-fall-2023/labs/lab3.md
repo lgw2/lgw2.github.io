@@ -32,7 +32,7 @@ questions by going to lab or posting on Discord anyway.
 
 As a software developer for a chemistry lab, you have been asked to write a
 program that helps chemists identify a substance given its boiling point. Here
-is a table of the substances that your lab is interested, and their boiling
+is a table of the substances that your lab is interested in, and their boiling
 points:
 
 |Substance|Normal Boiling Point (degrees Celsius)|
