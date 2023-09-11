@@ -21,7 +21,7 @@ Schedule subject to change. Find all lecture videos in [this Panopto folder](htt
 |Monday 9/4| Labor Day---no class||||
 |Wednesday 9/6|[Functions](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter3.pdf)|3.1-3.5|[Classwork 5](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork5/)|
 |Friday 9/8|[Functions](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter3.pdf)|3.1-3.5|Quiz 1|[Lab 2](https://lgw2.github.io/teaching/csci112-fall-2023/labs/lab2/)|
-|Monday 9/11|Logical operators; if and switch statements|4.1-4.8|[Classwork 6](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork6/)||
+|Monday 9/11|[Logical operators; if and switch statements](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter4.pdf)|4.1-4.8|[Classwork 6](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork6/)||
 |Wednesday 9/13|More logical operators; if and switch statements||[Classwork 7](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork7/)||
 |Friday 9/15|Loops|5.1-5.8||[Lab 3](https://lgw2.github.io/teaching/csci112-fall-2023/labs/lab3/)|
 |Monday 9/18|Loops||Classwork 8||
