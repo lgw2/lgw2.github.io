@@ -17,6 +17,8 @@ title: "Classwork 7"
 
 * Log in to the server.
 * From your home directory, navigate to `classwork/week4/mon/`, creating directories `week4` and `mon` if necessary.
+* You may optionally start with starter code in
+	`/public/classwork/week4/wed/grade_starter.c`.
 * Inside this directory, create a file called `grade.c`. In it, write a
 	program solving the following problem.
 
