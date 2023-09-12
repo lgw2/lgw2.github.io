@@ -142,7 +142,7 @@ Substance is silver
 	int
 * 10: the function `within_x_percent` returns 1 if the `data` value is within
 	`percent` of the `ref` value and 0 otherwise
-* 10: calls function `within_x_percent` decide what the substance is
+* 10: calls function `within_x_percent`to decide what the substance is
 * 5: the user is prompted to give a custom error percent; if not, uses default
 	of 5%
 * 5: accepts `n` and `N` for no and `y` and `Y` for yes for giving a custom
