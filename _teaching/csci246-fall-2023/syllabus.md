@@ -22,7 +22,7 @@ Schedule subject to change. Find all lecture videos in [this Panopto folder](htt
 |Wednesday 9/6|[Sets part 2](https://lgw2.github.io/teaching/csci246-fall-2023/lectures/sets.pdf)|2.3, 9.2, 2.4||
 |Friday 9/8|[Sets part 3](https://lgw2.github.io/teaching/csci246-fall-2023/lectures/sets.pdf); [full proof of De Morgan's law to reference for HW2](https://lgw2.github.io/teaching/csci246-fall-2023/lectures/de_morgan.pdf)|2.3, 9.2, 2.4| |
 |Monday 9/11|Last bit of [sets](https://lgw2.github.io/teaching/csci246-fall-2023/lectures/sets.pdf); [proof by contradiction](https://lgw2.github.io/teaching/csci246-fall-2023/lectures/proof_by_contradiction.pdf)|4.3; 3.1-3.3|[Homework 2](https://lgw2.github.io/teaching/csci246-fall-2023/homework/hw2.pdf) + [LaTeX source](https://www.overleaf.com/read/xchgmbdfptvb); [Optional: Homework 1 corrections](https://lgw2.github.io/teaching/csci246-fall-2023/homework/hw1_corrections.pdf)|
-|Wednesday 9/13|Propositional logic|3.1-3.3 ||
+|Wednesday 9/13|[Propositional logic](https://lgw2.github.io/teaching/csci246-fall-2023/lectures/propositional_logic.pdf)|3.1-3.3 ||
 |Friday 9/15|Proofs by contrapositive|4.3 | |
 |Monday 9/18|More proofs by contrapositive|4.3|[Homework 3](https://lgw2.github.io/teaching/csci246-fall-2023/homework/hw3.pdf) + [LaTeX source](https://www.overleaf.com/read/dshhqssbfzmc)|
 |Wednesday 9/20|Introduction to predicate logic|3.4-3.5 | |
