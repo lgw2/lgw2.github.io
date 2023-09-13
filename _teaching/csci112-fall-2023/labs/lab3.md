@@ -157,8 +157,13 @@ Substance is silver
 
 ### Autograder
 
-An autograder for this assignment will be available before Wednesday,
-September 13th.
+You can run the autograder using
+
+```
+/public/labs/lab3/autograder.sh
+```
+
+A detailed breakdown of your score will be present in `autograder.txt`.
 
 ## Grading turnaround
 Scores will be uploaded to D2L by class time on Wednesday, September 20th.

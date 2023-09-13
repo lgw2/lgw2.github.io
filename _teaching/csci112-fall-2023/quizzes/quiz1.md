@@ -18,7 +18,7 @@ B.  `mv myfile1.txt`
 C.  `cp myfile1.txt myfile3.txt`
 D.  `copy myfile1.txt > myfiile3.txt`
 
-2\.  After the following code snippet is run, what is the value of `x`?
+2\.  After the following code snippet is run, what is the value of `result`?
 
 ```
 int x = 5;
@@ -112,7 +112,7 @@ D.  `*`
 
 10\. Suppose your C source code is saved in a file called my `program.c`, and you
 compile it using the command
-`gcc -o my program -Wall my program.c`. What is the `-o my program` part of the
+`gcc -o my_program -Wall my program.c`. What is the `-o my_program` part of the
 command doing?
 
 A.  Saving the compiled file to `my_program`
