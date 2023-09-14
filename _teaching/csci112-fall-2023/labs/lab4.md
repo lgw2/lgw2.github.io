@@ -77,7 +77,9 @@ Average temperature: 54.2
 * 10: prompts to user match exactly
 * 10: outputs to user match exactly
 * 5 points: the program stops collecting data when the user enters -99
+
 For each of 3 tests,
+
 * 5 points: hot temperatures are visualized correctly
 * 5 points: pleasant temperatures are visualized correctly
 * 5 points: cold temperatures are visualized correctly
