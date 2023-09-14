@@ -4,74 +4,94 @@ title: "Lab 4"
 ---
 
 ## Logistics
-* Due: Friday, March 10th AoE.
+* Due: Friday, September 22nd AoE.
 * Submission instructions: ensure that you have the source code you want us to
-	grade in a file called `lab4.c` in your `~/csci112_spring2023/labs/lab4`
+	grade in a file called `lab4.c` in your `~/csci112_fall2023/labs/lab4`
 	directory, and that the snapshot (commit) of your repository containing the version of that file you want us to grade has been committed and
-	tagged as `lab4`. See the [git lecture](https://lgw2.github.io/teaching/csci112-spring-2023/lectures/lecture2) and [classwork 4](https://lgw2.github.io/teaching/csci112-spring-2023/classwork/classwork4) for more
-	details.
-* Note that grading will be done on D2L, so you can see comments and a
-	 detailed breakdown of your score there, but you do not need to submit
-	anything there.
-* Deadline reminder: per the [late assignment policy](https://lgw2.github.io/teaching/csci112-spring-2023/syllabus/#late-assignment-policies), if you submit after the deadline but within 24 hours of it you will receive a 25% penalty. If you submit within 48 hours you will receive a 50% penalty. After that, no submissions will be accepted.
+	tagged as `lab4`. (You should have set up your `git` repo and practiced tagging a commit in [Classwork 4](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork4/).)
+
+## Outside resources
+
+On this assignment, you may not use the the internet or generative AI such as
+ChatGPT to solicit solutions to the programming part of the assignment. If you
+are having trouble writing your program, please go to lab (Fridays, 12-4 in
+Roberts 111) or post in Discord to
+get help.
+
+However, you may use those resources for help with navigating the Linux
+terminal, using vim, and using git, although you may get better answers to your
+questions by going to lab or posting on Discord anyway.
 
 ## Learning outcomes
-* Practice using pointers as output parameters in functions.
-* Practice manipulating the data that pointers point to.
-* Practice reading and writing files using C file pointers.
+* Practice using `if` statements.
+* Practice using loops.
 
 ## Assignment
 
-The City of Bozeman charges water customers \\$2.40 per hundred cubic feet (HCF)
-of water used per month, up to 6 HCF. Additional water use is charged at \\$3.31 per HCF.
+Write a program to process a collection of daily high temperatures. Your
+program should count  the number of hot days (high temperature 85 or
+higher), the number of pleasant days (high temperature 60-84), and the number
+of cold days (high temperatures less than 60). Then, it should print a
+visualization of those numbers (see sample output for an example) and the
+average temperature.
 
-Write a program that reads in usage data from customers from the file `/public/labs/lab4/usage.txt` and
-computes the monthly charge and average cost per HCF for each customer. Write the output to a file called `charges.txt`.
-That file might look something like this:
+### Example output
+If you type in the numbers directly to the console, your output should look
+like this:
+```
+[p19t655@csci112 lab2]$ ./a.out
+Enter a high temp reading (-99 to quit)> 56
+Enter a high temp reading (-99 to quit)> 76
+Enter a high temp reading (-99 to quit)> 12
+Enter a high temp reading (-99 to quit)> 34
+Enter a high temp reading (-99 to quit)> 55
+Enter a high temp reading (-99 to quit)> 99
+Enter a high temp reading (-99 to quit)> 101
+Enter a high temp reading (-99 to quit)> 90
+Enter a high temp reading (-99 to quit)> 87
+Enter a high temp reading (-99 to quit)> 43
+Enter a high temp reading (-99 to quit)> -12
+Enter a high temp reading (-99 to quit)> 9
+Enter a high temp reading (-99 to quit)> -99
+
+H: ****
+P: *
+C: *******
+Average temperature: 54.2
+```
+If you use redirection with the sample input file, it will look like this:
+```
+[p19t655@csci112 lab2]$ ./lab2 </public/labs/lab2/input.txt
+Enter a high temp reading (-99 to quit)> Enter a high temp reading (-99 to quit)> Enter a high temp reading (-99 to quit)> Enter a high temp reading (-99 to quit)> Enter a high temp reading (-99 to quit)> Enter a high temp reading (-99 to quit)> Enter a high temp reading (-99 to quit)> Enter a high temp reading (-99 to quit)> Enter a high temp reading (-99 to quit)> Enter a high temp reading (-99 to quit)> Enter a high temp reading (-99 to quit)> Enter a high temp reading (-99 to quit)> Enter a high temp reading (-99 to quit)>
+H: ****
+P: *
+C: *******
+Average temperature: 54.2
+```
+
+## Grading--100 points
+
+* 5: source file exists with correct name in correct location
+* 5: source file compiles
+* 5: source file compiles without warnings
+* 10: prompts to user match exactly
+* 10: outputs to user match exactly
+* 5 points: the program stops collecting data when the user enters -99
+For each of 3 tests,
+* 5 points: hot temperatures are visualized correctly
+* 5 points: pleasant temperatures are visualized correctly
+* 5 points: cold temperatures are visualized correctly
+* 5 points: the average temperature is correct
+
+### Autograder
+
+You can run the autograder using
 
 ```
-Charges for 1/2023
-
-Customer    Total cost  Average HCF cost
-15362       10.08       2.40
-42768       31.28       2.82
-11111       27.31       2.76
-45320       7.68        2.40
+/public/labs/lab4/autograder.sh
 ```
 
-You must use a function called `compute_charge`
-that computes the total monthly charge for a customer based on the
-HCF used that month. The function should also calculate the average cost per
-HCF of the water, so `compute_charge` must also
-take in two output parameters to send back these results.
-
-## Grading - 100 points
-**If your code does not compile, has a runtime error on the sample input,
-or uses global variables (variables declared outside of main), you get an
-automatic 0.**
-* 5 points: opens `/public/labs/lab4/usage.txt` for reading using `fopen`
-* 5 points: opens `charges.txt` for writing using `fopen`
-* 5 points: successfully reads input from file
-* 5 points: successfully writes output to file
-* 5 points: writes correct month and year
-* 10 points: can accept any number of customers in input file
-* 10 points: `compute_charge` takes in a double for HCF used, a pointer to a double for
-	the charge, and a pointer to a double for the average
-* 10 points: calls `compute_charge` to compute the charge and average cost for
-	each customer
-* 10 points: correctly computes the charge
-* 5 points: correctly computes the average
-* 5 points: correctly writes the ID of the customer
-* 5 points: closes both files
-* 10 points: source code is in a commit with tag `lab4`
-* 10 points: source code is in `csci112_spring2023/labs/lab4` directory
-
-## Go beyond
-Instead of assuming that the input file contains a single row for the whole
-month, accept an input file that may have multiple readings over the course of
-the month for a single customer; compute each customer's charge and average cost as above.
-A sample input file is available at `/public/labs/lab4/complex_usage.txt`. Your
-program should still work for the simple usage case.
+A detailed breakdown of your score will be present in `autograder.txt`.
 
 ## Grading turnaround
-This lab will be graded within one week of its due date.
+Scores will be uploaded to D2L by class time the Wednesday after the due date.
