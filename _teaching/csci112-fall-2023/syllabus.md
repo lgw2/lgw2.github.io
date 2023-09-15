@@ -22,11 +22,11 @@ Schedule subject to change. Find all lecture videos in [this Panopto folder](htt
 |Wednesday 9/6|[Functions](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter3.pdf)|3.1-3.5|[Classwork 5](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork5/)|
 |Friday 9/8|[Functions](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter3.pdf)|3.1-3.5|Quiz 1|[Lab 2](https://lgw2.github.io/teaching/csci112-fall-2023/labs/lab2/)|
 |Monday 9/11|[Logical operators; if and switch statements](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter4.pdf)|4.1-4.8|[Classwork 6](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork6/)||
-|Wednesday 9/13|More logical operators; if and switch statements||[Classwork 7](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork7/)||
-|Friday 9/15|Loops|5.1-5.8||[Lab 3](https://lgw2.github.io/teaching/csci112-fall-2023/labs/lab3/)|
+|Wednesday 9/13|More [logical operators; if and switch statements](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter4.pdf)||[Classwork 7](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork7/)||
+|Friday 9/15|[Loops](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter5.pdf)|5.1-5.8||[Lab 3](https://lgw2.github.io/teaching/csci112-fall-2023/labs/lab3/)|
 |Monday 9/18|Loops||Classwork 8||
 |Wednesday 9/20|Conditional operator; arrays|7|Classwork 9|
-|Friday 9/22|Arrays|7|Quiz 2|Lab 4|
+|Friday 9/22|Arrays|7|Quiz 2|[Lab 4](https://lgw2.github.io/teaching/csci112-fall-2023/labs/lab4/)|
 |Monday 9/25|Arrays|7|Classwork 10||
 |Wednesday 9/27|Command line arguments|7|Classwork 11||
 |Friday 9/29|Searching arrays|||Lab 5|
