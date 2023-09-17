@@ -6,7 +6,7 @@ title: "Classwork 9"
 ## Logistics
 * Due: Wednesday, September 20th AoE.
 * Submission instructions: make sure that the required file (`min.c`) is in your
-	`/classwork/wee54/wed/` directory.
+	`/classwork/week4/wed/` directory.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
 	this assignment.
 
