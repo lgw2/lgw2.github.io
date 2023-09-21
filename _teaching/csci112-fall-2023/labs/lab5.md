@@ -99,16 +99,17 @@ autograder can read your answers.
 
 ## Grading--100 points
 
-* 5: source file exists with correct name in correct location
-* 5: source file compiles
-* 5: source file compiles without warnings
+* 10: source file exists with correct name in correct location
+* 10: source file compiles without warnings
+* 10: printing answers is formatted correctly
+* 15: printing scores by ID is formatted correctly
+* 10: printing number of questions missed is formatted correctly
 
 For each of 3 tests,
 
-* 5 points: hot temperatures are visualized correctly
-* 5 points: pleasant temperatures are visualized correctly
-* 5 points: cold temperatures are visualized correctly
-* 5 points: the average temperature is correct
+* 5: answers are correct
+* 5: grades are correct
+* 5: number missed are correct
 
 ### Autograder
 
