@@ -86,6 +86,13 @@ Missed by	 2 2 2 1 1 0 2 4
 	```
 	The answer is    42
 	```
+	You can make right-justify the output by putting a negative in front of the
+	field width, like so:
+	```
+    printf("The answer is %-5d\n", 42);
+	```
+* You can assume that there are between 1 and 9 students.
+* Some more example inputs can be found in `/public/labs/lab5/`.
 
 
 ## Grading--100 points
@@ -93,9 +100,6 @@ Missed by	 2 2 2 1 1 0 2 4
 * 5: source file exists with correct name in correct location
 * 5: source file compiles
 * 5: source file compiles without warnings
-* 10: prompts to user match exactly
-* 10: outputs to user match exactly
-* 5 points: the program stops collecting data when the user enters -99
 
 For each of 3 tests,
 
