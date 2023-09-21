@@ -29,7 +29,7 @@ questions by going to lab or posting on Discord anyway.
 ## Assignment
 
 Write a program that can compute the grades and some summary statistics for an
-exam with up to 9 questions for an arbitrary number of students. You receive the information about the exam from standard input (so you
+exam with up to 9 questions for up to 9 students. You receive the information about the exam from standard input (so you
 should use `scanf`), but you should read it using file redirection instead of
 typing the input.
 
@@ -38,7 +38,7 @@ answer for each question. All of the following lines contain a student id
 number followed by that student's answers to each question.
 
 An example input
-file can be found in `/public/labs/lab5/testdata.txt`. It looks like this:
+file can be found in `/public/labs/lab5/results.txt`. It looks like this:
 
 ```
 7 ccddabc
@@ -55,28 +55,30 @@ Your program should print out a report about the exam that shows the correct
 answer for each question, the grade for each student (by ID and in the same
 order that they were passed in), and a count of the number of students who
 missed each question. For example,
-
-### Example output
 your program should output the following
-given the provided `testdata.txt` file.
+given the provided `results.txt` file.
 
 ```
-Question	 1 2 3 4 5 6 7 8
-Answer		 c c d d a b c e
-
-ID	Grade(%)
-100	75.00
-107	62.50
-112	87.50
-115	37.50
-120	62.50
-
-Question	 1 2 3 4 5 6 7 8
-Missed by	 2 2 2 1 1 0 2 4
+Question : 1 2 3 4 5 6 7
+Answer   : c c d d a b c
+ID    Grade(%)
+100   85.71
+107   71.43
+112   71.43
+115   42.86
+120   57.14
+87    100.00
+Question : 1 2 3 4 5 6 7
+Missed by: 3 3 2 1 1 0 2
 ```
+
+As always, make sure you match the output formatting exactly so that the
+autograder can read your answers.
 
 ### Hints
 
+* There is some code to get you started in `/public/labs/lab5/lab5_starter.c`
+	if you would like to use it.
 * Note that you can specify the field width in `printf`, similar to how you
 	specify the precision (or number of decimal places). For example,
 	```
