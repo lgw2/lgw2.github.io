@@ -28,16 +28,65 @@ questions by going to lab or posting on Discord anyway.
 
 ## Assignment
 
+Write a program that can compute the grades and some summary statistics for an
+exam with up to 9 questions for an arbitrary number of students. You receive the information about the exam from standard input (so you
+should use `scanf`), but you should read it using file redirection instead of
+typing the input.
 
+The first line of the input file contains the number of questions followed by the correct
+answer for each question. All of the following lines contain a student id
+number followed by that student's answers to each question.
+
+An example input
+file can be found in `/public/labs/lab5/testdata.txt`. It looks like this:
+
+```
+7 ccddabc
+100 bcddabc
+107 ccddcba
+112 ccddabc
+115 bbccabc
+120 cdcdabd
+87 ccddabc
+```
+meaning that there were 7 questions on the exam and six students took it.
+
+Your program should print out a report about the exam that shows the correct
+answer for each question, the grade for each student (by ID and in the same
+order that they were passed in), and a count of the number of students who
+missed each question. For example,
 
 ### Example output
-If you type in the numbers directly to the console, your output should look
-like this:
+your program should output the following
+given the provided `testdata.txt` file.
+
 ```
+Question	 1 2 3 4 5 6 7 8
+Answer		 c c d d a b c e
+
+ID	Grade(%)
+100	75.00
+107	62.50
+112	87.50
+115	37.50
+120	62.50
+
+Question	 1 2 3 4 5 6 7 8
+Missed by	 2 2 2 1 1 0 2 4
 ```
-If you use redirection with the sample input file, it will look like this:
-```
-```
+
+### Hints
+
+* Note that you can specify the field width in `printf`, similar to how you
+	specify the precision (or number of decimal places). For example,
+	```
+    printf("The answer is %5d\n", 42);
+	```
+	prints
+	```
+	The answer is    42
+	```
+
 
 ## Grading--100 points
 
