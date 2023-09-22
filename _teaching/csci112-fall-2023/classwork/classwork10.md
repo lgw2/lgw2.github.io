@@ -16,9 +16,11 @@ title: "Classwork 10"
 ## Assignment
 
 * Log in to the server.
-* From your home directory, navigate to `classwork/week6/mon/`, creating directories `week6` and `mon` if necessary.
+* From your `csci11_fall2023` directory, navigate to `classwork/week6/mon/`, creating directories `week6` and `mon` if necessary.
 * Inside this directory, create a file called `2d.c`. In it, write a
 	program solving the following problem.
+* Note that you can optionally start from the code in
+	`/public/classwork/week6/mon/starter.c`.
 
 Write a program that creates a 3 by 5 array of integers and uses it to store data from
 `stdin`. Specifically, you should use `scanf` to read the integers. For
