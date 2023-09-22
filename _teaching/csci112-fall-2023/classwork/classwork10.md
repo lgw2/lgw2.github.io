@@ -17,7 +17,7 @@ title: "Classwork 10"
 
 * Log in to the server.
 * From your home directory, navigate to `classwork/week6/mon/`, creating directories `week6` and `mon` if necessary.
-* Inside this directory, create a file called `min.c`. In it, write a
+* Inside this directory, create a file called `2d.c`. In it, write a
 	program solving the following problem.
 
 Write a program that creates a 3 by 5 array of integers and uses it to store data from
