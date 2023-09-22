@@ -4,47 +4,32 @@ title: "Classwork 11"
 ---
 
 ## Logistics
-* Due: Wednesday, March 1st AoE.
-* Submission instructions: make sure that the required file (`read_file.c`) is in your
-	`/classwork/week7/wed/` directory.
+* Due: Wednesday, September 27th AoE.
+* Submission instructions: make sure that the required file (`hi.c`) is in your
+	`/classwork/week6/wed/` directory.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
 	this assignment.
 
 ## Learning outcomes
-* Practice reading and writing using a file pointer in C.
+* Practice reading data from the command line
+* Practice using arrays
 
 ## Assignment
 
 * Log in to the server.
-* From your home directory, navigate to `classwork/week7/wed/`, creating directories `week7` and `wed` if necessary.
-* Create a file called `read_file.c`, and inside it write a C program that does
-	the following:
-
-Use `fopen` to open the file `/public/classwork/week7/wed/input.txt`, read the
-doubles it contains, and print their maximum value to a file called `max.txt`
-in the same directory as your `read_file.c` file. You should also use `fopen`
-to read the file you are writing to. You can assume that the input
-file contains exactly 5 doubles.
-
-### Hints
-* You can check that you will get full credit for this assignment by compiling
-	your program, running it and saving its output to a file, and comparing
-	that file to the example output. Specifically, do:
+* From your `csci11_fall2023` directory, navigate to `classwork/week6/wed/`, creating directories `week6`
+and `wed` if necessary.
+* Write a C program in the file `hi.c` that takes one argument from the command line and prints
+	`Hello, <arg>`! For example, if you run it with the input `Champ`, it
+	should look like this:
 ```
-gcc -o exe -Wall read_file.c
-./exe
-diff -w -i ~/classwork/week7/wed/max.txt /public/classwork/week7/wed/expected_output.txt
+[p19t655@csci112 wed]$ gcc -o hi -Wall hi.c
+[p19t655@csci112 wed]$ ./hi Champ
+Hello, Champ!
 ```
-You will see any warnings during compilation and any differences between your output and the expected output on the
-screen. If nothing happens, the content of your output file exactly matches the
-expected content and there were no warnings when compiling. As long as your file is in the correct place and named
-correctly,  this means that you will get full credit for the assignment.
+
+An autograder will be available for this assignment before 9/25.
 
 ## Grading turnaround
-Everyone gets a point for this one!
-
-~~Preliminary results via autograder will be present in the appropriate classwork
-directory in the `autograder.txt`, refreshed every 2 minutes from 8am to 11am
-on the class day, and then
-every hour until 6am the following day. The 6am run is the final grade. Scores will be
-uploaded to D2L by the next class period.~~
+Final scores will be run at 6am on the due date and scores will be
+uploaded to D2L by the next class meeting.
