@@ -44,7 +44,7 @@ file can be found in `/public/labs/lab5/results.txt`. It looks like this:
 7 ccddabc
 100 bcddabc
 107 ccddcba
-112 ccddabc
+112 aaddabc
 115 bbccabc
 120 cdcdabd
 87 ccddabc
