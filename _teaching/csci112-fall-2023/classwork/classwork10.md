@@ -38,19 +38,19 @@ the input.
 
 After saving the data in the array, print the sum of the numbers in each row.
 
-You can use redirection (`<`) with the file in `/public/classwork/week5/wed/input.txt` to test your
+You can use redirection (`<`) with the file in `/public/classwork/week6/mon/input.txt` to test your
 program as you are developing it. Specifically, if you compiled your source
 code into a file called `exe`, you would run
 
 ```
-./exe < /public/classwork/week5/wed/input.txt
+./exe < /public/classwork/week6/mon/input.txt
 ```
 
 For example, compiling and running your program should look like this:
 
 ```
-[p19t655@csci112 wed]$ gcc -o exe -Wall 2d.c
-[p19t655@csci112 wed]$ ./exe < /public/classwork/week5/wed/input.txt
+[p19t655@csci112 mon]$ gcc -o exe -Wall 2d.c
+[p19t655@csci112 mon]$ ./exe < /public/classwork/week6/mon/input.txt
 Row 0 has total 50.
 Row 1 has total 71.
 Row 2 has total 123.
