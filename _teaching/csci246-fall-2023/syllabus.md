@@ -25,8 +25,8 @@ Schedule subject to change. Find all lecture videos in [this Panopto folder](htt
 |Wednesday 9/13|[Propositional logic](https://lgw2.github.io/teaching/csci246-fall-2023/lectures/propositional_logic.pdf)|3.1-3.3 ||
 |Friday 9/15|[Propositional logic](https://lgw2.github.io/teaching/csci246-fall-2023/lectures/propositional_logic.pdf)|3.1-3.3 | |
 |Monday 9/18|[Poofs by contrapositive](https://lgw2.github.io/teaching/csci246-fall-2023/lectures/contrapositive.pdf) + [more proofs by contrapositive](https://lgw2.github.io/teaching/csci246-fall-2023/lectures/more_proofs_by_contrapositive.pdf)|4.3|[Homework 3](https://lgw2.github.io/teaching/csci246-fall-2023/homework/hw3.pdf) + [LaTeX source](https://www.overleaf.com/read/dshhqssbfzmc)|
-|Wednesday 9/20|Introduction to predicate logic|3.4-3.5 | |
-|Friday 9/22|Proofs in predicate logic|3.4-3.5||
+|Wednesday 9/20|[Introduction to predicate logic](https://lgw2.github.io/teaching/csci246-fall-2023/lectures/predicates.pdf)|3.4-3.5 | |
+|Friday 9/22|[Theorems in predicate logic](https://lgw2.github.io/teaching/csci246-fall-2023/lectures/predicates.pdf)|3.4-3.5||
 |Monday 9/25|Introduction to functions|2.5|[Homework 4](https://lgw2.github.io/teaching/csci246-fall-2023/homework/hw4.pdf) + [LaTeX source](https://www.overleaf.com/read/njjkdztxcwfj)|
 |Wednesday 9/27|More on functions|2.5| |
 |Friday 9/29|More on functions|2.5| |
