@@ -56,7 +56,12 @@ Row 1 has total 71.
 Row 2 has total 123.
 ```
 
-An autograder will be available for this assignment before 9/25.
+You can run the autograder by running
+```
+/public/classwork/week6/mon/autograder.sh
+```
+
+The file `autograder.txt` will be created with your score.
 
 ## Grading turnaround
 Final scores will be run at 6am on the due date and scores will be
