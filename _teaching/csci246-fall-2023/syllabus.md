@@ -30,7 +30,7 @@ Schedule subject to change. Find all lecture videos in [this Panopto folder](htt
 |Monday 9/25|Introduction to functions|2.5|[Homework 4](https://lgw2.github.io/teaching/csci246-fall-2023/homework/hw4.pdf) + [LaTeX source](https://www.overleaf.com/read/njjkdztxcwfj)|
 |Wednesday 9/27|More on functions|2.5| |
 |Friday 9/29|More on functions|2.5| |
-|Monday 10/2|Pigeonhole principle|2.5, 9.3 |Homework 5|
+|Monday 10/2|Pigeonhole principle|2.5, 9.3 |[Homework 5](https://lgw2.github.io/teaching/csci246-fall-2023/homework/hw4.pdf) + [LaTeX source](https://www.overleaf.com/read/bbbbmvqrmpvx)|
 |Wednesday 10/4|Quiz review| | |
 |Friday 10/6|Quiz in class| | |
 |Monday 10/9|Proofs by induction|5.1-5.2|Mid-course survey|
