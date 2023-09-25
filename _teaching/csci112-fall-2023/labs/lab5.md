@@ -88,7 +88,7 @@ autograder can read your answers.
 	```
 	The answer is    42
 	```
-	You can make right-justify the output by putting a negative in front of the
+	You can left-justify the output by putting a negative in front of the
 	field width, like so:
 	```
     printf("The answer is %-5d\n", 42);
