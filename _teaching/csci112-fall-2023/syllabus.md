@@ -27,8 +27,8 @@ Schedule subject to change. Find all lecture videos in [this Panopto folder](htt
 |Monday 9/18|[Loops](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter5.pdf)|5|[Classwork 8](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork8/)||
 |Wednesday 9/20|[Conditional operator](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Conditional_Operator.pdf); [redirection](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/tools/#redirection)|Appendix C-4, C-5|[Classwork 9](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork9/)|
 |Friday 9/22|[Arrays](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter7.pdf)|7|Quiz 2|[Lab 4](https://lgw2.github.io/teaching/csci112-fall-2023/labs/lab4/)|
-|Monday 9/25|Arrays|7|[Classwork 10](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork10/)||
-|Wednesday 9/27|Arrays|7|Classwork 11||
+|Monday 9/25|[Arrays](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter7.pdf)|7|[Classwork 10](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork10/)||
+|Wednesday 9/27|Arrays|7|[Classwork 11](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork11/)||
 |Friday 9/29|Searching arrays|||[Lab 5](https://lgw2.github.io/teaching/csci112-fall-2023/labs/lab5/)|
 |Monday 10/2|Sorting arrays||Classwork 12||
 |Wednesday 10/4|Pointers; file i/o||Classwork 13||
