@@ -5,7 +5,7 @@ title: "Classwork 11"
 
 ## Logistics
 * Due: Wednesday, September 27th AoE.
-* Submission instructions: make sure that the required file (`avg.c`) is in your
+* Submission instructions: make sure that the required file (`sum.c`) is in your
 	`/classwork/week6/wed/` directory.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
 	this assignment.
