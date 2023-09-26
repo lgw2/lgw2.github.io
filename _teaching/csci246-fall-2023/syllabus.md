@@ -27,7 +27,7 @@ Schedule subject to change. Find all lecture videos in [this Panopto folder](htt
 |Monday 9/18|[Poofs by contrapositive](https://lgw2.github.io/teaching/csci246-fall-2023/lectures/contrapositive.pdf) + [more proofs by contrapositive](https://lgw2.github.io/teaching/csci246-fall-2023/lectures/more_proofs_by_contrapositive.pdf)|4.3|[Homework 3](https://lgw2.github.io/teaching/csci246-fall-2023/homework/hw3.pdf) + [LaTeX source](https://www.overleaf.com/read/dshhqssbfzmc)|
 |Wednesday 9/20|[Introduction to predicate logic](https://lgw2.github.io/teaching/csci246-fall-2023/lectures/predicates.pdf)|3.4-3.5 | |
 |Friday 9/22|[Theorems in predicate logic](https://lgw2.github.io/teaching/csci246-fall-2023/lectures/predicates.pdf)|3.4-3.5||
-|Monday 9/25|Introduction to functions|2.5|[Homework 4](https://lgw2.github.io/teaching/csci246-fall-2023/homework/hw4.pdf) + [LaTeX source](https://www.overleaf.com/read/njjkdztxcwfj)|
+|Monday 9/25|[Introduction to functions](https://lgw2.github.io/teaching/csci246-fall-2023/lectures/functions.pdf)|2.5|[Homework 4](https://lgw2.github.io/teaching/csci246-fall-2023/homework/hw4.pdf) + [LaTeX source](https://www.overleaf.com/read/njjkdztxcwfj)|
 |Wednesday 9/27|More on functions|2.5| |
 |Friday 9/29|More on functions|2.5| |
 |Monday 10/2|Pigeonhole principle|2.5, 9.3 |[Homework 5](https://lgw2.github.io/teaching/csci246-fall-2023/homework/hw5.pdf) + [LaTeX source](https://www.overleaf.com/read/bbbbmvqrmpvx)|
