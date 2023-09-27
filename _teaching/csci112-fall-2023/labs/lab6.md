@@ -91,7 +91,7 @@ autograder can read your answers.
 
 * Since you know you will get no more than 100 doubles in the input file, you
 	can declare an array to store the numbers with 100 slots.
-* Follow the selection sort pseudocode from the slides.
+* Follow the selection sort pseudocode from the slides carefully.
 
 ## Grading--100 points
 
