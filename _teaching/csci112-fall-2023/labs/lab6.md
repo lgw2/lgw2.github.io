@@ -32,7 +32,8 @@ questions by going to lab or posting on Discord anyway.
 In this lab, you will write a program that can read in unsorted doubles from a file and print them
 out in sorted order in a different file.
 
-The input file can be found in `/public/labs/lab6/numbers.txt`. It looks like this:
+For this assignment, you can hard-code the input filename into your program.
+The input file can be found in `/public/labs/lab6/numbers.txt` and it looks like this:
 
 ```
 [p19t655@csci112 lab6]$ cat /public/labs/lab6/numbers.txt
