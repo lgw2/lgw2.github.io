@@ -32,7 +32,7 @@ Schedule subject to change. Find all lecture videos in [this Panopto folder](htt
 |Friday 9/29|Searching arrays|||[Lab 5](https://lgw2.github.io/teaching/csci112-fall-2023/labs/lab5/)|
 |Monday 10/2|Sorting arrays||Classwork 12||
 |Wednesday 10/4|Pointers; file i/o||Classwork 13||
-|Friday 10/6|Pointers||Quiz 3|Lab 6|
+|Friday 10/6|Pointers||Quiz 3|[Lab 6](https://lgw2.github.io/teaching/csci112-fall-2023/labs/lab6/)|
 |Monday 10/9|C type strings||Classwork 14||
 |Wednesday 10/11|C type strings||Classwork 15||
 |Friday 10/13|C type strings|12||Lab 7|
