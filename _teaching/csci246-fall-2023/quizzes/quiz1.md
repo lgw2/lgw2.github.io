@@ -5,7 +5,7 @@ title: "Quiz 1"
 
 The first quiz
 will cover everything we have learned in the course through functions and
-pigeonhold principle.
+pigeonhole principle.
 
 The quiz will have four parts.
 1. Given some claims and (proposed) proofs of the claims, you will need to decide whether the proofs are valid or not. If
