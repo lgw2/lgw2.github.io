@@ -28,11 +28,11 @@ variables `min` and `max` hold the minimum and maximum values from the array
 `arr`.
 
 Don't change anything else about the file. You can test your program by running
-it with the test input in `/public/classwork/week7/wed/test_input.txt` like so:
+it with the test input in `/public/classwork/week7/wed/input.txt` like so:
 
 ```
 [p19t655@csci112 wed]$ gcc pass_by_ref.c -Wall
-[p19t655@csci112 wed]$ ./a.out < /public/classwork/week7/wed/test_input.txt
+[p19t655@csci112 wed]$ ./a.out < /public/classwork/week7/wed/input.txt
 ```
 
 And your output should look like:
