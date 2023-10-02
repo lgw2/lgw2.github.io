@@ -16,7 +16,7 @@ title: "Classwork 12"
 ## Assignment
 
 * Log in to the server.
-* From your `csci11_fall2023` directory, navigate to `classwork/week7/mon/`, creating directories `week7` and `mon` if necessary.
+* From your `csci112_fall2023` directory, navigate to `classwork/week7/mon/`, creating directories `week7` and `mon` if necessary.
 
 Use `fopen` to open the file `/public/classwork/week7/mon/input.txt`, read the
 doubles it contains, and print them, one per line with 2 decimal places, to a file called `output.txt`
