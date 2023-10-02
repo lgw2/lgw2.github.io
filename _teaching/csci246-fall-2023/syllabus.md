@@ -31,7 +31,7 @@ Schedule subject to change. Find all lecture videos in [this Panopto folder](htt
 	|Wednesday 9/27|[Onto and one-to-one functions](https://lgw2.github.io/teaching/csci246-fall-2023/lectures/functions.pdf)|2.5| |
 |Friday 9/29|[Proving that functions are onto or one-to-one](https://lgw2.github.io/teaching/csci246-fall-2023/lectures/functions.pdf)|2.5| |
 |Monday 10/2|Pigeonhole principle|2.5, 9.3 |[Homework 5](https://lgw2.github.io/teaching/csci246-fall-2023/homework/hw5.pdf) + [LaTeX source](https://www.overleaf.com/read/bbbbmvqrmpvx)|
-|Wednesday 10/4|Quiz review| | |
+|Wednesday 10/4|Quiz review [practice quiz 1](https://lgw2.github.io/teaching/csci246-fall-2023/quizzes/246_quiz1_practice1.pdf)| | |
 |Friday 10/6|[Quiz in class](https://lgw2.github.io/teaching/csci246-fall-2023/quizzes/quiz1)| | |
 |Monday 10/9|Proofs by induction|5.1-5.2|Mid-course survey|
 |Wednesday 10/11|More proofs by induction|5.2; 5.4||
