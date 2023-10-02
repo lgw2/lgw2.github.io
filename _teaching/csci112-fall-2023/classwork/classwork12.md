@@ -24,7 +24,7 @@ in the same directory as your `read_file.c` file. You should also use `fopen`
 to read the file you are writing to. You can assume that the input
 file contains exactly 5 doubles.
 
-That is, if you compile your program,, run it program, and then `cat` the file
+That is, if you compile your program, run it program, and then `cat` the file
 that is created, it would look something like this:
 
 ```
