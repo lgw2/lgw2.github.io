@@ -47,7 +47,7 @@ read the file using `fscanf`, *not* using redirection and `scanf`, and you
 should store the doubles in an array.
 
 Your program must use selection sort (see [slides on arrays](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter7.pdf)) to sort the numbers in ascending order (smallest first) and
-write them to a new file called `sorted.txt` in the directory where the program
+write them to a new file called `outdata.txt` in the directory where the program
 is being run. You should use `fprintf` to write to the file.
 
 As your program runs, it should print out the current state of
@@ -69,7 +69,7 @@ Now performing selection sort:
 -45.99 -0.01 1.00 3.14 3.33 5.55 9.70 18.10 34.56
 ```
 
-Then, you should also write the sorted array to `sorted.txt` with one number
+Then, you should also write the sorted array to `outdata.txt` with one number
 per line, like this:
 
 ```
