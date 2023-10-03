@@ -106,12 +106,18 @@ autograder can read your answers.
 For each of 3 tests,
 
 * 5: numbers are read in correctly
-* 10: intermediate sorting steps are correct in output to console
-* 5: final sorted output in `outdata.txt` is correct
+* 5: intermediate sorting steps are correct in output to console
+* 10: final sorted output in `outdata.txt` is correct
 
 ### Autograder
 
-An autograder will be available by 10/2.
+You can run the autograder using
+
+```
+/public/labs/lab6/autograder.sh
+```
+
+A detailed breakdown of your score will be present in `autograder.txt`.
 
 ## Grading turnaround
 Scores will be uploaded to D2L by class time the Wednesday after the due date.
