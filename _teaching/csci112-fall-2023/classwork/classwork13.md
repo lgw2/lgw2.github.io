@@ -4,7 +4,7 @@ title: "Classwork 13"
 ---
 
 ## Logistics
-* Due: Wednesday, October 4th AoE.
+* Due: ~~Wednesday, October 4th~~ Friday, October 6th AoE.
 * Submission instructions: make sure that the required file (`pass_by_ref.c`) is in your
 	`/classwork/week7/wed/` directory.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
