@@ -31,7 +31,7 @@ Schedule subject to change. Find all lecture videos in [this Panopto folder](htt
 |Wednesday 9/27|[Arrays as function arguments](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter7.pdf)|7|[Classwork 11](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork11/)||
 |Friday 9/29|[Searching, sorting arrays](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter7.pdf)|||[Lab 5](https://lgw2.github.io/teaching/csci112-fall-2023/labs/lab5/)|
 |Monday 10/2|[Pointers; file i/o](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter6.pdf)||[Classwork 12](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork12/)||
-|Wednesday 10/4|Pointers||[Classwork 13](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork13/)||
+|Wednesday 10/4|[Pointers](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter6.pdf)||[Classwork 13](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork13/)||
 |Friday 10/6|Pointer arithmetic||Quiz 3|[Lab 6](https://lgw2.github.io/teaching/csci112-fall-2023/labs/lab6/)|
 |Monday 10/9|C type strings||Classwork 14||
 |Wednesday 10/11|C type strings||Classwork 15||
