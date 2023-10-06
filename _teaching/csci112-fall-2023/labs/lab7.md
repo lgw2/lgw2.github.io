@@ -42,7 +42,7 @@ name, their population, and their goegraphical size.
 
 ```
 Beaverhead County|Dillon|February 2, 1865|Beaverhead Rock in the Jefferson River, which is shaped like a beaver's head.|9,719|5,543 sq mi(14,356 km2)
-Big Horn County|Hardin|January 13, 1913|Bighorn sheep in the area.|12,851|4,995 sq mi(12,937 km2)``
+Big Horn County|Hardin|January 13, 1913|Bighorn sheep in the area.|12,851|4,995 sq mi(12,937 km2)
 ```
 
 Read in each line of the file using `fgets` (not `fscanf`!) so that each line
