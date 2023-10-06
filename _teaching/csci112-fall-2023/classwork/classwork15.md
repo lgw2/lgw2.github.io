@@ -11,8 +11,7 @@ title: "Classwork 15"
 	this assignment.
 
 ## Learning outcomes
-* Practice reading strings from the console and from files
-* Store strings as arrays of characters
+* Practice using `strtok` to tokenize a string
 
 ## Assignment
 
