@@ -4,32 +4,47 @@ title: "Classwork 14"
 ---
 
 ## Logistics
-* Due: Monday, March 20th AoE.
-* Submission instructions: make sure that the required file (`swap.c`) is in your
-	`/classwork/week9/mon/` directory.
+* Due: Monday, October 9th AoE.
+* Submission instructions: make sure that the required file (`read.c`) is in your
+	`/classwork/week8/mon/` directory.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
 	this assignment.
 
 ## Learning outcomes
-* Practice using an array of pointers to store a different ordering of strings
-	without making a copy
+* Practice reading strings from the console and from files
+* Store strings as arrays of characters
 
 ## Assignment
 
 * Log in to the server.
-* From your home directory, navigate to `classwork/week9/mon/`, creating directories `week9`
-and `mon` if necessary.
-* Copy the file `/public/classwork/week9/mon/swap.c` to your current directory.
-* In `swap.c`, fill in the code described under `TODO`.
+* From your `csci11_fall2023` directory, navigate to `classwork/week8/mon/`, creating directories `week8` and `mon` if necessary.
+* Copy the file `read.c` from the `/public/classwork/week8/mon`
+	directory.
 
+In the file `read.c`, fill in the three `TODO` lines. You should only need to
+add three lines to the file. Once you have fixed the three todos, you should be
+able to compile and run the executable like so:
 
-## Autograder
+```
+[p19t655@csci112 mon]$ gcc read.c -Wall
+[p19t655@csci112 mon]$ ./a.out
+Enter a name: Bob
+You entered: Bob
 
-~~You can run the autograder yourelf~~
+Australia - Canberra
+Brazil - Brasília
+Canada - Ottawa
+Denmark - Copenhagen
+Egypt - Cairo
+France - Paris
+Greece - Athens
+India - New Delhi
+Japan - Tokyo
+Kenya - Nairobi
+```
 
-The `autograder.txt` file will be updated every 5 minutes.
+An autograder will be available by class time on Monday.
 
 ## Grading turnaround
-
-The autograder will be run at 6am to calculate final scores. Scores will be
-uploaded to D2L by the next class period.
+Final scores will be run at 6am on the due date and scores will be
+uploaded to D2L by the next class meeting.
