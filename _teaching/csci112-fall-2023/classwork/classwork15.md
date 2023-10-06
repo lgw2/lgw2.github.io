@@ -4,37 +4,35 @@ title: "Classwork 15"
 ---
 
 ## Logistics
-* Due: Wednesday, March 22nd AoE.
-* Submission instructions: make sure that the required file (`dates.c`) is in your
-	`/classwork/week9/wed/` directory.
+* Due: Wednesday, October 11th AoE.
+* Submission instructions: make sure that the required file (`tokenize.c`) is in your
+	`/classwork/week8/wed/` directory.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
 	this assignment.
 
 ## Learning outcomes
-* Practice converting numbers to strings
+* Practice reading strings from the console and from files
+* Store strings as arrays of characters
 
 ## Assignment
 
 * Log in to the server.
-* From your home directory, navigate to `classwork/week9/wed/`, creating directories `week9`
-and `wed` if necessary.
-* Copy the file `/public/classwork/week9/wed/dates.c` to your current directory.
-* In `dates.c`, write the function `nums_to_string_date` so that the program
-	prints `3/22/2023`. You may need to look closely at the rest of the program
-	to make sure that you write your function correctly.
+* From your `csci11_fall2023` directory, navigate to `classwork/week8/wed/`, creating directories `week8` and `wed` if necessary.
+* Copy the file `tokenize.c` from the `/public/classwork/week8/wed`
+	directory.
 
+In the file `tokenize.c`, fill the code needed for the `TODO`. After you have
+filled in the correct code, compiling and running your program should look like
+this.
 
-## Autograder
-
-You can run the autograder yourself by running
 ```
-/public/classwork/week9/wed/autograder.sh
+[p19t655@csci112 wed]$ gcc tokenize.c -Wall
+[p19t655@csci112 wed]$ ./a.out
+Bozeman is in MT, USA
 ```
-The `autograder.txt` file will be created or
-replaced. You may get a few lines of output about not being able to remove
-files, etc. This is okay.
+
+An autograder will be available by class time on Wednesday.
 
 ## Grading turnaround
-
-The autograder will be run at 6am to calculate final scores. Scores will be
-uploaded to D2L by the next class period.
+Final scores will be run at 6am on the due date and scores will be
+uploaded to D2L by the next class meeting.
