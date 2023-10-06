@@ -1,6 +1,6 @@
 ---
 collection: teaching
-title: "Lab 6"
+title: "Lab 7"
 ---
 
 ## Logistics
@@ -64,6 +64,9 @@ Big Horn County has population 12,851 and seat Hardin
 ```
 
 To do so, you should use `strtok` to parse the string.
+
+You can see a correct output file for `montana_counties.txt` in
+`/public/labs/lab7/outdata_strings.txt`.
 
 As always, make sure you match the output formatting exactly so that the
 autograder can read your answers.
