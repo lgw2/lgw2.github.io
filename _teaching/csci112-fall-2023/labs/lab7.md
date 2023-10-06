@@ -46,7 +46,7 @@ Big Horn County|Hardin|January 13, 1913|Bighorn sheep in the area.|12,851|4,995
 ```
 
 Read in each line of the file using `fgets` (not `fscanf`!) so that each line
-is saved as a string in an array.
+is saved as a string in an array of strings.
 
 Then, change your existing sorting code so that it sorts your array of strings
 instead of an array of doubles. Remember that you will need to use string
