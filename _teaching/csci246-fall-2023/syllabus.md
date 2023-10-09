@@ -36,7 +36,7 @@ Schedule subject to change. Find all lecture videos in [this Panopto folder](htt
 |Monday 10/9|Introduction to relations|8.1-8.3||
 |Wednesday 10/11|Equivalence relations|8.4| |
 |Friday 10/13|Partial and total orders|8.4||
-|Monday 10/16|Proofs by induction|5.1-5.2|Homework 6; mid-course survey|
+|Monday 10/16|Proofs by induction|5.1-5.2|[Homework 6](https://lgw2.github.io/teaching/csci246-fall-2023/homework/hw6.pdf) + [LaTeX source](https://www.overleaf.com/read/qwtfjdpvrmss); mid-course survey|
 |Wednesday 10/18|More proofs by induction|5.2; 5.4||
 |Friday 10/20|Recursively defined structures and proofs by structural induction|5.4||
 |Monday 10/23|Introduction to graphs|11.1-11.2|Homework 7|
