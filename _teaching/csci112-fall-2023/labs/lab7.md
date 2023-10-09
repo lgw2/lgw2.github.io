@@ -35,7 +35,7 @@ provided in `/public/labs/lab6/solution.c` by class time on Monday, October
 print information from the strings in a pleasing manner.
 
 Starting from your Lab 6 solution, change from reading the file
-`/public/labs/lab6/numbers.txt` to `/public/labs/lab7/montana_counties.txt`.
+`/public/labs/lab6/numbers.txt` to `/public/labs/lab7/counties1.txt`.
 This file lists all of the counties of Montana, along with information about
 them: their county seat, the date they were created, an explanation of their
 name, their population, and their goegraphical size.
@@ -65,7 +65,7 @@ Big Horn County has population 12,851 and seat Hardin
 
 To do so, you should use `strtok` to parse the string.
 
-You can see a correct output file for `montana_counties.txt` in
+You can see a correct output file for `counties1.txt` in
 `/public/labs/lab7/outdata_strings.txt`.
 
 As always, make sure you match the output formatting exactly so that the
@@ -79,8 +79,8 @@ autograder can read your answers.
 
 * 10: source file exists with correct name in correct location
 * 10: source file compiles without warnings
-* 5: reads from `/public/labs/lab7/montana_counties.txt`
-* 5: uses `fgets` to read from `/public/labs/lab7/montana_counties.txt`
+* 5: reads from `/public/labs/lab7/counties1.txt`
+* 5: uses `fgets` to read from `/public/labs/lab7/counties1.txt`
 * 5: uses `fprintf` to write to `outdata.txt`
 * 10: uses `strtok` to separate parts of the line
 * 5: printing is formatted correctly in `outdata_strings.txt`
