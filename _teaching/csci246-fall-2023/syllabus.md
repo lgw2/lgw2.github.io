@@ -33,31 +33,31 @@ Schedule subject to change. Find all lecture videos in [this Panopto folder](htt
 |Monday 10/2|[Pigeonhole principle](https://lgw2.github.io/teaching/csci246-fall-2023/lectures/php.pdf)|2.5, 9.3 |[Homework 5](https://lgw2.github.io/teaching/csci246-fall-2023/homework/hw5.pdf) + [LaTeX source](https://www.overleaf.com/read/bbbbmvqrmpvx)|
 |Wednesday 10/4|Quiz review. [practice quiz 1](https://lgw2.github.io/teaching/csci246-fall-2023/quizzes/246_quiz1_practice1.pdf)| | |
 |Friday 10/6|[Quiz in class](https://lgw2.github.io/teaching/csci246-fall-2023/quizzes/quiz1)| | |
-|Monday 10/9|Proofs by induction|5.1-5.2||
-|Wednesday 10/11|More proofs by induction|5.2; 5.4||
-|Friday 10/13|Recursively defined structures and proofs by structural induction|5.4||
-|Monday 10/16|Introduction to asymptotic analysis (Big-O)|6.1|Homework 6; mid-course survey|
-|Wednesday 10/18|Properties of Big-O|6.2| |
-|Friday 10/20|Introduction to algorithms analysis|6.3||
-|Monday 10/23|More on algorithm analysis|6.3|Homework 7|
-|Wednesday 10/25|Worst-case runtime analysis|6.3| |
-|Friday 10/27|Analysis of recursive algorithms|6.4| |
-|Monday 10/30|Introduction to relations|8.1-8.3|Homework 8|
-|Wednesday 11/1|Equivalence relations|8.4| |
-|Friday 11/3|Partial and total orders|8.4||
-|Monday 11/6|Introduction to graphs|11.1-11.2|Homework 9|
-|Wednesday 11/8|Proofs about graphs|11.2| |
-|Friday 11/10|Veteran's Day---no class|||
-|Monday 11/13|More on graphs|11|Homework 10|
-|Wednesday 11/15|Quiz review| | |
-|Friday 11/17|Quiz in class| | |
+|Monday 10/9|Introduction to relations|8.1-8.3||
+|Wednesday 10/11|Equivalence relations|8.4| |
+|Friday 10/13|Partial and total orders|8.4||
+|Monday 10/16|Proofs by induction|5.1-5.2|Homework 6; mid-course survey|
+|Wednesday 10/18|More proofs by induction|5.2; 5.4||
+|Friday 10/20|Recursively defined structures and proofs by structural induction|5.4||
+|Monday 10/23|Introduction to graphs|11.1-11.2|Homework 7|
+|Wednesday 10/25|Proofs about graphs|11.2| |
+|Friday 10/27|More on graphs|11||
+|Monday 10/30|Introduction to probability|9.2, 10.2|Homework 8|
+|Wednesday 11/1|Tree diagrams and choosing|10.2, 9.4||
+|Friday 11/3|No class|||
+|Monday 11/6|Tree diagrams and choosing|10.4|Homework 9|
+|Wednesday 11/8|Linearity of expectation|10.4||
+|Friday 11/10|no class|||
+|Monday 11/13|Linearity of expectation|10.4|
+|Wednesday 11/15|Quiz review|||
+|Friday 11/18|Quiz|||
 |Monday 11/20--Friday 11/24|Fall break---no class|||
-|Monday 11/27|Introduction to probability|9.2, 10.2||
-|Wednesday 11/29|Tree diagrams and choosing|10.2, 9.4||
-|Friday 12/1|Random variables and expectation|10.4| |
-|Monday 12/4|Linearity of expectation|10.4|Homework 11|
-|Wednesday 12/6|Full course review part 1| | |
-|Friday 12/8|Full course review part 2| | |
+|Monday 11/27|Introduction to asymptotic analysis (Big-O)|6.1||
+|Wednesday 11/29|Properties of Big-O|6.2| |
+|Friday 12/1|Introduction to algorithms analysis|6.3||
+|Monday 12/4|Worst-case runtime analysis|6.3|Homework 11 |
+|Wednesday 12/6|Analysis of recursive algorithms|6.4| |
+|Friday 12/8|Review|| |
 |Monday 12/11, 4:00-5:50|Final in lecture classroom|||
 
 ## Catalog description
