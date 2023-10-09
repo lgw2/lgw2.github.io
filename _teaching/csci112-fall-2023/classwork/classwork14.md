@@ -43,7 +43,13 @@ Japan - Tokyo
 Kenya - Nairobi
 ```
 
-An autograder will be available by class time on Monday.
+You can run the autograder by running
+
+```
+/public/classwork/week8/mon/autograder.sh
+```
+
+The file `autograder.txt` will be created with your score.
 
 ## Grading turnaround
 Final scores will be run at 6am on the due date and scores will be
