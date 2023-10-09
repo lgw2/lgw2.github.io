@@ -38,7 +38,7 @@ Starting from your Lab 6 solution, change from reading the file
 `/public/labs/lab6/numbers.txt` to `/public/labs/lab7/counties1.txt`.
 This file lists all of the counties of Montana, along with information about
 them: their county seat, the date they were created, an explanation of their
-name, their population, and their goegraphical size.
+name, their population, and their geographical size.
 
 ```
 Beaverhead County|Dillon|February 2, 1865|Beaverhead Rock in the Jefferson River, which is shaped like a beaver's head.|9,719|5,543 sq mi(14,356 km2)
