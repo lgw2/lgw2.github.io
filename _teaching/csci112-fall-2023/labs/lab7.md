@@ -92,7 +92,13 @@ For each of 2 tests,
 
 ### Autograder
 
-An autograder for this assignment will be available by 10/10.
+You can run the autograder using
+
+```
+/public/labs/lab7/autograder.sh
+```
+
+A detailed breakdown of your score will be present in `autograder.txt`.
 
 ## Grading turnaround
 Scores will be uploaded to D2L by class time the Wednesday after the due dat.
