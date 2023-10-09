@@ -50,7 +50,7 @@ Schedule subject to change. Find all lecture videos in [this Panopto folder](htt
 |Friday 11/10|no class|||
 |Monday 11/13|Linearity of expectation|10.4|Homework 10|
 |Wednesday 11/15|Quiz review|||
-|Friday 11/18|Quiz|||
+|Friday 11/17|Quiz|||
 |Monday 11/20--Friday 11/24|Fall break---no class|||
 |Monday 11/27|Introduction to asymptotic analysis (Big-O)|6.1||
 |Wednesday 11/29|Properties of Big-O|6.2| |
