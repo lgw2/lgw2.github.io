@@ -87,7 +87,7 @@ autograder can read your answers.
 
 For each of 2 tests,
 
-* 20: `outdata_strings.txt` is sorted
+* 15: `outdata_strings.txt` is sorted
 * 10: `outdata_strings.txt` includes correct county name, population, and county seat
 
 ### Autograder
