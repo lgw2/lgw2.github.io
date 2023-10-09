@@ -33,7 +33,7 @@ Schedule subject to change. Find all lecture videos in [this Panopto folder](htt
 |Monday 10/2|[Pointers; file i/o](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter6.pdf)||[Classwork 12](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork12/)||
 |Wednesday 10/4|[Pointers](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter6.pdf)||[Classwork 13](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork13/)--note that due date is Friday AoE||
 |Friday 10/6|[More pointers](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter6.pdf)||Quiz 3|[Lab 6](https://lgw2.github.io/teaching/csci112-fall-2023/labs/lab6/)|
-|Monday 10/9|C type strings||[Classwork 14](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork14/)||
+|Monday 10/9|[C type strings](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter8.pdf)||[Classwork 14](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork14/)||
 |Wednesday 10/11|C type strings||[Classwork 15](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork15/)||
 |Friday 10/13|C type strings|12||[Lab 7](https://lgw2.github.io/teaching/csci112-fall-2023/labs/lab7/)|
 |Monday 10/16|Structs||Classwork 16||
