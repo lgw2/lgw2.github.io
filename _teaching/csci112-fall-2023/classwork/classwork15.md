@@ -30,7 +30,13 @@ this.
 Bozeman is in MT, USA
 ```
 
-An autograder will be available by class time on Wednesday.
+You can run the autograder by running
+
+```
+/public/classwork/week8/wed/autograder.sh
+```
+
+The file `autograder.txt` will be created with your score.
 
 ## Grading turnaround
 Final scores will be run at 6am on the due date and scores will be
