@@ -33,10 +33,10 @@ Schedule subject to change. Find all lecture videos in [this Panopto folder](htt
 |Monday 10/2|[Pigeonhole principle](https://lgw2.github.io/teaching/csci246-fall-2023/lectures/php.pdf)|2.5, 9.3 |[Homework 5](https://lgw2.github.io/teaching/csci246-fall-2023/homework/hw5.pdf) + [LaTeX source](https://www.overleaf.com/read/bbbbmvqrmpvx)|
 |Wednesday 10/4|Quiz review. [practice quiz 1](https://lgw2.github.io/teaching/csci246-fall-2023/quizzes/246_quiz1_practice1.pdf)| | |
 |Friday 10/6|[Quiz in class](https://lgw2.github.io/teaching/csci246-fall-2023/quizzes/quiz1)| | |
-|Monday 10/9|Proofs by induction|5.1-5.2|Mid-course survey|
+|Monday 10/9|Proofs by induction|5.1-5.2||
 |Wednesday 10/11|More proofs by induction|5.2; 5.4||
 |Friday 10/13|Recursively defined structures and proofs by structural induction|5.4||
-|Monday 10/16|Introduction to asymptotic analysis (Big-O)|6.1|Homework 6|
+|Monday 10/16|Introduction to asymptotic analysis (Big-O)|6.1|Homework 6; mid-course survey|
 |Wednesday 10/18|Properties of Big-O|6.2| |
 |Friday 10/20|Introduction to algorithms analysis|6.3||
 |Monday 10/23|More on algorithm analysis|6.3|Homework 7|
