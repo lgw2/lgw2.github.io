@@ -48,7 +48,7 @@ Schedule subject to change. Find all lecture videos in [this Panopto folder](htt
 |Monday 11/6|Tree diagrams and choosing|10.4|Homework 9|
 |Wednesday 11/8|Linearity of expectation|10.4||
 |Friday 11/10|no class|||
-|Monday 11/13|Linearity of expectation|10.4|
+|Monday 11/13|Linearity of expectation|10.4|Homework 10|
 |Wednesday 11/15|Quiz review|||
 |Friday 11/18|Quiz|||
 |Monday 11/20--Friday 11/24|Fall break---no class|||
