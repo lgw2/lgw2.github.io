@@ -33,7 +33,7 @@ Schedule subject to change. Find all lecture videos in [this Panopto folder](htt
 |Monday 10/2|[Pigeonhole principle](https://lgw2.github.io/teaching/csci246-fall-2023/lectures/php.pdf)|2.5, 9.3 |[Homework 5](https://lgw2.github.io/teaching/csci246-fall-2023/homework/hw5.pdf) + [LaTeX source](https://www.overleaf.com/read/bbbbmvqrmpvx)|
 |Wednesday 10/4|Quiz review. [practice quiz 1](https://lgw2.github.io/teaching/csci246-fall-2023/quizzes/246_quiz1_practice1.pdf)| | |
 |Friday 10/6|[Quiz in class](https://lgw2.github.io/teaching/csci246-fall-2023/quizzes/quiz1)| | |
-|Monday 10/9|Introduction to relations|8.1-8.3||
+|Monday 10/9|[Introduction to relations](https://lgw2.github.io/teaching/csci246-fall-2023/lectures/relations.pdf)|8.1-8.3||
 |Wednesday 10/11|Equivalence relations|8.4| |
 |Friday 10/13|Partial and total orders|8.4||
 |Monday 10/16|Proofs by induction|5.1-5.2|[Homework 6](https://lgw2.github.io/teaching/csci246-fall-2023/homework/hw6.pdf) + [LaTeX source](https://www.overleaf.com/read/qwtfjdpvrmss); [mid-course survey](https://lgw2.github.io/teaching/csci246-fall-2023/surveys/survey1)|
