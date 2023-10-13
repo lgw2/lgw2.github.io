@@ -29,13 +29,13 @@ Schedule subject to change. Find all lecture videos in [this Panopto folder](htt
 |Friday 9/22|[Arrays](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter7.pdf)|7|[Quiz 2](https://lgw2.github.io/teaching/csci112-fall-2023/quizzes/quiz2.pdf)|[Lab 4](https://lgw2.github.io/teaching/csci112-fall-2023/labs/lab4/)|
 |Monday 9/25|[Arrays](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter7.pdf)|7|[Classwork 10](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork10/)||
 |Wednesday 9/27|[Arrays as function arguments](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter7.pdf)|7|[Classwork 11](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork11/)||
-|Friday 9/29|[Searching, sorting arrays](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter7.pdf)|||[Lab 5](https://lgw2.github.io/teaching/csci112-fall-2023/labs/lab5/)|
-|Monday 10/2|[Pointers; file i/o](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter6.pdf)||[Classwork 12](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork12/)||
-|Wednesday 10/4|[Pointers](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter6.pdf)||[Classwork 13](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork13/)--note that due date is Friday AoE||
-|Friday 10/6|[More pointers](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter6.pdf)||[Quiz 3](https://lgw2.github.io/teaching/csci112-fall-2023/quizzes/quiz3.pdf)|[Lab 6](https://lgw2.github.io/teaching/csci112-fall-2023/labs/lab6/)|
-|Monday 10/9|[C type strings](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter8.pdf)||[Classwork 14](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork14/)||
-|Wednesday 10/11|[C type strings](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter8.pdf)||[Classwork 15](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork15/)||
-|Friday 10/13|[C type strings](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter8.pdf)|12||[Lab 7](https://lgw2.github.io/teaching/csci112-fall-2023/labs/lab7/)|
+|Friday 9/29|[Searching, sorting arrays](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter7.pdf)|7||[Lab 5](https://lgw2.github.io/teaching/csci112-fall-2023/labs/lab5/)|
+|Monday 10/2|[Pointers; file i/o](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter6.pdf)|6|[Classwork 12](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork12/)||
+|Wednesday 10/4|[Pointers](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter6.pdf)|6|[Classwork 13](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork13/)--note that due date is Friday AoE||
+|Friday 10/6|[More pointers](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter6.pdf)|6|[Quiz 3](https://lgw2.github.io/teaching/csci112-fall-2023/quizzes/quiz3.pdf)|[Lab 6](https://lgw2.github.io/teaching/csci112-fall-2023/labs/lab6/)|
+|Monday 10/9|[C type strings](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter8.pdf)|8|[Classwork 14](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork14/)||
+|Wednesday 10/11|[C type strings](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter8.pdf)|8|[Classwork 15](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork15/)||
+|Friday 10/13|[C type strings](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter8.pdf)|8||[Lab 7](https://lgw2.github.io/teaching/csci112-fall-2023/labs/lab7/)|
 |Monday 10/16|Structs||Classwork 16||
 |Wednesday 10/18|Structs||Classwork 17||
 |Friday 10/20|Structs|12|Quiz 4|Lab 8|
