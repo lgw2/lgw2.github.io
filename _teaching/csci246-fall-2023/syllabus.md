@@ -34,8 +34,8 @@ Schedule subject to change. Find all lecture videos in [this Panopto folder](htt
 |Wednesday 10/4|Quiz review. [practice quiz 1](https://lgw2.github.io/teaching/csci246-fall-2023/quizzes/246_quiz1_practice1.pdf)| | |
 |Friday 10/6|[Quiz in class](https://lgw2.github.io/teaching/csci246-fall-2023/quizzes/quiz1)| | |
 |Monday 10/9|[Introduction to relations](https://lgw2.github.io/teaching/csci246-fall-2023/lectures/relations.pdf)|8.1-8.3||
-|Wednesday 10/11|Equivalence relations|8.4| |
-|Friday 10/13|Partial and total orders|8.4||
+|Wednesday 10/11|[More on relations](https://lgw2.github.io/teaching/csci246-fall-2023/lectures/relations.pdf)|8.4| |
+|Friday 10/13|Equivalence relations; partial and total orders|8.4||
 |Monday 10/16|Proofs by induction|5.1-5.2|[Homework 6](https://lgw2.github.io/teaching/csci246-fall-2023/homework/hw6.pdf) + [LaTeX source](https://www.overleaf.com/read/qwtfjdpvrmss); [mid-course survey](https://lgw2.github.io/teaching/csci246-fall-2023/surveys/survey1)|
 |Wednesday 10/18|More proofs by induction|5.2; 5.4||
 |Friday 10/20|Recursively defined structures and proofs by structural induction|5.4||
