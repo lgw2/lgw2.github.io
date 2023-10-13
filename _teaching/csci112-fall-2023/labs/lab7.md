@@ -88,7 +88,7 @@ but each can only take up 100 total slots.
 * 10: source file compiles without warnings
 * 5: reads from `/public/labs/lab7/counties1.txt`
 * 5: uses `fgets` to read from `/public/labs/lab7/counties1.txt`
-* 5: uses `fprintf` to write to `outdata.txt`
+* 5: uses `fprintf` to write to `outdata_strings.txt`
 * 10: uses `strtok` to separate parts of the line
 * 5: printing is formatted correctly in `outdata_strings.txt`
 
