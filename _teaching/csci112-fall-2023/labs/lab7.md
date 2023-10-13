@@ -73,7 +73,14 @@ autograder can read your answers.
 
 ### Hints
 
-
+* To pass a two-dimensional array as a parameter in a function, you need to
+	specify the size of the second dimension. For example,
+``` void func(char arr[][100]) {
+```
+takes in a character array `arr`, which can store as many strings as needed,
+but each can only take up 100 total slots.
+* You can assume that there will be no more than 100 counties and that the
+	lines are no more than 499 characters long.
 
 ## Grading--100 points
 
