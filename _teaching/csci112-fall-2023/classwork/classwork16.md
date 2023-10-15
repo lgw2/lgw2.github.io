@@ -4,40 +4,40 @@ title: "Classwork 16"
 ---
 
 ## Logistics
-* Due: Monday, March 27th AoE.
-* Submission instructions: make sure that the required file (`locations.c`) is in your
-	`/classwork/week10/mon/` directory.
+* Due: Wednesday, October 11th AoE.
+* Submission instructions: make sure that the required file (`struct.c`) is in your
+	`/classwork/week9/mon/` directory.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
 	this assignment.
 
 ## Learning outcomes
-* Write a nested struct
+* Practice defining a struct.
 
 ## Assignment
 
 * Log in to the server.
-* From your home directory, navigate to `classwork/week10/mon/`, creating directories `week10`
-and `mon` if necessary.
-* Copy the file `/public/classwork/week10/mon/locations.c` to your current directory.
-* In `locations.c`, write the struct `Location` so that the program prints
-```
-Museum of the Rockies location is LAT: 45 6 N, LON: 111 4 W
-```
-Note the use of the `.` operator twice in setting the values of `mor`'s data
-members. That's because `lat` and `lon` are themselves structs! So you'll need
-to define a second struct in order to create `Location`.
+* Copy the file `struct.c` from the `/public/classwork/week9/mon`
+	directory.
 
-## Autograder
+In the file `struct.c`, fill the code needed to define a `Point`. After you have
+filled in the correct code, compiling and running your program should look like
+this.
 
-You can run the autograder yourself by running
 ```
-/public/classwork/week10/mon/autograder.sh
+[p19t655@csci112 mon]$ gcc struct.c -Wall
+[p19t655@csci112 mon]$ ./a.out
+(1.30,3.56)
+(3.42,-10.46)
 ```
-The `autograder.txt` file will be created or
-replaced. You may get a few lines of output about not being able to remove
-files, etc. This is okay.
+
+You can run the autograder by running
+
+```
+/public/classwork/week9/mon/autograder.sh
+```
+
+The file `autograder.txt` will be created with your score.
 
 ## Grading turnaround
-
-The autograder will be run at 6am to calculate final scores. Scores will be
-uploaded to D2L by the next class period.
+Final scores will be run at 6am on the due date and scores will be
+uploaded to D2L by the next class meeting.
