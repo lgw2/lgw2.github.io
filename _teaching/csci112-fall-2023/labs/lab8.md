@@ -80,16 +80,18 @@ but each can only take up 100 total slots.
 
 * 10: source file exists with correct name in correct location
 * 10: source file compiles without warnings
+* 5: uses `sscanf` to convert the population from a string to int
+* 5: defines a `County` struct with fields called `name`, `seat`, and `pop`
+* 5: creates an array of `County` to store data for all counties
+* 5: defines a function `add_county` that returns a `County` and takes in
+	variables `name`, `seat`, and `pop`
+* 5: calls `add_county`
 * 5: reads from `/public/labs/lab8/counties1.txt`
-* 5: uses `fgets` to read from `/public/labs/lab8/counties1.txt`
-* 5: uses `fprintf` to write to `outdata_strings.txt`
-* 10: uses `strtok` to separate parts of the line
-* 5: printing is formatted correctly in `outdata_strings.txt`
 
 For each of 2 tests,
 
-* 15: `outdata_strings.txt` is sorted
-* 10: `outdata_strings.txt` includes correct county name, population, and county seat
+* 10: county seat query works
+* 15: population range query works
 
 ### Autograder
 
