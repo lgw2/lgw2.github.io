@@ -19,7 +19,9 @@ title: "Classwork 16"
 * Copy the file `struct.c` from the `/public/classwork/week9/mon`
 	directory.
 
-In the file `struct.c`, fill the code needed to define a `Point`. After you have
+In the file `struct.c`, fill the code needed to define a `Point`. You'll need to look at how a `Point` is used to see what its fields' names and data types are.
+
+After you have
 filled in the correct code, compiling and running your program should look like
 this.
 
