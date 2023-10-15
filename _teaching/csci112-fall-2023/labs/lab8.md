@@ -30,41 +30,32 @@ questions by going to lab or posting on Discord anyway.
 In this lab, you will build off of your Lab 7 solution (or the solution
 provided in `/public/labs/lab7/solution.c` by class time on Monday, October
 16th) to build an interactive database of Montana counties, where a user can
-search for counties within a population range or by county seat..
+search for counties within a population range or by county seat.
 
-Starting from your Lab 7 solution, define your own `struct` called `County`
+Starting from the existing code, define your own `struct` called `County`
 with the following data members:
-* a string `county`,
-* a string `seat`,
-* and an int `population`.
+* a string `name` (you may assume name has no more than 99 characters);
+* a string `seat` (you may assume seat has no more than 19 characters),
+* and an int `pop`.
+
+Then, store the data about each county as a `County` in an array of type `County`. To do so, you must define and use a
+function `add_county` that returns a `County` and takes in a string for the
+county name, a string for the county seat, and an int for the population, in
+that order. That
+is, your function header might look like
 
 ```
-Beaverhead County|Dillon|February 2, 1865|Beaverhead Rock in the Jefferson River, which is shaped like a beaver's head.|9,719|5,543 sq mi(14,356 km2)
-Big Horn County|Hardin|January 13, 1913|Bighorn sheep in the area.|12,851|4,995 sq mi(12,937 km2)
+County add_county(char* name, char* seat, int pop)
 ```
 
-Read in each line of the file using `fgets` (not `fscanf`!) so that each line
-is saved as a string in an array of strings.
-
-Then, change your existing sorting code so that it sorts your array of strings
-instead of an array of doubles. Remember that you will need to use string
-functions like `strcmp` and `strcpy` to do string comparison and string
-assignment. For this assignment, you do not need to print out the original
-array or each step of the sorting.
-
-Finally, write the sorted list of counties to a file called `outdata_strings.txt` in
-your current directory, but only print the name,
-population, and county seat, like so:
+or
 
 ```
-Beaverhead County has population 9,719 and seat Dillon
-Big Horn County has population 12,851 and seat Hardin
+County add_county(char name[100], char seat[20], int pop)
 ```
 
-To do so, you should use `strtok` to parse the string.
-
-You can see a correct output file for `counties1.txt` in
-`/public/labs/lab8/outdata_strings.txt`.
+Additionally, you must use `sscanf` to convert the population from a string to
+an `int`.
 
 As always, make sure you match the output formatting exactly so that the
 autograder can read your answers.
