@@ -32,6 +32,11 @@ provided in `/public/labs/lab7/solution.c` by class time on Monday, October
 16th) to build an interactive database of Montana counties, where a user can
 search for counties within a population range or by county seat.
 
+**Note:** be sure to change from reading from `/public/labs/lab7/counties1.txt`
+to `/public/labs/lab8/counties1.txt`. The Lab 8 version has commas removed from
+the population field, which will make it (much) easier to parse that as an
+integer.
+
 Starting from the existing code, define your own `struct` called `County`
 with the following data members:
 * a string `name` (you may assume name has no more than 99 characters);
