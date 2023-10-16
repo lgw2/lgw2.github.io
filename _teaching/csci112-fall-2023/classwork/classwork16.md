@@ -4,7 +4,7 @@ title: "Classwork 16"
 ---
 
 ## Logistics
-* Due: Wednesday, October 11th AoE.
+* Due: Monday, October 16th AoE.
 * Submission instructions: make sure that the required file (`struct.c`) is in your
 	`/classwork/week9/mon/` directory.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
