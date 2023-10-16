@@ -34,7 +34,7 @@ search for counties within a population range or by county seat.
 
 **Note:** be sure to change from reading from `/public/labs/lab7/counties1.txt`
 to `/public/labs/lab8/counties1.txt`. The Lab 8 version has commas removed from
-the population field, which will make it (much) easier to parse that as an
+the population field, which will make it easier to parse that as an
 integer.
 
 Starting from the existing code, define your own `struct` called `County`
@@ -62,19 +62,59 @@ County add_county(char name[100], char seat[20], int pop)
 Additionally, you must use `sscanf` to convert the population from a string to
 an `int`.
 
+Prompt the user to interact with the database like so:
+
+```
+~~~Welcome to the county database!
+~~~To search for a county by seat, press 1.
+~~~To search for counties within a population range, press 2.
+~~~To exit, press any other key.
+```
+
+If the user enters 1, ask for a county seat, print the result, and then give
+the prompt again. If the user enters 2, ask for an upper and lower bound, and
+print all counties with populations in those bounds. For example:
+
+```
+~~~Welcome to the county database!
+~~~To search for a county by seat, press 1.
+~~~To search for counties within a population range, press 2.
+~~~To exit, press any other key.
+1
+Enter a county seat to search for: Helena
+Lewis and Clark County has seat Helena
+~~~To search for a county by seat, press 1.
+~~~To search for counties within a population range, press 2.
+~~~To exit, press any other key.
+2
+Enter an upper bound for the population (inclusive): 2000
+Enter a lower bound for the population (inclusive): 0
+The counties with populations between 2000 and 0 are:
+Carter County, pop. 1382
+Daniels County, pop. 1628
+Garfield County, pop. 1218
+Golden Valley County, pop. 835
+Liberty County, pop. 1972
+McCone County, pop. 1709
+Petroleum County, pop. 524
+Powder River County, pop. 1725
+Prairie County, pop. 1107
+Treasure County, pop. 758
+Wibaux County, pop. 919
+~~~To search for a county by seat, press 1.
+~~~To search for counties within a population range, press 2.
+~~~To exit, press any other key.
+x
+```
+
 As always, make sure you match the output formatting exactly so that the
 autograder can read your answers.
 
 ### Hints
 
-* To pass a two-dimensional array as a parameter in a function, you need to
-	specify the size of the second dimension. For example,
-``` void func(char arr[][100]) {
-```
-takes in a character array `arr`, which can store as many strings as needed,
-but each can only take up 100 total slots.
-* You can assume that there will be no more than 100 counties and that the
-	lines are no more than 499 characters long.
+* To make the prompt loop, you can use the return value of `scanf`
+* if no counties match the seat or population range, you don't need to print
+	anything.
 
 ## Grading--100 points
 
@@ -88,7 +128,7 @@ but each can only take up 100 total slots.
 * 5: calls `add_county`
 * 5: reads from `/public/labs/lab8/counties1.txt`
 
-For each of 2 tests,
+For each of 2 test files,
 
 * 10: county seat query works
 * 15: population range query works
@@ -104,4 +144,4 @@ You can run the autograder using
 A detailed breakdown of your score will be present in `autograder.txt`.
 
 ## Grading turnaround
-Scores will be uploaded to D2L by class time the Wednesday after the due dat.
+Scores will be uploaded to D2L by class time the Wednesday after the due date.
