@@ -35,11 +35,11 @@ Schedule subject to change. Find all lecture videos in [this Panopto folder](htt
 |Friday 10/6|[Quiz in class](https://lgw2.github.io/teaching/csci246-fall-2023/quizzes/quiz1)| | |
 |Monday 10/9|[Introduction to relations](https://lgw2.github.io/teaching/csci246-fall-2023/lectures/relations.pdf)|8.1-8.3||
 |Wednesday 10/11|[More on relations](https://lgw2.github.io/teaching/csci246-fall-2023/lectures/relations.pdf)|8.4| |
-|Friday 10/13|Equivalence relations; partial and total orders|8.4||
+|Friday 10/13|[Equivalence relations; partial and total orders](https://lgw2.github.io/teaching/csci246-fall-2023/lectures/relations.pdf)|8.4||
 |Monday 10/16|Proofs by induction|5.1-5.2|[Homework 6](https://lgw2.github.io/teaching/csci246-fall-2023/homework/hw6.pdf) + [LaTeX source](https://www.overleaf.com/read/qwtfjdpvrmss); [mid-course survey](https://lgw2.github.io/teaching/csci246-fall-2023/surveys/survey1)|
 |Wednesday 10/18|More proofs by induction|5.2; 5.4||
 |Friday 10/20|Recursively defined structures and proofs by structural induction|5.4||
-|Monday 10/23|Introduction to graphs|11.1-11.2|Homework 7|
+|Monday 10/23|Introduction to graphs|11.1-11.2|[Homework 7](https://lgw2.github.io/teaching/csci246-fall-2023/homework/hw7.pdf) + [LaTeX source](https://www.overleaf.com/read/hppfckzcpyfx)|
 |Wednesday 10/25|Proofs about graphs|11.2| |
 |Friday 10/27|More on graphs|11||
 |Monday 10/30|More on graphs|11|Homework 8|
