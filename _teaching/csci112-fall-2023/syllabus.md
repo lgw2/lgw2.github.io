@@ -37,7 +37,7 @@ Schedule subject to change. Find all lecture videos in [this Panopto folder](htt
 |Wednesday 10/11|[C type strings](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter8.pdf)|8|[Classwork 15](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork15/)||
 |Friday 10/13|[C type strings](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter8.pdf)|8||[Lab 7](https://lgw2.github.io/teaching/csci112-fall-2023/labs/lab7/)|
 |Monday 10/16|[Structs](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter10.pdf)||[Classwork 16](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork16/)||
-|Wednesday 10/18|Structs||Classwork 17||
+|Wednesday 10/18|Structs||[Classwork 17](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork17/)||
 |Friday 10/20|Structs|12|Quiz 4|[Lab 8](https://lgw2.github.io/teaching/csci112-fall-2023/labs/lab8/)|
 |Monday 10/23|Splitting C program into multiple files||Classwork 18||
 |Wednesday 10/25|compilation review||Classwork 19||
