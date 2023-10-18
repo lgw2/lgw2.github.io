@@ -6,7 +6,7 @@ title: "Classwork 17"
 ## Logistics
 * Due: Wednesday, March 29th AoE.
 * Submission instructions: make sure that the required files (`locations.c`, `coordinates.h`,`location.h`) are in your
-	`/classwork/week10/wed/` directory.
+	`/classwork/week9/wed/` directory.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
 	this assignment.
 
@@ -16,19 +16,29 @@ title: "Classwork 17"
 ## Assignment
 
 * Log in to the server.
-* From your home directory, navigate to `classwork/week10/wed/`, creating directories `week10`
+* From your home directory, navigate to `classwork/week9/wed/`, creating directories `week9`
 and `wed` if necessary.
-* Copy your `locations.c` file from Monday's classwork, or copy the solution
-	from `/public/classwork/week10/mon/solution.c` into a `locations.c` file.
-* Move the `Location` struct definition to a header file called `location.h`.
-* Move your other struct definition to a header file called `coordinates.h`.
-* Make sure you include `location.h` and `coordinates.h` where they are needed!
+* Copy the `point.c` file from `/public/classwork/week9/` to your directory.
+
+Fill in the missing function `change_x` so that it changes the value of the `x`
+field in a point that is passed in. Make sure that you define the function to
+match the calls in `change_x` in `main`.
+
+After you add the function, compiling and running your program should look like
+this:
+
+```
+[p19t655@csci112 wed]$ gcc point.c -Wall
+[p19t655@csci112 wed]$ ./a.out
+(3.14,3.56)
+(3.14,-10.46)
+```
 
 ## Autograder
 
 You can run the autograder yourself by running
 ```
-/public/classwork/week10/wed/autograder.sh
+/public/classwork/week9/wed/autograder.sh
 ```
 The `autograder.txt` file will be created or
 replaced. You may get a few lines of output about not being able to remove
