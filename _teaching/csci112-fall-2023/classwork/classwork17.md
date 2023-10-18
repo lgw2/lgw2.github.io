@@ -18,7 +18,7 @@ title: "Classwork 17"
 * Log in to the server.
 * From your home directory, navigate to `/csci112_fall2023/classwork/week9/wed/`, creating directories `week9`
 and `wed` if necessary.
-* Copy the `point.c` file from `/public/classwork/week9/` to your directory.
+* Copy the `point.c` file from `/public/classwork/week9/wed` to your directory.
 
 Fill in the missing function `change_x` so that it changes the value of the `x`
 field in a point that is passed in. Make sure that you define the function to
