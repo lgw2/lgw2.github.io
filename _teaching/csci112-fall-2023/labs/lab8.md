@@ -107,14 +107,18 @@ Wibaux County, pop. 919
 x
 ```
 
+Note that if there is more than one county in the population range, they should
+be printed in alphabetical order.
+
 As always, make sure you match the output formatting exactly so that the
 autograder can read your answers.
 
 ### Hints
 
 * To make the prompt loop, you can use the return value of `scanf`
-* if no counties match the seat or population range, you don't need to print
+* If no counties match the seat or population range, you don't need to print
 	anything.
+* Store your structs in alphabetical order to print them in alphabetical order.
 
 ## Grading--100 points
 
