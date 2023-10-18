@@ -115,6 +115,8 @@ autograder can read your answers.
 
 ### Hints
 
+* It's probably easier to read in an `int` than a `char` to control your loop,
+	since `scanf` will read whitespace as a `char`.
 * To make the prompt loop, you can use the return value of `scanf`
 * If no counties match the seat or population range, you don't need to print
 	anything.
