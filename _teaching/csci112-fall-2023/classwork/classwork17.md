@@ -11,7 +11,7 @@ title: "Classwork 17"
 	this assignment.
 
 ## Learning outcomes
-* Practice using header files
+* Practice passing structs by reference
 
 ## Assignment
 
