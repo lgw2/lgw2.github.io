@@ -23,7 +23,7 @@ questions by going to lab or posting on Discord anyway.
 
 ## Learning outcomes
 * Practice splitting a C program into separate files.
-* Practice writing a `Makefile`
+* Practice writing a `Makefile`.
 * Practice compiling a C program with `make`.
 
 ## Assignment
