@@ -4,44 +4,38 @@ title: "Classwork 18"
 ---
 
 ## Logistics
-* Due: Monday, April 3rd AoE.
-* Submission instructions: make sure that the required files (`lab3.c`, `lab3.h`,`print.c.`, `read.c`, `Makefile`) are in your
-	`/classwork/week11/mon/` directory.
+* Due: Monday, October 23rd AoE.
+* Submission instructions: make sure that the required files (`mor.c`, `location.c`, and `coordinates.c`) are in your
+	`csci112_fall2023/classwork/week10/mon/` directory.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
 	this assignment.
 
 ## Learning outcomes
-* Practice writing Makefiles
+* Practice using header files
 
 ## Assignment
 
 * Log in to the server.
-* From your home directory, navigate to `classwork/week11/mon/`, creating directories `week11`
+* From your home directory, navigate to `/csci112_fall2023/classwork/week10/mon/`, creating directories `week10`
 and `mon` if necessary.
-* Copy `lab3.c`, `lab3.h`, `print.c`, and `read.c` from
-	`/public/classwork/week11/mon/`, or take the solution file from
-	`/public/labs/lab3/` and split it into those four files.
-* Write a makefile in a file called `Makefile` that builds the executable
-	`lab3`. It should have four rules: one to link the three object files, and
-	one to compile the object file for each C file. If you would like, you can
-	copy `/public/classwork/week11/mon/Makefile` to get you started.
-* Remember that Lab 3 takes in an input file via redirection. To test your
-	executable, you will need to run
+* Copy the `mor.c` file from `/public/classwork/week10/mon` to your directory.
+
+Move the `Location` struct definition into a new header file called
+`location.h` and move the `Coordinates` struct definition into a different file
+called `coordinates.h`. Include `location.h` and `coordiantes.h` where
+necessary so that compiling and running `mor.c` still works as before:
+
 ```
-./lab3 < /public/labs/lab3/testdata.txt
+[p19t655@csci112 mon]$ ls
+coordinates.h  location.h  mor.c
+[p19t655@csci112 mon]$ gcc mor.c -Wall
+[p19t655@csci112 mon]$ ./a.out
+Museum of the Rockies location is LAT: 45 6 N, LON: 111 4 W
 ```
 
 ## Autograder
 
-You can run the autograder yourself by running
-```
-/public/classwork/week11/mon/autograder.sh
-```
-The `autograder.txt` file will be created or
-replaced. You may get a few lines of output about not being able to remove
-files, etc. This is okay.
-
-You can see the output that `make` got when it was run by the autograder in `tmp_make_output.txt`. Looking at this may help if you are not getting full credit due to a `make` issue.
+An autograder for this assignment will be available by class time.
 
 ## Grading turnaround
 
