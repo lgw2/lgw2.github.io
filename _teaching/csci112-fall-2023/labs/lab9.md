@@ -81,30 +81,20 @@ Lab 8 solution, your dependencies are:
 
 ## Grading--100 points
 
-* 10: source file exists with correct name in correct location
-* 10: source file compiles without warnings
-* 5: uses `sscanf` to convert the population from a string to int
-* 5: defines a `County` struct with fields called `name`, `seat`, and `pop`
-* 5: creates an array of `County` to store data for all counties
-* 5: defines a function `add_county` that returns a `County` and takes in
-	variables `name`, `seat`, and `pop`
-* 5: calls `add_county`
-* 5: reads from `/public/labs/lab9/counties1.txt`
-
-For each of 2 test files,
-
-* 10: county seat query works
-* 15: population range query works
+* 10: all eight files exists with correct name in correct location
+* 20: `make` compiles `lab9` without warnings
+* 20: `lab9` still works as Lab 8 (passes tests from Lab 8 autograder)
+* 10: all header files have header guards
+* 10: `lab9.c` contains `main` and no other source code
+* 5 each: `county.c` defines functions in `county.h`, `sort.c` defines
+	functions in `sort.h`, `utils.c` defines functions in `utils.h`.
+* 10: `Makefile` encodes the dependencies of the program so that only code that
+	needs to be recompiled is recompiled
+* 5: `county.h` contains the definition for a `County` struct
 
 ### Autograder
 
-You can run the autograder using
-
-```
-/public/labs/lab9/autograder.sh
-```
-
-A detailed breakdown of your score will be present in `autograder.txt`.
+An autograder will be available for this assignment by 10/25.
 
 ## Grading turnaround
 Scores will be uploaded to D2L by class time the Wednesday after the due date.
