@@ -5,8 +5,7 @@ title: "Lab 9"
 
 ## Logistics
 * Due: Friday, October 27th AoE.
-* Submission instructions: ensure that you have the source code you want us to
-	grade in a file called `lab9.c` in your `~/csci112_fall2023/labs/lab9`
+* Submission instructions: ensure that you have the eight files for this assignment in your `~/csci112_fall2023/labs/lab9`
 	directory, and that the snapshot (commit) of your repository containing the version of that file you want us to grade has been committed and
 	tagged as `lab9`. (You should have set up your `git` repo and practiced tagging a commit in [Classwork 4](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork4/).)
 
