@@ -5,7 +5,7 @@ title: "Classwork 18"
 
 ## Logistics
 * Due: Monday, October 23rd AoE.
-* Submission instructions: make sure that the required files (`mor.c`, `location.c`, and `coordinates.c`) are in your
+* Submission instructions: make sure that the required files (`mor.c`, `location.h`, and `coordinates.h`) are in your
 	`csci112_fall2023/classwork/week10/mon/` directory.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
 	this assignment.
