@@ -43,7 +43,7 @@ C.  2
 
 A.  80
 B.  40
-C.  12
+C.  10
 D.  3
 E.  2
 
@@ -62,7 +62,7 @@ D.  `x*`
 E.  It's not possible to create a pointer to `x` because it was not declared as
 a pointer
 
-5\.  When the following code is run, what prints?
+6\.  When the following code is run, what prints?
 
 ```
 char str[20] = "Baggins, Bilbo";
@@ -73,10 +73,12 @@ printf("%s\n", str);
 A.  `Baggins, Bilbo`
 B.  `Baggins`
 C.  `Bilbo`
-D.  ` Bilbo`
+D.  `Bilbo Baggins`
 E.  `Baggins  Bilbo`
 
-6\.  Suppose we have defined a struct `City` like so:
+\pagebreak
+
+7\.  Suppose we have defined a struct `City` like so:
 
 ```
 typdef struct {
@@ -92,7 +94,7 @@ and then declared and initialized a `City`:
 City c = {"Bozeman", 54539, 4817};
 ```
 
-How do we change the `pop` field?
+How do we change `c`'s `pop` field?
 
 A.  `City.pop = 55345;`
 B.  `c.pop = 55345;`
@@ -100,17 +102,17 @@ C.  `strcpy(pop, 55345);`
 D.  `pop = 55345;`
 E.  `pop->55345`
 
-7\.  Are structs passed by value or by reference?
+8\.  Are structs passed by value or by reference?
 
 A.  Value
 B.  Reference
 
-8\.  Can functions return structs?
+9\.  Can functions return structs?
 
 A.  Yes
 B.  No
 
-9\. Suppose the function `update_pop` is defined as follows:
+10\. Suppose the function `update_pop` is defined as follows:
 
 ```
 void update_pop(City *c) {
@@ -127,7 +129,7 @@ C.  `update_pop(&bzn);`
 D.  `update_pop(bzn.pop);`
 E.  `bzn = update_pop(*bzn);`
 
-10\.  In the function `update_pop` above, what is the data type of the
+11\.  In the function `update_pop` above, what is the data type of the
 expression `&c->pop`?
 
 A.  A pointer to a `City`
