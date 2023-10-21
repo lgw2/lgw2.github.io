@@ -62,6 +62,8 @@ gcc main.o planet.o -Wall
 [p19t655@csci112 wed]$ touch planet.o
 [p19t655@csci112 wed]$ make
 gcc main.o planet.o -Wall
+[p19t655@csci112 wed]$ make
+make: 'a.out' is up to date.
 ```
 
 ## Autograder
