@@ -36,13 +36,13 @@ this:
 
 ## Autograder
 
-You can run the autograder yourself by running
+You can run the autograder by running
+
 ```
 /public/classwork/week9/wed/autograder.sh
 ```
-The `autograder.txt` file will be created or
-replaced. You may get a few lines of output about not being able to remove
-files, etc. This is okay.
+
+The file `autograder.txt` will be created with your score.
 
 ## Grading turnaround
 

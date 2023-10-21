@@ -35,7 +35,13 @@ Museum of the Rockies location is LAT: 45 6 N, LON: 111 4 W
 
 ## Autograder
 
-An autograder for this assignment will be available by class time.
+You can run the autograder by running
+
+```
+/public/classwork/week10/mon/autograder.sh
+```
+
+The file `autograder.txt` will be created with your score.
 
 ## Grading turnaround
 
