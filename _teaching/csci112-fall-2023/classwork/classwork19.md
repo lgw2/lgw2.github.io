@@ -68,13 +68,7 @@ make: 'a.out' is up to date.
 
 ## Autograder
 
-You can run the autograder by running
-
-```
-/public/classwork/week10/wed/autograder.sh
-```
-
-The file `autograder.txt` will be created with your score.
+An autograder for this assignment will be available by class time.
 
 ## Grading turnaround
 
