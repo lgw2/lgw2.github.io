@@ -94,7 +94,13 @@ Lab 8 solution, your dependencies are:
 
 ### Autograder
 
-An autograder will be available for this assignment by 10/25.
+You can run the autograder using
+
+```
+/public/labs/lab9/autograder.sh
+```
+
+A detailed breakdown of your score will be present in `autograder.txt`.
 
 ## Grading turnaround
 Scores will be uploaded to D2L by class time the Wednesday after the due date.
