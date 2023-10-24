@@ -34,9 +34,6 @@ calls to make after files get "changed" using `touch`:
 
 ```
 [p19t655@csci112 wed]$ ls
-main.c  Makefile  planet.c  planet.h  planet.o
-[p19t655@csci112 wed]$ rm planet.o
-[p19t655@csci112 wed]$ ls
 main.c  Makefile  planet.c  planet.h
 [p19t655@csci112 wed]$ make
 gcc -c main.c -Wall
