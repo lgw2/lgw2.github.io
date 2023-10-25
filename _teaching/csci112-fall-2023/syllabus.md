@@ -41,12 +41,12 @@ Schedule subject to change. Find all lecture videos in [this Panopto folder](htt
 |Friday 10/20|[Structs](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter10.pdf)|10|[Quiz 4](https://lgw2.github.io/teaching/csci112-fall-2023/quizzes/quiz4.pdf)|[Lab 8](https://lgw2.github.io/teaching/csci112-fall-2023/labs/lab8/)|
 |Monday 10/23|[Splitting C program into multiple files](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/multiple_files.pdf)||[Classwork 18](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork18/)||
 |Wednesday 10/25|[Compilation review + Makefiles](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/multiple_files.pdf)||[Classwork 19](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork19/)||
-|Friday 10/27|Makefiles|12||[Lab 9](https://lgw2.github.io/teaching/csci112-fall-2023/labs/lab9/)|
+|Friday 10/27|Makefiles|||[Lab 9](https://lgw2.github.io/teaching/csci112-fall-2023/labs/lab9/) [Survey](|
 |Monday 10/30|Command line arguments||Classwork 20||
 |Wednesday 11/1|Sorting an array of pointers||Classwork 21||
 |Friday 11/3|Lucy gone--quiz only|12|Quiz 5|Lab 10|
-|Monday 11/6|TBD||Classwork 22||
-|Wednesday 11/8|TBD||Classwork 23||
+|Monday 11/6|Pointer arithmetic||Classwork 22||
+|Wednesday 11/8|Pointer arithmetic||Classwork 23||
 |Friday 11/10|Veteran's Day---no class||||
 |Monday 11/13|Dynamic memory allocation||Classwork 24||
 |Wednesday 11/15|Dynamic memory allocation||Classwork 25||
