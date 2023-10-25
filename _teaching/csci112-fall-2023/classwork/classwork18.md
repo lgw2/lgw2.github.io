@@ -22,7 +22,7 @@ and `mon` if necessary.
 
 Move the `Location` struct definition into a new header file called
 `location.h` and move the `Coordinates` struct definition into a different file
-called `coordinates.h`. Include `location.h` and `coordiantes.h` where
+called `coordinates.h`. Include `location.h` and `coordinates.h` where
 necessary so that compiling and running `mor.c` still works as before:
 
 ```
