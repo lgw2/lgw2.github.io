@@ -40,11 +40,11 @@ Schedule subject to change. Find all lecture videos in [this Panopto folder](htt
 |Wednesday 10/18|[Structs](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter10.pdf)||[Classwork 17](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork17/)||
 |Friday 10/20|[Structs](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter10.pdf)|12|Quiz 4|[Lab 8](https://lgw2.github.io/teaching/csci112-fall-2023/labs/lab8/)|
 |Monday 10/23|[Splitting C program into multiple files](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/multiple_files.pdf)||[Classwork 18](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork18/)||
-|Wednesday 10/25|compilation review + Makefiles||[Classwork 19](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork19/)||
+|Wednesday 10/25|[Compilation review + Makefiles](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/multiple_files.pdf)||[Classwork 19](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork19/)||
 |Friday 10/27|Makefiles|12||[Lab 9](https://lgw2.github.io/teaching/csci112-fall-2023/labs/lab9/)|
-|Monday 10/30|Makefiles||Classwork 20||
-|Wednesday 11/1|TBD||Classwork 21||
-|Friday 11/3|TBD|12|Quiz 5|Lab 10|
+|Monday 10/30|Command line arguments||Classwork 20||
+|Wednesday 11/1|Sorting an array of pointers||Classwork 21||
+|Friday 11/3|Lucy gone--quiz only|12|Quiz 5|Lab 10|
 |Monday 11/6|TBD||Classwork 22||
 |Wednesday 11/8|TBD||Classwork 23||
 |Friday 11/10|Veteran's Day---no class||||
