@@ -115,8 +115,11 @@ Mario (33 XP, 82 HP)
 ```
 ## Grading--100 points
 
+to be determined
 
 ### Autograder
+
+An autograder will be available for this assignment by 11/1.
 
 ## Grading turnaround
 Scores will be uploaded to D2L by class time the Wednesday after the due date.
