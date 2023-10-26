@@ -57,7 +57,7 @@ You will need eight total files for this assignment.
 * `utils.h` should contain prototypes for any extra "utility" functions. If
 	you are using the provided Lab 8 solution, these are `menu`, `find_seat`,
 	and `find_range`.
-* `utils.c` should contain the definitions of any functions in `utils.c`.
+* `utils.c` should contain the definitions of any functions in `utils.h`.
 * `Makefile` should provide a set of rules for compiling your program.
 
 ### Header guards
