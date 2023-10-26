@@ -40,7 +40,7 @@ Schedule subject to change. Find all lecture videos in [this Panopto folder](htt
 |Wednesday 10/18|[More proofs by induction](https://lgw2.github.io/teaching/csci246-fall-2023/lectures/induction.pdf)|5.2; 5.4||
 |Friday 10/20|[Recursively defined structures and proofs by structural induction](https://lgw2.github.io/teaching/csci246-fall-2023/lectures/rec_def_structs.pdf)|5.4||
 |Monday 10/23|[Introduction to graphs](https://lgw2.github.io/teaching/csci246-fall-2023/lectures/graphs.pdf)|11.1-11.2|[Homework 7](https://lgw2.github.io/teaching/csci246-fall-2023/homework/hw7.pdf) + [LaTeX source](https://www.overleaf.com/read/hppfckzcpyfx)|
-|Wednesday 10/25|Proofs about graphs|11.2| |
+|Wednesday 10/25|[Proofs about graphs](https://lgw2.github.io/teaching/csci246-fall-2023/lectures/graphs.pdf)|11.2| |
 |Friday 10/27|Special graphs|11||
 |Monday 10/30|Paths, cycles, and trees|11|[Homework 8](https://lgw2.github.io/teaching/csci246-fall-2023/homework/hw8.pdf) + [LaTeX source](https://www.overleaf.com/read/rdfvmgstxwjk#2f4eda)|
 |Wednesday 11/1|Introduction to probability|9.2, 10.2||
