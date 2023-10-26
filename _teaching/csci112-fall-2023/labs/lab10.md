@@ -31,7 +31,7 @@ questions by going to lab or posting on Discord anyway.
 ## Assignment
 
 You will write a simple role playing game simulator, in which two characters
-fight one round. Your program should take the character info (name, experience
+fight once. Your program should take the character info (name, experience
 points, and health points) as arguments on the command line, store the
 information about each character in a `Character` struct, and call a `fight`
 function that takes in pointers to the two characters and modifies them based
@@ -42,9 +42,10 @@ When two characters fight, this is what should happen:
 * Otherwise, the character with higher XP is the winner and the character with
 	lower XP is the loser. The winner deals the difference in XP damage to the
 	loser's HP. The winner's XP increases by adding the log base 10 (`log10`
-	function from `math.h`) of their current XP to their current XP.
-	The loser's XP increases by multiplying their current XP by 1.5. If
-	you store XP as an `int`, you may round however you like.
+	function from `math.h`) of their current XP to their current XP, and then
+	rounding the result to the nearest integer (`round` function from
+	`math.h`).
+	The loser's XP increases by multiplying their current XP by 1.5.
 * If the loser's HP goes to 0 (or smaller), add "(deceased)" to their name.
 
 ### Program specification
@@ -54,37 +55,40 @@ include the following:
 * a `Character` struct with fields for name, XP, and HP
 * a `fight` function that takes as input two pointers to `Character` structs
 	and modifies the structs that the pointers point to if needed
-* a call to the `log10` function from the `math.h` library
+* calls to the `log10` and `round`  functions from the `math.h` library
 * at least two `.c` files and one `.h` file
 * a Makefile that correctly encodes the dependencies of your program and can be
-	used to create an executable called `lab6`
+	used to create an executable called `lab10`
 
 For creating the structs and printing them, you may choose to use separate
 functions if you would like, but the details are up to you.
 
 ### Hints
-* remember to compile with `-lm` when you use the math library.
+
+* Remember to compile with `-lm` when you use the math library.
+* You can use `->`, the indirect selection operator, to both dereference a
+	pointer to a struct and access its fields.
 
 ### Sample run
 
-You don't need to match the output format.
+As always, match the output format exactly.
 
 ```
-[p19t655@csci112 lab6]$ ls
+[p19t655@csci112 lab10]$ ls
 funcs.c  lab6.c  lab6.h  Makefile
-[p19t655@csci112 lab6]$ make
+[p19t655@csci112 lab10]$ make
 gcc -c lab6.c -Wall
 gcc -c funcs.c -Wall -lm
 gcc -o lab6 lab6.o funcs.o -lm
-[p19t655@csci112 lab6]$ ./lab6 Bowser 10 10 Mario 5 5
+[p19t655@csci112 lab10]$ ./lab6 Bowser 10 10 Mario 5 5
 ### LET'S FIGHT ###
 Bowser (10 XP, 10 HP) vs. Mario (5 XP, 5 HP)
 Bowser deals 5 damage to Mario
 
 Result is:
 Bowser (11 XP, 10 HP)
-Mario (deceased) (7 XP, 0 HP)
-[p19t655@csci112 lab6]$ ./lab6 Bowser 22 100 Mario 35 100
+Mario (deceased) (8 XP, 0 HP)
+[p19t655@csci112 lab10]$ ./lab6 Bowser 22 100 Mario 35 100
 ### LET'S FIGHT ###
 Bowser (22 XP, 100 HP) vs. Mario (35 XP, 100 HP)
 Mario deals 13 damage to Bowser
@@ -92,7 +96,7 @@ Mario deals 13 damage to Bowser
 Result is:
 Bowser (33 XP, 87 HP)
 Mario (36 XP, 100 HP)
-[p19t655@csci112 lab6]$ ./lab6 Bowser 22 100 Mario 22 100
+[p19t655@csci112 lab10]$ ./lab6 Bowser 22 100 Mario 22 100
 ### LET'S FIGHT ###
 Bowser (22 XP, 100 HP) vs. Mario (22 XP, 100 HP)
 It's a tie!
@@ -100,7 +104,7 @@ It's a tie!
 Result is:
 Bowser (22 XP, 100 HP)
 Mario (22 XP, 100 HP)
-[p19t655@csci112 lab6]$ ./lab6 Bowser 40 100 Mario 22 100
+[p19t655@csci112 lab10]$ ./lab6 Bowser 40 100 Mario 22 100
 ### LET'S FIGHT ###
 Bowser (40 XP, 100 HP) vs. Mario (22 XP, 100 HP)
 Bowser deals 18 damage to Mario
@@ -111,26 +115,8 @@ Mario (33 XP, 82 HP)
 ```
 ## Grading--100 points
 
-* 10: all eight files exists with correct name in correct location
-* 20: `make` compiles `lab9` without warnings
-* 20: `lab9` still works as Lab 8 (passes tests from Lab 8 autograder)
-* 10: all header files have header guards
-* 10: `lab9.c` contains `main` and no other source code
-* 5 each: `county.c` defines functions in `county.h`, `sort.c` defines
-	functions in `sort.h`, `utils.c` defines functions in `utils.h`.
-* 10: `Makefile` encodes the dependencies of the program so that only code that
-	needs to be recompiled is recompiled
-* 5: `county.h` contains the definition for a `County` struct
 
 ### Autograder
-
-You can run the autograder using
-
-```
-/public/labs/lab9/autograder.sh
-```
-
-A detailed breakdown of your score will be present in `autograder.txt`.
 
 ## Grading turnaround
 Scores will be uploaded to D2L by class time the Wednesday after the due date.
