@@ -59,6 +59,8 @@ include the following:
 * at least two `.c` files and one `.h` file
 * a Makefile that correctly encodes the dependencies of your program and can be
 	used to create an executable called `lab10`
+* in the Makefile, a `clean` target that removes the executable `lab10` and all
+	intermediate object files
 
 For creating the structs and printing them, you may choose to use separate
 functions if you would like, but the details are up to you.
