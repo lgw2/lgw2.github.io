@@ -62,7 +62,6 @@ Uranus: 50000 diameter, 27 moons, 84.00 orbit time, 17.23 rot. time
 Venus: 12104 diameter, 0 moons, 0.62 orbit time, 5832.00 rot. time
 ```
 
-
 ## Autograder
 
 You can run the autograder by running
