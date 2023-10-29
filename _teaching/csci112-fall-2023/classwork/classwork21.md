@@ -4,85 +4,75 @@ title: "Classwork 21"
 ---
 
 ## Logistics
-* Due: Monday, April 24th AoE.
-* Submission instructions: make sure that the required file (`llist.c`) is in your
-	`/classwork/week14/mon/` directory.
+* Due: Wednesday, November 1st AoE.
+* Submission instructions: make sure that the required files are in your
+	`csci112_fall2023/classwork/week11/wed/` directory.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
 	this assignment.
 
 ## Learning outcomes
-* Practice writing a linked list function
-* Practice allocating memory on the heap
+* Practice using pointers to structs
 
 ## Assignment
 
-If on campus and connected to a MSU network:
 * Log in to the server.
-* From your home directory, navigate to `classwork/week14/mon/`, creating directories `week14`
-and `mon` if necessary.
-* Copy the `llist.c` file from `/public/classwork/week14/mon` and fill in
-	`create_new_digit` function. You should call `malloc` to put the new node on
-	the heap.
+* From your home directory, navigate to `csci112_fall2023/classwork/week11/wed/`, creating directories `week11`
+and `wed` if necessary.
+* Copy `main.c`, `planet.c`, `sort.c`, `planet.h`, `sort.h`, and `Makefile` from
+	`/public/classwork/week11/wed/`.
 
-If off campus:
-* Copy the code below. Using a C compiler of your choice (if you don't have
-	one, use https://www.jdoodle.com/c-online-compiler/), fill in the
-	`create_new_digit` function so that the program prints `1->2->3->`.
-	You should call `malloc` to put the new node on
-	the heap.
-* In a DM to Lucy on Discord, copy your code.
+Fill in the `TODO`s in `main.c` so that when you compile and run the program,
+you get:
 
 ```
-#include <stdlib.h>
-#include <stdio.h>
-#include <string.h>
+[p19t655@csci112 wed]$ make
+gcc -c main.c -Wall
+gcc -c planet.c -Wall
+gcc -c sort.c -Wall
+gcc main.o planet.o sort.o -Wall
+[p19t655@csci112 wed]$ ./a.out
+The planets are:
+Mercury: 4879 diameter, 0 moons, 0.25 orbit time, 1426.00 rot. time
+Venus: 12104 diameter, 0 moons, 0.62 orbit time, 5832.00 rot. time
+Earth: 12756 diameter, 1 moons, 1.00 orbit time, 24.00 rot. time
+Mars: 6779 diameter, 2 moons, 1.88 orbit time, 24.61 rot. time
+Jupiter: 142800 diameter, 16 moons, 11.90 orbit time, 9.93 rot. time
+Saturn: 120536 diameter, 146 moons, 29.40 orbit time, 10.70 rot. time
+Uranus: 50000 diameter, 27 moons, 84.00 orbit time, 17.23 rot. time
+Neptune: 49528 diameter, 14 moons, 165.00 orbit time, 16.10 rot. time
 
-typedef struct digit {
-    int d;
-    struct digit* next;
-} digit;
+Sorted by diameter, they are:
+Mercury: 4879 diameter, 0 moons, 0.25 orbit time, 1426.00 rot. time
+Mars: 6779 diameter, 2 moons, 1.88 orbit time, 24.61 rot. time
+Venus: 12104 diameter, 0 moons, 0.62 orbit time, 5832.00 rot. time
+Earth: 12756 diameter, 1 moons, 1.00 orbit time, 24.00 rot. time
+Neptune: 49528 diameter, 14 moons, 165.00 orbit time, 16.10 rot. time
+Uranus: 50000 diameter, 27 moons, 84.00 orbit time, 17.23 rot. time
+Saturn: 120536 diameter, 146 moons, 29.40 orbit time, 10.70 rot. time
+Jupiter: 142800 diameter, 16 moons, 11.90 orbit time, 9.93 rot. time
 
-void print_list(digit* head) {
-    digit* temp = head;
-
-    while (temp != NULL) {
-        printf("%d->", temp->d);
-        temp = temp->next;
-    }
-    printf("\n");
-}
-
-digit* create_new_digit(int d) {
-    // TODO
-}
-
-int main(void) {
-    digit* head;
-
-    head = create_new_digit(1);
-    head->next = create_new_digit(2);
-    head->next->next = create_new_digit(3);
-
-    print_list(head);
-
-}
+Sorted by name, they are:
+Earth: 12756 diameter, 1 moons, 1.00 orbit time, 24.00 rot. time
+Jupiter: 142800 diameter, 16 moons, 11.90 orbit time, 9.93 rot. time
+Mars: 6779 diameter, 2 moons, 1.88 orbit time, 24.61 rot. time
+Mercury: 4879 diameter, 0 moons, 0.25 orbit time, 1426.00 rot. time
+Neptune: 49528 diameter, 14 moons, 165.00 orbit time, 16.10 rot. time
+Saturn: 120536 diameter, 146 moons, 29.40 orbit time, 10.70 rot. time
+Uranus: 50000 diameter, 27 moons, 84.00 orbit time, 17.23 rot. time
+Venus: 12104 diameter, 0 moons, 0.62 orbit time, 5832.00 rot. time
 ```
+
 
 ## Autograder
 
-You can run the autograder yourself by running
-```
-/public/classwork/week14/mon/autograder.sh
-```
-The `autograder.txt` file will be created or
-replaced. You may get a few lines of output about not being able to remove
-files, etc. This is okay.
+You can run the autograder by running
 
-For those who DM their code, if your program has the output
 ```
-1->2->3->
+/public/classwork/week11/wed/autograder.sh
 ```
-you will get full credit.
+
+The file `autograder.txt` will be created with your score.
+
 
 ## Grading turnaround
 
