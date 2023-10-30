@@ -5,9 +5,9 @@ title: "Lab 10"
 
 ## Logistics
 * Due: Friday, November 3rd AoE.
-* Submission instructions: ensure that you have the files for this assignment in your `~/csci112_fall2023/labs/lab9`
+* Submission instructions: ensure that you have the files for this assignment in your `~/csci112_fall2023/labs/lab10`
 	directory, and that the snapshot (commit) of your repository containing the version of that file you want us to grade has been committed and
-	tagged as `lab9`. (You should have set up your `git` repo and practiced tagging a commit in [Classwork 4](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork4/).)
+	tagged as `lab10`. (You should have set up your `git` repo and practiced tagging a commit in [Classwork 4](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork4/).)
 
 ## Outside resources
 
@@ -119,7 +119,7 @@ Mario (33 XP, 82 HP)
 ## Grading--100 points
 
 * 10: `make` compiles the executable `lab10` without warnings
-* 20: `make clean` removes executable `lab10` and all `.o` object files
+* 10: `make clean` removes executable `lab10` and all `.o` object files
 * 10: there is a `Character` struct defined in a header file
 * 10: there is a function `fight` that takes in two pointers to `Character`s
 * 5: uses the `log10` function
