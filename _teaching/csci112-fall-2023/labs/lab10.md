@@ -118,11 +118,25 @@ Mario (33 XP, 82 HP)
 ```
 ## Grading--100 points
 
-to be determined
+* 10: `make` compiles the executable `lab10` without warnings
+* 20: `make clean` removes executable `lab10` and all `.o` object files
+* 10: there is a `Character` struct defined in a header file
+* 10: there is a function `fight` that takes in two pointers to `Character`s
+* 5: uses the `log10` function
+* 5: uses the `round` function
+* 5: has at least two `.c` files
+* 5: has at least one `.h` files
+* 40: correct output for four test cases
 
 ### Autograder
 
-An autograder will be available for this assignment by 11/1.
+You can run the autograder using
+
+```
+/public/labs/lab10/autograder.sh
+```
+
+A detailed breakdown of your score will be present in `autograder.txt`.
 
 ## Grading turnaround
 Scores will be uploaded to D2L by class time the Wednesday after the due date.
