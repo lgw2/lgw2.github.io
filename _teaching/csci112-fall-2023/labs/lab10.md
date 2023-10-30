@@ -45,8 +45,9 @@ When two characters fight, this is what should happen:
 	function from `math.h`) of their current XP to their current XP, and then
 	rounding the result to the nearest integer (`round` function from
 	`math.h`).
-	The loser's XP increases by multiplying their current XP by 1.5.
-* If the loser's HP goes to 0 (or smaller), add "(deceased)" to their name.
+	The loser's XP increases by multiplying their current XP by 1.5. This
+	should also be rounded to the nearest integer.
+* If the loser's HP goes to 0 (or less), add "(deceased)" to their name.
 
 ### Program specification
 
