@@ -43,7 +43,7 @@ Schedule subject to change. Find all lecture videos in [this Panopto folder](htt
 |Wednesday 10/25|[Compilation review + Makefiles](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/makefiles.pdf)||[Classwork 19](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork19/)||
 |Friday 10/27|[Makefiles](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/makefiles.pdf)|||[Lab 9](https://lgw2.github.io/teaching/csci112-fall-2023/labs/lab9/)|
 |Monday 10/30|[Command line arguments](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/command_line_args.pdf)||[Classwork 20](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork20/)|[Mid-course survey](https://lgw2.github.io/teaching/csci112-fall-2023/surveys/survey1/)|
-|Wednesday 11/1|Sorting an array of pointers||[Classwork 21](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork21/)||
+|Wednesday 11/1|[Sorting an array of pointers](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter8.pdf)||[Classwork 21](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork21/)||
 |Friday 11/3|Lucy gone--quiz only|12|Quiz 5|[Lab 10](https://lgw2.github.io/teaching/csci112-fall-2023/labs/lab10/)|
 |Monday 11/6|Pointer arithmetic||Classwork 22||
 |Wednesday 11/8|Pointer arithmetic||Classwork 23||
