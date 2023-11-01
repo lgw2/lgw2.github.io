@@ -43,7 +43,7 @@ Schedule subject to change. Find all lecture videos in [this Panopto folder](htt
 |Wednesday 10/25|[Proofs about graphs](https://lgw2.github.io/teaching/csci246-fall-2023/lectures/graphs.pdf)|11.2| |
 |Friday 10/27|[Special graphs](https://lgw2.github.io/teaching/csci246-fall-2023/lectures/graphs.pdf)|11||
 |Monday 10/30|[More special graphs](https://lgw2.github.io/teaching/csci246-fall-2023/lectures/graphs.pdf)|11|[Homework 8](https://lgw2.github.io/teaching/csci246-fall-2023/homework/hw8.pdf) + [LaTeX source](https://www.overleaf.com/read/rdfvmgstxwjk#2f4eda)|
-|Wednesday 11/1|Paths, trees, and cycles|9.2, 10.2||
+|Wednesday 11/1|[Paths, trees, and cycles](https://lgw2.github.io/teaching/csci246-fall-2023/lectures/graphs.pdf)|9.2, 10.2||
 |Friday 11/3|Lucy gone---no class|||
 |Monday 11/6|Introduction to probability|10.4|[Homework 9](https://lgw2.github.io/teaching/csci246-fall-2023/homework/hw9.pdf) + [LaTeX source](https://www.overleaf.com/read/qcttxsyvcdsy#67b253)|
 |Wednesday 11/8|Tree diagrams and choosing|10.4||
