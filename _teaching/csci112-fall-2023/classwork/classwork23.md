@@ -1,6 +1,6 @@
 ---
 collection: teaching
-title: "Classwork 22"
+title: "Classwork 23"
 ---
 
 ## Logistics
@@ -11,7 +11,7 @@ title: "Classwork 22"
 	this assignment.
 
 ## Learning outcomes
-* Practice using `malloc` and `calloc` to allocate memory on the stack..
+* Practice using `malloc` and `calloc` to allocate memory on the stack.
 
 ## Assignment
 
@@ -20,7 +20,7 @@ title: "Classwork 22"
 and `wed` if necessary.
 * Copy the file `/public/classwork/week12/wed/dynamic.c` into your directory.
 
-Fill in the two `TODO` items. You should only need to add two lines of code.
+Fill in the three `TODO` items. You should only need to add four lines of code.
 
 ## Autograder
 
