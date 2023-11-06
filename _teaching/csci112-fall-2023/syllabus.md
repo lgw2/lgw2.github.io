@@ -45,8 +45,8 @@ Schedule subject to change. Find all lecture videos in [this Panopto folder](htt
 |Monday 10/30|[Command line arguments](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/command_line_args.pdf)||[Classwork 20](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork20/)|[Mid-course survey](https://lgw2.github.io/teaching/csci112-fall-2023/surveys/survey1/)|
 |Wednesday 11/1|[Sorting an array of pointers](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter8.pdf)||[Classwork 21](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork21/)||
 |Friday 11/3|Lucy gone--quiz only|12|Quiz 5|[Lab 10](https://lgw2.github.io/teaching/csci112-fall-2023/labs/lab10/)|
-|Monday 11/6|Pointer arithmetic||[Classwork 22](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork22/)||
-|Wednesday 11/8|Dynamic memory allocation||[Classwork 23](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork23/)[||
+|Monday 11/6|[Pointer arithmetic](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/AppendixA.pdf)||[Classwork 22](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork22/)||
+|Wednesday 11/8|Dynamic memory allocation||[Classwork 23](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork23/)||
 |Friday 11/10|Veteran's Day---no class||||
 |Monday 11/13|Dynamic memory allocation||Classwork 24||
 |Wednesday 11/15|Dynamic memory allocation||Classwork 25||
