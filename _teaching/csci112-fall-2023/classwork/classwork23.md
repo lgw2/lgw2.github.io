@@ -11,7 +11,7 @@ title: "Classwork 23"
 	this assignment.
 
 ## Learning outcomes
-* Practice using `malloc` and `calloc` to allocate memory on the stack.
+* Practice using `malloc` and `calloc` to allocate memory on the heap.
 
 ## Assignment
 
