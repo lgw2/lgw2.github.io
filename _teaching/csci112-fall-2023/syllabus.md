@@ -174,7 +174,7 @@ Since five classworks and two labs are dropped, your work on dropped
 assignments may
 be counted as a bonus. You get:
 
-* 1 point for a score of 75% or more on any lab beyond your required 10, and
+* 1 point for a score of 75% or more on any lab beyond your required 11, and
 * 0.1 point for any completed classwork beyond your required 24.
 
 #### Course survey and evaluation
