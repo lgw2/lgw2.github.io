@@ -24,7 +24,13 @@ Fill in the three `TODO` items. You should only need to add four lines of code.
 
 ## Autograder
 
-An autogorader will be available for this assignment before class time.
+You can run the autograder by running
+
+```
+/public/classwork/week12/wed/autograder.sh
+```
+
+The file `autograder.txt` will be created with your score.
 
 ## Grading turnaround
 
