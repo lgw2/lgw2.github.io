@@ -4,10 +4,10 @@ title: "Lab 11"
 ---
 
 ## Logistics
-* Due: Friday, November 3rd AoE.
-* Submission instructions: ensure that you have the files for this assignment in your `~/csci112_fall2023/labs/lab10`
+* Due: Friday, November 17th AoE.
+* Submission instructions: ensure that you have the files for this assignment in your `~/csci112_fall2023/labs/lab11`
 	directory, and that the snapshot (commit) of your repository containing the version of that file you want us to grade has been committed and
-	tagged as `lab10`. (You should have set up your `git` repo and practiced tagging a commit in [Classwork 4](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork4/).)
+	tagged as `lab11`. (You should have set up your `git` repo and practiced tagging a commit in [Classwork 4](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork4/).)
 
 ## Outside resources
 
@@ -59,8 +59,8 @@ include the following:
 * calls to the `log10` and `round`  functions from the `math.h` library
 * at least two `.c` files and one `.h` file
 * a Makefile that correctly encodes the dependencies of your program and can be
-	used to create an executable called `lab10`
-* in the Makefile, a `clean` target that removes the executable `lab10` and all
+	used to create an executable called `lab11`
+* in the Makefile, a `clean` target that removes the executable `lab11` and all
 	intermediate object files
 
 For creating the structs and printing them, you may choose to use separate
@@ -76,67 +76,22 @@ functions if you would like, but the details are up to you.
 
 As always, match the output format exactly.
 
-```
-[p19t655@csci112 lab10]$ make
-gcc -Wall -c lab10.c
-gcc -Wall -c funcs.c
-gcc -Wall -o lab10 lab10.o funcs.o -lm
-[p19t655@csci112 lab10]$ ./lab10 Bowser 10 10 Mario 5 5
-### LET'S FIGHT ###
-Bowser (10 XP, 10 HP) vs. Mario (5 XP, 5 HP)
-Bowser deals 5 damage to Mario
-
-Result is:
-Bowser (11 XP, 10 HP)
-Mario (deceased) (8 XP, 0 HP)
-[p19t655@csci112 lab10]$ ./lab10 Bowser 22 100 Mario 35 100
-### LET'S FIGHT ###
-Bowser (22 XP, 100 HP) vs. Mario (35 XP, 100 HP)
-Mario deals 13 damage to Bowser
-
-Result is:
-Bowser (33 XP, 87 HP)
-Mario (37 XP, 100 HP)
-[p19t655@csci112 lab10]$ ./lab10 Bowser 22 100 Mario 22 100
-### LET'S FIGHT ###
-Bowser (22 XP, 100 HP) vs. Mario (22 XP, 100 HP)
-
-It's a tie!
-
-Result is:
-Bowser (22 XP, 100 HP)
-Mario (22 XP, 100 HP)
-[p19t655@csci112 lab10]$ ./lab10 Bowser 40 100 Mario 22 100
-### LET'S FIGHT ###
-Bowser (40 XP, 100 HP) vs. Mario (22 XP, 100 HP)
-Bowser deals 18 damage to Mario
-
-Result is:
-Bowser (42 XP, 100 HP)
-Mario (33 XP, 82 HP)
-[p19t655@csci112 lab10]$ make clean
-rm lab10 *.o
-[p19t655@csci112 lab10]$ ls
-character.c  character.h  funcs.c  funcs.h  lab10.c  Makefile
-```
 ## Grading--100 points
 
-* 10: `make` compiles the executable `lab10` without warnings
-* 10: `make clean` removes executable `lab10` and all `.o` object files
-* 10: there is a `Character` struct defined in a header file
-* 10: there is a function `fight` that takes in two pointers to `Character`s
-* 5: uses the `log10` function
-* 5: uses the `round` function
-* 5: has at least two `.c` files
-* 5: has at least one `.h` files
+* 10: `make` compiles the executable `lab11` without warnings
+* 10: `make clean` removes executable `lab11` and all `.o` object files
 * 40: correct output for four test cases
+* 20: no memory leaks for four test cases
+* 20: no other memory errors four test cases (example memory errors: accessing
+	pointer after freeing, invalid `free`, buffer overflow; uninitialized
+	memory access, etc.)
 
 ### Autograder
 
 You can run the autograder using
 
 ```
-/public/labs/lab10/autograder.sh
+/public/labs/lab11/autograder.sh
 ```
 
 A detailed breakdown of your score will be present in `autograder.txt`.
