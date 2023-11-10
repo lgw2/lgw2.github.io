@@ -49,9 +49,14 @@ Here's a description of the functions you need to implement:
 ## Hints
 
 You don't need to write very much code for this lab, but you do need to be
-careful when thinking about
+careful when thinking about when to dereference pointers, how to set `next`
+pointers in your linked list, and how to free your memory correctly. Don't try
+to guess in order to fix your issues! Try drawing a picture of what your code
+should be doing and what it is doing as written.
 
-### Sample run
+### Sample runs
+
+Here's one:
 
 ```
 [p19t655@csci112 lab11_done]$ ./lab11
@@ -75,6 +80,29 @@ How many team members would you like to add? > 1
 
 Current team:
 eustace->chris->sally->bob->
+
+```
+
+And another:
+
+```
+[p19t655@csci112 lab11_done]$ ./lab11
+How many people are on the team? > 1
+  Enter person's name > Alexis
+
+Current team:
+Alexis->
+
+How many team members would you like to delete? > 100
+
+Current team:
+
+
+How many team members would you like to add? > 1
+  Enter person's name > Betty
+
+Current team:
+Betty->
 
 ```
 
