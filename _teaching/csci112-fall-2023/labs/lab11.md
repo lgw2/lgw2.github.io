@@ -28,12 +28,12 @@ questions by going to lab or posting on Discord anyway.
 
 ## Assignment
 
-Starting with files `main.c` and `team.h` in `/public/labs/lab11/`, implement
-the functions in `team.h` in a new file called `team.c`. You should not change
-`team.c` at all.
-
-Your program uses a `Team` struct to represent a group of
-people (represented with `People` structs) as a linked list.
+Starting with files `main.c`, `team.h`, and `team.c` in `/public/labs/lab11/`,
+edit the function definitions in `team.c` so that your program
+uses a `Team` struct to represent a group of
+people (represented with `People` structs) as a linked list, and has
+functionality foir adding to the list, deleting from it, and printing it out.
+You should not change `main.c` or `team.h` at all.
 
 Here's a description of the functions you need to implement:
 * `create_new_person` should return a pointer to a `Person` allocated on the
