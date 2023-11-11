@@ -11,7 +11,7 @@ title: "Lab 11"
 
 ## Outside resources
 
-On this assignment, you may not use the the internet or generative AI such as
+On this assignment, you may not use the internet or generative AI such as
 ChatGPT to solicit solutions to the programming part of the assignment. If you
 are having trouble writing your program, please go to lab (Fridays, 12-4 in
 Roberts 111) or post in Discord to
@@ -32,7 +32,7 @@ Starting with files `main.c`, `team.h`, and `team.c` in `/public/labs/lab11/`,
 edit the function definitions in `team.c` so that your program
 uses a `Team` struct to represent a group of
 people (represented with `People` structs) as a linked list, and has
-functionality foir adding to the list, deleting from it, and printing it out.
+functionality for adding to the list, deleting from it, and printing it out.
 You should not change `main.c` or `team.h` at all.
 
 Here's a description of the functions you need to implement:
