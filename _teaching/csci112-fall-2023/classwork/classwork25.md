@@ -51,7 +51,13 @@ Bob->Sally->
 
 ## Autograder
 
-An autograder will be available before class time.
+You can run the autograder by running
+
+```
+/public/classwork/week13/wed/autograder.sh
+```
+
+The file `autograder.txt` will be created with your score.
 
 ## Grading turnaround
 
