@@ -26,23 +26,32 @@ Note that these files are very similar to the Lab 11 files. In this classwork,
 you will implement the `insert_person_at_back` function, which is not included
 in Lab 11, but is included here for practice.
 
-This function should find the back of the
+This function should find the last node in the list of `Person`s at `team`'s
+`head` and add a new `Person` at the end. Just like in class, make sure that
+you also account for the case where the list is empty.
+
+After you have implemented `insert_person_at_back`, compiling and running your
+code should look like this:
 
 ```
-[p19t655@csci112 wed]$ gcc digit.c -Wall
+[p19t655@csci112 wed]$ ls
+main.c  team.c  team.h
+[p19t655@csci112 wed]$ gcc main.c team.c -Wall
+[p19t655@csci112 wed]$ ls
+a.out  main.c  team.c  team.h
 [p19t655@csci112 wed]$ ./a.out
+  Enter person's name > Bob
+  Enter person's name > Sally
+
+Current team:
+Bob->Sally->
+
 1->2->3->
 ```
 
 ## Autograder
 
-You can run the autograder by running
-
-```
-/public/classwork/week13/wed/autograder.sh
-```
-
-The file `autograder.txt` will be created with your score.
+An autograder will be available before class time.
 
 ## Grading turnaround
 
