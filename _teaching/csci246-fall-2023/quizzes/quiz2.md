@@ -4,16 +4,16 @@ title: "Quiz 2"
 ---
 
 The second quiz
-will focus on everything since the first quiz, so functions, pigeon hole
-principle, proofs by induction and recursively defined structures, big O, and
-worst-case runtime analysis, including analyzing recursive functions.
+will cover everything we have learned in the course through probability and
+counting, but will focus on the topics we covered since the last quiz:
+relations, proof by mathematical induction, graphs, and probability and
+counting.
 
-The quiz will have four questions. All will be  worth 20, except the drill-style
-questions, which will be worth 40.
-1. Write a simple proof that $f(n)=O(g(n))$ for a given $f(n)$ and $g(n)$.
-2. Write a simple proof using mathematical induction.
+The quiz will have four parts.
+1. Given a relation, identify which properties it satisfies, whether it is any
+   type of order or equivalence relation, and if it is an equivalence relation,
+   its equivalence classes.
+2. Fill in the missing parts of a proof by mathematical induction.
 3. Answer some drill-style questions. Many of these will in fact be questions from the
    drills.
-4. Given some psuedocode, give a function expressing the number of primitive
-   operations in terms of the input size, and give the "best" (i.e., tightest)
-   big O bound on the function.
+4. Answer some non-proof, homework style questions.
