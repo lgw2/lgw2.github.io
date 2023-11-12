@@ -46,7 +46,6 @@ a.out  main.c  team.c  team.h
 Current team:
 Bob->Sally->
 
-1->2->3->
 ```
 
 ## Autograder
