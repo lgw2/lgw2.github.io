@@ -16,3 +16,6 @@ The quiz will have four parts.
 2. Fill in the missing parts of a proof by mathematical induction.
 3. Answer some drill-style or short answer questions on probability.
 3. Answer some drill-style or short answer questions on graphs.
+
+You may bring a 3-by-5 index card of notes (front and back) to reference during
+the quiz. Otherwise, no other resources are allowed.
