@@ -14,6 +14,5 @@ The quiz will have four parts.
    type of order or equivalence relation, and if it is an equivalence relation,
    its equivalence classes.
 2. Fill in the missing parts of a proof by mathematical induction.
-3. Answer some drill-style questions. Many of these will in fact be questions from the
-   drills.
-4. Answer some non-proof, homework style questions.
+3. Answer some drill-style or short answer questions on probability.
+3. Answer some drill-style or short answer questions on graphs.
