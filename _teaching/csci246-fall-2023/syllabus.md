@@ -48,7 +48,7 @@ Schedule subject to change. Find all lecture videos in [this Panopto folder](htt
 |Monday 11/6|[Introduction to probability and counting](https://lgw2.github.io/teaching/csci246-fall-2023/lectures/probability.pdf)|10.4|[Homework 9](https://lgw2.github.io/teaching/csci246-fall-2023/homework/hw9.pdf) + [LaTeX source](https://www.overleaf.com/read/qcttxsyvcdsy#67b253)|
 |Wednesday 11/8|[Tree diagrams and choosing](https://lgw2.github.io/teaching/csci246-fall-2023/lectures/probability.pdf)|10.4||
 |Friday 11/10|Veteran's Day---no class|||
-|Monday 11/13|Linearity of expectation|10.4|[Homework 10](https://lgw2.github.io/teaching/csci246-fall-2023/homework/hw10.pdf) + [LaTeX source](https://www.overleaf.com/read/xvxqqtwwvyfh#8ca080)|
+|Monday 11/13|More on combinations and expected value|10.4|[Homework 10](https://lgw2.github.io/teaching/csci246-fall-2023/homework/hw10.pdf) + [LaTeX source](https://www.overleaf.com/read/xvxqqtwwvyfh#8ca080)|
 |Wednesday 11/15|Quiz review--[Practice Quiz](https://lgw2.github.io/teaching/csci246-fall-2023/quizzes/246_quiz2_practice1.pdf)|||
 |Friday 11/17|[Quiz in class](https://lgw2.github.io/teaching/csci246-fall-2023/quizzes/quiz2)|||
 |Monday 11/20--Friday 11/24|Fall break---no class|||
