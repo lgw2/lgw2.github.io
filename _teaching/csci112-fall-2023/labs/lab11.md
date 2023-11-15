@@ -116,13 +116,17 @@ As always, match the output format exactly.
 * 10: no typecasts are used
 * 40: correct output for four test cases
 * 20: no memory leaks for four test cases
-* 10: no other memory errors four test cases (example memory errors: accessing
-	pointer after freeing, invalid `free`, buffer overflow; uninitialized
-	memory access, etc.)
+* 10: uses heap memory for `Person` nodes
 
 ### Autograder
 
-An autograder will be available by 11/15.
+You can run the autograder using
+
+```
+/public/labs/lab11/autograder.sh
+```
+
+A detailed breakdown of your score will be present in `autograder.txt`.
 
 ## Grading turnaround
 Scores will be uploaded to D2L by class time the Wednesday after the due date.
