@@ -50,7 +50,7 @@ Schedule subject to change. Find all lecture videos in [this Panopto folder](htt
 |Friday 11/10|Veteran's Day---no class||||
 |Monday 11/13|[Dynamic memory allocation](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter13.pdf)||[Classwork 24](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork24/)||
 |Wednesday 11/15|[Dynamic memory allocation](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter13.pdf)||[Classwork 25](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork25/)||
-|Friday 11/17|Dynamic memory allocation|||[Lab 11](https://lgw2.github.io/teaching/csci112-fall-2023/labs/lab11/)|
+|Friday 11/17|Optional help session for Lab 11|||[Lab 11](https://lgw2.github.io/teaching/csci112-fall-2023/labs/lab11/)|
 |Monday 11/20--Friday 11/24|Fall break---no class|||
 |Monday 11/27|Dynamic data structures||Classwork 26||
 |Wednesday 11/29|Dynamic data structures||Classwork 27||
