@@ -140,7 +140,7 @@ assignments, at the end of this course, students should:
 * have improved their problem solving and critical thinking skills, such as:
     * using examples, counter-examples, diagrams, simpler cases, similar
 		problems, etc., to better understand a mathematical statement,
-	* recognizing a broken proof or a false start and using them to find a new
+	* recognizing a broken proof or a false start and using it to find a new
 		result or approach,
 	* thinking critically about which proof paradigm is most appropriate.
 
