@@ -95,8 +95,8 @@ updated throughout the semester.
 
 ### Course assistants
 
-Braeden is our course assistant. His office hours are Thursday 9-10 and Friday
-12-1 in the CS Success Center, Barnard 259. You can contact him at
+Braeden is our course assistant. His office hours are Friday
+1-4 in the CS Success Center, Barnard 259. You can contact him at
 braedensopp@msu.montana.edu.
 
 ### Lecture videos
