@@ -41,11 +41,12 @@ uncomment more of `main` to test them out.
 Starting with your `team.h`, and `team.c` from Lab 11 (or the
 solution found in  `/public/labs/lab11/solution/`),
 edit the proogram so that it implements the list of people as a dynamic
-array, rather than a linked list.
+array, rather than a linked list. To do so, implement the following `struct`s
+and functions.
 
-### Data structures
+### Required `struct`s
 
-First, think about how you will need to change `Team` and `Person`. You can
+Think about how you will need to change `Team` and `Person`. You can
 choose exactly how you implement these, but `Team` must hold an pointer to an
 array that is allocated on the heap.
 
