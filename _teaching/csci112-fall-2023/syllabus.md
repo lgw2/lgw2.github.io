@@ -54,7 +54,7 @@ Schedule subject to change. Find all lecture videos in [this Panopto folder](htt
 |Monday 11/20--Friday 11/24|Fall break---no class|||
 |Monday 11/27|Dynamic data structures||Classwork 26||
 |Wednesday 11/29|Dynamic data structures||Classwork 27||
-|Friday 12/1|Dynamic data structures||Quiz 6|Lab 12|
+|Friday 12/1|Dynamic data structures||Quiz 6|[Lab 12](https://lgw2.github.io/teaching/csci112-fall-2023/labs/lab12/)|
 |Monday 12/4|Bit masking||Classwork 28||
 |Wednesday 12/6|Bit masking||Classwork 29||
 |Friday 12/8|Review|||Lab 13|
