@@ -59,15 +59,15 @@ Note that we are now inserting and deleting at the back of the list, because it'
 efficient to insert at the back of an array.
 
 Here's a description of the functions you need to have:
-* `initialize_team` should take in a pointer to a `Team` and a capacity, and
+* `initialize_team` should take in a pointer to a `Team` and an integer capacity, and
     initialize a team with the given capacity, where the people on the team
     will be stored in an array on the heap. (This means you should have a call to allocate
-    memory in this function.)
+    memory in this function, such as `calloc`.)
 * `create_new_person` should return a pointer to a `Person` allocated on the
 	heap with the passed `name`.
 * `insert_person_at_back` should put the passed `Person` in the first open slot
     of the `Team`'s array. If there is no open slot, it should double the size
-    of the array first. (You will need a call to `realloc` for this.)
+    of the array first and then insert it. (You will need a call to `realloc` for this.)
 * `print_team` should print the team in the format shown in the sample output.
 * `delete_person_at_back` should remove the last element in the array. If, after
     removing, the current size of the array is half of the capacity, you should
