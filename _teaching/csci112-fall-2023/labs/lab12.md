@@ -40,7 +40,7 @@ uncomment more of `main` to test them out.
 
 Starting with your `team.h`, and `team.c` from Lab 11 (or the
 solution found in  `/public/labs/lab11/solution/`),
-edit the proogram so that `team.c` implements the list of people as a dynamic
+edit the proogram so that it implements the list of people as a dynamic
 array, rather than a linked list.
 
 ### Data structures
