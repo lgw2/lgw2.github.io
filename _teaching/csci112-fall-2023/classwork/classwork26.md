@@ -11,7 +11,9 @@ title: "Classwork 26"
 	this assignment.
 
 ## Learning outcomes
-* Practice creating a simple linked list
+* Practice using `realloc`
+* Practice checking whether a memory allocation was successful
+* Practice freeing memory
 
 ## Assignment
 
