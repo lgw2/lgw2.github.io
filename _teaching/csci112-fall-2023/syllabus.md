@@ -53,7 +53,7 @@ Schedule subject to change. Find all lecture videos in [this Panopto folder](htt
 |Friday 11/17|Optional help session for Lab 11|||[Lab 11](https://lgw2.github.io/teaching/csci112-fall-2023/labs/lab11/)|
 |Monday 11/20--Friday 11/24|Fall break---no class|||
 |Monday 11/27|Dynamic arrays||[Classwork 26](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork26/)||
-|Wednesday 11/29|Memory profiling with valgrind||Classwork 27||
+|Wednesday 11/29|Memory profiling with valgrind||[Classwork 27](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork27/)||
 |Friday 12/1|Dynamic data structures||Quiz 6|[Lab 12](https://lgw2.github.io/teaching/csci112-fall-2023/labs/lab12/)|
 |Monday 12/4|Bit masking||Classwork 28||
 |Wednesday 12/6|Bit masking||Classwork 29||
