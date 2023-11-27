@@ -53,8 +53,8 @@ Schedule subject to change. Find all lecture videos in [this Panopto folder](htt
 |Friday 11/17|[Quiz in class](https://lgw2.github.io/teaching/csci246-fall-2023/quizzes/quiz2)|||
 |Monday 11/20--Friday 11/24|Fall break---no class|||
 |Monday 11/27|[Introduction to analysis of algorithms](https://lgw2.github.io/teaching/csci246-fall-2023/lectures/intro_to_alg_analysis.pdf) + [in-class activity](https://lgw2.github.io/teaching/csci246-fall-2023/lectures/big_o_activity.pdf)|6.1||
-|Wednesday 11/29|More analysis of algorithms|6.2| |
-|Friday 12/1|More analysis of algorithms|6.3||
+|Wednesday 11/29|Proofs about big O|6.2| |
+|Friday 12/1|Properties of big O|6.3||
 |Monday 12/4|Worst-case runtime analysis|6.3|Homework 11 |
 |Wednesday 12/6|Analysis of recursive algorithms|6.4| |
 |Friday 12/8|Review|| |
