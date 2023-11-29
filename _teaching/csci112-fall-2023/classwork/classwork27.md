@@ -32,5 +32,4 @@ Run `mem.exe` with `valgrind`. In a new file called `mem.txt` in your `csci112_f
 
 ## Grading turnaround
 
-The autograder will be run at 6am to calculate final scores. Scores will be
-uploaded to D2L by the next class period.
+Scores will be uploaded to D2L by the next class period.
