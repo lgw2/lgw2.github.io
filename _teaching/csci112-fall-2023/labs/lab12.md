@@ -40,7 +40,7 @@ uncomment more of `main` to test them out.
 
 Starting with your `team.h`, and `team.c` from Lab 11 (or the
 solution found in  `/public/labs/lab11/solution/`),
-edit the proogram so that it implements the list of people as a dynamic
+edit the program so that it implements the list of people as a dynamic
 array, rather than a linked list. To do so, implement the following `struct`s
 and functions.
 
@@ -171,10 +171,9 @@ As always, match the output format exactly.
 
 ## Grading--100 points
 
-* 5: `team.h` has function prototypes for all functions listed above
+* 10: `team.h` has function prototypes for all functions listed above
 * 5: `team.c` defines the functions from `team.h`
 * 5: `make` compiles the executable `lab12` without warnings
-* 5: `main.c` is unchanged
 * 5: no typecasts are used
 * 5: `create_new_person` creates a `Person` on the heap
 * 5: the data in the array that `Team` points to is stored on the heap
