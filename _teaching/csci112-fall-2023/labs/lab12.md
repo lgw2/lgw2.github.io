@@ -176,14 +176,22 @@ As always, match the output format exactly.
 * 5: `make` compiles the executable `lab12` without warnings
 * 5: no typecasts are used
 * 5: `create_new_person` creates a `Person` on the heap
-* 5: the data in the array that `Team` points to is stored on the heap
-* 5: uses `realloc` when the array's capacity needs to change
+* 5: uses `realloc` when the array's capacity needs to increase
+* 5: uses `realloc` when the array's capacity needs to decrease
 * 40: correct output for four test cases
-* 20: no memory leaks for four test cases
+* 20: no memory leaks for four test cases--note that there is no test for this
+    in the public autograder. You will have to check for yourself using
+    `valgrind`
 
 ### Autograder
 
-An autograder will be available by 11/29.
+You can run the autograder using
+
+```
+/public/labs/lab12/autograder.sh
+```
+
+A detailed breakdown of your score will be present in `autograder.txt`.
 
 ## Grading turnaround
 Scores will be uploaded to D2L by class time the Wednesday after the due date.
