@@ -34,7 +34,7 @@ be stored on the heap, just like the nodes of the linked list, and the array
 will be dynamic, meaning that it will use more memory or free memory as needed.
 
 Your program will run via the Lab 12 `main.c`, found in
-`/public/labs/labb12/main.c`. Only the initialization code is currently
+`/public/labs/lab12/main.c`. Only the initialization code is currently
 uncommented; as you implement different parts of your program, you should
 uncomment more of `main` to test them out.
 
