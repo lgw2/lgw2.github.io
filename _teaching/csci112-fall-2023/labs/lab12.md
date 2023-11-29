@@ -84,6 +84,18 @@ Here's a description of the functions you need to have:
 * As with Lab 11, you don't need to write much code for this lab, but you will
     need to think carefully about what your code is doing.
 * Be careful about dividing by 0.
+* Be careful not to let your capacity go down to 0.
+* You can use redirection to test your code without having to interact with the
+    menu. For example, `./lab12 <<< "10 2 Abraham Sherry 0 1 Fred"` will run
+    `lab12` with the input to `stdin` as `10 2 Abraham Sherry 0 1 Fred`,
+    meaning that `scanf` will consume those tokens. So your program will create
+    a team with capacity 10, add 2, delete 0, and then add 1. You can also use
+    this with `valgrind`:
+```
+valgrind ./lab12 <<< "10 2 Abraham Sherry 0 1 Fred"
+```
+  will run the program with those inputs with `valgrind` to check for memory
+  issues.
 
 ### Sample runs
 
