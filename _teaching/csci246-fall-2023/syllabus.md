@@ -58,7 +58,7 @@ Schedule subject to change. Find all lecture videos in [this Panopto folder](htt
 |Monday 12/4|Worst-case runtime analysis|6.3|[Homework 11](https://lgw2.github.io/teaching/csci246-fall-2023/homework/hw11.pdf) + [LaTeX source](https://www.overleaf.com/read/ggcpkmmbyjdb#4f87c5)|
 |Wednesday 12/6|Analysis of recursive algorithms|6.4| |
 |Friday 12/8|Review|| |
-|Monday 12/11, 4:00-5:50|Final in lecture classroom||Optional [Homework 12](https://lgw2.github.io/teaching/csci246-fall-2023/homework/hw12.pdf) (to replace one previous HW) + [LaTeX source](https://www.overleaf.com/read/khmwszwmwbdg#306736)|
+|Monday 12/11, 4:00-5:50|[Final](https://lgw2.github.io/teaching/csci246-fall-2023/quizzes/quiz3) in lecture classroom||Optional [Homework 12](https://lgw2.github.io/teaching/csci246-fall-2023/homework/hw12.pdf) (to replace one previous HW) + [LaTeX source](https://www.overleaf.com/read/khmwszwmwbdg#306736)|
 
 ## Catalog description
 
