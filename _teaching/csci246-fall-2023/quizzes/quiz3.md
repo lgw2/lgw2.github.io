@@ -4,17 +4,24 @@ title: "Quiz 3"
 ---
 
 The third quiz
-will focus on everything since the second quiz: relations, graphs, and
-probability. ~~However, a few questions will relate to content from the
-previous parts of the course.~~
+will cover everything we have learned in the course, but will focus algorithm analysis. Note that algorithm analysis and big O deal with
+many of the topics from earlier in the course: relations, functions,
+propositions,
+predicates, sets, and of course proofs and thus all of the proof techniques.
+Thus, while the questions will focus on big O and algorithm analysis, you will
+want to be familiar with the ideas from earlier in the course.
 
-The quiz will have four questions. All will be  worth 20 points, except the drill-style
-questions, which will be worth 40. Here is what the questions will cover:
-1. Given a relation, determine which of the 5 properties it satisfies and whether
-   it is an equivalence relation or partial/total order.
-2. Given some graphs, decide whether they satisfy certain graph properties.
-   Given some graph properties, give example graphs that satisfy them.
-3. Count the size of some sets, give the probability of an outcome or event,
-   etc.
-4. Answer some drill-style questions. Many of these will in fact be questions from the
-   drills.
+The quiz will have five parts.
+1. Given some propositions about big O and their proposed proofs, identify
+   whether the proof is valid or not.
+2. Given a function, prove that it is big O of another function using the
+   defintion.
+3. Given an algorithm in pseudocode form, give a proposed function counting the
+   number of primitive operations, and the tightest big O (i.e., big theta)
+   runtime of the function.
+4. Given a recursive algorithm, use a recurrence relation to give its runtime.
+5. Drill-style questions on the analysis of algorithms.
+
+
+You may bring a 3-by-5 index card of notes (front and back) to reference during
+the quiz. Otherwise, no other resources are allowed.
