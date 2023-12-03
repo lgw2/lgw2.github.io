@@ -57,7 +57,7 @@ Schedule subject to change. Find all lecture videos in [this Panopto folder](htt
 |Friday 12/1|Dynamic data structures||Quiz 6|[Lab 12](https://lgw2.github.io/teaching/csci112-fall-2023/labs/lab12/)|
 |Monday 12/4|Bit operators; binary and hexadecimal||Classwork 28||
 |Wednesday 12/6|Bit masking||Classwork 29||
-|Friday 12/8|Review|||[Lab 13](https://lgw2.github.io/teaching/csci112-fall-2023/labs/lab13/)|
+|Friday 12/8|Lab 13 help session|||[Lab 13](https://lgw2.github.io/teaching/csci112-fall-2023/labs/lab13/)|
 |Monday 12/11, 8:00-9:50am|Optional final (to replace quiz grade) in lecture classroom||||
 
 ## Catalog description
