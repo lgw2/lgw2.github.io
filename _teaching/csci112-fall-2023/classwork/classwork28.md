@@ -23,6 +23,8 @@ and `mon` if necessary.
 Assign values to `x, y, z, a, b, c` using binary and hexadecimal encodings as
 described in the file. Remember the trick for converting from binary to hex!
 
+When you've succeeded, you'll get six `PASS`es when you run your executable.
+
 Note: of course you could just find a decimal to binary and hex converter
 online and use that to get full credit on this assignment. But what's the point
 of that?
