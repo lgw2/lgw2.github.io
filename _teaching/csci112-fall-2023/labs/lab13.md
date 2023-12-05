@@ -172,7 +172,13 @@ As always, match the output format exactly.
 
 ### Autograder
 
-An autograder will be available by 12/6.
+You can run the autograder using
+
+```
+/public/labs/lab13/autograder.sh
+```
+
+A detailed breakdown of your score will be present in `autograder.txt`.
 
 ## Grading turnaround
 Scores will be uploaded to D2L by class time the Wednesday after the due date.
