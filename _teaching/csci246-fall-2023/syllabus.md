@@ -55,7 +55,7 @@ Schedule subject to change. Find all lecture videos in [this Panopto folder](htt
 |Monday 11/27|[Introduction to analysis of algorithms](https://lgw2.github.io/teaching/csci246-fall-2023/lectures/intro_to_alg_analysis.pdf) + [in-class activity](https://lgw2.github.io/teaching/csci246-fall-2023/lectures/big_o_activity.pdf)|6.1||
 |Wednesday 11/29|[Proofs about big O](https://lgw2.github.io/teaching/csci246-fall-2023/lectures/bigo.pdf)|6.2| |
 |Friday 12/1|[Properties of big O](https://lgw2.github.io/teaching/csci246-fall-2023/lectures/bigo.pdf)|6.3||
-|Monday 12/4|Worst-case runtime analysis|6.3|[Homework 11](https://lgw2.github.io/teaching/csci246-fall-2023/homework/hw11.pdf) + [LaTeX source](https://www.overleaf.com/read/ggcpkmmbyjdb#4f87c5)|
+|Monday 12/4|[Worst-case runtime analysis](https://lgw2.github.io/teaching/csci246-fall-2023/lectures/worst_case_analysis.pdf)|6.3|[Homework 11](https://lgw2.github.io/teaching/csci246-fall-2023/homework/hw11.pdf) + [LaTeX source](https://www.overleaf.com/read/ggcpkmmbyjdb#4f87c5)|
 |Wednesday 12/6|Analysis of recursive algorithms|6.4| |
 |Friday 12/8|Review|| |
 |Monday 12/11, 4:00-5:50|[Final](https://lgw2.github.io/teaching/csci246-fall-2023/quizzes/quiz3) in lecture classroom||Optional [Homework 12](https://lgw2.github.io/teaching/csci246-fall-2023/homework/hw12.pdf) (to replace one previous HW) + [LaTeX source](https://www.overleaf.com/read/khmwszwmwbdg#306736)|
