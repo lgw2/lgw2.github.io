@@ -27,7 +27,7 @@ number passed in. For example, the decimal number 50 should print
 0000 0000 0000 0000 0000 0000 0011 0010
 ```
 
-There is a short and solution using bitwise operators and bit masking and
+There is a short solution using bitwise operators and bit masking and
 one for loop.
 
 ### Hints
