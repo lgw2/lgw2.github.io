@@ -47,7 +47,7 @@ and functions.
 ### Required `struct`s
 
 Think about how you will need to change `Team` and `Person`. You can
-choose exactly how you implement these, but `Team` must hold an pointer to an
+choose exactly how you implement these, but `Team` must hold a pointer to an
 array that is allocated on the heap.
 
 You have some freedom in how you implement this lab, which means that the
