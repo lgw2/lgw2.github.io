@@ -30,6 +30,11 @@ number passed in. For example, the decimal number 50 should print
 There is a short and solution using bitwise operators and bit masking and
 one for loop.
 
+### Hints
+
+* You can't access a bit position by indexing like you could an array--instead,
+	use a shift operator
+
 ## Autograder
 
 You can run the autograder by running
