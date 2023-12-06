@@ -34,7 +34,7 @@ There is a short and easy solution using bitwise operators and bit masking.
 You can run the autograder by running
 
 ```
-/public/classwork/week15/mon/autograder.sh
+/public/classwork/week15/wed/autograder.sh
 ```
 
 The file `autograder.txt` will be created with your score.
