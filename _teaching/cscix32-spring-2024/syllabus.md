@@ -18,6 +18,7 @@ Schedule subject to change.
 
 3 Credits.
 PREREQUISITE: CSCI 332.
+Advanced algorithm and data structure concepts, including theory, approximation algorithms, randomized algorithms, parallel algorithms, streaming algorithms, linear programming.
 
 ## Course Info
 
