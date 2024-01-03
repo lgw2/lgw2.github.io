@@ -141,3 +141,11 @@ A.  `*int_ptrs[0]`
 B.  `&int_ptrs[0]`
 C.  `int_ptrs[0]`
 C.  `int_ptrs[0]*`
+
+12\.  What do we input to a call to `malloc`?
+
+A.  A pointer to the data we want to store on the heap
+B.  The data that we want to store on the heap
+C.  The size in bytes of the data that we want to store on the heap
+D.  A `NULL` pointer
+
