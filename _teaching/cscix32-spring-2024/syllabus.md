@@ -9,7 +9,7 @@ location: "Missoula, Montana"
 
 ## Course schedule
 
-Schedule subject to change. Find all lecture videos in [this Panopto folder](https://montana.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=a2e302c9-69f1-4a36-89a0-b05101553b63).
+Schedule subject to change.
 
 |Date|Lecture Topic (notes written during class linked)|Recommended Reading|Homework Due|
 |:---|:---|:---|:---|
@@ -18,19 +18,8 @@ Schedule subject to change. Find all lecture videos in [this Panopto folder](htt
 
 3 Credits.
 PREREQUISITE: CSCI 332.
-This
 
 ## Course Info
-
-This course meets on Mondays, Wednesdays, and Fridays from
-4:10pm-5pm in Reid Hall 105. Our course meetings will be a combination of
-lecture and in-class group and solo activities. We will use
-Discord as the primary method of course communication, and all course
-information will be posted on this website or on the Discord server; D2L will
-be used *only* for recording grades.
-Lectures will be recorded and available afterward if you
-would like to rewatch them; however, in-class activities make up 10% of your
-grade so it is in your best interest to attend class.
 
 
 ## Course Resources
