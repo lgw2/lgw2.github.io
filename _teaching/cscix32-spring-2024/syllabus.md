@@ -1,5 +1,5 @@
 ---
-title: "CSCI x32: Advanced Algorithm Topics"
+title: "CSCI 432/532: Advanced Algorithm Topics"
 collection: teaching
 type: "Undergraduate course"
 venue: "University of Montana, Computer Science"
@@ -11,8 +11,14 @@ location: "Missoula, Montana"
 
 Schedule subject to change.
 
-|Date|Lecture Topic (notes written during class linked)|Recommended Reading|Homework Due|
+|Date|Lecture Topic (notes written during class linked)|Reading|Homework Due|
 |:---|:---|:---|:---|
+|1/18|Recursively defined structures and proofs about them|||
+|1/22|||Homework 1|
+|1/23|Languages and regular expressions|||
+|1/25|DFAs|||
+|1/25|DFAs|||
+|1/29|||Homework 2|
 
 ## Catalog description
 
@@ -20,73 +26,30 @@ Schedule subject to change.
 PREREQUISITE: CSCI 332.
 Advanced algorithm and data structure concepts, including theory, approximation algorithms, randomized algorithms, parallel algorithms, streaming algorithms, linear programming.
 
-## Course Info
+## Course info
 
 
-## Course Resources
+
+## Course resources
 
 ### Textbook
 
-The content in this course is based off of
-*Connecting Discrete Mathematics and Computer Science* by David Liben-Nowell. A free PDF version of the book is available [here](https://cs.carleton.edu/faculty/dln/book/). The physical book is about $80 and is available in the bookstore if you prefer that.
-
-### Problem solving tips
-
-Check out [this document](https://lgw2.github.io/teaching/csci246-spring-2023/homework/tips.pdf) for tips on how to come up with your proofs, specific
-tips for homework assignments in this class, and strategies for getting the
-homework assignments done. This document is a work in progress and may be
-updated throughout the semester.
-
-### Course assistants
-
-Braeden is our course assistant. His office hours are Friday
-1-4 in the CS Success Center, Barnard 259. You can contact him at
-braedensopp@msu.montana.edu.
+There is no textbook for this course; however, ...
 
 ### Lecture videos
 
 Lectures are recorded and available to watch after class. However, if there are
 technical difficulties recording a lecture, it will not be re-recorded, so come
 to class when you can to make sure that you do not miss course content or
-announcements. Videos can be found in the [Panopto folder](https://montana.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=a2e302c9-69f1-4a36-89a0-b05101553b63).
+announcements. Videos can be found in the [Panopto folder](https://umontana.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=dcf4e4db-c07c-4d77-9063-b0f10157fd5d).
+
+### Piazza discussion
+
+
 
 ### Instructor office hours
 
-My office hours are 5:10-6:30pm (right after class) on Mondays and 9:30-11am on
-Thursdays in the CS Success Center
-(Barnard 259). You can also contact me on Discord to set up a
-different meeting time, make an appointment via my [calendar](https://calendar.google.com/calendar/appointments/schedules/AcZssZ2hjUnXFy55TwZXrSyiG53_QoYEz592Vki7k0zvjmu2eWGXBG6x9c6zYfpe7JNylzyUeQYrMp0c), or drop by my office (Barnard 359) if my door is open.
-You can find office hours for all CS faculty [here](https://www.cs.montana.edu/office-hours.html).
-
-### Computer Science Success Center
-There are free tutors available in Barnard 259. More information [here](https://www.cs.montana.edu/student-success-center.html).
-
-### SmartyCats tutoring
-
-We have a SmartyCats tutor for this course! Visit [the SmartyCats website](https://www.montana.edu/aycss/success/smartycats/) to book a tutoring appointment or see more info on drop-in hours.
-
-### Discord server
-
-All course communication will be through our course Discord server. See D2L
-announcement for link. Please [change your nickname](https://support.discord.com/hc/en-us/articles/219070107-Server-Nicknames#:~:text=If%20you're%20on%20the,new%20nickname%20of%20your%20choice!) to your full name (first
-and last). Additionally, I suggest managing your notification settings. Check
-out Discord's [Notification Settings 101 page](https://support.discord.com/hc/en-us/articles/215253258-Notifications-Settings-101) to get started. You may also need to manage the application notification settings on your device.
-
 ## Course outcomes
-By engaging with this course through attending lectures and completing
-assignments, at the end of this course, students should:
-* be comfortable reading and using mathematical terminology around sets,
-	functions, propositional and predicate logic, asymptotic notation,
-	recursion, and graphs;
-* be comfortable reading and writing mathematical proofs using the following
-	methods: direct proofs, proofs by counterexample, proofs by construction,
-	proofs by contradiction, proofs by contrapositive, and proofs by induction;
-* have improved their problem solving and critical thinking skills, such as:
-    * using examples, counter-examples, diagrams, simpler cases, similar
-		problems, etc., to better understand a mathematical statement,
-	* recognizing a broken proof or a false start and using it to find a new
-		result or approach,
-	* thinking critically about which proof paradigm is most appropriate.
 
 ## Grading
 
@@ -109,47 +72,11 @@ If you find an error in any of the course materials (typo, incorrect statement, 
 it's truly an error and not a duplicate. If it is really an error, you get a
 quarter of a point. Only the first person to post about an error gets the points. You can earn a max of 1 total point toward your 100 for the course (for four errors).
 
-#### Participation in additional in-class assignments
-
-Because the max score you can receive for the in-class assignment category is
-10, but there will be at least 15 in-class assignments, any additional in-class
-assignment will be added as a half point to your score at the end of the
-semester. The max points you can earn from this bonus is 2.
-
 #### Course survey and evaluation
 
-If 75% or more of the class completes the mid-semester course survey, the whole
+If 100% of the class completes the mid-semester course survey, the whole
 class gets 1 bonus point. Same goes for the course evaluation at the end of the
 semester.
-
-### Late assignment policies
-To run a course of this size we cannot accommodate individual requests for
-extensions on assignments; therefore, we have strict rules for when assignments
-are due, but have some leeway built in. Please read the bullet points below carefully,
-respect the policy, and *get help early if
-you are having any problems.* We want you to succeed!
-
-* You are responsible for any announcements about assignments  made in class, on Discord, on D2L, and here
-	on the course website.
-* All assignments are due on their due date by the [Anywhere on Earth (AoE)
-	timezone](https://www.timeanddate.com/time/zones/aoe), which is 6 hours behind Bozeman (Actually, it's only 5 hours behind during standard time, but we'll go with 6 hours behind at all times). This means that the real due
-	date is 6am the following day. If you submit within 24 hours of the due date, you get 25% off of whatever score you earn. If you
-	submit within two days of the due date you get 50% off.
-	Otherwise, no points are possible.
-* You can submit as many times as you would like; only your last submission will be
-	graded.
-
-### Missed quiz policy
-
-Any conflicts with a quiz must be discussed with me prior to missing the quiz.
-I follow University policy on makeups, which allows that serious illness or a
-serious family emergency are valid reasons requiring an accommodation. Most
-other reasons (employment conflict, travel plans) are not valid.
-
-### Missed in-class assignment policy
-
-If you know that you will miss class consistently, please come talk to me or
-send me a Discord message ASAP and we will work something out.
 
 ### Collaboration policy
 On all homework assignments, you may:
