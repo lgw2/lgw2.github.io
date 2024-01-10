@@ -23,8 +23,9 @@ Schedule subject to change.
 
 |Week|Monday (HW due)|Tuesday (lecture)|Wednesday|Thursday (lecture)|Friday|
 |:---|:---|:---|:---|:---|:---|
-|1 (1/15-1/19)| | | |Recursively defined structures and proofs about them | |
-|2 (1/22-1/26)|Homework 1|Languages and regular expressions | | | |
+|1 (1/15-1/19)| | | |Recursively defined structures and proofs about them| |
+|2 (1/22-1/26)|Homework 1|Languages and regular expressions| |DFAs| |
+|3 (1/29-2/3)|Homework 2|DFAs| |Equivalence of recognized and regular languages| |
 
 ## Catalog description
 
