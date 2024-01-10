@@ -17,8 +17,14 @@ Schedule subject to change.
 |1/22|||Homework 1|
 |1/23|Languages and regular expressions|||
 |1/25|DFAs|||
-|1/25|DFAs|||
 |1/29|||Homework 2|
+|1/30|DFAs|||
+|2/1|DFAs|||
+
+|Week|Monday|Tuesday (lecture)|Wednesday|Thursday (lecture)|Friday||
+|:---|:---|:---|:---|:---|:---|
+|1| | | |Recursively defined structures and proofs about them | |
+|2|Homework 1| | | | |
 
 ## Catalog description
 
