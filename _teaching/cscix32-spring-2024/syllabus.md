@@ -25,7 +25,21 @@ Schedule subject to change.
 |:---|:---|:---|:---|:---|:---|
 |1 (1/15-1/19)| | | |Recursively defined structures and proofs about them| |
 |2 (1/22-1/26)|Homework 1|Languages and regular expressions| |DFAs| |
-|3 (1/29-2/3)|Homework 2|DFAs| |Equivalence of recognized and regular languages| |
+|3 (1/29-2/3)|Homework 2|DFAs; equivalence of recognized and regular languages| |Proving nonregularity| |
+|4 (2/5-2/9)|Homework 3|NFAs| |NFAs| |
+|5 (2/12-2/16)|Homework 4|CFGs| |Turing machines| |
+|6 (2/19-2/23)|Homework 5 (President's Day)|| |Lucy gone| |
+|7 (2/26-3/1)||| || |
+|8 (3/4-3/8)||| || |
+|9 (3/11-3/15)||| || |
+|Spring break||| || |
+|10 (3/25-3/29)||| || |
+|11 (4/1-4/5)||| || |
+|12 (4/8-4/12)||| || |
+|13 (4/15-4/19)||| || |
+|14 (4/22-4/26)||| || |
+|15 (4/29-5/3)||| || |
+|Finals week||| || |
 
 ## Catalog description
 
