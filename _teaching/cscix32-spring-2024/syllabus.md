@@ -18,8 +18,7 @@ Schedule subject to change.
 |3 (1/29-2/3)|Homework 2|DFAs; equivalence of recognized and regular languages| |Proving nonregularity| |
 |4 (2/5-2/9)|Homework 3|NFAs| |NFAs| |
 |5 (2/12-2/16)|Homework 4|CFGs| |Turing machines| |
-|6 (2/19-2/23)|Homework 5 (President's Day--maybe option to turn in homework later)|P and NP| |Lucy gone but maybe
-NP-hardness reductions anyway| |
+|6 (2/19-2/23)|Homework 5 (President's Day--maybe option to turn in homework later)|P and NP| |Lucy gone but maybe NP-hardness reductions anyway| |
 |7 (2/26-3/1)|Homework 6|More NP hardness reductions| |Undecidability| |
 |8 (3/4-3/8)|Homework 7|More udecidability| |Wrap up theory; intro algorithms section of course and intro paper 1 concepts| |
 |9 (3/11-3/15)|Paper writeup 1|Paper 1 discussion| |Paper 2 prep| |
@@ -68,7 +67,8 @@ I will schedule and lead two weekly problem sessions where we will work through
 problems that are similar to the homework that you turn in every Monday. These
 are not required, but you can earn some participation points by attending, and
 if you attend these problem sessions the homework should be much easier to
-complete.
+complete. Solutions will be shared after the problem sessions
+are completed.
 
 In the second half of the class, we will decide how we want to use the group
 problem session time.
