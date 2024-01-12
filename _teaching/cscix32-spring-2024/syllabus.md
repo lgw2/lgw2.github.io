@@ -41,9 +41,31 @@ Advanced algorithm and data structure concepts, including theory, approximation 
 
 ## Course info
 
-
+This course will have two parts: in the first half, we will work to understand
+what is computable and how fast using the computer science theory developed in
+the 20th century. This understanding will give us a baseline to understand the
+contemporary algorithms field.
+In the second half, we will learn a number of advanced algorithm
+concepts and see how they are applied in current algorithms research. This will
+be a highly interactive class, and although the material is challenging, I will
+try to provide the appropriate level of support and I think students will get a
+lot out of the class.
 
 ## Course resources
+
+### Group problem sessions
+
+In the first half of the course, we will be working through concepts in
+computer science theory. The best way to understand these concepts is through
+practice and discussion. In order to provide you as much support as possible,
+I will schedule and lead two weekly problem sessions where we will work through
+problems that are similar to the homework that you turn in every Monday. These
+are not required, but you can earn some participation points by attending, and
+if you attend these problem sessions the homework should be much easier to
+complete.
+
+In the second half of the class, we will decide how we want to use the group
+problem session time.
 
 ### Textbook
 
@@ -54,7 +76,7 @@ of which are available for free online:
 
 ### Lecture videos
 
-Lectures are recorded and available to watch after class. However, if there are
+Lectures will be recorded and available to watch after class. However, if there are
 technical difficulties recording a lecture, it will not be re-recorded, so come
 to class when you can to make sure that you do not miss course content or
 announcements. Videos can be found in the [Panopto folder](https://umontana.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=dcf4e4db-c07c-4d77-9063-b0f10157fd5d).
@@ -62,12 +84,8 @@ announcements. Videos can be found in the [Panopto folder](https://umontana.host
 ### Piazza discussion
 
 Especially in the first half of the course, you will be working through
-problems and I would like you to get help as soon as possible.
-
-
-### Instructor office hours/extra lab time
-
-## Course outcomes
+problems and I would like you to get help as soon as possible. We will use the
+forum [Piazza]() to organize questions and answers.
 
 ## Grading
 
@@ -89,8 +107,8 @@ There are two ways to earn bonus points in this class.
 
 #### Catch errors in course materials
 
-If you find an error in any of the course materials (typo, incorrect statement, etc.), make a post in Piazza (in TODO way). I will decide whether
-it's truly an error. If it is really an error, you get a
+If you find an error in any of the course materials (typo, incorrect statement, etc.), make a post in Piazza (in TODO way).
+If it is really an error, you get a
 quarter of a point. Only the first person to post about an error gets the points. You can earn a max of 1 total point toward your 100 for the course (for four errors).
 
 #### Course survey and evaluation
@@ -101,8 +119,19 @@ semester.
 
 ### Collaboration policy
 
-On all homework assignments, you may:
-* Discuss, work through, problems and approaches with your peers.
+On all homework assignments, you may work in groups of up to three, and turn in
+a single writeup as a group. Additionally, you may use *any* resource, as
+long as you write up your answers in your own words and properly cite your
+source. Some examples of resources you might use:
+
+* other students in the class
+* other students not in the class
+* other instructors
+* textbooks or online notes
+* anything you find on the internet
+* ChatGPT or other AI tools
+
+
 
 ## Important dates
 
