@@ -11,16 +11,6 @@ location: "Missoula, Montana"
 
 Schedule subject to change.
 
-|Date|Lecture Topic (notes written during class linked)|Reading|Homework Due|
-|:---|:---|:---|:---|
-|1/18|Recursively defined structures and proofs about them|||
-|1/22|||Homework 1|
-|1/23|Languages and regular expressions|||
-|1/25|DFAs|||
-|1/29|||Homework 2|
-|1/30|DFAs|||
-|2/1|DFAs|||
-
 |Week|Monday (HW due)|Tuesday (lecture)|Wednesday|Thursday (lecture)|Friday|
 |:---|:---|:---|:---|:---|:---|
 |1 (1/15-1/19)| | | |Recursively defined structures and proofs about them| |
@@ -28,17 +18,19 @@ Schedule subject to change.
 |3 (1/29-2/3)|Homework 2|DFAs; equivalence of recognized and regular languages| |Proving nonregularity| |
 |4 (2/5-2/9)|Homework 3|NFAs| |NFAs| |
 |5 (2/12-2/16)|Homework 4|CFGs| |Turing machines| |
-|6 (2/19-2/23)|Homework 5 (President's Day)|| |Lucy gone| |
-|7 (2/26-3/1)||| || |
-|8 (3/4-3/8)||| || |
-|9 (3/11-3/15)||| || |
+|6 (2/19-2/23)|Homework 5 (President's Day)|P and NP| |Lucy gone but maybe
+NP-hardness reductions anyway| |
+|7 (2/26-3/1)|Homework 6|More NP hardness reductions| |Undecidability| |
+|8 (3/4-3/8)|Homework 7|More udecidability| |Wrap up theory; intro algorithms
+section of course| |
+|9 (3/11-3/15)|Paper writeup 1|| || |
 |Spring break||| || |
-|10 (3/25-3/29)||| || |
-|11 (4/1-4/5)||| || |
-|12 (4/8-4/12)||| || |
-|13 (4/15-4/19)||| || |
-|14 (4/22-4/26)||| || |
-|15 (4/29-5/3)||| || |
+|10 (3/25-3/29)|Paper writeup 2|| || |
+|11 (4/1-4/5)|Paper writeup 3|| || |
+|12 (4/8-4/12)|Paper writeup 4|| || |
+|13 (4/15-4/19)|Paper writeup 5|| || |
+|14 (4/22-4/26)|Paper writeup 6|| || |
+|15 (4/29-5/3)|Paper writeup 7|| || |
 |Finals week||| || |
 
 ## Catalog description
@@ -55,7 +47,10 @@ Advanced algorithm and data structure concepts, including theory, approximation 
 
 ### Textbook
 
-There is no textbook for this course; however, ...
+There is no textbook for this course; notes from various sources will be shared
+as needed. However, there are a number of popular textbooks in this field, many
+of which are available for free online:
+* TODO, fill in
 
 ### Lecture videos
 
@@ -66,31 +61,36 @@ announcements. Videos can be found in the [Panopto folder](https://umontana.host
 
 ### Piazza discussion
 
+Especially in the first half of the course, you will be working through
+problems and I would like you to get help as soon as possible.
 
 
-### Instructor office hours
+### Instructor office hours/extra lab time
 
 ## Course outcomes
 
 ## Grading
 
 You will be graded on the following:
-* 11 homework assignments (lowest score dropped): 50%
-* 3 quizzes (including final): 40%
-* In-class assignments (1 point for participating in each one, for up to 10
-	points total; there will be at least 15 total): 10%
+* 20% participation
+* 20% homework problems (in theory section)
+* 20% problem presentations (in theory section)
+* 20% paper summaries (in algorithms section)
+* 20% paper presentations (in algorithms section)
+
+Note that there are *no tests!*
 
 After any curving, your grade will be determined by your total score as follows:
 93+: A; 90+: A-; 87+: B+; 83+: B; 80+: B-; 77+: C+; 73+: C; 70+: C-; 67+: D+; 63: D; 60: D-.
 
 ### Bonus
 
-There are three ways to earn bonus points in this class.
+There are two ways to earn bonus points in this class.
 
 #### Catch errors in course materials
 
-If you find an error in any of the course materials (typo, incorrect statement, etc.), post in the `#errors-in-course-material` channel on Discord. I will decide whether
-it's truly an error and not a duplicate. If it is really an error, you get a
+If you find an error in any of the course materials (typo, incorrect statement, etc.), make a post in Piazza (in TODO way). I will decide whether
+it's truly an error. If it is really an error, you get a
 quarter of a point. Only the first person to post about an error gets the points. You can earn a max of 1 total point toward your 100 for the course (for four errors).
 
 #### Course survey and evaluation
@@ -100,75 +100,24 @@ class gets 1 bonus point. Same goes for the course evaluation at the end of the
 semester.
 
 ### Collaboration policy
+
 On all homework assignments, you may:
-* Discuss problems and approaches with your peers.
-
-You may not:
-* Copy your peers' proofs or write-ups of solutions to homework problems, even
-	if you worked together to develop solutions.
-* Use the internet to search for or solicit approaches or ideas to assigned
-	homework problems.
-* Use generative AI (e.g., ChatGPT) to search for approaches or ideas to
-	assigned homework problems.
-* Post the assignments or quizzes for this course on the internet.
-
-### Academic misconduct
-
-In line with the [MSU student code of conduct](https://www.montana.edu/policy/student_conduct/#academichonesty), if I or the teaching assistants suspect that you have committed academic misconduct, we will schedule a meeting with you to discuss. If, after the meeting, we believe that you did commit academic misconduct, you will receive a 0 on the assignment and I will submit a report to the Dean of Students. It's just not worth it to cheat in this course.
+* Discuss, work through, problems and approaches with your peers.
 
 ## Important dates
 
-The last day to drop the course online (with no instructor or advisor approval)
-is September 6th. The last day to drop without a W grade (instructor or advisor
-approval required) is September 13th. The last day to drop with a W grade
-(instructor and advisor approval required) is November 15th. See the full
-[add/drop schedule](https://www.montana.edu/registrar/add_drop_schedule.html)
-for more information.
-
-
 ## Diversity statement
-Montana State University's campuses are committed to
-providing an environment that emphasizes the dignity and worth of every member
-of its community and that is free from harassment and discrimination based upon
-race, color, religion, national origin, creed, service in the uniformed
-services (as defined in state and federal law), veteran's status, sex, age,
-political ideas, marital or family status, pregnancy, physical or mental
-disability, genetic information, gender identity, gender expression, or sexual
-orientation. Such an environment is necessary to a healthy learning, working,
-and living atmosphere because discrimination and harassment undermine human
-dignity and the positive connection among all people at our University. Acts of
-discrimination, harassment, sexual misconduct, dating violence, domestic
-violence, stalking, and retaliation will be addressed consistent with this
-policy.
 
 ## Accommodations
-If you have a documented disability for which
-you are or may be requesting an accommodation(s), please contact
-me and the Office of Disability Services as soon as possible.
 
 ## How to succeed in this class
+
 What you can do:
-* Keep up with the course by attending class,
-checking Discord, being aware of the course
-schedule, and doing all assignments on time.
-* Be an active participant in class. This means asking and
-answering questions in class and on Discord, seeking help
-when needed,
-and contacting the instructor or the course assistants using Discord if you have any questions outside of class
-time.
-* Be respectful of your classmates, your instructor, and the course assistants.
-* Do your own work.
 
 What I can do:
-* Grade assignments and quizzes promptly (exact guarantees TBD).
-* Respond to all Discord messages within one business day.
+* Grade assignments promptly (exact guarantees TBD).
+* Respond to all Piazza messages within one business day.
+* Respond to all email messages within three business days.
 * Create a course atmosphere conducive to learning by respecting
 all of my students and being
 enthusiastic about course material and my role in helping you learn.
-
-## Copyright statement
-
-This syllabus, course lectures and presentations, and any course materials provided throughout this term are protected by U.S. copyright laws.  Students enrolled in the course may use them for their own research and educational purposes.  However, reproducing, selling or otherwise distributing these materials without written permission of the copyright owner is expressly prohibited, including providing materials to commercial platforms such as Chegg or CourseHero.  Doing so may constitute a violation of U.S. copyright law as well as MSU’s Code of Student Conduct.
-
-Instructors are welcome to use this content in their
-courses without permission.
