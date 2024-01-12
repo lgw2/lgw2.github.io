@@ -13,17 +13,17 @@ Schedule subject to change.
 
 |Week|Monday (HW due)|Tuesday (lecture)|Wednesday|Thursday (lecture)|Friday|
 |:---|:---|:---|:---|:---|:---|
-|1 (1/15-1/19)| | | |Recursively defined structures and proofs about them| |
-|2 (1/22-1/26)|Homework 1|Languages and regular expressions| |DFAs| |
+|1 (1/15-1/19)| | | |Recursively defined structures and proofs about
+them|Problem session|
+|2 (1/22-1/26)|Homework 1|Languages and regular expressions|Problem session|DFAs|Problem session|
 |3 (1/29-2/3)|Homework 2|DFAs; equivalence of recognized and regular languages| |Proving nonregularity| |
 |4 (2/5-2/9)|Homework 3|NFAs| |NFAs| |
 |5 (2/12-2/16)|Homework 4|CFGs| |Turing machines| |
-|6 (2/19-2/23)|Homework 5 (President's Day--maybe option to turn in homework
-later)|P and NP| |Lucy gone but maybe
+|6 (2/19-2/23)|Homework 5 (President's Day--maybe option to turn in homework later)|P and NP| |Lucy gone but maybe
 NP-hardness reductions anyway| |
 |7 (2/26-3/1)|Homework 6|More NP hardness reductions| |Undecidability| |
 |8 (3/4-3/8)|Homework 7|More udecidability| |Wrap up theory; intro algorithms
-section of course| |
+section of course and intro paper 1 concepts| |
 |9 (3/11-3/15)|Paper writeup 1|Paper 1 discussion| |Paper 2 prep| |
 |Spring break||| || |
 |10 (3/25-3/29)|Paper writeup 2|Paper 2 discussion| |Paper 3 prep| |
@@ -53,6 +53,12 @@ try to provide the appropriate level of support and I think students will get a
 lot out of it.
 
 ## Course resources
+
+### Moodle
+
+We will use Moodle for course announcements and for homework submission.
+Otherwise, all course information will be on this webpage, and any questions
+about course logisitcs or content should be asked via [Piazza]().
 
 ### Group problem sessions
 
@@ -132,8 +138,6 @@ source. Some examples of resources you might use:
 * anything you find on the internet
 * ChatGPT or other AI tools
 
-
-
 ## Important dates
 
 ## Diversity statement
@@ -145,7 +149,7 @@ source. Some examples of resources you might use:
 What you can do:
 
 What I can do:
-* Grade assignments promptly (exact guarantees TBD).
+* Grade assignments before the end of the week when they are turned in.
 * Respond to all Piazza messages within one business day.
 * Respond to all email messages within three business days.
 * Create a course atmosphere conducive to learning by respecting
