@@ -18,19 +18,20 @@ Schedule subject to change.
 |3 (1/29-2/3)|Homework 2|DFAs; equivalence of recognized and regular languages| |Proving nonregularity| |
 |4 (2/5-2/9)|Homework 3|NFAs| |NFAs| |
 |5 (2/12-2/16)|Homework 4|CFGs| |Turing machines| |
-|6 (2/19-2/23)|Homework 5 (President's Day)|P and NP| |Lucy gone but maybe
+|6 (2/19-2/23)|Homework 5 (President's Day--maybe option to turn in homework
+later)|P and NP| |Lucy gone but maybe
 NP-hardness reductions anyway| |
 |7 (2/26-3/1)|Homework 6|More NP hardness reductions| |Undecidability| |
 |8 (3/4-3/8)|Homework 7|More udecidability| |Wrap up theory; intro algorithms
 section of course| |
-|9 (3/11-3/15)|Paper writeup 1|| || |
+|9 (3/11-3/15)|Paper writeup 1|Paper 1 discussion| |Paper 2 prep| |
 |Spring break||| || |
-|10 (3/25-3/29)|Paper writeup 2|| || |
-|11 (4/1-4/5)|Paper writeup 3|| || |
-|12 (4/8-4/12)|Paper writeup 4|| || |
-|13 (4/15-4/19)|Paper writeup 5|| || |
-|14 (4/22-4/26)|Paper writeup 6|| || |
-|15 (4/29-5/3)|Paper writeup 7|| || |
+|10 (3/25-3/29)|Paper writeup 2|Paper 2 discussion| |Paper 3 prep| |
+|11 (4/1-4/5)|Paper writeup 3|Paper 3 discussion| |Paper 4 prep| |
+|12 (4/8-4/12)|Paper writeup 4|Paper 4 discussion| |Paper 5 prep| |
+|13 (4/15-4/19)|Paper writeup 5|Paper 5 discussion| |Paper 6 prep| |
+|14 (4/22-4/26)|Paper writeup 6|Paper 6 discussion| |Paper 7 prep| |
+|15 (4/29-5/3)|Paper writeup 7|Paper 7 discussion| |Course wrap up| |
 |Finals week||| || |
 
 ## Catalog description
@@ -42,14 +43,14 @@ Advanced algorithm and data structure concepts, including theory, approximation 
 ## Course info
 
 This course will have two parts: in the first half, we will work to understand
-what is computable and how fast using the computer science theory developed in
+what is computable and how fast using computer science theory developed in
 the 20th century. This understanding will give us a baseline to understand the
 contemporary algorithms field.
 In the second half, we will learn a number of advanced algorithm
 concepts and see how they are applied in current algorithms research. This will
 be a highly interactive class, and although the material is challenging, I will
 try to provide the appropriate level of support and I think students will get a
-lot out of the class.
+lot out of it.
 
 ## Course resources
 
