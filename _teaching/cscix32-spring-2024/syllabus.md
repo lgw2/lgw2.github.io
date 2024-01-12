@@ -22,8 +22,7 @@ them|Problem session|
 |6 (2/19-2/23)|Homework 5 (President's Day--maybe option to turn in homework later)|P and NP| |Lucy gone but maybe
 NP-hardness reductions anyway| |
 |7 (2/26-3/1)|Homework 6|More NP hardness reductions| |Undecidability| |
-|8 (3/4-3/8)|Homework 7|More udecidability| |Wrap up theory; intro algorithms
-section of course and intro paper 1 concepts| |
+|8 (3/4-3/8)|Homework 7|More udecidability| |Wrap up theory; intro algorithms section of course and intro paper 1 concepts| |
 |9 (3/11-3/15)|Paper writeup 1|Paper 1 discussion| |Paper 2 prep| |
 |Spring break||| || |
 |10 (3/25-3/29)|Paper writeup 2|Paper 2 discussion| |Paper 3 prep| |
@@ -44,13 +43,14 @@ Advanced algorithm and data structure concepts, including theory, approximation 
 
 This course will have two parts: in the first half, we will work to understand
 what is computable and how fast using computer science theory developed in
-the 20th century. This understanding will give us a baseline to understand the
-contemporary algorithms field.
+the 20th century. This will give us a baseline to understand the
+contemporary algorithms field and familiarity with the concepts, notation, and
+proof styles necessary.
 In the second half, we will learn a number of advanced algorithm
 concepts and see how they are applied in current algorithms research. This will
 be a highly interactive class, and although the material is challenging, I will
 try to provide the appropriate level of support and I think students will get a
-lot out of it.
+lot out of the course.
 
 ## Course resources
 
