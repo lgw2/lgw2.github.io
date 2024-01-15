@@ -100,10 +100,13 @@ You will be graded on the following:
     problem sessions during the theory section; 5 points TBD during theory
     session; 5 points for check-out activity during finals week TBD--note that
     this sums to more than 20)
-* 20% homework problems (in theory section)
-* 20% problem presentations (in theory section)
-* 20% paper summaries (in algorithms section)
-* 20% paper presentations (in algorithms section)
+* 20% homework problems (in theory section) (7 assignments, lowest dropped)
+* 20% problem presentations (in theory section) (each student participates in
+    3)
+* 20% paper summaries (in algorithms section) (7 papers, exact distrubution
+    TBD)
+* 20% paper presentations (in algorithms section) (exact number of
+    presentations each student participates in TBD)
 
 Note that there are *no tests!*
 
