@@ -9,7 +9,7 @@ location: "Missoula, Montana"
 
 ## Course schedule
 
-Schedule subject to change. CS Theory lecture notes and problem session questions/solutions by [Jeff Erickson](https://jeffe.cs.illinois.edu/). Papers for the algorithms half of the course will be chosen later.
+Schedule subject to change. Credit for the CS Theory lecture notes and problem session questions/solutions to [Jeff Erickson](https://jeffe.cs.illinois.edu/). Papers for the algorithms half of the course will be chosen later.
 
 |Week|Monday (HW due)|Tuesday (lecture)|Wednesday|Thursday (lecture)|Friday|
 |:---|:---|:---|:---|:---|:---|
