@@ -9,7 +9,7 @@ location: "Missoula, Montana"
 
 ## Course schedule
 
-Schedule subject to change. CS Theory lecture notes and problem session questions/solutions by [Jeff Erickson](https://jeffe.cs.illinois.edu/).
+Schedule subject to change. CS Theory lecture notes and problem session questions/solutions by [Jeff Erickson](https://jeffe.cs.illinois.edu/). Papers for the algorithms half of the course will be chosen later.
 
 |Week|Monday (HW due)|Tuesday (lecture)|Wednesday|Thursday (lecture)|Friday|
 |:---|:---|:---|:---|:---|:---|
@@ -77,8 +77,8 @@ problem session time.
 
 There is no textbook for this course; notes from various sources will be shared
 as needed. However, there are a number of popular textbooks in this field, many
-of which are available for free online:
-* TODO, fill in
+of which are available for free online. I will link textbook-style resources
+here as we go.
 
 ### Lecture videos
 
@@ -100,12 +100,12 @@ You will be graded on the following:
     problem sessions during the theory section; 5 points TBD during theory
     session; 5 points for check-out activity during finals week TBD--note that
     this sums to more than 20)
-* 20% homework problems (in theory section) (7 assignments; lowest score dropped)
-* 20% problem presentations (in theory section) (each student participates in
+* 20% homework problems (during theory portion) (7 assignments; lowest score dropped)
+* 20% problem presentations (during heory portion) (each student participates in
     3)
-* 20% paper summaries (in algorithms section) (7 papers, exact distrubution
-    TBD)
-* 20% paper presentations (in algorithms section) (exact number of
+* 20% paper summaries (during algorithms portion) (7 papers; how many each
+    student writes TBD)
+* 20% paper presentations (during algorithms portion) (exact number of
     presentations each student participates in TBD)
 
 Note that there are *no tests!*
@@ -131,8 +131,10 @@ semester.
 
 ### Collaboration policy
 
-On all homework assignments, you may work in groups of up to three, and turn in
-a single writeup as a group. Additionally, you may use *any* resource, as
+For homework problems, you may work in groups of up to three, and turn in
+a single writeup as a group. Group work on paper summaries is TBD.
+
+Additionally, you may use *any* resource available to you, as
 long as you write up your answers in your own words and properly cite your
 source. Some examples of resources you might use:
 
@@ -143,20 +145,4 @@ source. Some examples of resources you might use:
 * anything you find on the internet
 * ChatGPT or other AI tools
 
-## Important dates
 
-## Diversity statement
-
-## Accommodations
-
-## How to succeed in this class
-
-What you can do:
-
-What I can do:
-* Grade assignments before the end of the week when they are turned in.
-* Respond to all Piazza messages within one business day.
-* Respond to all email messages within three business days.
-* Create a course atmosphere conducive to learning by respecting
-all of my students and being
-enthusiastic about course material and my role in helping you learn.
