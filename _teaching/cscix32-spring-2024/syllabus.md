@@ -96,7 +96,10 @@ forum [Piazza]() to organize questions and answers.
 ## Grading
 
 You will be graded on the following:
-* 20% participation
+* 20% participation (15 points for participating in lecture sessions; 5 points for attending
+    problem sessions during the theory section; 5 points TBD during theory
+    session; 5 points for check-out activity during finals week TBD--note that
+    this sums to more than 20)
 * 20% homework problems (in theory section)
 * 20% problem presentations (in theory section)
 * 20% paper summaries (in algorithms section)
