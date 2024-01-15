@@ -14,7 +14,7 @@ Schedule subject to change.
 |Week|Monday (HW due)|Tuesday (lecture)|Wednesday|Thursday (lecture)|Friday|
 |:---|:---|:---|:---|:---|:---|
 |1 (1/15-1/19)| | | |[Recursively defined structures and proofs about them](https://lgw2.github.io/teaching/csci246-fall-2023/lectures/01-strings.pdf)|[Problem session](https://lgw2.github.io/teaching/csci246-fall-2023/problem_sessions/ps_wk1_1.pdf)|
-|2 (1/22-1/26)|Homework 1|Languages and regular expressions|Problem session|First [problem presentation]() and DFAs|Problem session|
+|2 (1/22-1/26)|Homework 1|Example [problem presentation]() by Lucy; languages and regular expressions|Problem session|First problem presentation and DFAs|Problem session|
 |3 (1/29-2/3)|Homework 2|DFAs; equivalence of recognized and regular languages| |Proving nonregularity| |
 |4 (2/5-2/9)|Homework 3|NFAs| |NFAs| |
 |5 (2/12-2/16)|Homework 4|CFGs| |Turing machines| |
