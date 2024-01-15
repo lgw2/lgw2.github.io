@@ -9,11 +9,11 @@ location: "Missoula, Montana"
 
 ## Course schedule
 
-Schedule subject to change.
+Schedule subject to change. CS Theory lecture notes and problem session questions/solutions by [Jeff Erickson](https://jeffe.cs.illinois.edu/).
 
 |Week|Monday (HW due)|Tuesday (lecture)|Wednesday|Thursday (lecture)|Friday|
 |:---|:---|:---|:---|:---|:---|
-|1 (1/15-1/19)| | | |Course intro and logistics; [Recursively defined structures and proofs about them](https://lgw2.github.io/teaching/cscix32-spring-2024/lectures/01-strings.pdf)|[Problem session](https://lgw2.github.io/teaching/cscix32-spring-2024/problem_sessions/ps_wk1_1.pdf)|
+|1 (1/15-1/19)| | | |Course intro and logistics; [Recursively defined structures and proofs about them](https://lgw2.github.io/teaching/cscix32-spring-2024/lectures/01-strings.pdf)|[Problem session](https://lgw2.github.io/teaching/cscix32-spring-2024/problem_sessions/ps_wk1_1.pdf)--time(s) TBD|
 |2 (1/22-1/26)|[Homework 1](https://lgw2.github.io/teaching/cscix32-spring-2024/homework/Homework_1.pdf)|Example [problem presentation]() by Lucy; languages and regular expressions|Problem session|First problem presentation and DFAs|Problem session|
 |3 (1/29-2/3)|Homework 2|DFAs; equivalence of recognized and regular languages| |Proving nonregularity| |
 |4 (2/5-2/9)|Homework 3|NFAs| |NFAs| |
@@ -100,7 +100,7 @@ You will be graded on the following:
     problem sessions during the theory section; 5 points TBD during theory
     session; 5 points for check-out activity during finals week TBD--note that
     this sums to more than 20)
-* 20% homework problems (in theory section) (7 assignments, lowest dropped)
+* 20% homework problems (in theory section) (7 assignments; lowest score dropped)
 * 20% problem presentations (in theory section) (each student participates in
     3)
 * 20% paper summaries (in algorithms section) (7 papers, exact distrubution
