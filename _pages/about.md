@@ -15,7 +15,10 @@ In spring 2024, I am teaching CSCI 432/532.
 See my [teaching page](https://lgw2.github.io/teaching/) for all of my
 course materials.
 
-I earned my PhD at Montana State University,
+From fall 2022-fall 2023, I was an assistant research/teaching professor at the
+University of Montana.
+
+I earned my PhD at Montana State University as well,
  advised by [Brendan
 Mumey](https://www.cs.montana.edu/bmumey/). My research focuses on the design
 and analysis of algorithms for DNA sequencing and analysis.
