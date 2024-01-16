@@ -136,7 +136,7 @@ semester.
 
 ### Collaboration policy
 
-For homework problems, you may work in groups of up to three, and turn in
+For homework problems, you may work in groups of up to three and turn in
 a single writeup as a group. Group work on paper summaries is TBD.
 
 Additionally, you may use *any* resource available to you, as
