@@ -7,15 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant teaching & research professor in computer science at Montana
-State University in Bozeman, Montana. You can reach me at lucia.williams (at)
-montana.edu.
+I am an assistant professor in computer science at the University of Montana
+in Missoula, Montana. You can reach me at lucia.williams (at)
+umontana.edu.
 
-In fall 2023, I am teaching CSCI 112 and CSCI 246.
+In spring 2024, I am teaching CSCI 432/532.
 See my [teaching page](https://lgw2.github.io/teaching/) for all of my
 course materials.
 
-I earned my PhD at Montana State as well,
+I earned my PhD at Montana State University,
  advised by [Brendan
 Mumey](https://www.cs.montana.edu/bmumey/). My research focuses on the design
 and analysis of algorithms for DNA sequencing and analysis.
@@ -27,8 +27,3 @@ Before my PhD, I worked as a data scientist at an online advertising
 company in Seattle, after earning undergraduate degrees in applied math and
 urban planning.  Outside of work, my main hobby is playing and coaching
 Ultimate Frisbee.  I also enjoy human-powered outdoor adventures.
-
-## News
-
-I will be joining the computer science faculty at the University of
-Montana as an assistant professor in January 2024!
