@@ -39,6 +39,9 @@ Advanced algorithm and data structure concepts, including theory, approximation 
 
 ## Course info
 
+This course meets in Social Sciences 362 on Tuesdays and Thursdays from
+9-10:20am.
+
 This course will have two parts: in the first half, we will work to understand
 what is computable and how fast using computer science theory developed in
 the 20th century. This will give us a baseline to understand the
