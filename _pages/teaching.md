@@ -4,6 +4,12 @@ permalink: /teaching/
 author_profile: false
 ---
 
+## CSCI 432/532: Advanced Algorithms Topics
+
+Description from course catalog: *Advanced algorithm and data structure concepts, including theory, approximation algorithms, randomized algorithms, parallel algorithms, streaming algorithms, linear programming.*
+Taught in:
+* [spring 2024](https://lgw2.github.io/teaching/cscix32-spring-2024/syllabus/)
+
 ## CSCI 246: Discrete Structures
 
 Description from course catalog: *This course covers logic, discrete probability, recurrence relations, Boolean algebra, sets, relations, counting, functions, maps, Big-O notation, proof techniques including induction, and proof by contradiction.*
