@@ -93,7 +93,9 @@ Especially in the first half of the course, you will be working through
 problems and I would like you to get help as soon as possible. We will use the
 online tool Piazza to organize questions and answers. To join, follow the
 [signup link](https://piazza.com/umt/spring2024/432532) and enter the access
-code `9n3tn7iqak8`.
+code `9n3tn7iqak8`. Note that you do *not* need to use your university
+email or real name if you prefer not to. Also, pay attention to the prompts to opt out of Piazza sharing your
+information with recruiters.
 
 ## Grading
 
