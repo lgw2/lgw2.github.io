@@ -7,7 +7,7 @@ In order to practice communicating mathematical ideas in-person, we will have a
 presentation by a group of 2 students to start every class during the CS theory
 portion of the class, beginning 1/25. On Tuesdays, these will be presentations
 of solutions for one of the problems from the homework. On Thursdays, they will
-be presentations for one of the problems from the lab section. The specific
+be presentations for one of the problems from the previous day's problem session. The specific
 problems to be presented will be specified beforehand.
 
 Both students in the group will receive the same grade. Grades are out of 5
