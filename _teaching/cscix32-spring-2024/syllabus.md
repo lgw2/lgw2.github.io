@@ -101,7 +101,7 @@ information with recruiters.
 
 You will be graded on the following:
 * 20% participation (15 points for attending lecture sessions; 5 points for attending
-    problem sessions during the theory section; 5 points TBD during theory
+    problem sessions during the theory section; 5 points TBD during algorithms
     session; 5 points for check-out activity during finals week TBD--note that
     this sums to more than 20, so you do not need to get all of the points to
     get full credit for this category)
@@ -124,7 +124,7 @@ There are two ways to earn bonus points in this class.
 
 #### Catch errors in course materials
 
-If you find an error in any of the course materials (typo, incorrect statement, etc.), make a post in Piazza (in TODO way).
+If you find an error in any of the course materials (typo, incorrect statement, etc.), make a post in Piazza with the `errors-in-course-material` tag.
 If it is really an error, you get a
 quarter of a point. Only the first person to post about an error gets the points. You can earn a max of 1 total point toward your 100 for the course (for four errors).
 
