@@ -56,7 +56,7 @@ lot out of the course.
 
 We will use Moodle for course announcements and for homework submission.
 Otherwise, all course information will be on this webpage, and any questions
-about course logisitcs or content should be asked via [Piazza]().
+about course logisitcs or content should be asked via [Piazza](https://lgw2.github.io/teaching/cscix32-spring-2024/syllabus/#piazza-discussion).
 
 ### Group problem sessions
 
@@ -91,7 +91,9 @@ announcements. Videos can be found in the [Panopto folder](https://umontana.host
 
 Especially in the first half of the course, you will be working through
 problems and I would like you to get help as soon as possible. We will use the
-forum [Piazza]() to organize questions and answers.
+online tool Piazza to organize questions and answers. To join, follow the
+[signup link](https://piazza.com/umt/spring2024/432532) and enter the access
+code `9n3tn7iqak8`.
 
 ## Grading
 
