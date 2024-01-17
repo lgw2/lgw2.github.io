@@ -20,7 +20,7 @@ Schedule subject to change. Credit for the CS Theory lecture notes and problem s
 |5 (2/12-2/16)|Homework 4|CFGs| |Turing machines| |
 |6 (2/19-2/23)|Homework 5 (President's Day--maybe option to turn in homework later)|P and NP| |Lucy gone but maybe NP-hardness reductions anyway| |
 |7 (2/26-3/1)|Homework 6|More NP hardness reductions| |Undecidability| |
-|8 (3/4-3/8)|Homework 7|More udecidability| |Wrap up theory; intro algorithms section of course and intro paper 1 concepts| |
+|8 (3/4-3/8)|Homework 7|More undecidability| |Wrap up theory; intro algorithms section of course and intro paper 1 concepts| |
 |9 (3/11-3/15)|Paper writeup 1|Paper 1 discussion| |Paper 2 prep| |
 |Spring break||| || |
 |10 (3/25-3/29)|Paper writeup 2|Paper 2 discussion| |Paper 3 prep| |
@@ -59,7 +59,7 @@ lot out of the course.
 
 We will use Moodle for course announcements and for homework submission.
 Otherwise, all course information will be on this webpage, and any questions
-about course logisitcs or content should be asked via [Piazza](https://lgw2.github.io/teaching/cscix32-spring-2024/syllabus/#piazza-discussion).
+about course logistics or content should be asked via [Piazza](https://lgw2.github.io/teaching/cscix32-spring-2024/syllabus/#piazza-discussion).
 
 ### Group problem sessions
 
@@ -109,7 +109,7 @@ You will be graded on the following:
     this sums to more than 20, so you do not need to get all of the points to
     get full credit for this category)
 * 20% homework problems (during theory portion) (7 assignments; lowest score dropped)
-* 20% problem presentations (during heory portion) (each student participates in
+* 20% problem presentations (during theory portion) (each student participates in
     3)
 * 20% paper summaries (during algorithms portion) (7 papers; how many each
     student writes TBD)
@@ -153,4 +153,5 @@ source. Some examples of resources you might use:
 * anything you find on the internet
 * ChatGPT or other AI tools
 
-
+Please ask if you have questions about how to properly cite a source or a
+collaborator.
