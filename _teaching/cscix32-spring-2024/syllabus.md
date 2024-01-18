@@ -9,7 +9,7 @@ location: "Missoula, Montana"
 
 ## Course schedule
 
-Schedule subject to change. Credit for the CS Theory lecture notes and problem session questions/solutions to [Jeff Erickson](https://jeffe.cs.illinois.edu/). Papers for the algorithms half of the course will be chosen later.
+Schedule subject to change. Lecture videos in this [Panopto folder](https://umontana.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=dcf4e4db-c07c-4d77-9063-b0f10157fd5d). Credit for the CS Theory lecture notes and problem session questions/solutions to [Jeff Erickson](https://jeffe.cs.illinois.edu/). Papers for the algorithms half of the course will be chosen later.
 
 |Week|Monday (HW due)|Tuesday (lecture)|Wednesday|Thursday (lecture)|Friday|
 |:---|:---|:---|:---|:---|:---|
