@@ -4,11 +4,10 @@ title: "Problem presentations"
 ---
 
 In order to practice communicating mathematical ideas in-person, we will have a
-presentation by a group of 2 students to start every class during the CS theory
-portion of the class, beginning 1/25. On Tuesdays, these will be presentations
-of solutions for one of the problems from the homework. On Thursdays, they will
-be presentations for one of the problems from the previous day's problem session. The specific
-problems to be presented will be specified beforehand.
+presentation by a group of about 2 students to start every class during the CS theory
+portion of the class, beginning 1/30. The group will choose one of the "to
+think about later" problems from the previous day's problem session and present
+and explanation and solution to the problem.
 
 Both students in the group will receive the same grade. Grades are out of 5
 points, as follows:
@@ -19,5 +18,5 @@ points, as follows:
     simply reading/writing the solution
 * 1 point for being professional and well-practiced.
 
-On 1/23, Lucy will give an example of a problem presentation for the first
+On 1/25, Lucy will give an example of a problem presentation for the first
 homework.
