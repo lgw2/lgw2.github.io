@@ -20,5 +20,5 @@ points, as follows:
     simply reading/writing the solution
 * 1 point for being professional and well-practiced.
 
-On 1/25, Lucy will give an example of a problem presentation for the first
-homework.
+On 1/25, Lucy will give an example of a problem presentation from the previous
+proplem session.
