@@ -61,6 +61,10 @@ We will use Moodle for course announcements and for homework submission.
 Otherwise, all course information will be on this webpage, and any questions
 about course logistics or content should be asked via [Piazza](https://lgw2.github.io/teaching/cscix32-spring-2024/syllabus/#piazza-discussion).
 
+### Gradescope
+
+Some assignments will be submitted using Gradescope. To join the class, visit the Gradescope [website](https://www.gradescope.com/) and login or signup, and use our course entry code `YDXKY7` to join the class.
+
 ### Group problem sessions
 
 In the first half of the course, we will be working through concepts in
