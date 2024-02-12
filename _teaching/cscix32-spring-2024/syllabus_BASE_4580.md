@@ -21,7 +21,7 @@ Schedule subject to change. Lecture videos in this [Panopto folder](https://umon
 |6 (2/19-2/23)|Homework 5 (President's Day--may turn in homework Tuesday)|NP-hardness reductions| |Lucy gone--no class|No problem session|
 |7 (2/26-3/1)|Homework 6|More NP hardness reductions| |Undecidability| |
 |8 (3/4-3/8)|Homework 7|More undecidability| |Wrap up theory; intro algorithms section of course and intro paper 1 concepts| |
-|9 (3/11-3/15)|Paper writeup 1 |Paper 1 discussion| |Paper 2 prep| |
+|9 (3/11-3/15)|Paper writeup 1|Paper 1 discussion| |Paper 2 prep| |
 |Spring break||| || |
 |10 (3/25-3/29)|Paper writeup 2|Paper 2 discussion| |Paper 3 prep| |
 |11 (4/1-4/5)|Paper writeup 3|Paper 3 discussion| |Paper 4 prep| |
