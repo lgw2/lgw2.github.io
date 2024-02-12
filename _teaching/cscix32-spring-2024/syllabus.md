@@ -29,7 +29,7 @@ Schedule subject to change. Lecture videos in this [Panopto folder](https://umon
 |13 (4/15-4/19)|Paper writeup 5|Paper 5 discussion| |Paper 6 prep| |
 |14 (4/22-4/26)|Paper writeup 6|Paper 6 discussion| |Paper 7 prep| |
 |15 (4/29-5/3)|Paper writeup 7|Paper 7 discussion| |Course wrap up| |
-|Finals week||| || |
+|Finals week||| ||  |
 
 ## Catalog description
 
