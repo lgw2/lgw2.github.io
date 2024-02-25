@@ -21,13 +21,13 @@ Schedule subject to change. Lecture videos in this [Panopto folder](https://umon
 |6 (2/19-2/23)|[Homework 5](https://lgw2.github.io/teaching/cscix32-spring-2024/homework/Homework_5.pdf) + [LaTeX source](https://www.overleaf.com/read/bxdhbwccvvtq#2d6788) (President's Day--may turn in homework Tuesday)|[More undecidability](https://lgw2.github.io/teaching/cscix32-spring-2024/lectures/07-undecidable.pdf); [NP-hardness reductions](https://lgw2.github.io/teaching/cscix32-spring-2024/lectures/12-nphard.pdf); [in-lecture notes](https://lgw2.github.io/teaching/cscix32-spring-2024/lectures/more_undecidability_and_np_reduction_intro.pdf)|[reductions problem session problems](https://lgw2.github.io/teaching/cscix32-spring-2024/problem_sessions/ps_wk6_1.pdf) (for 2/27 problem presentation) and [rice's theorem problem session problems](https://lgw2.github.io/teaching/cscix32-spring-2024/problem_sessions/rices_thm.pdf)--lucy gone, no problem session |lucy gone--faculty research talk 9-9:50 in lecture classroom|no problem session|
 |7 (2/26-3/1)|[homework 6](https://lgw2.github.io/teaching/cscix32-spring-2024/homework/homework_6.pdf) + [latex source](https://www.overleaf.com/read/yctwzdmnxdwh#62f497)|[P vs. NP and more NP-hardness reductions](https://lgw2.github.io/teaching/cscix32-spring-2024/lectures/12-nphard.pdf)|[Problem session](https://lgw2.github.io/teaching/cscix32-spring-2024/problem_sessions/ps_wk7_1.pdf) Tues 3-4pm or Wed 12-1pm |[Even more NP-hardness reductions](https://lgw2.github.io/teaching/cscix32-spring-2024/lectures/12-nphard.pdf)|[Problem session](https://lgw2.github.io/teaching/cscix32-spring-2024/problem_sessions/ps_wk7_2.pdf) Thurs 3-4pm or Fri 11am-12pm|
 |8 (3/4-3/8)|Homework 7|Wrap up theory; start [maximum flow](https://lgw2.github.io/teaching/cscix32-spring-2024/lectures/10-maxflows.pdf)| |[More maxflow](https://lgw2.github.io/teaching/cscix32-spring-2024/lectures/10-maxflow.pdf)| |
-|9 (3/11-3/15)|[Applications of maxflow](https://lgw2.github.io/teaching/cscix32-spring-2024/lectures/11-maxflowapps.pdf) writeup|Applications of maxflow presentation/discussion| |[Approximation algorithms](https://lgw2.github.io/teaching/cscix32-spring-2024/lectures/approx.pdf)| |
+|9 (3/11-3/15)|Applications of maxflow writeup due|[Applications of maxflow](https://lgw2.github.io/teaching/cscix32-spring-2024/lectures/11-maxflowapps.pdf) presentation/discussion| |[Approximation algorithms](https://lgw2.github.io/teaching/cscix32-spring-2024/lectures/approx.pdf)| |
 |Spring break||| || |
 |10 (3/25-3/29)|Approximation algorithms paper writeup due|[Approximation algorithms paper](https://lgw2.github.io/teaching/cscix32-spring-2024/lectures/approx_algs_paper.pdf) discussion| |[Linear programming](https://lgw2.github.io/teaching/cscix32-spring-2024/lectures/H-lp.pdf)| |
 |11 (4/1-4/5)|Solving linear programs writeup due|[Solving linear programs](https://lgw2.github.io/teaching/cscix32-spring-2024/lectures/I-simplex.pdf) discussion| |Integer linear programming| |
 |12 (4/8-4/12)|Integer linear programming paper writeup due|[ILP paper](https://lgw2.github.io/teaching/cscix32-spring-2024/lectures/ilp_paper.pdf) discussion| |ILP relaxation| |
 |13 (4/15-4/19)|ILP relaxation paper writeup|ILP relaxation paper discussion| |Online algorithms| |
-|14 (4/22-4/26)|Online algorithms paper writeup|[Online algoriths paper](https://lgw2.github.io/teaching/cscix32-spring-2024/lectures/countmin_sketch.pdf) discussion| |Text search and indexing| |
+|14 (4/22-4/26)|Online algorithms paper writeup|[Online algorithms paper](https://lgw2.github.io/teaching/cscix32-spring-2024/lectures/countmin_sketch.pdf) discussion| |Text search and indexing| |
 |15 (4/29-5/3)|Text search and indexing paper writeup due|[Text indexing paper](https://lgw2.github.io/teaching/cscix32-spring-2024/lectures/fmindex.pdf) discussion| |Course wrap up| |
 |Finals week||| ||  |
 
@@ -54,6 +54,12 @@ try to provide the appropriate level of support and I think students will get a
 lot out of the course.
 
 ## Course resources
+
+### Paper/chapter presentation and writeup rubrics
+
+In the second half of the class, on Thursdays we will learn a new advanced algorithm topic and on Tuesdays a group will
+lead a presentation of a book chapter or research paper related to that topic. Presenters should follow [these instructions](https://lgw2.github.io/teaching/cscix32-spring-2024/paper_presentations/). On days that
+a student is not a presenter, they must submit a paper/chapter summary to Gradescope according to [these instructions](https://lgw2.github.io/teaching/cscix32-spring-2024/paper_writeups/).
 
 ### Moodle
 
