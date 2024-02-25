@@ -20,15 +20,15 @@ Schedule subject to change. Lecture videos in this [Panopto folder](https://umon
 |5 (2/12-2/16)|[Homework 4](https://lgw2.github.io/teaching/cscix32-spring-2024/homework/Homework_4.pdf) + [LaTeX source](https://www.overleaf.com/read/hprpzkhstndd#1258b8)|[Turing machines](https://lgw2.github.io/teaching/cscix32-spring-2024/lectures/06-turing-machines.pdf); [in-lecture notes](https://lgw2.github.io/teaching/cscix32-spring-2024/lectures/tms.pdf)|[Problem session](https://lgw2.github.io/teaching/cscix32-spring-2024/problem_sessions/ps_wk5_1.pdf) (Tues 3-4pm or Wed 12-1pm)|[Undecidability](https://lgw2.github.io/teaching/cscix32-spring-2024/lectures/07-undecidable.pdf); [in-lecture notes](https://lgw2.github.io/teaching/cscix32-spring-2024/lectures/undecidability.pdf)|[Problem session](https://lgw2.github.io/teaching/cscix32-spring-2024/problem_sessions/ps_wk5_2.pdf) (Thurs 3-4pm or Fri 11am-12pm)|
 |6 (2/19-2/23)|[Homework 5](https://lgw2.github.io/teaching/cscix32-spring-2024/homework/Homework_5.pdf) + [LaTeX source](https://www.overleaf.com/read/bxdhbwccvvtq#2d6788) (President's Day--may turn in homework Tuesday)|[More undecidability](https://lgw2.github.io/teaching/cscix32-spring-2024/lectures/07-undecidable.pdf); [NP-hardness reductions](https://lgw2.github.io/teaching/cscix32-spring-2024/lectures/12-nphard.pdf); [in-lecture notes](https://lgw2.github.io/teaching/cscix32-spring-2024/lectures/more_undecidability_and_np_reduction_intro.pdf)|[reductions problem session problems](https://lgw2.github.io/teaching/cscix32-spring-2024/problem_sessions/ps_wk6_1.pdf) (for 2/27 problem presentation) and [rice's theorem problem session problems](https://lgw2.github.io/teaching/cscix32-spring-2024/problem_sessions/rices_thm.pdf)--lucy gone, no problem session |lucy gone--faculty research talk 9-9:50 in lecture classroom|no problem session|
 |7 (2/26-3/1)|[homework 6](https://lgw2.github.io/teaching/cscix32-spring-2024/homework/homework_6.pdf) + [latex source](https://www.overleaf.com/read/yctwzdmnxdwh#62f497)|[P vs. NP and more NP-hardness reductions](https://lgw2.github.io/teaching/cscix32-spring-2024/lectures/12-nphard.pdf)|[Problem session](https://lgw2.github.io/teaching/cscix32-spring-2024/problem_sessions/ps_wk7_1.pdf) Tues 3-4pm or Wed 12-1pm |[Even more NP-hardness reductions](https://lgw2.github.io/teaching/cscix32-spring-2024/lectures/12-nphard.pdf)|[Problem session](https://lgw2.github.io/teaching/cscix32-spring-2024/problem_sessions/ps_wk7_2.pdf) Thurs 3-4pm or Fri 11am-12pm|
-|8 (3/4-3/8)|Homework 7|Wrap up theory; intro algorithms section of course; [maximum flow](https://lgw2.github.io/teaching/cscix32-spring-2024/lectures/10-maxflows.pdf)| |[More maxflow](https://lgw2.github.io/teaching/cscix32-spring-2024/lectures/10-maxflow.pdf)| |
+|8 (3/4-3/8)|Homework 7|Wrap up theory; start [maximum flow](https://lgw2.github.io/teaching/cscix32-spring-2024/lectures/10-maxflows.pdf)| |[More maxflow](https://lgw2.github.io/teaching/cscix32-spring-2024/lectures/10-maxflow.pdf)| |
 |9 (3/11-3/15)|[Applications of maxflow](https://lgw2.github.io/teaching/cscix32-spring-2024/lectures/11-maxflowapps.pdf) writeup|Applications of maxflow presentation/discussion| |[Approximation algorithms](https://lgw2.github.io/teaching/cscix32-spring-2024/lectures/approx.pdf)| |
 |Spring break||| || |
 |10 (3/25-3/29)|Approximation algorithms paper writeup due|[Approximation algorithms paper](https://lgw2.github.io/teaching/cscix32-spring-2024/lectures/approx_algs_paper.pdf) discussion| |[Linear programming](https://lgw2.github.io/teaching/cscix32-spring-2024/lectures/H-lp.pdf)| |
-|11 (4/1-4/5)|[Solving linear programs](https://lgw2.github.io/teaching/cscix32-spring-2024/lectures/I-simplex.pdf) writeup due|Solving linear programs discussion| |Integer linear programming| |
-|12 (4/8-4/12)|Integer linear programming paper writeup due|ILP paper discussion| |ILP relaxation| |
+|11 (4/1-4/5)|Solving linear programs writeup due|[Solving linear programs](https://lgw2.github.io/teaching/cscix32-spring-2024/lectures/I-simplex.pdf) discussion| |Integer linear programming| |
+|12 (4/8-4/12)|Integer linear programming paper writeup due|[ILP paper](https://lgw2.github.io/teaching/cscix32-spring-2024/lectures/ilp_paper.pdf) discussion| |ILP relaxation| |
 |13 (4/15-4/19)|ILP relaxation paper writeup|ILP relaxation paper discussion| |Online algorithms| |
-|14 (4/22-4/26)|Online algorithms paper writeup|Online algoriths paper discussion| |Text search and indexing| |
-|15 (4/29-5/3)|Text search and indexing paper writeup due|Text indexing paper discussion| |Course wrap up| |
+|14 (4/22-4/26)|Online algorithms paper writeup|[Online algoriths paper](https://lgw2.github.io/teaching/cscix32-spring-2024/lectures/countmin_sketch.pdf) discussion| |Text search and indexing| |
+|15 (4/29-5/3)|Text search and indexing paper writeup due|[Text indexing paper](https://lgw2.github.io/teaching/cscix32-spring-2024/lectures/fmindex.pdf) discussion| |Course wrap up| |
 |Finals week||| ||  |
 
 ## Catalog description
@@ -108,17 +108,13 @@ information with recruiters.
 
 You will be graded on the following:
 * 20% participation (15 points for attending lecture sessions; 5 points for attending
-    problem sessions during the theory section; 5 points TBD during algorithms
-    session; 5 points for check-out activity during finals week TBD--note that
+    problem sessions during the theory section; 5 points for feedback after presentations during algorithms section; 5 points for check-out activity during finals week TBD--note that
     this sums to more than 20, so you do not need to get all of the points to
     get full credit for this category)
 * 20% homework problems (during theory portion) (7 assignments; lowest score dropped)
-* 20% problem presentations (during theory portion) (each student participates in
-    3)
-* 20% paper summaries (during algorithms portion) (7 papers; how many each
-    student writes TBD)
-* 20% paper presentations (during algorithms portion) (exact number of
-    presentations each student participates in TBD)
+* 20% problem presentations (during theory portion) (each student participates in 3)
+* 20% paper presentations (during algorithms portion) (each student participates in two)
+* 20% paper summaries (during algorithms portion) (7 papers total; each student writes 5 paper summaries)
 
 Note that there are *no tests!*
 
