@@ -25,8 +25,8 @@ Schedule subject to change. Lecture videos in this [Panopto folder](https://umon
 |Spring break||| || |
 |10 (3/25-3/29)|Approximation algorithms paper writeup due|[Approximation algorithms paper](https://lgw2.github.io/teaching/cscix32-spring-2024/lectures/approx_alg_paper.pdf) discussion| |[Linear programming](https://lgw2.github.io/teaching/cscix32-spring-2024/lectures/H-lp.pdf)| |
 |11 (4/1-4/5)|Solving linear programs writeup due|[Solving linear programs](https://lgw2.github.io/teaching/cscix32-spring-2024/lectures/I-simplex.pdf) discussion| |Integer linear programming| |
-|12 (4/8-4/12)|Integer linear programming paper writeup due|[ILP paper](https://lgw2.github.io/teaching/cscix32-spring-2024/lectures/ilp_paper.pdf) discussion| |ILP relaxation| |
-|13 (4/15-4/19)|ILP relaxation paper writeup|ILP relaxation paper discussion| |Online algorithms| |
+|12 (4/8-4/12)|Integer linear programming paper writeup due|[ILP paper](https://lgw2.github.io/teaching/cscix32-spring-2024/lectures/ilp_paper.pdf) discussion| |[Backtracking](https://lgw2.github.io/teaching/cscix32-spring-2024/lectures/02-backtracking.pdf)| |
+|13 (4/15-4/19)|Dynamic programming paper writeup|[Dynamic programming](https://lgw2.github.io/teaching/cscix32-spring-2024/lectures/03-dynprog.pdf) discussion| |Online algorithms| |
 |14 (4/22-4/26)|Online algorithms paper writeup|[Online algorithms paper](https://lgw2.github.io/teaching/cscix32-spring-2024/lectures/countmin_sketch.pdf) discussion| |Text search and indexing| |
 |15 (4/29-5/3)|Text search and indexing paper writeup due|[Text indexing paper](https://lgw2.github.io/teaching/cscix32-spring-2024/lectures/fmindex.pdf) discussion| |Course wrap up| |
 |Finals week||| ||  |
