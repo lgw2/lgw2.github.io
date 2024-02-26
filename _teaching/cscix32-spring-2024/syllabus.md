@@ -23,7 +23,7 @@ Schedule subject to change. Lecture videos in this [Panopto folder](https://umon
 |8 (3/4-3/8)|Homework 7|Wrap up theory; start [maximum flow](https://lgw2.github.io/teaching/cscix32-spring-2024/lectures/10-maxflows.pdf)| |[More maxflow](https://lgw2.github.io/teaching/cscix32-spring-2024/lectures/10-maxflow.pdf)| |
 |9 (3/11-3/15)|Applications of maxflow writeup due|[Applications of maxflow](https://lgw2.github.io/teaching/cscix32-spring-2024/lectures/11-maxflowapps.pdf) presentation/discussion| |[Approximation algorithms](https://lgw2.github.io/teaching/cscix32-spring-2024/lectures/approx.pdf)| |
 |Spring break||| || |
-|10 (3/25-3/29)|Approximation algorithms paper writeup due|[Approximation algorithms paper](https://lgw2.github.io/teaching/cscix32-spring-2024/lectures/approx_algs_paper.pdf) discussion| |[Linear programming](https://lgw2.github.io/teaching/cscix32-spring-2024/lectures/H-lp.pdf)| |
+|10 (3/25-3/29)|Approximation algorithms paper writeup due|[Approximation algorithms paper](https://lgw2.github.io/teaching/cscix32-spring-2024/lectures/approx_alg_paper.pdf) discussion| |[Linear programming](https://lgw2.github.io/teaching/cscix32-spring-2024/lectures/H-lp.pdf)| |
 |11 (4/1-4/5)|Solving linear programs writeup due|[Solving linear programs](https://lgw2.github.io/teaching/cscix32-spring-2024/lectures/I-simplex.pdf) discussion| |Integer linear programming| |
 |12 (4/8-4/12)|Integer linear programming paper writeup due|[ILP paper](https://lgw2.github.io/teaching/cscix32-spring-2024/lectures/ilp_paper.pdf) discussion| |ILP relaxation| |
 |13 (4/15-4/19)|ILP relaxation paper writeup|ILP relaxation paper discussion| |Online algorithms| |
