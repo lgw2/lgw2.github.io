@@ -11,6 +11,8 @@ The presenters **must** arrange a meeting with Lucy on the Friday before their p
 
 A schedule of presenters is available on Moodle.
 
+During presentations, all non-presenting students should have all electronics closed and give the presenters their full attention. You aren't being tested on this material, so there is no need to take notes.
+
 Grades are out of 10 points as follows. If the post-presentation reflections indicate that all group members did not
 contribute an equal amount, a multiplier (< 1) may be applied to some group members' scores.
 * 2 points for the draft of leading the class during the Friday meeting with Lucy
