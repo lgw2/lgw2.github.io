@@ -3,7 +3,7 @@ collection: teaching
 title: "Paper presentations"
 ---
 
-In the second half of the course, groups of two or three students will lead a one-hour presentation and lesson about a book chapter or published
+In the second half of the course, groups of three or four students will lead a one-hour presentation and lesson about a book chapter or published
 research paper related to the algorithm design strategy covered in the previous week. Note that the goal of the presentation is to
 help the class understand the technical content of the paper or chapter in the context of the previous week's lecture topic. You do not need to cover the entire paper. Instead, find some part or parts of the paper that you think the class will be able to understand and find interesting.
 
