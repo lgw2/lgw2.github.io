@@ -146,7 +146,7 @@ semester.
 ### Collaboration policy
 
 For homework problems, you may work in groups of up to three and turn in
-a single writeup as a group. Group work on paper summaries is TBD.
+a single writeup as a group. Group work on paper summaries is not allowed.
 
 Additionally, you may use *any* resource available to you, as
 long as you write up your answers in your own words and properly cite your
