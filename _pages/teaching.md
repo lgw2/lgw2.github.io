@@ -4,6 +4,13 @@ permalink: /teaching/
 author_profile: false
 ---
 
+## CSCI 332: Design/Analysis of Algorithms
+
+Description from course catalog: *Algorithm design, analysis, and correctness. Commonly used algorithms including searching and sorting, string search, dynamic programming, branch and bound, graph algorithms, and parallel algorithms. Introduction to NP-complete problems.*
+
+Taught in:
+* [fall 2024](https://lgw2.github.io/teaching/csci332-fall-2024/syllabus/)
+
 ## CSCI 432/532: Advanced Algorithms Topics
 
 Description from course catalog: *Advanced algorithm and data structure concepts, including theory, approximation algorithms, randomized algorithms, parallel algorithms, streaming algorithms, linear programming.*
