@@ -22,12 +22,12 @@ Schedule subject to change. Lecture videos in this [Panopto folder](https://umon
 |7 (10/7-10/11)|HW 5|Divide and conquer|Divide and conquer|5|
 |8 (10/14-10/18)|HW 6|More divide and conquer|More divide and conquer|5|
 |9 (10/21-10/25)|HW 7|Dynamic programming|Dynamic programming|6|
-|10 (10/28-11/1)|HW 8|Dynamic programming|Dynamic programming|
-|11 (11/4-11/8)|HW 9|Review|Exam 2|
-|12 (11/11-11/15)|none|TBD|TBD|
-|13 (11/18-11/22)|HW 10|TBD|TBD|
-|14 (11/25-11/29)|HW 11|TBD|No class-Happy Thanksgiving|
-|15 (11/18-11/22)|HW 12|TBD|Review|
+|10 (10/28-11/1)|HW 8|Dynamic programming|Dynamic programming|6|
+|11 (11/4-11/8)|HW 9|Review|Exam 2||
+|12 (11/11-11/15)|none|Network flow|Network flow|7|
+|13 (11/18-11/22)|HW 10|Network flow|Network flow|7|
+|14 (11/25-11/29)|HW 11|P vs NP|No class-Happy Thanksgiving|8|
+|15 (11/18-11/22)|HW 12|Intractability|Review|8|
 |Finals week (12/9-12/13)|note: final is 10:10-12:10 on Wednesday, December 11| | |
 
 ## Catalog description
@@ -95,10 +95,8 @@ semester.
 
 ### Collaboration policy
 
-For homework problems, you may work in groups of up to three and turn in
-a single writeup as a group. Group work on paper summaries is not allowed.
 
-Additionally, you may use *any* resource available to you, as
+You may use *any* resource available to you, as
 long as you write up your answers in your own words and properly cite your
 source. Some examples of resources you might use:
 
