@@ -42,7 +42,9 @@ This course meets in Education 241 on Tuesdays and Thursdays from
 
 Class time will be a mix of lecture and active problem solving, both as
 individuals and as groups. Every week will have a short homework assignment.
-
+Most of your homework grade will come from a short homework quiz on Tuesdays,
+where you will demonstrate your understanding of the algorithm analysis and
+design topics from the homework.
 
 ## Course resources
 
