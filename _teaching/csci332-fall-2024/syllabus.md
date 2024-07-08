@@ -38,7 +38,7 @@ Prereq., CSCI 232 and M 225 or consent of instr. Algorithm design, analysis, and
 ## Course info
 
 This course meets in Education 241 on Tuesdays and Thursdays from
-9:30-11:50am.
+9:30-10:50am.
 
 Class time will be a mix of lecture and active problem solving, both as
 individuals and as groups. Every week will have a short homework assignment.
