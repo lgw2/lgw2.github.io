@@ -11,32 +11,30 @@ location: "Missoula, Montana"
 
 Schedule subject to change. Lecture videos in TBD.
 
-|Week|HW (quiz Tuesday)|Tuesday lecture|Thursday lecture|Book chapter|
+|Week|Tuesday topic|Thursday topic|Book chapter|Software challenge|
 |:---|:---|:---|:---|
-|1 (8/26-8/30)|none|Intro + stable matching|Stable matching|1|
-|2 (9/2-9/6)|HW 1|Algorithm analysis|Algorithm analysis|2|
-|3 (9/9-9/13)|HW 2|Graph algorithms|Graph algorithms|3|
-|4 (9/16-9/20)|HW 3|Review|Exam 1||
-|5 (9/23-9/27)|none|Greedy algorithms|Greedy algorithms|4|
-|6 (9/30-10/4)|HW 4|Greedy algorithms|Greedy algorithms|4|
-|7 (10/7-10/11)|HW 5|Divide and conquer|Divide and conquer|5|
-|8 (10/14-10/18)|HW 6|More divide and conquer|More divide and conquer|5|
-|9 (10/21-10/25)|HW 7|Dynamic programming|Dynamic programming|6|
-|10 (10/28-11/1)|HW 8|Dynamic programming|Dynamic programming|6|
-|11 (11/4-11/8)|HW 9|Review|Exam 2||
-|12 (11/11-11/15)|none|Network flow|Network flow|7|
-|13 (11/18-11/22)|HW 10|Network flow|Network flow|7|
-|14 (11/25-11/29)|HW 11|P vs NP|No class-Happy Thanksgiving|8|
-|15 (11/18-11/22)|HW 12|Intractability|Review|8|
-|Finals week (12/9-12/13)|note: final is 10:10-12:10 on Wednesday, December 11| | |
+|1 (8/26-8/30)|Intro|Motif finding|2|tbd|
+|2 (9/2-9/6)|Genome assembly|Genome assembly|3| |
+|3 (9/9-9/13)|Sequence alignment|Sequence alignment|5| |
+|4 (9/16-9/20)|Global and local sequence alignment|Additional topics in sequence alignment|5| |
+|5 (9/23-9/27)|HMMs and profile HMMs|HMMs and profile HMMS|10| |
+|6 (9/30-10/4)|Genome rearrangements and fragile genomes|Genome rearrangements and fragile genomes|6| |
+|7 (10/7-10/11)|Evolutionary trees: additive phylogeny and UPGMA|Additive phylogeny and UPGMA|7| |
+|8 (10/14-10/18)|Evolutionary trees: the neighbor-joining algorithm and small parsimony|The neighbor-joining algorithm and small parsimony|7| |
+|9 (10/21-10/25)|Sequencing antibiotics|Sequencing antibiotics|4| |
+|10 (10/28-11/1)|Gene expression and clustering|Gene expression and clustering|8| |
+|11 (11/4-11/8)|Read mapping: tries, suffix arrays, and suffix trees|Read mapping: tries, suffix arrays, and suffix trees|9| |
+|12 (11/11-11/15)|Read mapping: the Burrows-Wheeler transform|The Burrows-Wheeler transform|9| |
+|13 (11/18-11/22)|HCI and Hellgate|HCI and Hellgate| | |
+|14 (11/25-11/29)|Project presentations|No class-Happy Thanksgiving| | |
+|15 (11/18-11/22)|Project presentations|Review| | |
+|Finals week (12/9-12/13)|note: final is 10:10-12:10 on Friday, December 13| | |
 
 ## Catalog description
 
-This is a co-convened course which for some reason has different names and
-descriptions for the undergraduate and graduate levels.
+This is a co-convened course which for some reason has different course numbers for the undergraduate and graduate levels.
 
-3 Credits.
-Prereq., CSCI 232 and M 225 or consent of instr. Algorithm design, analysis, and correctness. Commonly used algorithms including searching and sorting, string search, dynamic programming, branch and bound, graph algorithms, and parallel algorithms. Introduction to NP-complete problems.
+3 Credits. Designed for attendance by both computer scientists and biologists. The course will explore the interdisciplinary nature at the juncture of the two fields. Students will be introduced to bioinformatics (emphasis: computational genomics), with exposure to fundamental problems, algorithms, and tools in the field. This includes a basic introduction to genomics, along with in-depth coverage of algorithms and methods relevant to modern computational genomics, including: biological sequence alignment, sequence database homology search, and phylogeny inference. The programming expectations are limited for a 400/500-level computer science course, but at least one semester of a programming-intensive course is required.
 
 ## Course info
 
