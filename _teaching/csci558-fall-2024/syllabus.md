@@ -65,7 +65,7 @@ TBD
 ## Grading
 
 Note: if your final project from this course ends up being published in a
-peer-reviewed conference or journal, you will automatically get an A+. This
+peer-reviewed conference or journal, you will automatically get an A. This
 rule can be applied retroactively for several years after the course ends.
 
 You will be graded on the following:
