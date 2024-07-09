@@ -25,7 +25,7 @@ Schedule subject to change. Lecture videos in TBD.
 |10 (10/28-11/1)|Gene expression and clustering|Gene expression and clustering|8| |
 |11 (11/4-11/8)|Read mapping: tries, suffix arrays, and suffix trees|Read mapping: tries, suffix arrays, and suffix trees|9| |
 |12 (11/11-11/15)|Read mapping: the Burrows-Wheeler transform|The Burrows-Wheeler transform|9| |
-|13 (11/18-11/22)|HCI and Hellgate|HCI and Hellgate| | |
+|13 (11/18-11/22)|HPC and Hellgate|HPC and Hellgate| | |
 |14 (11/25-11/29)|Project presentations|No class-Happy Thanksgiving| | |
 |15 (11/18-11/22)|Project presentations|Review| | |
 |Finals week (12/9-12/13)|note: final is 10:10-12:10 on Friday, December 13| | |
@@ -41,7 +41,7 @@ This is a co-convened course which for some reason has different course numbers 
 This course meets in Education 241 on Tuesdays and Thursdays from
 11am-12:20pm.
 
-Class time will be a mix of lecture and active problem solving, both as
+Class time will be a mix of lecture, discussion, and active problem solving, both as
 individuals and as groups.
 
 ## Course resources
@@ -64,8 +64,18 @@ TBD
 
 ## Grading
 
+Note: if your final project from this course ends up being published in a
+peer-reviewed conference or journal, you will automatically get an A+. This
+rule can be applied retroactively for several years after the course ends.
+
 You will be graded on the following:
-* TBD
+* Programming assignments: 20%
+* Software challenges: 10%
+* Weekly writeups: 10%
+* Weekly quizzes: 10%
+* Participation: 10%
+* Final exam: 20%
+* Final project: 20%
 
 Your grade will be determined by your total score as follows:
 93+: A; 90+: A-; 87+: B+; 83+: B; 80+: B-; 77+: C+; 73+: C; 70+: C-; 67+: D+; 63: D; 60: D-.
@@ -88,16 +98,4 @@ semester.
 
 ### Collaboration policy
 
-You may use *any* resource available to you, as
-long as you write up your answers in your own words and properly cite your
-source. Some examples of resources you might use:
-
-* other students in the class
-* other students not in the class
-* other instructors
-* textbooks or online notes
-* anything you find on the internet
-* ChatGPT or other AI tools
-
-Please ask if you have questions about how to properly cite a source or a
-collaborator.
+TBD.

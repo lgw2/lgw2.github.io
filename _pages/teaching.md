@@ -9,7 +9,7 @@ author_profile: false
 Description from course catalog: *Designed for attendance by both computer scientists and biologists. The course will explore the interdisciplinary nature at the juncture of the two fields. Students will be introduced to bioinformatics (emphasis: computational genomics), with exposure to fundamental problems, algorithms, and tools in the field. This includes a basic introduction to genomics, along with in-depth coverage of algorithms and methods relevant to modern computational genomics, including: biological sequence alignment, sequence database homology search, and phylogeny inference. The programming expectations are limited for a 400-level computer science course, but at least one semester of a programming-intensive course is required.*
 
 Taught in:
-* [fall 2024](https://lgw2.github.io/teaching/csci332-fall-2024/syllabus/)
+* [fall 2024](https://lgw2.github.io/teaching/csci558-fall-2024/syllabus/)
 
 ## CSCI 332: Design/Analysis of Algorithms
 
