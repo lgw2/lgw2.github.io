@@ -32,7 +32,7 @@ Schedule subject to change. Lecture videos in TBD.
 
 ## Catalog description
 
-This is a co-convened course which for some reason has different course numbers for the undergraduate and graduate levels.
+This is a co-convened course with different course numbers for the undergraduate and graduate levels.
 
 3 Credits. Designed for attendance by both computer scientists and biologists. The course will explore the interdisciplinary nature at the juncture of the two fields. Students will be introduced to bioinformatics (emphasis: computational genomics), with exposure to fundamental problems, algorithms, and tools in the field. This includes a basic introduction to genomics, along with in-depth coverage of algorithms and methods relevant to modern computational genomics, including: biological sequence alignment, sequence database homology search, and phylogeny inference. The programming expectations are limited for a 400/500-level computer science course, but at least one semester of a programming-intensive course is required.
 
@@ -43,6 +43,9 @@ This course meets in Education 241 on Tuesdays and Thursdays from
 
 Class time will be a mix of lecture, discussion, and active problem solving, both as
 individuals and as groups.
+
+For most class meetings, the morning *before* the class, students will complete
+a set of exercises from the textbook.
 
 ## Course resources
 
@@ -64,15 +67,11 @@ TBD
 
 ## Grading
 
-Note: if your final project from this course ends up being published in a
-peer-reviewed conference or journal, you will automatically get an A. This
-rule can be applied retroactively for several years after the course ends.
-
 You will be graded on the following:
-* Programming assignments: 20%
+* Pre-class assignments: 20%
+* Pre-class writeups: 10%
 * Software challenges: 10%
-* Weekly writeups: 10%
-* Weekly quizzes: 10%
+* Quizzes: 10%
 * Participation: 10%
 * Final exam: 20%
 * Final project: 20%
