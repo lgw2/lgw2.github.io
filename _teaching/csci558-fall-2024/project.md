@@ -1,3 +1,8 @@
+---
+collection: teaching
+title: "Project"
+---
+
 ## Final project
 
 ### Overview
