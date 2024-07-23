@@ -45,14 +45,16 @@ Class time will be a mix of lecture, discussion, and active problem solving, bot
 individuals and as groups.
 
 For most class meetings, the morning *before* the class, students will complete
-a set of exercises from the textbook.
+a set of exercises from the textbook and submit a writeup of any
 
 ## Course resources
 
 ### Textbook
 
 The textbook for this course is Bioinformatics Algorithms: An Active Learning
-Approach by Phillip Compeau and Pavel Pevzner.
+Approach by Phillip Compeau and Pavel Pevzner. You will be required to purchase the
+online version of the book for $29.95 to complete pre-class programming exercises;
+purchasing the physical book is optional.
 
 ### Lecture videos
 
