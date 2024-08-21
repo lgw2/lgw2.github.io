@@ -44,7 +44,12 @@ This course meets in Education 241 on Tuesdays and Thursdays from
 
 Class time will be a mix of lecture, discussion, and active problem solving, both as
 individuals and as groups. Before class, students will read the textbook
-and complete some pre-class exercises.
+and complete some pre-class exercises. To close out each course topic, we will
+have a short quiz and an open-ended activity done in groups during class to
+apply what we've learned.
+
+Students will also complete a larger group project on a bioinformatics topic of
+their choice.
 
 ## Course resources
 
@@ -70,7 +75,7 @@ Canvas.
 ## Course help hours (aka office hours)
 
 You will have some pre-class programming activities due the afternoon before
-most class periods. You can come get help or work with your peers on these on
+most class periods. You can come get help from the instructor or work with your peers on
 Monday and Wednesdays from 1-2:30 in the CS Conference Room (Social Sciences
 402).
 
