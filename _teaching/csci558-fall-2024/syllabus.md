@@ -90,7 +90,7 @@ You will be graded on the following:
 
 This accounts for 90% of your grade. For undergradaute students, the remaining
 10% will come from attending lectures (one lecture missed automatically
-dropped; after that, please let me know why you missed a lecture to have it
+dropped; after that, please let me know beforehand to have a lecture absence
 excused). For graduate students, it will come from
 an individual additional component to the final group project.
 
@@ -103,7 +103,7 @@ There are two ways to earn bonus points in this class.
 
 #### Catch errors in course materials
 
-If you find an error in any of the course materials (typo, incorrect statement, etc.), make a post in the `errors-in-course-material` Discord channel.
+If you find an error in any of the course materials (typo, incorrect statement, etc.), make a post in the `#errors-in-course-material` Discord channel.
 If it is really an error, you get a
 quarter of a point. Only the first person to post about an error gets the points. You can earn a max of 1 total point toward your 100 for the course (for four errors).
 
