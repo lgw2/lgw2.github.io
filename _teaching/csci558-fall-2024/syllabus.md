@@ -58,7 +58,7 @@ their choice.
 The textbook for this course is *Bioinformatics Algorithms: An Active Learning
 Approach* by Phillip Compeau and Pavel Pevzner. You will be required to purchase the
 online version of the book for $29.95 to complete pre-class programming exercises;
-purchasing the physical book is optional.
+purchasing the physical book is optional. Follow [this link](https://cogniterra.org/course/465/promo) to purchase the book and gain access to our course's assignments. Please use your UM email to register an account.
 
 ### Lecture videos
 
