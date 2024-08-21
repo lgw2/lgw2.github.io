@@ -9,7 +9,7 @@ location: "Missoula, Montana"
 
 ## Course schedule
 
-Schedule subject to change. Lecture videos in TBD.
+Schedule subject to change. Lecture videos can be found in Panopto (link TBD).
 
 |Week|Tuesday topic|Thursday topic|
 |:---|:---|:---|:---|
@@ -66,6 +66,13 @@ announcements. Videos can be found in here TBD.
 
 Please join the UM Computer Science Discord. Instructions can be found on
 Canvas.
+
+## Course help hours (aka office hours)
+
+You will have some pre-class programming activities due the afternoon before
+most class periods. You can come get help or work with your peers on these on
+Monday and Wednesdays from 1-2:30 in the CS Conference Room (Social Sciences
+402).
 
 ## Grading
 
