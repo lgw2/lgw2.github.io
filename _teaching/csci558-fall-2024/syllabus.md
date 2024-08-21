@@ -89,7 +89,9 @@ You will be graded on the following:
 * Final project: 30%
 
 This accounts for 90% of your grade. For undergradaute students, the remaining
-10% will come from attending lectures. For graduate students, it will come from
+10% will come from attending lectures (one lecture missed automatically
+dropped; after that, please let me know why you missed a lecture to have it
+excused). For graduate students, it will come from
 an individual additional component to the final group project.
 
 Your grade will be determined by your total score as follows:
