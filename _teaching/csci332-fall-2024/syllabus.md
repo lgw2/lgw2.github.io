@@ -9,7 +9,7 @@ location: "Missoula, Montana"
 
 ## Course schedule
 
-Schedule subject to change. Lecture videos in this [Panopto folder](https://umontana.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=dcf4e4db-c07c-4d77-9063-b0f10157fd5d).
+Schedule subject to change. Lecture videos in this [Panopto folder](https://umontana.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=0f685bf2-d1f4-4f2b-976a-b1d40102db01).
 
 |Week|HW (quiz Tuesday)|Tuesday lecture|Thursday lecture|Book chapter|
 |:---|:---|:---|:---|
@@ -58,7 +58,7 @@ Tardos.
 Lectures will be recorded and available to watch after class. However, if there are
 technical difficulties recording a lecture, it will not be re-recorded, so come
 to class when you can to make sure that you do not miss course content or
-announcements. Videos can be found in the [Panopto folder](https://umontana.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=dcf4e4db-c07c-4d77-9063-b0f10157fd5d).
+announcements. Videos can be found in the [Panopto folder](https://umontana.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=0f685bf2-d1f4-4f2b-976a-b1d40102db01).
 
 ### Discord
 
