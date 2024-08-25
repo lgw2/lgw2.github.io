@@ -69,7 +69,8 @@ announcements. Videos can be found in [here](https://umontana.hosted.panopto.com
 
 ### Discord
 
-Please join the UM Computer Science Discord. Instructions can be found on
+Please join the UM Computer Science Discord to keep up with announcements and
+to ask questions. Instructions can be found on
 Canvas.
 
 ## Course help hours (aka office hours)

@@ -1,5 +1,5 @@
 ---
-title: "CSCI 332: Advanced Algorithm Topics"
+title: "CSCI 332: Advanced Data Structures and Algorithms"
 collection: teaching
 type: "Undergraduate course"
 venue: "University of Montana, Computer Science"
@@ -14,7 +14,7 @@ Schedule subject to change. Lecture videos in this [Panopto folder](https://umon
 |Week|HW (quiz Tuesday)|Tuesday lecture|Thursday lecture|Book chapter|
 |:---|:---|:---|:---|
 |1 (8/26-8/30)|none|Intro + stable matching|Stable matching|1|
-|2 (9/2-9/6)|HW 1|Algorithm analysis|Algorithm analysis|2|
+|2 (9/2-9/6)|HW 1 ([pdf](https://lgw2.github.io/teaching/csci332-spring-2024/homework/Homework_1.pdf), [LaTeX source](https://www.overleaf.com/read/wkrktkkxvfsm#ba29c3))|Algorithm analysis|Algorithm analysis|2|
 |3 (9/9-9/13)|HW 2|Graph algorithms|Graph algorithms|3|
 |4 (9/16-9/20)|HW 3|Review|Exam 1||
 |5 (9/23-9/27)|none|Greedy algorithms|Greedy algorithms|4|
@@ -46,12 +46,19 @@ Most of your homework grade will come from a short homework quiz on Tuesdays,
 where you will demonstrate your understanding of the algorithm analysis and
 design topics from the homework.
 
+During class time, I will ask that you refrain from using all laptops and cell
+phones, except when they are useful for accessing information during group
+problem solving sessions. I highly recommend that you use paper or a tablet for
+notetaking, but please let me know if you require an exception to
+this rule.
+
 ## Course resources
 
 ### Textbook
 
 The textbook for this course is Algorithm Design by Jon Kleinberg and Eva
-Tardos.
+Tardos. New copies of the textbook are available in the bookstore, but you may
+also obtain the textbook in other ways. Either first or second edition is fine.
 
 ### Lecture videos
 
@@ -60,18 +67,59 @@ technical difficulties recording a lecture, it will not be re-recorded, so come
 to class when you can to make sure that you do not miss course content or
 announcements. Videos can be found in the [Panopto folder](https://umontana.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=0f685bf2-d1f4-4f2b-976a-b1d40102db01).
 
+## Homework and homework quizzes
+
+As detailed below, homework assignments are open everything (internet resources,
+generative AI, other people, etc.), but you must write your answers in your own
+words and you must cite every source you use for every problem. The point of
+the homework is to give you practice with solving algorithmic problems and
+communicating your solutions in writing. To this end, your homework writeups
+will be graded based on your communication skills, and your understanding of
+the material will be graded using short closed-notes quizzes based on the
+homework questions. These quizzes are not meant to be difficult or stressful,
+but to allow you to demonstrate that you understood the homework questions and
+their solutions.
+
+### Homework submission
+
+Submit your homework on Gradescope. You may submit homework individually or in
+groups of up to 3. To do so, have one group member submit and select the other
+groupmates.
+
+Homework problems will be graded based on completion, according to
+the following criteria:
+* Does the solution address the correct problem?
+* Does the solution make a reasonable attempt at solving the problem, even if
+    not fully correct
+* Is the presentation neat?
+* Is the explanation clear?
+* Does the solution list collaborators or sources, or state that the student
+    did not use any collaborators or outside resources?
+* Is the solution written in the student's own voice (not copied directly from
+    an outside resource)?
+
+You are encouraged to write your homework using LaTex, a typesetting program
+that is popular in computer science research. [Overleaf]() is an online LaTeX
+compiler, and I've provided a [homework template]() that you can use to write
+up your homework solutions.
+
+
+### Homework quizzes
+
+A sample homework quiz is available [here]().
+
 ### Discord
 
-TBD
+Please join the UM Computer Science Discord to keep up with announcements and
+to ask questions. Instructions can be found on
+Canvas.
 
 ## Grading
 
 You will be graded on the following:
 * 10% homework completion
 * 30% homework quizzes
-* 10% exam 1
-* 10% exam 2
-* 20% final exam
+* 50% exams: midterm 1 (10%), midterm 2 (10%), cumulative final (20%)
 * 20% participation
 
 Your grade will be determined by your total score as follows:
@@ -83,9 +131,11 @@ There are two ways to earn bonus points in this class.
 
 #### Catch errors in course materials
 
-If you find an error in any of the course materials (typo, incorrect statement, etc.), make a post in the `errors-in-course-material` Discord channel.
-If it is really an error, you get a
-quarter of a point. Only the first person to post about an error gets the points. You can earn a max of 1 total point toward your 100 for the course (for four errors).
+If you find an error in any of the course materials (typo, incorrect statement,
+etc.), make a post in the `#errors-in-course-material` Discord channel.  If it
+is really an error, you get a quarter of a point. Only the first person to post
+about an error gets the points. You can earn a max of 1 total point toward your
+100 for the course (for four errors).
 
 #### Course survey and evaluation
 
@@ -94,7 +144,6 @@ class gets 1 bonus point. Same goes for the course evaluation at the end of the
 semester.
 
 ### Collaboration policy
-
 
 You may use *any* resource available to you, as
 long as you write up your answers in your own words and properly cite your
@@ -107,5 +156,20 @@ source. Some examples of resources you might use:
 * anything you find on the internet
 * ChatGPT or other AI tools
 
+The only resources you may use without citation are our course textbook,
+Algorithm Design by Kleinberg and Tardos, our posted lecture slides, and our
+in-class or Discord discussions. For this reason, you will likely need
+citations on most of your homework assignments.
+
 Please ask if you have questions about how to properly cite a source or a
 collaborator.
+
+## Accessibility
+
+The University of Montana assures equal access to instruction through
+collaboration between students with disabilities, instructors, and the Office
+for Disability Equity (ODE). If you anticipate or experience barriers based
+on disability, please contact the ODE at: (406) 243-2243, ode@umontana.edu, or
+visit www.umt.edu/disability for more information. As your instructor, I
+will work with you and the ODE to implement an effective accommodation, and you
+are welcome to contact me privately if you wish.
