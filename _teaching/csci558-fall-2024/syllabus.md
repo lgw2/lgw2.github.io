@@ -11,22 +11,21 @@ location: "Missoula, Montana"
 
 Schedule subject to change. Lecture videos can be found in [this Panopto folder](https://umontana.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=a01a54a5-8239-4b2b-8d19-b1d40102d5bc).
 
-|Week|Tuesday topic|Thursday topic|
+|Week|Tuesday topic|Thursday topic|Project deliverable due|
 |:---|:---|:---|:---|
 |1 (8/26-8/30)|Intro; finding hidden patterns in DNA|Hidden patterns in DNA|
 |2 (9/2-9/6)|Hidden patterns in DNA|Motif finding|
-|2 (9/2-9/6)|Motif finding|Genome assembly|
-|3 (9/9-9/13)|Genome assembly|Sequence alignment|
-|4 (9/16-9/20)|Sequence alignment|Global and local sequence alignment|
-|5 (9/23-9/27)|Additional topics in sequence alignment|HMMs and profile HMMS|
-|6 (9/30-10/4)|HMMs and profile HMMs|Genome rearrangements and fragile genomes|
-|7 (10/7-10/11)|Genome rearrangements and fragile genomes|Evolutionary trees||
-|8 (10/14-10/18)|Evolutionary trees|Evolutionary trees|
-|9 (10/21-10/25)|Evolutionary trees|HPC and Hellgate|
-|10 (10/28-11/1)|HPC and Hellgate|Read mapping|
-|11 (11/4-11/8)|Read mapping|Read mapping|
-|12 (11/11-11/15)|Read mapping|TBD|
-|13 (11/18-11/22)|TBD|TBD|
+|3 (9/9-9/13)|Motif finding|Genome assembly|
+|4 (9/16-9/20)|Genome assembly|Sequence alignment|
+|5 (9/23-9/27)|Sequence alignment|Global and local sequence alignment|
+|6 (9/30-10/4)|Additional topics in sequence alignment|HMMs and profile HMMS|
+|7 (10/7-10/11)|HMMs and profile HMMs|Genome rearrangements and fragile genomes|
+|8 (10/14-10/18)|Genome rearrangements and fragile genomes|Evolutionary trees||
+|9 (10/21-10/25)|Evolutionary trees|Evolutionary trees|
+|10 (10/28-11/1)|Evolutionary trees|HPC and Hellgate|
+|11 (11/4-11/8)|HPC and Hellgate|Read mapping|
+|12 (11/11-11/15)|Read mapping|Read mapping|
+|13 (11/18-11/22)|Read mapping|TBD|
 |14 (11/25-11/29)|Project presentations|No class-Happy Thanksgiving|
 |15 (11/18-11/22)|Project presentations|Review|
 |Finals week (12/9-12/13)|note: final is 10:10-12:10 on Friday, December 13||
