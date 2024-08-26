@@ -82,7 +82,9 @@ their solutions.
 
 ### Homework submission
 
-Submit your homework on Gradescope. You may submit homework individually or in
+Submit your homework on Gradescope. Go to [gradescope.com](https://www.gradescope.com) and sign up using entry code `XGV5DY`.
+
+You may submit homework individually or in
 groups of up to 3. To do so, have one group member submit and select the other
 groupmates.
 
