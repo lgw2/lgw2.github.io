@@ -101,14 +101,20 @@ the following criteria:
     an outside resource)?
 
 You are encouraged to write your homework using LaTex, a typesetting program
-that is popular in computer science research. [Overleaf]() is an online LaTeX
-compiler, and I've provided a [homework template]() that you can use to write
+that is popular in computer science research. [Overleaf](https://www.overleaf.com) is an online LaTeX
+compiler, and I've provided a [homework template](https://www.overleaf.com/read/knwmhrgkkqqj#9a5edd) that you can use to write
 up your homework solutions.
 
 
 ### Homework quizzes
 
-A sample homework quiz is available [here]().
+To complement the submitted homework, we will also have short homework quizzes
+in class on the day after homework is due. These will consist of definitions
+questions and some questions that are similar to questions from the homework.
+
+A sample homework quiz is available [here](https://lgw2.github.io/teaching/csci332-fall-2024/quizzes/Quiz_1_sample.pdf). Your lowest homework quiz grade
+will be dropped.
+
 
 ### Discord
 
@@ -120,12 +126,18 @@ Canvas.
 
 You will be graded on the following:
 * 10% homework completion
-* 30% homework quizzes
+* 30% homework quizzes (lowest score dropped)
 * 50% exams: midterm 1 (10%), midterm 2 (10%), cumulative final (20%)
 * 20% participation
 
 Your grade will be determined by your total score as follows:
 93+: A; 90+: A-; 87+: B+; 83+: B; 80+: B-; 77+: C+; 73+: C; 70+: C-; 67+: D+; 63: D; 60: D-.
+
+### Participation
+
+Your particiapation grade will be based on lecture attendance. You can make up
+lecture attendance by attending office hours or in other ways; please contact
+Lucy if you need to arrange another way to make up attendance.
 
 ### Bonus
 
