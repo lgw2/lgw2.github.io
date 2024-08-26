@@ -67,6 +67,12 @@ technical difficulties recording a lecture, it will not be re-recorded, so come
 to class when you can to make sure that you do not miss course content or
 announcements. Videos can be found in the [Panopto folder](https://umontana.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=0f685bf2-d1f4-4f2b-976a-b1d40102db01).
 
+### Discord
+
+Please join the UM Computer Science Discord to keep up with announcements and
+to ask questions. Instructions can be found on
+Canvas.
+
 ## Homework and homework quizzes
 
 As detailed below, homework assignments are open everything (internet resources,
@@ -116,11 +122,6 @@ A sample homework quiz is available [here](https://lgw2.github.io/teaching/csci3
 will be dropped.
 
 
-### Discord
-
-Please join the UM Computer Science Discord to keep up with announcements and
-to ask questions. Instructions can be found on
-Canvas.
 
 ## Grading
 
