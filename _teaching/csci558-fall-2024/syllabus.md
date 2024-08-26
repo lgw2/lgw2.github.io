@@ -88,10 +88,10 @@ You will be graded on the following:
 * Final exam: 15%
 * Final project: 30%
 
-This accounts for 90% of your grade. For undergradaute students, the remaining
+This accounts for 90% of your grade. For students enrolled in 451, the remaining
 10% will come from attending lectures (one lecture missed automatically
 dropped; after that, please let me know beforehand to have a lecture absence
-excused). For graduate students, it will come from
+excused). For 558 students, it will come from
 an individual additional component to the final group project.
 
 Your grade will be determined by your total score as follows:
