@@ -73,6 +73,12 @@ Please join the UM Computer Science Discord to keep up with announcements and
 to ask questions. Instructions can be found on
 Canvas.
 
+## Course help hours (aka office hours)
+
+I will be available in the CS conference room (SS 402) from 1-2:30 on Mondays
+and Wednesdays to help with homework. You're also welcome to come even if you
+don't have specific questions and just work on your homework in there.
+
 ## Homework and homework quizzes
 
 As detailed below, homework assignments are open everything (internet resources,
