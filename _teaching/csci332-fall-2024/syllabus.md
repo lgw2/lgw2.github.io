@@ -73,6 +73,15 @@ Please join the UM Computer Science Discord to keep up with announcements and
 to ask questions. Instructions can be found on
 Canvas.
 
+### Teaching and learning assistants
+
+We are lucky to have both a teaching Assistant (TA) and a learning assistant
+(LA) in this course. Our TA Onila is a graduate student in computer science and
+will be assisting with in-class activities, outside of course help, and
+grading. Our LA Jacob is a computer science undergraduate student who has
+recently taken CSCI 332. He will also assist with in-class activities, but with
+the attitude of being your peer, not your instructor.
+
 ## Course help hours (aka office hours)
 
 I will be available in the CS conference room (SS 402) from 1-2:30 on Mondays
