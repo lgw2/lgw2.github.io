@@ -50,6 +50,10 @@ apply what we've learned.
 Students will also complete a larger group project on a bioinformatics topic of
 their choice.
 
+During class, I will ask that you close laptops and except
+when they are needed to follow along with a coding demonstration or for group
+work.
+
 ## Course resources
 
 ### Textbook
@@ -59,12 +63,17 @@ Approach* by Phillip Compeau and Pavel Pevzner. You will be required to purchase
 online version of the book for $29.95 to complete pre-class programming exercises;
 purchasing the physical book is optional. Follow [this link](https://cogniterra.org/course/465/promo) to purchase the book and gain access to our course's assignments. Please use your UM email to register an account.
 
-### Lecture videos
+### Class videos
 
-Lectures will be recorded and available to watch after class. However, if there are
-technical difficulties recording a lecture, it will not be re-recorded, so come
-to class when you can to make sure that you do not miss course content or
-announcements. Videos can be found in [here](https://umontana.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=a01a54a5-8239-4b2b-8d19-b1d40102d5bc).
+Lecture periods will be recorded and available to watch after class. However, if there are
+technical difficulties recording a lecture, it will not be re-recorded, and
+in-class participation will be a key to your learning, so please come
+to class when you can. Videos can be found in [here](https://umontana.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=a01a54a5-8239-4b2b-8d19-b1d40102d5bc).
+
+### Book's lecture videos
+
+The authors of our textbook created [free lecture videos](https://www.youtube.com/@bioinfalgorithms/playlists) to accompany the text.
+You are not required to watch these, but if you find them helpful, please do!
 
 ### Discord
 
