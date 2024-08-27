@@ -27,7 +27,7 @@ Schedule subject to change. Lecture videos in this [Panopto folder](https://umon
 |12 (11/11-11/15)|none|Network flow|Network flow|7|
 |13 (11/18-11/22)|HW 10|Network flow|Network flow|7|
 |14 (11/25-11/29)|HW 11|P vs NP|No class-Happy Thanksgiving|8|
-|15 (11/18-11/22)|HW 12|Intractability|Review|8|
+|15 (12/2-12/6)|HW 12|Intractability|Review|8|
 |Finals week (12/9-12/13)|note: final is 10:10-12:10 on Wednesday, December 11| | |
 
 ## Catalog description
