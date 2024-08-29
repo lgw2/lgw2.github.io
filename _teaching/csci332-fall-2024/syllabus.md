@@ -28,7 +28,7 @@ Schedule subject to change. Lecture videos in this [Panopto folder](https://umon
 |13 (11/18-11/22)|HW 10|Network flow|Network flow|7|
 |14 (11/25-11/29)|HW 11|P vs NP|No class-Happy Thanksgiving|8|
 |15 (12/2-12/6)|HW 12|Intractability|Review|8|
-|Finals week (12/9-12/13)|note: final is 10:10-12:10 on Wednesday, December 11| | |
+|Finals week (12/9-12/13)|note: final is 10:10-12:10 on Wednesday, December 11 in lecture classroom| | |
 
 ## Catalog description
 
@@ -143,7 +143,7 @@ will be dropped.
 You will be graded on the following:
 * 10% homework completion
 * 30% homework quizzes (lowest score dropped)
-* 50% exams: midterm 1 (10%), midterm 2 (10%), cumulative final (20%)
+* 40% exams: midterm 1 (10%), midterm 2 (10%), cumulative final (20%)
 * 20% participation
 
 Your grade will be determined by your total score as follows:
