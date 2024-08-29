@@ -13,7 +13,7 @@ Schedule subject to change. Lecture videos in this [Panopto folder](https://umon
 
 |Week|HW (quiz Tuesday)|Tuesday lecture|Thursday lecture|Book chapter|
 |:---|:---|:---|:---|
-|1 (8/26-8/30)|none|[Intro + stable matching](https://lgw2.github.io/teaching/csci332-fall-2024/lectures/intro_and_stable_matching1.pdf)|Stable matching|1|
+|1 (8/26-8/30)|none|[Intro + stable matching](https://lgw2.github.io/teaching/csci332-fall-2024/lectures/intro_and_stable_matching1.pdf)|[Stable matching](https://lgw2.github.io/teaching/csci332-fall-2024/lectures/intro_and_stable_matching2.pdf)|1|
 |2 (9/2-9/6)|HW 1 ([pdf](https://lgw2.github.io/teaching/csci332-fall-2024/homework/Homework_1.pdf), [LaTeX source](https://www.overleaf.com/read/wkrktkkxvfsm#ba29c3))|Algorithm analysis|Algorithm analysis|2|
 |3 (9/9-9/13)|HW 2|Graph algorithms|Graph algorithms|3|
 |4 (9/16-9/20)|HW 3|Review|Exam 1||
