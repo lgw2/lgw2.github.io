@@ -13,7 +13,7 @@ Schedule subject to change. Lecture videos can be found in [this Panopto folder]
 
 |Week|Tuesday topic|Thursday topic|Project deliverable due|
 |:---|:---|:---|:---|
-|1 (8/26-8/30)|Intro|First textbook assignment code-along|||
+|1 (8/26-8/30)|Intro|First textbook assignment code-along||
 |2 (9/2-9/6)|Hidden patterns in DNA|Motif finding|
 |3 (9/9-9/13)|Motif finding|Genome assembly|
 |4 (9/16-9/20)|Genome assembly|Sequence alignment|
