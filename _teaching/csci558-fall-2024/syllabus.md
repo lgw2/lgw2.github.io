@@ -11,8 +11,7 @@ location: "Missoula, Montana"
 
 Schedule subject to change. Lecture videos can be found in [this Panopto folder](https://umontana.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=a01a54a5-8239-4b2b-8d19-b1d40102d5bc).
 
-|Week|Tuesday topic|Thursday topic|Project deliverable due (see Canvas for
-exact date)|
+|Week|Tuesday topic|Thursday topic|Project deliverable due (see Canvas for exact date)|
 |:---|:---|:---|:---|
 |1 (8/26-8/30)|Intro|First textbook assignment code-along||
 |2 (9/2-9/6)|Hidden patterns in DNA|Motif finding||
