@@ -11,13 +11,14 @@ location: "Missoula, Montana"
 
 Schedule subject to change. Lecture videos can be found in [this Panopto folder](https://umontana.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=a01a54a5-8239-4b2b-8d19-b1d40102d5bc).
 
-|Week|Tuesday topic|Thursday topic|Project deliverable due|
+|Week|Tuesday topic|Thursday topic|Project deliverable due (see Canvas for
+exact date)|
 |:---|:---|:---|:---|
 |1 (8/26-8/30)|Intro|First textbook assignment code-along||
-|2 (9/2-9/6)|Hidden patterns in DNA|Motif finding|
-|3 (9/9-9/13)|Motif finding|Genome assembly|
-|4 (9/16-9/20)|Genome assembly|Sequence alignment|
-|5 (9/23-9/27)|Sequence alignment|Global and local sequence alignment|Proposal|
+|2 (9/2-9/6)|Hidden patterns in DNA|Motif finding||
+|3 (9/9-9/13)|Motif finding|Genome assembly||
+|4 (9/16-9/20)|Genome assembly|Genome assembly + group shopping|Groups form|
+|5 (9/23-9/27)|Sequence alignment|Sequence alignment|Proposal|
 |6 (9/30-10/4)|Additional topics in sequence alignment|HMMs and profile HMMS|
 |7 (10/7-10/11)|HMMs and profile HMMs|Genome rearrangements and fragile genomes|In-person check-in|
 |8 (10/14-10/18)|Genome rearrangements and fragile genomes|Evolutionary trees|
