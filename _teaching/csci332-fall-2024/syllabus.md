@@ -15,7 +15,7 @@ Schedule subject to change. Lecture videos in this [Panopto folder](https://umon
 |:---|:---|:---|:---|
 |1 (8/26-8/30)|none|[Intro + stable matching](https://lgw2.github.io/teaching/csci332-fall-2024/lectures/intro_and_stable_matching1.pdf)|[Stable matching](https://lgw2.github.io/teaching/csci332-fall-2024/lectures/intro_and_stable_matching2.pdf)|1.1|
 |2 (9/2-9/6)|HW 1 ([pdf](https://lgw2.github.io/teaching/csci332-fall-2024/homework/Homework_1.pdf), [LaTeX source](https://www.overleaf.com/read/wkrktkkxvfsm#ba29c3))|[Algorithm analysis](https://lgw2.github.io/teaching/csci332-fall-2024/lectures/alg_analysis.pdf)|[Algorithm analysis](https://lgw2.github.io/teaching/csci332-fall-2024/lectures/alg_analysis2.pdf)|2.1-2.2|
-|3 (9/9-9/13)|HW 2 ([pdf](https://lgw2.github.io/teaching/csci332-fall-2024/homework/Homework_2.pdf), [LaTeX source](https://www.overleaf.com/read/rjvjctfvkdrg#432da2))|[Algorithm analysis](https://lgw2.github.io/teaching/csci332-fall-2024/lectures/alg_analysis3.pdf)|Graph algorithms|3|
+|3 (9/9-9/13)|HW 2 ([pdf](https://lgw2.github.io/teaching/csci332-fall-2024/homework/Homework_2.pdf), [LaTeX source](https://www.overleaf.com/read/rjvjctfvkdrg#432da2))|[Algorithm analysis](https://lgw2.github.io/teaching/csci332-fall-2024/lectures/alg_analysis3.pdf)|[Graph algorithms](https://lgw2.github.io/teaching/csci332-fall-2024/lectures/graphs.pdf)|3|
 |4 (9/16-9/20)|HW 3 ([pdf](https://lgw2.github.io/teaching/csci332-fall-2024/homework/Homework_3.pdf), [LaTeX source](https://www.overleaf.com/read/xpsfngmzyhkm#6eb814))|Review|Exam 1||
 |5 (9/23-9/27)|none|More graph algorithms|Greedy algorithms|4|
 |6 (9/30-10/4)|HW 4|Greedy algorithms|Greedy algorithms|4|
