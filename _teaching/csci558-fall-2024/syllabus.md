@@ -19,13 +19,13 @@ Schedule subject to change. Lecture videos can be found in [this Panopto folder]
 |4 (9/16-9/20)|Genome assembly|Genome assembly + group shopping|Groups form|
 |5 (9/23-9/27)|Sequence alignment|Sequence alignment|Proposal|
 |6 (9/30-10/4)|Additional topics in sequence alignment|HMMs and profile HMMS|
-|7 (10/7-10/11)|HMMs and profile HMMs|Genome rearrangements and fragile genomes|In-person check-in|
-|8 (10/14-10/18)|Genome rearrangements and fragile genomes|Evolutionary trees|
-|9 (10/21-10/25)|Evolutionary trees|Evolutionary trees|
-|10 (10/28-11/1)|Evolutionary trees|HPC and Hellgate|Progress report|
-|11 (11/4-11/8)|HPC and Hellgate|Read mapping|
-|12 (11/11-11/15)|Read mapping|Read mapping|
-|13 (11/18-11/22)|Read mapping|TBD|In-person check-in|
+|7 (10/7-10/11)|HMMs and profile HMMs|Possibly use lecture time for in-person check-ins|In-person check-in|
+|8 (10/14-10/18)|Evolutionary trees|Evolutionary trees|
+|9 (10/21-10/25)|Evolutionary trees|HPC and Hellgate|
+|10 (10/28-11/1)|HPC and Hellgate|Evolutionary trees|Progress report|
+|11 (11/4-11/8)|Read mapping|Read mapping|
+|12 (11/11-11/15)|Read mapping|Possible project work day|
+|13 (11/18-11/22)|Read mapping|Possibly use lecture time for in-person check-ins|In-person check-in|
 |14 (11/26-11/29)|Project presentations|No class-Happy Thanksgiving|
 |15 (12/2-12/6)|Project presentations|Review|
 |Finals week (12/9-12/13)|note: final is 10:10-12:10 on Friday, December 13||Writeup|
