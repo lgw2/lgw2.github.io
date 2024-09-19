@@ -136,12 +136,16 @@ questions and some questions that are similar to questions from the homework.
 A sample homework quiz is available [here](https://lgw2.github.io/teaching/csci332-fall-2024/quizzes/Quiz_1_sample.pdf). Your lowest homework quiz grade
 will be dropped.
 
+Exams will cover material already seen on homework quizzes, so your homework
+quiz score will be the max of your homework quiz score and 75% of your score on
+the corresponding section of the exam. This policy does not apply if you did
+not take the homework quiz, however.
 
 
 ## Grading
 
 You will be graded on the following:
-* 10% homework completion
+* 10% homework completion (lowest score dropped)
 * 30% homework quizzes (lowest score dropped)
 * 40% exams: midterm 1 (10%), midterm 2 (10%), cumulative final (20%)
 * 20% participation
