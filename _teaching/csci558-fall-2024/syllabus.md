@@ -17,10 +17,10 @@ Schedule subject to change. Lecture videos can be found in [this Panopto folder]
 |2 (9/2-9/6)|Hidden patterns in DNA|Motif finding||
 |3 (9/9-9/13)|Motif finding|Genome assembly||
 |4 (9/16-9/20)|Genome assembly|Genome assembly + group shopping|Groups form|
-|5 (9/23-9/27)|Sequence alignment|Sequence alignment|Proposal|
-|6 (9/30-10/4)|Additional topics in sequence alignment|HMMs and profile HMMS|
-|7 (10/7-10/11)|HMMs and profile HMMs|Possibly use lecture time for in-person check-ins|In-person check-in|
-|8 (10/14-10/18)|Evolutionary trees|Evolutionary trees|
+|5 (9/23-9/27)|More genome assembly|Sequence alignment||
+|6 (9/30-10/4)|Sequence alignment|HMMs and profile HMMS|Proposal|
+|7 (10/7-10/11)|HMMs and profile HMMs|HMMs and profile HMMs||
+|8 (10/14-10/18)|Evolutionary trees|Possibly use lecture time for in-person check-ins|In-person check-in|
 |9 (10/21-10/25)|Evolutionary trees|HPC and Hellgate|
 |10 (10/28-11/1)|HPC and Hellgate|Evolutionary trees|Progress report|
 |11 (11/4-11/8)|Read mapping|Read mapping|
