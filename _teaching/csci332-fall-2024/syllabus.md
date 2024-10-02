@@ -19,7 +19,7 @@ Schedule subject to change. Lecture videos in this [Panopto folder](https://umon
 |4 (9/16-9/20)|HW 3 ([pdf](https://lgw2.github.io/teaching/csci332-fall-2024/homework/Homework_3.pdf), [LaTeX source](https://www.overleaf.com/read/xpsfngmzyhkm#6eb814))|[Review](https://lgw2.github.io/teaching/csci332-fall-2024/lectures/exam_1_review.pdf)|Exam 1 [practice](https://lgw2.github.io/teaching/csci332-fall-2024/quizzes/prac_exam1.pdf)||
 |5 (9/23-9/27)|none|[More graph algorithms](https://lgw2.github.io/teaching/csci332-fall-2024/lectures/topo_order.pdf)|[Proofs about graphs by induction](https://lgw2.github.io/teaching/csci332-fall-2024/lectures/induction.pdf)|3|
 |6 (9/30-10/4)|HW 4 ([pdf](https://lgw2.github.io/teaching/csci332-fall-2024/homework/Homework_4.pdf), [LaTeX source](https://www.overleaf.com/read/dkxwtnrtjjvw#5f5a96))|[Some more graphs](https://lgw2.github.io/teaching/csci332-fall-2024/lectures/graphs_3.pdf); [Greedy algorithms](https://lgw2.github.io/teaching/csci332-fall-2024/lectures/greedy_1.pdf)|Greedy algorithms|4|
-|7 (10/7-10/11)|HW 5|Divide and conquer|Divide and conquer|5|
+|7 (10/7-10/11)|HW 5|Greedy algorithms|Divide and conquer|5|
 |8 (10/14-10/18)|HW 6|More divide and conquer|More divide and conquer|5|
 |9 (10/21-10/25)|HW 7|Dynamic programming|Dynamic programming|6|
 |10 (10/28-11/1)|HW 8|Dynamic programming|Dynamic programming|6|
