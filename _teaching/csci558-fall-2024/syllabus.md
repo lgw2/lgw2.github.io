@@ -24,7 +24,7 @@ Schedule subject to change. Lecture videos can be found in [this Panopto folder]
 |9 (10/21-10/25)|Evolutionary trees|HPC and Hellgate|
 |10 (10/28-11/1)|HPC and Hellgate|Evolutionary trees|Progress report; 558 students project extension proposals|
 |11 (11/4-11/8)|Read mapping|Read mapping|
-|12 (11/11-11/15)|Read mapping|No class-project work day|
+|12 (11/11-11/15)|Read mapping|No class|
 |13 (11/18-11/22)|Read mapping|No class--we will have in-person check ins|In-person check-in|
 |14 (11/26-11/29)|Project presentations|No class-Happy Thanksgiving|
 |15 (12/2-12/6)|Project presentations|Review|
