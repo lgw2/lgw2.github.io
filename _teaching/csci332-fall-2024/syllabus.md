@@ -191,8 +191,8 @@ source. Some examples of resources you might use:
 * ChatGPT or other AI tools
 
 The only resources you may use without citation are our course textbook,
-Algorithm Design by Kleinberg and Tardos, our posted lecture slides, and our
-in-class or Discord discussions. For this reason, you will likely need
+Algorithm Design by Kleinberg and Tardos, our posted lecture slides, our
+in-class or Discord discussions, and office hours discussions. For this reason, you will likely need
 citations on most of your homework assignments.
 
 Please ask if you have questions about how to properly cite a source or a
