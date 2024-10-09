@@ -24,8 +24,8 @@ Schedule subject to change. Lecture videos in this [Panopto folder](https://umon
 |9 (10/21-10/25)|HW 7|Divide and conquer|No class|6|
 |10 (10/28-11/1)|HW 8|Dynamic programming|Dynamic programming|6|
 |11 (11/4-11/8)|HW 9|Dynamic programming|Dynamic programming||
-|12 (11/11-11/15)|none|Review|Exam (note the new date!)|7|
-|13 (11/18-11/22)|HW 10|Network flow|Network flow|7|
+|12 (11/11-11/15)|HW 10|Review|Exam (note the new date!)||
+|13 (11/18-11/22)|none|Network flow|Network flow|7|
 |14 (11/25-11/29)|HW 11|P vs NP|No class-Happy Thanksgiving|8|
 |15 (12/2-12/6)|HW 12|Intractability|Review|8|
 |Finals week (12/9-12/13)|note: final is 10:10-12:10 on Wednesday, December 11 in lecture classroom| | |
