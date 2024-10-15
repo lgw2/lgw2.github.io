@@ -28,7 +28,7 @@ Schedule subject to change. Lecture videos can be found in [this Panopto folder]
 |13 (11/18-11/22)|Read mapping|No class--we will have in-person check ins|In-person check-in|
 |14 (11/26-11/29)|Project presentations|No class-Happy Thanksgiving|
 |15 (12/2-12/6)|Project presentations|Review|
-|Finals week (12/9-12/13)|note: final is 10:10-12:10 on Friday, December 13||Writeup|
+|Finals week (12/9-12/13)|No final!||Writeup|
 
 ## Catalog description
 
