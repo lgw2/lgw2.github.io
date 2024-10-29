@@ -23,7 +23,7 @@ Schedule subject to change. Lecture videos in this [Panopto folder](https://umon
 |8 (10/14-10/18)|HW 6 ([pdf](https://lgw2.github.io/teaching/csci332-fall-2024/homework/Homework_6.pdf), [LaTeX source](https://www.overleaf.com/read/jjwmwhngvkkt#fd6815))|[Divide and conquer](https://lgw2.github.io/teaching/csci332-fall-2024/lectures/divide_and_conquer_1.pdf)|[More divide and conquer](https://lgw2.github.io/teaching/csci332-fall-2024/lectures/divide_and_conquer_2.pdf)|5.1, 5.2|
 |9 (10/21-10/25)|HW 7 ([pdf](https://lgw2.github.io/teaching/csci332-fall-2024/homework/Homework_7.pdf), [LaTeX source](https://www.overleaf.com/read/rxystfqbbrfc#900191))|[Divide and conquer](https://lgw2.github.io/teaching/csci332-fall-2024/lectures/divide_and_conquer_3.pdf)|No class|5.3|
 |10 (10/28-11/1)|HW 8 ([pdf](https://lgw2.github.io/teaching/csci332-fall-2024/homework/Homework_8.pdf), [LaTeX source](https://www.overleaf.com/read/mnzrzkwngygk#2bb43b))|[Dynamic programming](https://lgw2.github.io/teaching/csci332-fall-2024/lectures/dynamic_programming_1.pdf)|Dynamic programming|6.1|
-|11 (11/4-11/8)|HW 9|Dynamic programming|Dynamic programming||
+|11 (11/4-11/8)|HW 9 ([pdf](https://lgw2.github.io/teaching/csci332-fall-2024/homework/Homework_9.pdf), [LaTeX source](https://www.overleaf.com/read/jkdkqwnmcyjz#a68dfa))|Dynamic programming|Dynamic programming||
 |12 (11/11-11/15)|HW 10|Review|Exam (note the new date!)||
 |13 (11/18-11/22)|none|Network flow|Network flow|7|
 |14 (11/25-11/29)|HW 11|P vs NP|No class-Happy Thanksgiving|8|
