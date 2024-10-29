@@ -94,8 +94,8 @@ You will be graded on the following:
 * Pre-class assignments: 20%
 * In-class worksheets: 10%
 * Quizzes: 15%
-* Final exam: 15%
 * Final project: 30%
+* Hellgate portion of final project: 15%
 
 This accounts for 90% of your grade. For students enrolled in 451, the remaining
 10% will come from attending lectures (one lecture missed automatically
@@ -125,6 +125,5 @@ semester.
 ### Collaboration policy
 
 Collaboration will be an important part of this course, including the use of
-outside resources such as web search and the use of generative AI tools. In the
-first week, we will come up with course policies regarding collaboration and
-the use of outside resources.
+outside resources such as web search and the use of generative AI tools. We
+will discuss the use of AI tools during class.
