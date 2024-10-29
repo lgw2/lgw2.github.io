@@ -23,7 +23,7 @@ Schedule subject to change. Lecture videos can be found in [this Panopto folder]
 |8 (10/14-10/18)|HMMs and profile HMMs|No class--we will have in-person check ins|In-person check-in|
 |9 (10/21-10/25)|Evolutionary trees|HPC and Hellgate|
 |10 (10/28-11/1)|HPC and Hellgate|Project work day--no class|Progress report; 558 students project extension proposals|
-|11 (11/4-11/8)|Read mapping|Read mapping|
+|11 (11/4-11/8)|Evolutionary trees|Read mapping|
 |12 (11/11-11/15)|Read mapping|No class|
 |13 (11/18-11/22)|Read mapping|No class--we will have in-person check ins|In-person check-in|
 |14 (11/26-11/29)|Project presentations|No class-Happy Thanksgiving|
