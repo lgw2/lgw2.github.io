@@ -98,9 +98,7 @@ You will be graded on the following:
 * Hellgate portion of final project: 15%
 
 This accounts for 90% of your grade. For students enrolled in 451, the remaining
-10% will come from attending lectures (one lecture missed automatically
-dropped; after that, please let me know beforehand to have a lecture absence
-excused). For 558 students, it will come from
+10% will come from attending lectures. For 558 students, it will come from
 an individual additional component to the final group project.
 
 Your grade will be determined by your total score as follows:
@@ -126,4 +124,5 @@ semester.
 
 Collaboration will be an important part of this course, including the use of
 outside resources such as web search and the use of generative AI tools. We
-will discuss the use of AI tools during class.
+will discuss the use of AI tools during class.We will discuss the use of AI
+tools during class.
