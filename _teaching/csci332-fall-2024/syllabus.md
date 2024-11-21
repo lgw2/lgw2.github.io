@@ -25,8 +25,8 @@ Schedule subject to change. Lecture videos in this [Panopto folder](https://umon
 |10 (10/28-11/1)|HW 8 ([pdf](https://lgw2.github.io/teaching/csci332-fall-2024/homework/Homework_8.pdf), [LaTeX source](https://www.overleaf.com/read/mnzrzkwngygk#2bb43b))|[Dynamic programming](https://lgw2.github.io/teaching/csci332-fall-2024/lectures/dynamic_programming_1.pdf)|[Dynamic programming](https://lgw2.github.io/teaching/csci332-fall-2024/lectures/dynamic_programming_2.pdf)|6.1|
 |11 (11/4-11/8)|HW 9 ([pdf](https://lgw2.github.io/teaching/csci332-fall-2024/homework/Homework_9.pdf), [LaTeX source](https://www.overleaf.com/read/jkdkqwnmcyjz#a68dfa))|[Dynamic programming](https://lgw2.github.io/teaching/csci332-fall-2024/lectures/dynamic_programming_3.pdf)|[Dynamic programming](https://lgw2.github.io/teaching/csci332-fall-2024/lectures/dynamic_programming_4.pdf)||
 |12 (11/11-11/15)|HW 10 ([pdf](https://lgw2.github.io/teaching/csci332-fall-2024/homework/Homework_10.pdf), [LaTeX source](https://www.overleaf.com/read/ddmcstrhhnxp#41027d))|Review|Exam [practice 1](https://lgw2.github.io/teaching/csci332-fall-2024/quizzes/exam_2_prac_1.pdf) [practice 2](https://lgw2.github.io/teaching/csci332-fall-2024/quizzes/exam_2_prac_2.pdf) [exam 2](https://lgw2.github.io/teaching/csci332-fall-2024/quizzes/exam_2.pdf)||
-|13 (11/18-11/22)|none|Go over exam 2|Challenge problems|7|
-|14 (11/25-11/29)|none|Challenge problems|No class-Happy Thanksgiving|8|
+|13 (11/18-11/22)|none|Go over exam 2|[2D Closest Points](https://lgw2.github.io/teaching/csci332-fall-2024/lectures/2d_closest_points.pdf)|5.4|
+|14 (11/25-11/29)|none|Challenge problems|No class-Happy Thanksgiving||
 |15 (12/2-12/6)|HW 11|Challenge problems|Review|8|
 |Finals week (12/9-12/13)|note: final is 10:10-12:10 on Wednesday, December 11 in lecture classroom| | |
 
