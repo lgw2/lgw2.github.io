@@ -8,7 +8,7 @@ redirect_from:
 
 I am an assistant professor in computer science at the University of Montana
 in Missoula, Montana. You can reach me at lucia.williams (at)
-umontana.edu.
+umt.edu.
 
 In spring 2024, I am teaching CSCI 432/532.
 See my [teaching page](https://lgw2.github.io/teaching/) for all of my
