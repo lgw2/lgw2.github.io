@@ -11,12 +11,12 @@ location: "Missoula, Montana"
 
 Schedule subject to change. Lecture videos in this [Panopto folder](). Credit for the CS Theory lecture notes and problem session questions/solutions to [Jeff Erickson](https://jeffe.cs.illinois.edu/).
 
-| Week | Sunday (PL HW due) | Monday (lecture); HW due | Tuesday | Wednesday (lecture) | Thursday | Friday (lecture) |
+| Week |Due this week| Monday (lecture) | Tuesday | Wednesday (lecture) | Thursday | Friday (lecture) |
 |:---|:---|:---|:---|:---|:---|:---|
-| 1 (1/13-1/17) |   |   |   |   |   |   |
-| 2 (1/20-1/24) |   |   |   |   |   |   |
-| 3 (1/27-1/31) |   |   |   |   |   |   |
-| 4 (2/3-2/7)   |   |   |   |   |   |   |
+| 1 (1/13-1/17) |   |   |   |   |   |Intro; recursively defined structures|
+| 2 (1/20-1/24) |PL HW 0|MLK Day--no class|   |Recursively defined structures|   |Languages and regular expressions|
+| 3 (1/27-1/31) |PL HW 1; written HW 1|DFAs|   |DFAs|   |Equivalence of regular and non-regular languages|
+| 4 (2/3-2/7)   |PL HW 2; written HW 2|   |   |   |   |   |
 | 5 (2/10-2/14) |   |   |   |   |   |   |
 | 6 (2/17-2/21) |   |   |   |   |   |   |
 | 7 (2/24-2/28) |   |   |   |   |   |   |
