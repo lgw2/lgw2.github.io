@@ -9,7 +9,7 @@ location: "Missoula, Montana"
 
 ## Course schedule
 
-Schedule subject to change. Lecture videos in this [Panopto folder](). Credit for the CS Theory lecture notes and problem session questions/solutions to [Jeff Erickson](https://jeffe.cs.illinois.edu/).
+Schedule subject to change. Lecture videos in this [Panopto folder](https://umontana.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=1b4846cf-0682-498e-8061-b2630186da54). Credit for the CS Theory lecture notes and problem session questions/solutions to [Jeff Erickson](https://jeffe.cs.illinois.edu/).
 
 | Week |Due this week| Monday (lecture) | Tuesday | Wednesday (lecture) | Thursday | Friday (lecture) |
 |:---|:---|:---|:---|:---|:---|:---|
@@ -55,17 +55,12 @@ lot out of the course.
 
 ## Course resources
 
-### Paper/chapter presentation and writeup rubrics
-
-In the second half of the class, on Thursdays we will learn a new advanced algorithm topic and on Tuesdays a group will
-lead a presentation of a book chapter or research paper related to that topic. Presenters should follow [these instructions](https://lgw2.github.io/teaching/cscix32-spring-2024/paper_presentations/). On days that
-a student is not a presenter, they must submit a paper/chapter summary to Gradescope according to [these instructions](https://lgw2.github.io/teaching/cscix32-spring-2024/paper_writeups/).
-
 ### Canvas
 
 We will use Canvas for course announcements and for homework submission.
 Otherwise, all course information will be on this webpage, and any questions
-about course logistics or content should be asked via Discord.
+about course logistics or content should be asked via Discord. You can find the
+invite to join the Discord on Canvas.
 
 ### Group problem sessions
 
@@ -74,17 +69,31 @@ computer science theory. The best way to understand these concepts is through
 practice and discussion. In order to provide you as much support as possible,
 I will schedule and lead two weekly problem sessions where we will work through
 problems that are similar to the homework that you turn in every Monday. These
-are not required, but you can earn some participation points by attending, and
+are not strictly required, but you can earn some participation points by attending, and
 if you attend these problem sessions the homework should be much easier to
 complete. Solutions will be shared after the problem sessions
 are completed.
 
+Please fill out this poll during the first week of class to help schedule
+problem sessions: http://whenisgood.net/ayijc9tA.
+
 ### Textbook
 
-There is no textbook for this course; notes from various sources will be shared
+There is no required textbook for this course; notes from various sources will be shared
 as needed. However, there are a number of popular textbooks in this field, many
 of which are available for free online. I will link textbook-style resources
-here as we go.
+here as we go. Everything here is available online for free.
+
+* [Jeff Erickson's Algorithms Notes](http://jeffe.cs.illinois.edu/teaching/algorithms/). We follow the
+*Models of Computation* notes at the bottom of the page in the first half of this class.
+* [Avi Wigderson's *Mathematics and Computations](https://www.math.ias.edu/avi/bookA). Avi is one of the most
+prolific computer science theorists of the modern age. He won the ACM Turing
+award in 2023. His book offers a broad perspective on computer science theory
+and has inspired some changes to our course for 2025.
+* [Sipser's *Introduction to the Theory of Computation](https://www.cengage.com/c/student/9781133187790/?filterBy=Student). *The* textbook on
+    computer science theory, used in many computer science courses. Not
+    officially available for free, but I bet you can figure out how to find a
+    pdf online.
 
 ### Lecture videos
 
