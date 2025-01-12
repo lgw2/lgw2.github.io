@@ -13,13 +13,13 @@ Schedule subject to change. Lecture videos in this [Panopto folder](). Credit fo
 
 | Week |Due this week| Monday (lecture) | Tuesday | Wednesday (lecture) | Thursday | Friday (lecture) |
 |:---|:---|:---|:---|:---|:---|:---|
-| 1 (1/13-1/17) |   |   |   |   |   |Intro; recursively defined structures|
+| 1 (1/13-1/17) |   |   |   |   |   |Intro|
 | 2 (1/20-1/24) |PL HW 0|MLK Day--no class|   |Recursively defined structures|   |Languages and regular expressions|
-| 3 (1/27-1/31) |PL HW 1; written HW 1|DFAs|   |DFAs|   |Equivalence of regular and non-regular languages|
-| 4 (2/3-2/7)   |PL HW 2; written HW 2|   |   |   |   |   |
+| 3 (1/27-1/31) |PL HW 1; written HW 1|DFAs|   |DFAs|   |Regular and non-regular languages|
+| 4 (2/3-2/7)   |PL HW 2; written HW 2|NFAs|   |Context-free grammars|   |   |
 | 5 (2/10-2/14) |   |   |   |   |   |   |
-| 6 (2/17-2/21) |   |   |   |   |   |   |
-| 7 (2/24-2/28) |   |   |   |   |   |   |
+| 6 (2/17-2/21) ||President's day--no class|   |   |   |P vs. NP|
+| 7 (2/24-2/28) ||NP-hardness reductions|   |Even more NP-hardness reductions|   |Lucy gone|
 | 8 (3/3-3/7)   |   |   |   |   |   |   |
 | 9 (3/10-3/14) |   |   |   |   |   |   |
 | Spring Break (3/17-3/21) | |  |  |  |  |  |
