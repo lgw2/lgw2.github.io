@@ -75,7 +75,7 @@ complete. Solutions will be shared after the problem sessions
 are completed.
 
 Please fill out this poll during the first week of class to help schedule
-problem sessions: http://whenisgood.net/ayijc9tA.
+problem sessions: [http://whenisgood.net/ayijc9tA].
 
 ### Textbook
 
@@ -90,7 +90,7 @@ here as we go. Everything here is available online for free.
 prolific computer science theorists of the modern age. He won the ACM Turing
 award in 2023. His book offers a broad perspective on computer science theory
 and has inspired some changes to our course for 2025.
-* [Sipser's *Introduction to the Theory of Computation](https://www.cengage.com/c/student/9781133187790/?filterBy=Student). *The* textbook on
+* [Sipser's *Introduction to the Theory of Computation*](https://www.cengage.com/c/student/9781133187790/?filterBy=Student). *The* textbook on
     computer science theory, used in many computer science courses. Not
     officially available for free, but I bet you can figure out how to find a
     pdf online.
