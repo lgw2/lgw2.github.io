@@ -100,7 +100,7 @@ and has inspired some changes to our course for 2025.
 Lectures will be recorded and available to watch after class. However, if there are
 technical difficulties recording a lecture, it will not be re-recorded, so come
 to class when you can to make sure that you do not miss course content or
-announcements. Videos can be found in the [Panopto folder](https://umontana.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=dcf4e4db-c07c-4d77-9063-b0f10157fd5d).
+announcements. Videos can be found in the [Panopto folder](https://umontana.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=1b4846cf-0682-498e-8061-b2630186da54).
 
 ## Grading
 
