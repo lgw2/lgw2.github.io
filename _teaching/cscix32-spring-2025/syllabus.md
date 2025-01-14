@@ -86,7 +86,7 @@ here as we go. Everything here is available online for free.
 
 * [Jeff Erickson's Algorithms Notes](http://jeffe.cs.illinois.edu/teaching/algorithms/). We follow the
 *Models of Computation* notes at the bottom of the page in the first half of this class.
-* [Avi Wigderson's *Mathematics and Computations](https://www.math.ias.edu/avi/bookA). Avi is one of the most
+* [Avi Wigderson's *Mathematics and Computation*](https://www.math.ias.edu/avi/bookA). Avi is one of the most
 prolific computer science theorists of the modern age. He won the ACM Turing
 award in 2023. His book offers a broad perspective on computer science theory
 and has inspired some changes to our course for 2025.
@@ -101,6 +101,18 @@ Lectures will be recorded and available to watch after class. However, if there 
 technical difficulties recording a lecture, it will not be re-recorded, so come
 to class when you can to make sure that you do not miss course content or
 announcements. Videos can be found in the [Panopto folder](https://umontana.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=1b4846cf-0682-498e-8061-b2630186da54).
+
+### Guided problem sets
+
+Part of your homework grade (at least for the first half of the class) will
+come from auto-graded "guided" problem sets. By completing this assignments
+*before* attempting the written homework, you can get feedback about whether
+you are understanding what we are looking for in the homework. You can access
+the guided problem sets [here](https://us.prairielearn.com/pl/course_instance/174094). You
+should select either the "Sign in with Google" or the "Sign in with Microsoft"
+option. You can log in
+with any Google or Microsoft email account; your UM emai will work as a
+Microsoft account if you prefer.
 
 ## Grading
 
