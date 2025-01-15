@@ -37,7 +37,7 @@ will have two leaders, who will lead two weeks of discussion of the paper.
 | 4 (2/3-2/7)   |Paper 1|
 | 5 (2/10-2/14) |Paper 2|
 | 6 (2/17-2/21) |Paper 2|
-| 7 (2/24-2/28) |Lucy gone end of week--maybe no meeting|
+| 7 (2/24-2/28) |INBRE Regional Meeting and SIGCSE; no meeting|
 | 8 (3/3-3/7)   |Paper 3|
 | 9 (3/10-3/14) |Paper 3|
 | Spring Break (3/17-3/21) ||
