@@ -30,6 +30,19 @@ will have two leaders, who will lead two weeks of discussion of the paper.
     information you think will be helpful for the rest of the group to prepare
     to have a productive discussion.
 
+## If you are not a discussion leader
+
+* Spend 1-2 hours prepping for each meeting, focusing on the sections that the
+    discussion leaders posted about in Discord. This often looks like skimming the
+    paper, trying to understand the big picture at least, and only looking at
+    details if you have time. You may also find other resources to help you
+    understand the paper, such as author talks, explanation of topics you are
+    unfamiliar with, or other related academic papers. If you find resources others might find
+    helpful, feel free to post them in Discord!
+* During the meeting, stay engaged with the discussion leaders and the group.
+    Ask questions, share your thoughts or critiques of the paper, etc.
+* After
+
 ## Spring 2025 schedule
 
 
