@@ -23,8 +23,12 @@ will have two leaders, who will lead two weeks of discussion of the paper.
 
 ### If you are a discussion leader
 
-* Plan to meet with your partner at least once to plan how you will lead
+* Meet with your partner at least once to plan how you will lead
     discussion.
+* A few days before your the meeting, send a message in Discord saying which
+    parts of the paper you will be focusing on and sharing any other
+    information you think will be helpful for the rest of the group to prepare
+    to have a productive discussion.
 
 ## Spring 2025 schedule
 
