@@ -48,7 +48,7 @@ will have two leaders, who will lead two weeks of discussion of the paper.
 
 | Week |paper |
 |:---|:---|
-| 1 (1/13-1/17) |Intro--no paper|
+| 1 (1/13-1/17) |Intro--meeting but no paper|
 | 2 (1/20-1/24) |Sign up for papers--no meeting|
 | 3 (1/27-1/31) |Paper 1|
 | 4 (2/3-2/7)   |Paper 1|
