@@ -19,7 +19,12 @@ Our seminar has a number of goals. These may change as we go!
 ## How it works
 
 Every semester, we will choose a set of papers to read as a group. Each paper
-will have two leaders, who will lead 1-2 days of discussion of the paper.
+will have two leaders, who will lead two weeks of discussion of the paper.
+
+### If you are a discussion leader
+
+* Plan to meet with your partner at least once to plan how you will lead
+    discussion.
 
 ## Spring 2025 schedule
 
@@ -29,16 +34,16 @@ will have two leaders, who will lead 1-2 days of discussion of the paper.
 | 1 (1/13-1/17) |Intro--no paper|
 | 2 (1/20-1/24) |Sign up for papers--no meeting|
 | 3 (1/27-1/31) |Paper 1|
-| 4 (2/3-2/7)   ||
-| 5 (2/10-2/14) ||
-| 6 (2/17-2/21) ||
-| 7 (2/24-2/28) ||
-| 8 (3/3-3/7)   ||
-| 9 (3/10-3/14) ||
+| 4 (2/3-2/7)   |Paper 1|
+| 5 (2/10-2/14) |Paper 2|
+| 6 (2/17-2/21) |Paper 2|
+| 7 (2/24-2/28) |Lucy gone end of week--maybe no meeting|
+| 8 (3/3-3/7)   |Paper 3|
+| 9 (3/10-3/14) |Paper 3|
 | Spring Break (3/17-3/21) ||
-| 10 (3/24-3/28) ||
-| 11 (3/31-4/4)  ||
-| 12 (4/7-4/11)  ||
-| 13 (4/14-4/18) ||
-| 14 (4/21-4/25) ||
-| 15 (4/28-5/2)  ||
+| 10 (3/24-3/28) |Paper 4|
+| 11 (3/31-4/4)  |Paper 4|
+| 12 (4/7-4/11)  |Paper 5|
+| 13 (4/14-4/18) |Paper 5|
+| 14 (4/21-4/25) |Paper 6|
+| 15 (4/28-5/2)  |Paper 6|
