@@ -26,7 +26,7 @@ Every semester, we will choose a set of papers to read as a group.
 | Week |paper |
 |:---|:---|
 | 1 (1/13-1/17) |Intro--no paper|
-| 2 (1/20-1/24) ||
+| 2 (1/20-1/24) |Sign up for papers--no meeting|
 | 3 (1/27-1/31) ||
 | 4 (2/3-2/7)   ||
 | 5 (2/10-2/14) ||
