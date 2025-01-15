@@ -44,7 +44,7 @@ will have two leaders, who will lead two weeks of discussion of the paper.
 | 7 (2/24-2/28) |INBRE Regional Meeting and SIGCSE--no meeting|
 | 8 (3/3-3/7)   |Paper 3|
 | 9 (3/10-3/14) |Paper 3|
-| Spring Break (3/17-3/21) ||
+| Spring break (3/17-3/21) |No meeting!|
 | 10 (3/24-3/28) |Paper 4|
 | 11 (3/31-4/4)  |Paper 4|
 | 12 (4/7-4/11)  |Paper 5|
