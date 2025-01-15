@@ -79,8 +79,8 @@ problem sessions: <http://whenisgood.net/ayijc9tA>.
 
 ### Textbook
 
-There is no required textbook for this course; notes from various sources will be shared
-as needed. However, there are a number of popular textbooks in this field, many
+There is no required textbook for this course; notes from various sources will be on the schedule above for each lecture as needed.
+However, there are a number of popular textbooks in this field, many
 of which are available for free online. I will link textbook-style resources
 here as we go. Everything here is available online for free.
 
