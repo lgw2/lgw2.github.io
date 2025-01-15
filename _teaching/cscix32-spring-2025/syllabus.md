@@ -75,7 +75,7 @@ complete. Solutions will be shared after the problem sessions
 are completed.
 
 Please fill out this poll during the first week of class to help schedule
-problem sessions: [http://whenisgood.net/ayijc9tA].
+problem sessions: <http://whenisgood.net/ayijc9tA>.
 
 ### Textbook
 
