@@ -20,7 +20,7 @@ Our seminar has a number of goals. These may change as we go!
 
 Every semester, we will choose a set of papers to read as a group.
 
-## Schedule
+## Spring 2025 schedule
 
 
 | Week |paper |
