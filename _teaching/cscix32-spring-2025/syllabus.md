@@ -9,12 +9,12 @@ location: "Missoula, Montana"
 
 ## Course schedule
 
-Schedule subject to change. Lecture videos in this [Panopto folder](https://umontana.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=1b4846cf-0682-498e-8061-b2630186da54). Credit for the CS Theory lecture notes and problem session questions/solutions to [Jeff Erickson](https://jeffe.cs.illinois.edu/).
+Schedule subject to change. Lecture videos in this [Panopto folder](https://umontana.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=1b4846cf-0682-498e-8061-b2630186da54). Credit for the CS Theory lecture notes and problem session questions/solutions to [Jeff Erickson](https://jeffe.cs.illinois.edu/). If you'd like to check out last year's version of the class to see how things might go, go [here](https://lgw2.github.io/teaching/cscix32-spring-2024/syllabus/).
 
 | Week |Due this week| Monday (lecture) | Tuesday | Wednesday (lecture) | Thursday | Friday (lecture) |
 |:---|:---|:---|:---|:---|:---|:---|
 | 1 (1/13-1/17) |   |   |   |   |   |Intro|
-| 2 (1/20-1/24) |PL HW 0|MLK Day--no class|   |[Recursively defined structures](https://lgw2.github.io/teaching/cscix32-spring-2025/lectures/01-strings.pdf);|   |[Languages and regular expressions](https://lgw2.github.io/teaching/cscix32-spring-2025/lectures/02-regular.pdf);|
+| 2 (1/20-1/24) |PL HW 0|MLK Day--no class|   |[Recursively defined structures](https://lgw2.github.io/teaching/cscix32-spring-2025/lectures/01-strings.pdf)|   |[Languages and regular expressions](https://lgw2.github.io/teaching/cscix32-spring-2025/lectures/02-regular.pdf)|
 | 3 (1/27-1/31) |PL HW 1; written HW 1|DFAs|   |DFAs|   |Regular and non-regular languages|
 | 4 (2/3-2/7)   |PL HW 2; written HW 2|NFAs|   |Context-free grammars| |Turing machines|
 | 5 (2/10-2/14) |PL HW 3; written HW 3|Turing machines|   |Undecidability|   |Undecidability|
