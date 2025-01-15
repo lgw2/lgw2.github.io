@@ -23,16 +23,25 @@ will have two leaders, who will lead two weeks of discussion of the paper.
 
 ### If you are a discussion leader
 
+* Get started early! Research papers are dense and you will need to gain a
+    solid understanding of at least the basics of the paper in order to lead
+    discussion. I suggest skimming the paper two weeks in advance at least.
+* Leading discussion can look different for different groups and different
+    papers. However you choose to do it, be sure to explain the big picture of
+    the paper (what problem is it solving? why was the problem previously
+    unsolved? what allowed them to solve the problem? why do we care?) and give
+    lots of opportunity for interaction and discussion.
 * Meet with your partner at least once to plan how you will lead
     discussion.
-* A few days before your the meeting, send a message in Discord saying which
+* A few days before the meeting, send a message in Discord saying which
     parts of the paper you will be focusing on and sharing any other
     information you think will be helpful for the rest of the group to prepare
     to have a productive discussion.
 
 ## If you are not a discussion leader
 
-* Spend 1-2 hours prepping for each meeting, focusing on the sections that the
+* Spend 1-2 hours prepping for each meeting, focusing on the sections of the
+    paper that the
     discussion leaders posted about in Discord. This often looks like skimming the
     paper, trying to understand the big picture at least, and only looking at
     details if you have time. You may also find other resources to help you
@@ -41,7 +50,9 @@ will have two leaders, who will lead two weeks of discussion of the paper.
     helpful, feel free to post them in Discord!
 * During the meeting, stay engaged with the discussion leaders and the group.
     Ask questions, share your thoughts or critiques of the paper, etc.
-* After
+* After the meeting, share (1) something you thought the discussion leaders did
+    well and (2) something you are still confused about or would like to learn
+    more about regarding the paper.
 
 ## Spring 2025 schedule
 
