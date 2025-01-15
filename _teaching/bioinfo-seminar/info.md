@@ -1,5 +1,5 @@
 ---
-title: "CSCI 491/591: Bioinformatics Seminar"
+title: "CSCI 494/594: Bioinformatics Seminar"
 collection: teaching
 type: "Undergraduate course"
 venue: "University of Montana, Computer Science"
@@ -18,7 +18,8 @@ Our seminar has a number of goals. These may change as we go!
 
 ## How it works
 
-Every semester, we will choose a set of papers to read as a group.
+Every semester, we will choose a set of papers to read as a group. Each paper
+will have two leaders, who will lead 1-2 days of discussion of the paper.
 
 ## Spring 2025 schedule
 
@@ -27,7 +28,7 @@ Every semester, we will choose a set of papers to read as a group.
 |:---|:---|
 | 1 (1/13-1/17) |Intro--no paper|
 | 2 (1/20-1/24) |Sign up for papers--no meeting|
-| 3 (1/27-1/31) ||
+| 3 (1/27-1/31) |Paper 1|
 | 4 (2/3-2/7)   ||
 | 5 (2/10-2/14) ||
 | 6 (2/17-2/21) ||
