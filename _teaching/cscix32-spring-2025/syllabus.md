@@ -85,7 +85,7 @@ of which are available for free online.
 
 * [Jeff Erickson's Algorithms Notes](http://jeffe.cs.illinois.edu/teaching/algorithms/). We follow the
 *Models of Computation* notes at the bottom of the page in the first half of this class.
-* [Avi Wigderson's *Mathematics and Computation*](https://www.math.ias.edu/avi/bookA). Avi is one of the most
+* [Avi Wigderson's *Mathematics and Computation*](https://www.math.ias.edu/avi/book). Avi is one of the most
 prolific computer science theorists of the modern age. He won the ACM Turing
 award in 2023. His book offers a broad perspective on computer science theory
 and has inspired some changes to our course for 2025.
