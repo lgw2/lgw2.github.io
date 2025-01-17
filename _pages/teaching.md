@@ -23,6 +23,7 @@ Taught in:
 Description from course catalog: *Advanced algorithm and data structure concepts, including theory, approximation algorithms, randomized algorithms, parallel algorithms, streaming algorithms, linear programming.*
 
 Taught in:
+* [spring 2025](https://lgw2.github.io/teaching/cscix32-spring-2025/syllabus/)
 * [spring 2024](https://lgw2.github.io/teaching/cscix32-spring-2024/syllabus/)
 
 ## CSCI 246: Discrete Structures
