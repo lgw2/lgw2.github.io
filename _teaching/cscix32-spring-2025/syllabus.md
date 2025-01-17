@@ -62,20 +62,22 @@ Otherwise, all course information will be on this webpage, and any questions
 about course logistics or content should be asked via Discord. You can find the
 invite to join the Discord on Canvas.
 
-### Group problem sessions
+### Group problem solving sessions
 
 In the first half of the course, we will be working through concepts in
 computer science theory. The best way to understand these concepts is through
 practice and discussion. In order to provide you as much support as possible,
 I will schedule and lead two weekly problem sessions where we will work through
 problems that are similar to the homework that you turn in every Monday. These
-are not strictly required, but you can earn some participation points by attending, and
+are not strictly required, but you earn some participation points by attending, and
 if you attend these problem sessions the homework should be much easier to
 complete. Solutions will be shared after the problem sessions
-are completed.
+are completed. The problem session for Monday's lecture will be scheduled
+outside of class, and the problem session for Wednesday's lecture will be held
+during the Friday lecture time.
 
 Please fill out this poll during the first week of class to help schedule
-problem sessions: <http://whenisgood.net/ayijc9tA>.
+the problem session for Monday lecture: <http://whenisgood.net/ayijc9tA>.
 
 ### Textbook
 
