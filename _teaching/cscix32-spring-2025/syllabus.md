@@ -77,7 +77,7 @@ outside of class, and the problem session for Wednesday's lecture will be held
 during the Friday lecture time.
 
 Please fill out this poll during the first week of class to help schedule
-the problem session for Monday lecture: <http://whenisgood.net/ayijc9tA>.
+the problem session for Monday lecture: <https://whenisgood.net/ayijc9t>.
 
 ### Textbook
 
