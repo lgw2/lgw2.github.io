@@ -61,9 +61,9 @@ will have two leaders, who will lead two weeks of discussion of the paper.
 |:---|:---|
 | 1 (1/13-1/17) |Intro--meeting but no paper|
 | 2 (1/20-1/24) |Sign up for papers--no meeting|
-| 3 (1/27-1/31) |Paper 1|
+| 3 (1/27-1/31) |Paper 1 (Tara and McKayl)|
 | 4 (2/3-2/7)   |Paper 1|
-| 5 (2/10-2/14) |Paper 2|
+| 5 (2/10-2/14) |Paper 2 (Afra and Jacob)|
 | 6 (2/17-2/21) |Paper 2|
 | 7 (2/24-2/28) |INBRE Regional Meeting and SIGCSE--no meeting|
 | 8 (3/3-3/7)   |Paper 3|
