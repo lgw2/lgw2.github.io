@@ -14,8 +14,8 @@ Schedule subject to change. Lecture videos in this [Panopto folder](https://umon
 | Week |Due this week| Monday (lecture) | Tuesday | Wednesday (lecture) | Thursday | Friday (lecture) |
 |:---|:---|:---|:---|:---|:---|:---|
 | 1 (1/13-1/17) |   |   |   |   |   |Intro|
-| 2 (1/20-1/24) |PL HW 0 (by Tuesday); PL HW 1 part 1 (by Thursday) and part 2 (by Saturday)|MLK Day--no class|   |[Recursively defined structures](https://lgw2.github.io/teaching/cscix32-spring-2025/lectures/01-strings.pdf)|   |[Languages and regular expressions](https://lgw2.github.io/teaching/cscix32-spring-2025/lectures/02-regular.pdf)|
-| 3 (1/27-1/31) |Written HW 1 (by Monday)|DFAs|   |DFAs|   |Regular and non-regular languages|
+| 2 (1/20-1/24) |[PL HW 0](https://us.prairielearn.com/pl/course_instance/174094/assessment/2500493) (by Tuesday); [PL HW 1 part 1](https://us.prairielearn.com/pl/course_instance/174094/assessment/2497721) (by Thursday) and [part 2](https://us.prairielearn.com/pl/course_instance/174094/assessment/2501252) (by Saturday)|MLK Day--no class|   |[Recursively defined structures](https://lgw2.github.io/teaching/cscix32-spring-2025/lectures/01-strings.pdf)|   |[Languages and regular expressions](https://lgw2.github.io/teaching/cscix32-spring-2025/lectures/02-regular.pdf)|
+| 3 (1/27-1/31) |[Written HW 1](https://lgw2.github.io/teaching/cscix32-spring-2024/homework/Homework_1.pdf) (by Monday) + [LaTeX source](https://www.overleaf.com/read/jhsvmpxghwfs#2b7152) + [Solution template](https://www.overleaf.com/read/zdsbrqmvqgjh#bb4e31)|DFAs|   |DFAs|   |Regular and non-regular languages|
 | 4 (2/3-2/7)   |PL HW 2 and written HW 2 (by Monday)|NFAs|   |Context-free grammars| |Turing machines|
 | 5 (2/10-2/14) |PL HW 3; written HW 3 (by Monday)|Turing machines|   |Undecidability|   |Undecidability|
 | 6 (2/17-2/21) |PL HW 4; written HW 4 (by Monday)|President's day--no class|   |NP-hardness reductions|   |P vs. NP|
