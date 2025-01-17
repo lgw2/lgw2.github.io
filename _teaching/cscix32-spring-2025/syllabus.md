@@ -101,10 +101,16 @@ technical difficulties recording a lecture, it will not be re-recorded, so come
 to class when you can to make sure that you do not miss course content or
 announcements. Videos can be found in the [Panopto folder](https://umontana.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=1b4846cf-0682-498e-8061-b2630186da54).
 
-### Guided problem sets
+### PrairieLearn homework
 
 Part of your homework grade (at least for the first half of the class) will
-come from auto-graded "guided" problem sets. By completing this assignments
+come from auto-graded "guided" problem sets on a platform called PrairieLearn.
+You can try these problems as many times as you would like until you get the
+right answer, because they automatically generate new variations of the problem
+each time. For some assignments, you will need to complete multiple variations
+of the same problem to get full credit. Make sure you look at the "Total
+points" value on the right-hand side of the screen.
+By completing these assignments
 *before* attempting the written homework, you can get feedback about whether
 you are understanding what we are looking for in the homework. You can access
 the guided problem sets [here](https://us.prairielearn.com/pl/course_instance/174094). You
@@ -120,10 +126,10 @@ You will be graded on the following:
     problem sessions during the theory section; 5 points for feedback after presentations during algorithms section; 5 points for check-out activity during finals week TBD--note that
     this sums to more than 20, so you do not need to get all of the points to
     get full credit for this category)
-* 20% homework problems (during theory portion) (7 assignments; lowest score dropped)
-* 20% problem presentations (during theory portion) (each student participates in 3)
-* 20% paper presentations (during algorithms portion) (each student participates in two)
-* 20% paper summaries (during algorithms portion) (7 papers total; each student writes 5 paper summaries)
+* 20% prairie learn homework problems (during theory portion) (7 assignments)
+* 20% written homework problems (during theory portion) (6 assignments)
+* 20% paper presentations (during algorithms portion) (each student participates in approximately two)
+* 20% paper summaries and problem sets (during algorithms portion) (TBD)
 
 Note that there are *no tests!*
 
