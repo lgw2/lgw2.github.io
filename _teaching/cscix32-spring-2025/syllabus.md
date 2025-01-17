@@ -14,9 +14,9 @@ Schedule subject to change. Lecture videos in this [Panopto folder](https://umon
 | Week |Due this week| Monday (lecture) | Tuesday | Wednesday (lecture) | Thursday | Friday (lecture) |
 |:---|:---|:---|:---|:---|:---|:---|
 | 1 (1/13-1/17) |   |   |   |   |   |Intro|
-| 2 (1/20-1/24) |PL HW 0|MLK Day--no class|   |[Recursively defined structures](https://lgw2.github.io/teaching/cscix32-spring-2025/lectures/01-strings.pdf)|   |[Languages and regular expressions](https://lgw2.github.io/teaching/cscix32-spring-2025/lectures/02-regular.pdf)|
-| 3 (1/27-1/31) |PL HW 1; written HW 1|DFAs|   |DFAs|   |Regular and non-regular languages|
-| 4 (2/3-2/7)   |PL HW 2; written HW 2|NFAs|   |Context-free grammars| |Turing machines|
+| 2 (1/20-1/24) |PL HW 0 (by Tuesday); PL HW 1 part 1 (by Thursday) and part 2 (by Saturday)|MLK Day--no class|   |[Recursively defined structures](https://lgw2.github.io/teaching/cscix32-spring-2025/lectures/01-strings.pdf)|   |[Languages and regular expressions](https://lgw2.github.io/teaching/cscix32-spring-2025/lectures/02-regular.pdf)|
+| 3 (1/27-1/31) |Written HW 1 (by Monday)|DFAs|   |DFAs|   |Regular and non-regular languages|
+| 4 (2/3-2/7)   |PL HW 2 and written HW 2 (by Monday)|NFAs|   |Context-free grammars| |Turing machines|
 | 5 (2/10-2/14) |PL HW 3; written HW 3|Turing machines|   |Undecidability|   |Undecidability|
 | 6 (2/17-2/21) |PL HW 4; written HW 4|President's day--no class|   |NP-hardness reductions|   |P vs. NP|
 | 7 (2/24-2/28) |PL HW 5; written HW 5|NP-hardness reductions|   |Even more NP-hardness reductions|   |Lucy gone|
