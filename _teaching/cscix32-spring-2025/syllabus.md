@@ -121,6 +121,10 @@ option. You can log in
 with any Google or Microsoft email account; your UM emai will work as a
 Microsoft account if you prefer.
 
+### Office hours
+
+I have office hours on Mondays from 11-12 and Thursdays from 3:30-4:30 in my office, Social Sciences 420.
+
 ## Grading
 
 You will be graded on the following:
