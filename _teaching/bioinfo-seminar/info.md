@@ -61,9 +61,9 @@ will have two leaders, who will lead two weeks of discussion of the paper.
 |:---|:---|
 | 1 (1/13-1/17) |Intro--meeting but no paper|
 | 2 (1/20-1/24) |Sign up for papers--no meeting|
-| 3 (1/27-1/31) |Paper 1 (Tara and McKayl)|
+| 3 (1/27-1/31) |Paper 1--[BLAST](https://www.biostat.wisc.edu/bmi576/papers/blast.pdf) (Tara and McKayl)|
 | 4 (2/3-2/7)   |Paper 1|
-| 5 (2/10-2/14) |Paper 2 (Afra and Jacob)|
+| 5 (2/10-2/14) |Paper 2--[HMMER](https://watermark.silverchair.com/bioinformatics_14_9_755.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAA5cwggOTBgkqhkiG9w0BBwagggOEMIIDgAIBADCCA3kGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMmDLLY1Pf6dzCTNq7AgEQgIIDSqk9d9pjx974ovoSR3FdceJXodu3zOeeU7CvuM7MIuT4TelQRZ6xJkv4-DNUDDzs6j6nc7odORheSFrDV_kiZrSZfTZiksFl4ZmhhuxA65h-6t2S-L6VIrleHqwqTlMys2BIjEbuRwlCKOjY-ZMfHUlO5_0rz89AYtMh9CRxuJtU5-gMfMv6rYDy3oSZkHCt8dshvrbM0jwswtysxLNBfMMh8WkHbllocY6vbDD9FNTWNp3Iycosq5TPDY0HTKHmKJw6oS19R8yg6uKqAqFcnUMKtJcljEvjfai7m-Ezu80LTCfEwMXwDQzN2R-07rz1VcHEa_o2n8TgLVdT1wo6RmLC-0KoUmMdsV6qkjb1kJhlyJwiUEJpip4LkGR2iaHQWrb-DsfCjeWHXQ4PSmcqkKZkBmdCdv86Rkhi-fKgQFsEf08MRW9Zvd6SiqMrYA_plv4Fm95U0mmZrr3lLiCE1jZPesx93_DCxn1w1AWpfKIIykD-W4ophOpUo1wljvC3JIiUfy08nga1mo2KR4QGxGSnAqFuEZE2tuH4NepT6sAVllrxAhCTC4NUxmKlNx9qcK5oB5dCRMRWAPS3VsVM7SDpZwdLjtsylt8DUaChguoNJ3DLBGGiiSnO48Ng98fypF5GEQ1K3J1JfqbRF0rdGC11AuAjWH27_gD-Qie9wRqHWtZnbS7wVUTrpMpEWn2Ku_agiWBKbAwnFtBD5bf_IGNscyPxN_jbFKb1HBe9rn9q-5Xf28NEyUvtjwXuAEDIx1LDGYa-J7PZInPxSTVQY3Ztc-u6JYHueZtRbGx_vD4bbWj2gChdwcoFJ_fifvUibmlAs54HrAHEYlHGzzQjnap60MK9FhY2zvgPsvLGYrKclPDrMsUZVmzkttW5SKWqsKVGGfH3gResB69I46qRlv0IFVDzMqVL1GD3V03q9_Xm5dwSRydR5AypX6O4fK0lTYGe-RDPMRW8smMpPdKlOD-KQ-7LQg0_-mTNEpo9DJ4qbxW4cHhBKbSuZx9ERhu5vEs7IlAHG8CCRw_E8sVWweXH80KAmsmOYZKsy9KagO010vizfEeeGNOeu7EzUI-RS1RtLLdchP5GUBJhK-_EXKCMtTyhiEXQNZlu) (Afra and Jacob)|
 | 6 (2/17-2/21) |Paper 2|
 | 7 (2/24-2/28) |INBRE Regional Meeting and SIGCSE--no meeting|
 | 8 (3/3-3/7)   |Paper 3|
