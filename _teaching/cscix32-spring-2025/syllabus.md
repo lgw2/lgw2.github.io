@@ -23,12 +23,12 @@ Schedule subject to change. Lecture videos in this [Panopto folder](https://umon
 | 8 (3/3-3/7)   |[PL HW 6](https://us.prairielearn.com/pl/course_instance/174094/assessment/2515211); [written HW 6](https://lgw2.github.io/teaching/cscix32-spring-2025/homework/Homework_6.pdf)  + [LaTeX source](https://www.overleaf.com/read/bsrdcpfdtrqt#7d49d4) (by Monday)|P vs. NP|Problem session   |More NP-hardness reductions  |   |Problem session  |
 | 9 (3/10-3/14) |PL HW 7; written HW 7 (by Monday)   |Max flow   |Problem session   |Min cut  |   |Problem session   |
 | Spring Break (3/17-3/21) | |  |  |  |  |  |
-| 10 (3/24-3/28) |Written HW 8   |   |   |   |   |   |
-| 11 (3/31-4/4)  |   |   |   |   |   |   |
-| 12 (4/7-4/11)  |   |   |   |   |   |   |
-| 13 (4/14-4/18) |   |   |   |   |   |   |
-| 14 (4/21-4/25) |   |   |   |   |   |   |
-| 15 (4/28-5/2)  |   |   |   |   |   |   |
+| 10 (3/24-3/28) |Written HW 8 (before Tuesday); paper summary 1 (before Friday)|Approximation algorithms|   |Approximation algorithms|   |Student presentation 1|
+| 11 (3/31-4/4)  |paper summary 2 (before Friday)|   |Linear programming   |   |Linear programming   |Student presentation 2|
+| 12 (4/7-4/11)  |paper summary 3 (before Friday)   |Integer linear programming  |   |Integer linear programming   |   |Student presentation 3|
+| 13 (4/14-4/18) |paper summary 4 (before Friday)   |Streaming algorithms|   |Streaming algorithms   |   |Student presentation 4|
+| 14 (4/21-4/25) |Encryption|   |Lucy gone   |   |Lucy gone   |   |
+| 15 (4/28-5/2)  |Lucy gone   |   |   |Quantum computing|   |Shor's algorithm|
 
 
 ## Catalog description
@@ -124,6 +124,12 @@ Microsoft account if you prefer.
 ### Office hours
 
 I have office hours on Mondays from 11-12 and Thursdays from 3:30-4:30 in my office, Social Sciences 420.
+
+### Paper/chapter presentation and writeup rubrics
+
+In the second half of the class, on Mondays and Wednesdays we will learn a new advanced algorithm topic and on Fridays a group will
+lead a presentation of a book chapter or research paper related to that topic. Presenters should follow [these instructions](https://lgw2.github.io/teaching/cscix32-spring-2025/paper_presentations/). On days that
+a student is not a presenter, they must submit a paper/chapter summary to Canvas according to [these instructions](https://lgw2.github.io/teaching/cscix32-spring-2025/paper_writeups/).
 
 ## Grading
 
