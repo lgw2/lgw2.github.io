@@ -27,8 +27,8 @@ Schedule subject to change. Lecture videos in this [Panopto folder](https://umon
 | 11 (3/31-4/4)  |paper summary 2 (before Friday)| Linear programming  |   | Linear programming  | |Student presentation 2|
 | 12 (4/7-4/11)  |paper summary 3 (before Friday)   |Integer linear programming  |   |Integer linear programming   |   |Student presentation 3|
 | 13 (4/14-4/18) |paper summary 4 (before Friday)   |Streaming algorithms|   |Streaming algorithms   |   |Student presentation 4|
-| 14 (4/21-4/25) |Encryption|   |Lucy gone--no class|   |Lucy gone--no class|   |
-| 15 (4/28-5/2)  |Lucy gone--no class|   |   |Quantum computing|   |Shor's algorithm|
+| 14 (4/21-4/25) |Encryption|   |Lucy gone--no class|   |Lucy gone--no class| 
+| 15 (4/28-5/2)  |Lucy gone--no class|   | Quantum computing  |   |Shor's algorithm|
 
 
 ## Catalog description
