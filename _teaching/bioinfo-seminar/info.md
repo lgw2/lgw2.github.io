@@ -66,12 +66,12 @@ will have two leaders, who will lead two weeks of discussion of the paper.
 | 5 (2/10-2/14) |Paper 2--[HMMER](https://lgw2.github.io/teaching/bioinfo-seminar/papers/Profile_HMM.pdh) (Afra and Jacob)|
 | 6 (2/17-2/21) |Paper 2|
 | 7 (2/24-2/28) |INBRE Regional Meeting and SIGCSE--no meeting|
-| 8 (3/3-3/7)   |Paper 3|
+| 8 (3/3-3/7)   |Paper 3--[An information-based sequence distance and its application to whole mitochondrial genome phylogeny]()|
 | 9 (3/10-3/14) |Paper 3|
 | Spring break (3/17-3/21) |No meeting!|
-| 10 (3/24-3/28) |Paper 4|
+| 10 (3/24-3/28) |Paper 4--[Gene Structure Prediction by Linguistic Methods]()|
 | 11 (3/31-4/4)  |Paper 4|
-| 12 (4/7-4/11)  |Paper 5|
+| 12 (4/7-4/11)  |Paper 5--[Prediction of miRNA-disease associations based on PCA and cascade forest]()|
 | 13 (4/14-4/18) |Paper 5|
-| 14 (4/21-4/25) |Paper 6|
+| 14 (4/21-4/25) |RECOMB--no meeting|
 | 15 (4/28-5/2)  |Paper 6|
