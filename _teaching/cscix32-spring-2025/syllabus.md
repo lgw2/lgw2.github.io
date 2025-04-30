@@ -96,6 +96,9 @@ and has inspired some changes to our course for 2025.
     officially available for free, but I bet you can figure out how to find a
     pdf online.
 * [Mike Rosulek's *The Joy of Cryptography*](https://joyofcryptography.com/). A free undergraduate-level cryptography textbook. Our discussion of public-key encryption follows his presentation (at a very high level).
+* [Ryan O'Donnell's Quantum Computing in 100 Easy Lessons](https://www.youtube.com/playlist?list=PLm3J0oaFux3bF48kurxGR6jrmPaQf6lkN). Recordings of
+    lectures from a quantum computing course from Carnegie Mellon, coming from
+    a computational theory perspective (as in this course).
 
 ### Lecture videos
 
