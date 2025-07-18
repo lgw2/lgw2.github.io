@@ -26,6 +26,9 @@ will have two leaders, who will lead two weeks of discussion of the paper.
 * Get started early! Research papers are dense and you will need to gain a
     solid understanding of at least the basics of the paper in order to lead
     discussion. I suggest skimming the paper two weeks in advance at least.
+    Also, sometimes we start reading a paper and realize that one of its
+    sources or follow-on papers gives a better view into the subject, so
+    starting early allows us to pivot if needed.
 * Leading discussion can look different for different groups and different
     papers. However you choose to do it, be sure to explain the big picture of
     the paper (what problem is it solving? why was the problem previously
@@ -33,7 +36,7 @@ will have two leaders, who will lead two weeks of discussion of the paper.
     lots of opportunity for interaction and discussion.
 * Meet with your partner at least once to plan how you will lead
     discussion.
-* A few days before the meeting, send a message in Discord saying which
+* (At least) a few days before the meeting, send a message in Discord saying which
     parts of the paper you will be focusing on and sharing any other
     information you think will be helpful for the rest of the group to prepare
     to have a productive discussion.
@@ -45,14 +48,42 @@ will have two leaders, who will lead two weeks of discussion of the paper.
     discussion leaders posted about in Discord. This often looks like skimming the
     paper, trying to understand the big picture at least, and only looking at
     details if you have time. You may also find other resources to help you
-    understand the paper, such as author talks, explanation of topics you are
+    understand the paper, such as author talks on YouTube, explanation of topics you are
     unfamiliar with, or other related academic papers. If you find resources others might find
     helpful, feel free to post them in Discord!
+* Before the meeting, post a short paragraph about your interaction with the
+    paper so far, ideally specifically relating to the parts that the
+    discussion leaders told you to focus on. This could range from: "I don't understand a single thing
+    about this paper and here are some specific questions I have that I think
+    could help me at least start to understand it" to "this paper is
+    blowing my mind and here are my favorite things that the authors have done" or even "I totally forgot
+    to read the paper this week but will do my best to follow the discussion
+    anyway."
 * During the meeting, stay engaged with the discussion leaders and the group.
     Ask questions, share your thoughts or critiques of the paper, etc.
 * After the meeting, share (1) something you thought the discussion leaders did
     well and (2) something you are still confused about or would like to learn
     more about regarding the paper.
+
+## Fall 2025 schedule
+
+| Week |paper |
+|:---|:---|
+| 1 (8/25–8/29) |No meeting; see Discord for organizational tasks such as choosing a weekly meeting time, signing up for discussion leadership, etc.|
+| 2 (9/1–9/5) |Paper 1|
+| 3 (9/8–9/12) |Paper 1|
+| 4 (9/15–9/19)   |Paper 2|
+| 5 (9/22–9/26) |Paper 2|
+| 6 (9/29–10/3) |Paper 3|
+| 7 (10/6–10/10) |Paper 3|
+| 8 (10/13–10/17)   |Paper 4|
+| 9 (10/20–10/24) |Paper 4|
+| 10 (10/27–10/31) |Paper 5|
+| 11 (11/3–11/7) |Paper 5|
+| 12 (11/10–11/14)  |Paper 6|
+| 13 (11/17–11/21)  |Paper 6|
+| 14 (11/24–11/28) |Paper 7|
+| 14 (12/1–12/5) |Paper 7|
 
 ## Spring 2025 schedule
 
@@ -74,4 +105,4 @@ will have two leaders, who will lead two weeks of discussion of the paper.
 | 12 (4/7-4/11)  |Paper 5--[Prediction of miRNA-disease associations based on PCA and cascade forest](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-024-05999-w)|
 | 13 (4/14-4/18) |Paper 5|
 | 14 (4/21-4/25) |RECOMB--no meeting|
-| 15 (4/28-5/2)  |Paper 6|
+| 15 (4/28-5/2)  |Paper 6--[Logan: Planetary-Scale Genome Assembly Surveys Life’s Diversity](https://www.biorxiv.org/content/10.1101/2024.07.30.605881v1.full.pdf)|
