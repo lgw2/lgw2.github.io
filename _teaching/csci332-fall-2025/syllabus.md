@@ -1,0 +1,229 @@
+---
+title: "CSCI 332: Advanced Data Structures and Algorithms"
+collection: teaching
+type: "Undergraduate course"
+venue: "University of Montana, Computer Science"
+date: 2025-08-18
+location: "Missoula, Montana"
+---
+
+## Course schedule
+
+Schedule subject to change. Lecture videos in this [Panopto folder]().
+
+|Week|Due this week|Monday lecture|Wednesday lecture|Friday lecture/quiz|Book chapter|
+|:---|:---|:---|:---|
+|1 (8/25-8/29)|No written HW<br> PL HW 1 (Friday before class)<br> Quiz 1 (Friday in class)|[Intro + stable matching]()|[Stable matching algorithm]()|Quiz + more stable matching|1.1-1.2; a reference for sets and set notation in 2.3 [here](https://cs.carleton.edu/faculty/dln/book/ch02_basic-data-types_2021_October_05.pdf)|
+|2 (9/1-9/5)|HW 1 ([pdf](), [LaTeX source]()) (Monday 9pm)<br> PL HW 2 (Friday before class)<br> Quiz 2 (Friday in class)|Labor day--no class|[Algorithm analysis]()|Quiz + [Algorithm analysis]()|2.1-2.2|
+|3 (9/8-9/12)|HW 2 ([pdf](), [LaTeX source]()) (Monday 9pm)<br> PL HW 3 (Friday before class)<br> Quiz 3 (Friday in class)|[Algorithm analysis]()|Graph Algorithms|Quiz + [Graph algorithms]()|3||
+|4 (9/15-9/19)|HW 3 ([pdf](), [LaTeX source]())<br> PL HW 4<br> Quiz 4|[More graph algorithms]()|[Proofs about graphs by induction]()|Quiz + [Some more graphs]()|3|
+|5 (9/22-9/26)|HW 4 ([pdf](), [LaTeX source]())<br> PL HW 5<br> Quiz 5|[Greedy algorithms]()|[Greedy algorithms]()|Quiz + [More greedy algorithms]()|4|
+|6 (9/29-10/3)|HW 5 ([pdf](), [LaTeX source]())<br> No PL<br> Exam 1|[Review](https://lgw2.github.io/teaching/csci332-fall-2024/lectures/exam_1_review.pdf)|Exam 1 [practice](https://lgw2.github.io/teaching/csci332-fall-2024/quizzes/prac_exam1.pdf)|Exam 1|1-4|
+|7 (10/6-10/10)|No written HW <br> PL HW 6<br> Quiz 6 <br> Mid-semester survey|[Divide and conquer]()|[Divide and conquer]()|Quiz + [More divide and conquer]()|5|
+|8 (10/13-10/17)|HW 6<br> PL HW 7<br> Quiz 7|[Divide and conquer]()|[Divide and conquer]()|Quiz + [More divide and conquer]()|5|
+|9 (10/20-10/24)|HW 8<br> PL HW 9<br> Quiz 9|[Dynamic programming]()|[Dynamic programming]()|Quiz + [More dynamic programming]()|6|
+|10 (10/27-10/30)|HW 9<br> no PL HW<br> Exam 2|[Review]()|[Exam 2 practice]()|Exam 2||
+|11 (11/3-11/7)|No written HW <br> PL HW 10<br> Quiz 10|Network flow|Network flow|Quiz 10 + more network flow|7|
+|12 (11/10-11/14)|Written HW 10<br> PL HW 11<br> Quiz 11|Applications of network flow|Applications of network flow|Quiz 11 + more network flow|7|
+|13 (11/17-11/21)|Written HW 11<br> PL HW 11<br> Quiz 11|P vs. NP|P vs. NP|Quiz 12 + more P vs. NP|8|
+|14 (11/24-11/28)|Written HW 12<br>No PL<br>No quiz|P vs. NP|Thanksgiving travel day--no class|Thanksgiving break--no class|8|
+|15 (12/1-12/5)|No written HW 12<br>No PL<br>No quiz|Review|Exam 3 practice|Exam 3||
+|16 (12/8-12/12)|Cumulative Final: 8am-10am Monday|||||
+
+
+## Catalog description
+
+3 Credits.
+Prereq., CSCI 232 and M 225 or consent of instr. Algorithm design, analysis, and correctness. Commonly used algorithms including searching and sorting, string search, dynamic programming, branch and bound, graph algorithms, and parallel algorithms. Introduction to NP-complete problems.
+
+## Course outcomes
+
+In previous parts of the computer science curriculum, students have been exposed to various computational problems and
+have seen solutions (algorithms) to solve them. In this course, we continue that journey, with additional emphasis on more complex (and
+therefore more real-world) computational problems and advanced algorithm design techniques.
+
+After completing this course, a student should be able to:
+* translate natural-language descriptions of computational problems into precisely formulated computational problems
+* recognize various real-world computational problems as instances of known computational problems
+* identify valid inputs and correct outputs to computational problems
+* trace through algorithm execution
+* argue the correctness of an algorithm using a variety of proof techniques (direct proof, proof by induction, etc.)
+* give counterexamples showing that an algorithm is incorrect
+* correctly describe an algorithm's runtime from a variety of practical viewpoints
+* understand a variety of algorithm design techniques (greedy, divide-and-conquer, dynamic programming, etc.)
+* understand fundamental differences between classes of computational problems (P vs. NP)
+
+## Pedagogical strategies
+
+In order to achieve the course outcomes, this course uses a variety of pedagogical strategies:
+* frequent feedback: students can check their understanding of the course material through autograded weekly exercises (PrairieLearn assignments),
+weekly written homework, and weekly quizzes.
+* frequent, low-stakes assessments: 
+* group problem solving
+* development of students' own ``inner computer'': ability to verify correctness, runtime, and other properties
+of algorithms and computational topics through their own reasoning processes, rather than relying on outside sources
+of authority such as textbooks, AI tools, autograders, compilers, or human authority figures like instructors.
+
+This course will aim to provide you all of the resources to learn data structure and algorithms,
+but in the end, I believe that you must build your own understandings of these concepts:
+
+> I doubt very much if it is possible to teach anyone to understand anything, that is to say, to see how various parts of it relate to all the other parts, to have a model of the structure in one’s mind. We can give other people names, and lists, but we cannot give them our mental structures; they must build their own. — John Holt
+
+## Course info
+
+This course meets in Social Sciences 362 on Mondays, Wednesdays, and Fridays from
+10-10:50am.
+
+Class time will be a mix of lecture and active problem solving, both as
+individuals and as groups. Every week we will have an interactive, auto-graded assignment via [PrairieLearn]() due before class Friday and a short quiz during class on Friday. We will then have a short written homework assignment due on Monday via [Gradescope]().
+
+During class time, I will ask that you refrain from using all laptops and cell
+phones, except when they are useful for accessing information during group
+problem solving sessions. I highly recommend that you use paper or a tablet for
+notetaking, but please let me know if you require an exception to
+this rule.
+
+After we have had time to establish norms around laptop and cell phone use in class (perhaps 1-2 weeks),
+you will lose your participation points for the day if you are using them when they are prohibited.
+
+## Course resources
+
+### Textbook
+
+The textbook for this course is Algorithm Design by Jon Kleinberg and Eva
+Tardos. New copies of the textbook are available in the bookstore, but you may
+also obtain the textbook in other ways. Either first or second edition is fine. Please let me know
+if you want access to the textbook but do not have it.
+
+### Lecture videos
+
+Lectures will be recorded and available to watch after class. However, if there are
+technical difficulties recording a lecture, it will not be re-recorded, so come
+to class when you can to make sure that you do not miss course content or
+announcements. Videos can be found in the [Panopto folder]().
+
+### Resources from other courses
+
+Most CS departments teach a course similar to this one, and many use the same textbook that we do. I link
+lecture videos and other materials from other similar courses here in case you find them useful:
+
+* Davidson College Fall 2022 Analysis of Algorithms [lecture videos](https://www.youtube.com/playlist?list=PLgPbN3w-ia_MzatWGASfuPg9hon_Fsz1V)
+* 
+
+### Discord
+
+Please join the UM Computer Science Discord to keep up with announcements and
+to ask questions. Instructions can be found on
+Canvas.
+
+### Teaching and learning assistants
+
+We are lucky to have both a teaching Assistant (TA) and a learning assistant
+(LA) in this course. Our TA Onila is a graduate student in computer science and
+will be assisting with in-class activities, outside of course help, and
+grading. Our learning assistant Kyle will assist with group problem solving sessions and other
+in-class activities.
+
+
+## Course help hours (aka office hours)
+
+The time for course help hours will be decided during the first week of classes.
+
+### Homework submission
+
+#### PrairieLearn assignments
+
+Your progress on PrairieLearn assignments is automatically recorded as you work through them. Note that some problems require you to solve
+multiple variations of the same problem to demonstrate your mastery of the concept--check that you have received full credit before moving on!
+
+All PrairieLearn questions allow unlimited attempts; however, if you are unable to answer the questions on your own, you do not
+have a complete understanding of an important concept that will likely appear on the Friday quiz. (Or the question is poorly phrased or has a bug--this is always a possibility and do not hesitate to post in #errors-in-course-materials if you think this is th case.) Try to identify where your understanding breaks down
+and formulate a question you can either answer for yourself using resources like the textbook, lecture notes/videos, other online resources, or
+ask your question in the `#questions` channel in the Discord or attend course help hours.
+
+#### Written homework
+
+Submit your written homework on Gradescope. Go to [gradescope.com](https://www.gradescope.com) and sign up using entry code `XGV5DY`.
+
+You are encouraged to write your homework using LaTex, a typesetting program
+that is popular in computer science research. [Overleaf](https://www.overleaf.com) is an online LaTeX
+compiler, and I've provided a [homework template](https://www.overleaf.com/read/knwmhrgkkqqj#9a5edd) that you can use to write
+up your homework solutions.
+
+
+### Weekly quizzes
+
+Exams will cover material already seen on homework quizzes, so your homework
+quiz score will be the max of your homework quiz score and 75% of your score on
+the corresponding section of the exam. This policy does not apply if you did
+not take the homework quiz, however.
+
+
+## Grading
+
+You will be graded on the following:
+* 45% exams: three in-class exams throughout the semester, worth 15% each. The final is cumulative but optional and can be taken to
+boost your exam grade.
+* 30% weekly quizzes
+* 10% written homework
+* 10% participation (recorded via attendance)
+* 5% PrairieLearn homework
+
+Your grade will be determined by your total score as follows:
+93+: A; 90+: A-; 87+: B+; 83+: B; 80+: B-; 77+: C+; 73+: C; 70+: C-; 67+: D+; 63: D; 60: D-.
+
+### Participation
+
+Your particiapation grade will be based on lecture attendance. You can make up
+lecture attendance by attending office hours or in other ways; please contact
+Lucy if you need to arrange another way to make up attendance.
+
+### Bonus
+
+There are two ways to earn bonus points in this class.
+
+#### Catch errors in course materials
+
+If you find an error in any of the course materials (typo, incorrect statement,
+etc.), make a post in the `#errors-in-course-material` Discord channel.  If it
+is really an error, you get a quarter of a point. Only the first person to post
+about an error gets the points. You can earn a max of 1 total point toward your
+100 for the course (for four errors).
+
+#### Course survey and evaluation
+
+You will receive a bonus point for completing the mid-semester course survey and the
+end-of-semester course evaluation.
+
+### Collaboration policy
+
+Notice
+
+You may use *any* resource available to you, as
+long as you write up your answers in your own words and properly cite your
+sources. Some examples of resources you might use:
+
+* other students in the class
+* other students not in the class
+* other instructors
+* textbooks or online notes
+* anything you find on the internet
+* ChatGPT or other AI tools
+
+The only resources you may use without citation are our course textbook,
+Algorithm Design by Kleinberg and Tardos, our posted lecture slides, our
+in-class or Discord discussions, and office hours discussions. For this reason, you will likely need
+citations on most of your homework assignments.
+
+Please ask if you have questions about how to properly cite a source or a
+collaborator.
+
+## Accessibility
+
+The University of Montana assures equal access to instruction through
+collaboration between students with disabilities, instructors, and the Office
+for Disability Equity (ODE). If you anticipate or experience barriers based
+on disability, please contact the ODE at: (406) 243-2243, ode@umontana.edu, or
+visit www.umt.edu/disability for more information. As your instructor, I
+will work with you and the ODE to implement an effective accommodation, and you
+are welcome to contact me privately if you wish.
