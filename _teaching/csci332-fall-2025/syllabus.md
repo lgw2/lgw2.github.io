@@ -9,14 +9,14 @@ location: "Missoula, Montana"
 
 ## Course schedule
 
-Schedule subject to change. Lecture videos in this [Panopto folder]().
+Schedule subject to change. Lecture videos in this [Panopto folder](https://umontana.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=1e50fec7-689a-4362-9868-b33e01192316).
 
-|Week|Due this week|Monday lecture|Wednesday lecture|Friday lecture/quiz|Book chapter|
+|Week|Due this week|Monday lecture|Wednesday lecture|Friday lecture/quiz|Book chapter|Discrete math review topic|
 |:---|:---|:---|:---|
-|1 (8/25-8/29)|No written HW<br> PL HW 1 (Friday before class)<br> Quiz 1 (Friday in class)|[Intro + stable matching]()|[Stable matching algorithm]()|Quiz + more stable matching|1.1-1.2; a reference for sets and set notation in 2.3 [here](https://cs.carleton.edu/faculty/dln/book/ch02_basic-data-types_2021_October_05.pdf)|
-|2 (9/1-9/5)|HW 1 ([pdf](), [LaTeX source]()) (Monday 9pm)<br> PL HW 2 (Friday before class)<br> Quiz 2 (Friday in class)|Labor day--no class|[Algorithm analysis]()|Quiz + [Algorithm analysis]()|2.1-2.2|
-|3 (9/8-9/12)|HW 2 ([pdf](), [LaTeX source]()) (Monday 9pm)<br> PL HW 3 (Friday before class)<br> Quiz 3 (Friday in class)|[Algorithm analysis]()|Graph Algorithms|Quiz + [Graph algorithms]()|3||
-|4 (9/15-9/19)|HW 3 ([pdf](), [LaTeX source]())<br> PL HW 4<br> Quiz 4|[More graph algorithms]()|[Proofs about graphs by induction]()|Quiz + [Some more graphs]()|3|
+|1 (8/25-8/29)|No written HW<br> PL HW 1 (Friday before class)<br> Quiz 1 (Friday in class)|Intro + stable matching|Stable matching algorithm|Quiz + more stable matching|1.1-1.2; a reference for sets and set notation in 2.3 [here](https://cs.carleton.edu/faculty/dln/book/ch02_basic-data-types_2021_October_05.pdf)|Set notation|
+|2 (9/1-9/5)|HW 1 ([pdf](), [LaTeX source]()) (Monday AoE)<br> PL HW 2 (Friday before class)<br> Quiz 2 (Friday in class)|Labor day--no class|[Algorithm analysis|Quiz + Algorithm analysis|2.1-2.2|Direct proof|
+|3 (9/8-9/12)|HW 2 ([pdf](), [LaTeX source]()) (Monday AoE)<br> PL HW 3 (Friday before class)<br> Quiz 3 (Friday in class)|[Algorithm analysis]()|Graph Algorithms|Quiz + [Graph algorithms]()|3||Direct proof|
+|4 (9/15-9/19)|HW 3 ([pdf](), [LaTeX source]())<br> PL HW 4<br> Quiz 4|More graph algorithms|Proofs about graphs by induction|Quiz + Some more graphs|3|Proof by induction|
 |5 (9/22-9/26)|HW 4 ([pdf](), [LaTeX source]())<br> PL HW 5<br> Quiz 5|[Greedy algorithms]()|[Greedy algorithms]()|Quiz + [More greedy algorithms]()|4|
 |6 (9/29-10/3)|HW 5 ([pdf](), [LaTeX source]())<br> No PL<br> Exam 1|[Review](https://lgw2.github.io/teaching/csci332-fall-2024/lectures/exam_1_review.pdf)|Exam 1 [practice](https://lgw2.github.io/teaching/csci332-fall-2024/quizzes/prac_exam1.pdf)|Exam 1|1-4|
 |7 (10/6-10/10)|No written HW <br> PL HW 6<br> Quiz 6 <br> Mid-semester survey|[Divide and conquer]()|[Divide and conquer]()|Quiz + [More divide and conquer]()|5|
@@ -28,7 +28,7 @@ Schedule subject to change. Lecture videos in this [Panopto folder]().
 |13 (11/17-11/21)|Written HW 11<br> PL HW 11<br> Quiz 11|P vs. NP|P vs. NP|Quiz 12 + more P vs. NP|8|
 |14 (11/24-11/28)|Written HW 12<br>No PL<br>No quiz|P vs. NP|Thanksgiving travel day--no class|Thanksgiving break--no class|8|
 |15 (12/1-12/5)|No written HW 12<br>No PL<br>No quiz|Review|Exam 3 practice|Exam 3||
-|16 (12/8-12/12)|Cumulative Final: 8am-10am Monday|||||
+|16 (12/8-12/12)|Cumulative Final (optional): 8am-10am Monday|||||
 
 
 ## Catalog description
@@ -75,7 +75,7 @@ This course meets in Social Sciences 362 on Mondays, Wednesdays, and Fridays fro
 10-10:50am.
 
 Class time will be a mix of lecture and active problem solving, both as
-individuals and as groups. Every week we will have an interactive, auto-graded assignment via [PrairieLearn]() due before class Friday and a short quiz during class on Friday. We will then have a short written homework assignment due on Monday via [Gradescope]().
+individuals and as groups. Every week we will have an interactive, auto-graded assignment via [PrairieLearn](https://us.prairielearn.com/pl/course_instance/183466) due before class Friday and a short quiz during class on Friday. We will then have a short written homework assignment due on Monday via [Gradescope](https://www.gradescope.com/courses/1044382).
 
 During class time, I will ask that you refrain from using all laptops and cell
 phones, except when they are useful for accessing information during group
@@ -122,13 +122,15 @@ We are lucky to have both a teaching Assistant (TA) and a learning assistant
 (LA) in this course. Our TA Onila is a graduate student in computer science and
 will be assisting with in-class activities, outside of course help, and
 grading. Our learning assistant Kyle will assist with group problem solving sessions and other
-in-class activities.
+in-class activities and hold a weekly course help hour.
 
 
 ## Course help hours (aka office hours)
 
 Instructor course help hours will be Monday 2-3pm and Thursday 10-11am in Social Sciences 402 (the CS conference room).
 No course help hours Monday, August 25th, but please DM Lucy on Discord if you have a question or would like to set up a Zoom meeting.
+
+Learning assistant Kyle will hold a course help hour at time TBD.
 
 ### Homework submission
 
@@ -161,7 +163,7 @@ Microsoft account if you prefer.
 #### Written homework
 
 Written homework will be due on Mondays [anywhere on Earth](https://time.is/Anywhere_on_Earth), i.e., 6am on Tuesday morning.
-Submit your written homework on Gradescope. Go to [gradescope.com](https://www.gradescope.com) and sign up using entry code `XGV5DY`.
+Submit your written homework on Gradescope. Go to [gradescope.com](https://www.gradescope.com) and sign up using entry code `5RN3K2`.
 
 Written homework will generally consist of one or two proof or algorithm-development related problems, designed to push your understanding
 of the material covered in the previous week. 
