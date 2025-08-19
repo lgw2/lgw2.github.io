@@ -127,37 +127,70 @@ in-class activities.
 
 ## Course help hours (aka office hours)
 
-The time for course help hours will be decided during the first week of classes.
+Instructor course help hours will be Monday 2-3pm and Thursday 10-11am in Social Sciences 402 (the CS conference room).
+No course help hours Monday, August 25th, but please DM Lucy on Discord if you have a question or would like to set up a Zoom meeting.
 
 ### Homework submission
 
 #### PrairieLearn assignments
 
-Your progress on PrairieLearn assignments is automatically recorded as you work through them. Note that some problems require you to solve
-multiple variations of the same problem to demonstrate your mastery of the concept--check that you have received full credit before moving on!
+Before class on Fridays, you will have auto-graded problem sets on a platform
+called PrairieLearn.  You can try these problems as many times as you would like
+until you get the right answer, because they automatically generate new
+variations of the problem each time. For some assignments, you will need to
+complete multiple variations of the same problem to get full credit. Make sure
+you look at the "Total points" value on the right-hand side of the screen.  If
+you are able to complete the PrairieLearn assignment for the week by yourself,
+you should be well-prepared for Friday's quiz. However, if you are unable to
+answer the questions on your own, you do not have a complete understanding of an
+important concept that will likely appear on the Friday quiz. (Or the question
+is poorly phrased or has a bug--this is always a possibility and do not hesitate
+to post in `#errors-in-course-materials` if you think this is the case.) Try to
+identify where your understanding breaks down and formulate a question you can
+either answer for yourself using resources like the textbook, lecture
+notes/videos, other online resources, or ask your question in the `#questions`
+channel in the Discord or attend course help hours. 
 
-All PrairieLearn questions allow unlimited attempts; however, if you are unable to answer the questions on your own, you do not
-have a complete understanding of an important concept that will likely appear on the Friday quiz. (Or the question is poorly phrased or has a bug--this is always a possibility and do not hesitate to post in #errors-in-course-materials if you think this is th case.) Try to identify where your understanding breaks down
-and formulate a question you can either answer for yourself using resources like the textbook, lecture notes/videos, other online resources, or
-ask your question in the `#questions` channel in the Discord or attend course help hours.
+You can access
+the PrairieLearn problem sets [here](https://us.prairielearn.com/pl/course_instance/183466). You
+should select either the "Sign in with Google" or the "Sign in with Microsoft"
+option. You can log in
+with any Google or Microsoft email account; your UM email will work as a
+Microsoft account if you prefer.
 
 #### Written homework
 
+Written homework will be due on Mondays [anywhere on Earth](https://time.is/Anywhere_on_Earth), i.e., 6am on Tuesday morning.
 Submit your written homework on Gradescope. Go to [gradescope.com](https://www.gradescope.com) and sign up using entry code `XGV5DY`.
+
+Written homework will generally consist of one or two proof or algorithm-development related problems, designed to push your understanding
+of the material covered in the previous week. 
 
 You are encouraged to write your homework using LaTex, a typesetting program
 that is popular in computer science research. [Overleaf](https://www.overleaf.com) is an online LaTeX
 compiler, and I've provided a [homework template](https://www.overleaf.com/read/knwmhrgkkqqj#9a5edd) that you can use to write
 up your homework solutions.
 
+##### Collaboration policy
 
-### Weekly quizzes
+You may use *any* resource available to you on the written homework, as
+long as you write up your answers in your own words and properly cite your
+sources. Some examples of resources you might use:
 
-Exams will cover material already seen on homework quizzes, so your homework
-quiz score will be the max of your homework quiz score and 75% of your score on
-the corresponding section of the exam. This policy does not apply if you did
-not take the homework quiz, however.
+* other students in the class
+* other students not in the class
+* other instructors
+* textbooks or online notes
+* anything you find on the internet
+* ChatGPT or other AI tools
 
+The only resources you may use without citation are our course textbook,
+Algorithm Design by Kleinberg and Tardos, our posted lecture slides, our
+in-class or Discord discussions, and office hours discussions. For this reason, you will likely need
+citations on most of your homework assignments.
+
+Please ask if you have questions about how to properly cite a source or a
+collaborator.
 
 ## Grading
 
@@ -195,28 +228,6 @@ about an error gets the points. You can earn a max of 1 total point toward your
 You will receive a bonus point for completing the mid-semester course survey and the
 end-of-semester course evaluation.
 
-### Collaboration policy
-
-Notice
-
-You may use *any* resource available to you, as
-long as you write up your answers in your own words and properly cite your
-sources. Some examples of resources you might use:
-
-* other students in the class
-* other students not in the class
-* other instructors
-* textbooks or online notes
-* anything you find on the internet
-* ChatGPT or other AI tools
-
-The only resources you may use without citation are our course textbook,
-Algorithm Design by Kleinberg and Tardos, our posted lecture slides, our
-in-class or Discord discussions, and office hours discussions. For this reason, you will likely need
-citations on most of your homework assignments.
-
-Please ask if you have questions about how to properly cite a source or a
-collaborator.
 
 ## Accessibility
 
