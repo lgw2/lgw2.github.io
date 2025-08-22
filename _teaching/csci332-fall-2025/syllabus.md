@@ -13,21 +13,21 @@ Schedule subject to change. Lecture videos in this [Panopto folder](https://umon
 
 |Week|Due this week|Monday lecture|Wednesday lecture|Friday lecture/quiz|Book chapter|Discrete math review topic|
 |:---|:---|:---|:---|
-|1 (8/25-8/29)|No written HW<br> PL HW 1 (Friday before class)<br> Quiz 1 (Friday in class)|Intro + stable matching|Stable matching algorithm|Quiz + more stable matching|1.1-1.2; a reference for sets and set notation in 2.3 [here](https://cs.carleton.edu/faculty/dln/book/ch02_basic-data-types_2021_October_05.pdf)|Set notation|
+|1 (8/25-8/29)|No written HW<br> PL HW 1 (Friday before class)<br> Quiz 1 (Friday in class)|Intro + stable matching|Stable matching algorithm|Quiz + more stable matching|1.1-1.2;|Set notation (see 2.3 [here](https://cs.carleton.edu/faculty/dln/book/ch02_basic-data-types_2021_October_05.pdf))|
 |2 (9/1-9/5)|HW 1 ([pdf](), [LaTeX source]()) (Monday AoE)<br> PL HW 2 (Friday before class)<br> Quiz 2 (Friday in class)|Labor day--no class|[Algorithm analysis|Quiz + Algorithm analysis|2.1-2.2|Direct proof|
-|3 (9/8-9/12)|HW 2 ([pdf](), [LaTeX source]()) (Monday AoE)<br> PL HW 3 (Friday before class)<br> Quiz 3 (Friday in class)|[Algorithm analysis]()|Graph Algorithms|Quiz + [Graph algorithms]()|3||Direct proof|
+|3 (9/8-9/12)|HW 2 ([pdf](), [LaTeX source]()) (Monday AoE)<br> PL HW 3 (Friday before class)<br> Quiz 3 (Friday in class)|[Algorithm analysis]()|Graph Algorithms|Quiz + [Graph algorithms]()|3|Logarithms and exponents|
 |4 (9/15-9/19)|HW 3 ([pdf](), [LaTeX source]())<br> PL HW 4<br> Quiz 4|More graph algorithms|Proofs about graphs by induction|Quiz + Some more graphs|3|Proof by induction|
-|5 (9/22-9/26)|HW 4 ([pdf](), [LaTeX source]())<br> PL HW 5<br> Quiz 5|[Greedy algorithms]()|[Greedy algorithms]()|Quiz + [More greedy algorithms]()|4|
+|5 (9/22-9/26)|HW 4 ([pdf](), [LaTeX source]())<br> PL HW 5<br> Quiz 5|Greedy algorithms|Greedy algorithms|Quiz + More greedy algorithms|4|
 |6 (9/29-10/3)|HW 5 ([pdf](), [LaTeX source]())<br> No PL<br> Exam 1|[Review](https://lgw2.github.io/teaching/csci332-fall-2024/lectures/exam_1_review.pdf)|Exam 1 [practice](https://lgw2.github.io/teaching/csci332-fall-2024/quizzes/prac_exam1.pdf)|Exam 1|1-4|
 |7 (10/6-10/10)|No written HW <br> PL HW 6<br> Quiz 6 <br> Mid-semester survey|[Divide and conquer]()|[Divide and conquer]()|Quiz + [More divide and conquer]()|5|
 |8 (10/13-10/17)|HW 6<br> PL HW 7<br> Quiz 7|[Divide and conquer]()|[Divide and conquer]()|Quiz + [More divide and conquer]()|5|
-|9 (10/20-10/24)|HW 8<br> PL HW 9<br> Quiz 9|[Dynamic programming]()|[Dynamic programming]()|Quiz + [More dynamic programming]()|6|
-|10 (10/27-10/30)|HW 9<br> no PL HW<br> Exam 2|[Review]()|[Exam 2 practice]()|Exam 2||
+|9 (10/20-10/24)|HW 7<br> PL HW 9<br> Quiz 9|[Dynamic programming]()|[Dynamic programming]()|Quiz + [More dynamic programming]()|6|
+|10 (10/27-10/30)|HW 8<br> no PL HW<br> Exam 2|[Review]()|[Exam 2 practice]()|Exam 2||
 |11 (11/3-11/7)|No written HW <br> PL HW 10<br> Quiz 10|Network flow|Network flow|Quiz 10 + more network flow|7|
-|12 (11/10-11/14)|Written HW 10<br> PL HW 11<br> Quiz 11|Applications of network flow|Applications of network flow|Quiz 11 + more network flow|7|
-|13 (11/17-11/21)|Written HW 11<br> PL HW 11<br> Quiz 11|P vs. NP|P vs. NP|Quiz 12 + more P vs. NP|8|
-|14 (11/24-11/28)|Written HW 12<br>No PL<br>No quiz|P vs. NP|Thanksgiving travel day--no class|Thanksgiving break--no class|8|
-|15 (12/1-12/5)|No written HW 12<br>No PL<br>No quiz|Review|Exam 3 practice|Exam 3||
+|12 (11/10-11/14)|Written HW 9<br> PL HW 11<br> Quiz 11|Applications of network flow|Applications of network flow|Quiz 11 + more network flow|7|
+|13 (11/17-11/21)|Written HW 10<br> PL HW 11<br> Quiz 11|P vs. NP|P vs. NP|Quiz 12 + more P vs. NP|8|
+|14 (11/24-11/28)|Written HW 11<br>No PL<br>No quiz|P vs. NP|Thanksgiving travel day--no class|Thanksgiving break--no class|8|
+|15 (12/1-12/5)|No written HW<br>No PL<br>No quiz|Review|Exam 3 practice|Exam 3||
 |16 (12/8-12/12)|Cumulative Final (optional): 8am-10am Monday|||||
 
 
