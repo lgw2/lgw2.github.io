@@ -128,7 +128,7 @@ in-class activities and hold a weekly course help hour.
 Instructor course help hours will be Monday 2-3pm and Thursday 10-11am in Social Sciences 402 (the CS conference room).
 No course help hours Monday, August 25th, but please DM Lucy on Discord if you have a question or would like to set up a Zoom meeting.
 
-Learning assistant Kyle will hold a course help hour at time TBD.
+Learning assistant Kyle will hold a course help hours on Wednesday 2-3 and Friday 11-12.
 
 ### Homework submission
 
@@ -170,6 +170,8 @@ You are encouraged to write your homework using LaTex, a typesetting program
 that is popular in computer science research. [Overleaf](https://www.overleaf.com) is an online LaTeX
 compiler, and I've provided a [homework template](https://www.overleaf.com/read/knwmhrgkkqqj#9a5edd) that you can use to write
 up your homework solutions.
+
+A grading rubric will be provided with every homework assignment. Note that every problem will require you to provide citations, as described below.
 
 ##### Collaboration policy
 
