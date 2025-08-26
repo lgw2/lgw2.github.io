@@ -13,7 +13,7 @@ Schedule subject to change. Lecture videos in this [Panopto folder](https://umon
 
 |Week|Due this week|Monday lecture|Wednesday lecture|Friday lecture/quiz|Book chapter|Discrete math review topic|
 |:---|:---|:---|:---|
-|1 (8/25-8/29)|No written HW<br> PL HW 1 (Friday before class)<br> Quiz 1 (Friday in class)|Intro + stable matching|Stable matching algorithm|Quiz + more stable matching|1.1-1.2;|Set notation (see 2.3 [here](https://cs.carleton.edu/faculty/dln/book/ch02_basic-data-types_2021_October_05.pdf))|
+|1 (8/25-8/29)|No written HW<br> PL HW 1 (Friday before class)<br> Quiz 1 (Friday in class)|[Intro + stable matching](https://lgw2.github.io/teaching/csci332-fall-2025/lectures/intro.pdf)|Stable matching algorithm|Quiz + more stable matching|1.1-1.2;|Set notation (see 2.3 [here](https://cs.carleton.edu/faculty/dln/book/ch02_basic-data-types_2021_October_05.pdf))|
 |2 (9/1-9/5)|HW 1 (pdf, LaTeX source) (Monday AoE)<br> PL HW 2 (Friday before class)<br> Quiz 2 (Friday in class)|Labor day--no class|Algorithm analysis|Quiz + Algorithm analysis|2.1-2.2|Direct proof|
 |3 (9/8-9/12)|HW 2 (pdf, LaTeX source) (Monday AoE)<br> PL HW 3 (Friday before class)<br> Quiz 3 (Friday in class)|Algorithm analysis|Graph Algorithms|Quiz + Graph algorithms|3|Logarithms and exponents|
 |4 (9/15-9/19)|HW 3 (pdf, LaTeX source)<br> PL HW 4<br> Quiz 4|More graph algorithms|Proofs about graphs by induction|Quiz + Some more graphs|3|Proof by induction|
