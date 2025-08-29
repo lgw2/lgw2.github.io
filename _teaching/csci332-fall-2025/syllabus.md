@@ -11,6 +11,8 @@ location: "Missoula, Montana"
 
 Schedule subject to change. Lecture videos in this [Panopto folder](https://umontana.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=1e50fec7-689a-4362-9868-b33e01192316).
 
+To use LaTeX source files for written homework, you will need these two style files: [jeffe.sty](https://lgw2.github.io/teaching/csci332-fall-2025/homework/jeffe.sty) and [handout.sty](https://lgw2.github.io/teaching/csci332-fall-2025/homework/handout.sty).
+
 |Week|Due this week|Monday lecture|Wednesday lecture|Friday lecture/quiz|Book chapter|Discrete math review topic|
 |:---|:---|:---|:---|
 |1 (8/25-8/29)|No written HW<br> [PL HW 1](https://us.prairielearn.com/pl/course_instance/183466/assessment/2557352) (Friday before class)<br> Quiz 1 (Friday in class)|[Intro + stable matching](https://lgw2.github.io/teaching/csci332-fall-2025/lectures/intro.pdf)|[Stable matching algorithm](https://lgw2.github.io/teaching/csci332-fall-2025/lectures/Stable_Matching.pdf); [demo](https://lgw2.github.io/teaching/csci332-fall-2025/lectures/01DemoGaleShapley.pdf)|Quiz + more stable matching|1.1-1.2;|Set notation (see 2.3 [here](https://cs.carleton.edu/faculty/dln/book/ch02_basic-data-types_2021_October_05.pdf))|
