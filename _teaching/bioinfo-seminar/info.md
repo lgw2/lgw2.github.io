@@ -70,7 +70,7 @@ will have two leaders, who will lead two weeks of discussion of the paper.
 | Week |paper |
 |:---|:---|
 | 1 (8/25–8/29) |No meeting; see Discord for organizational tasks such as choosing a weekly meeting time, signing up for discussion leadership, etc.|
-| 2 (9/1–9/5) |Paper 1|
+| 2 (9/1–9/5) |Paper 1--[Floria: fast and accurate strain haplotyping in metagenomes](https://academic.oup.com/bioinformatics/article/40/Supplement_1/i30/7700908) (Afra and McKayl)|
 | 3 (9/8–9/12) |Paper 1|
 | 4 (9/15–9/19)   |Paper 2|
 | 5 (9/22–9/26) |Paper 2|
