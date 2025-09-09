@@ -75,7 +75,7 @@ will have two leaders, who will lead two weeks of discussion of the paper.
 |9/19 |Paper 1|
 |9/26|Paper 2--[Sketching and Sublinear Data Structures in Genomics](https://www.annualreviews.org/content/journals/10.1146/annurev-biodatasci-072018-021156) (Jack and Jose)|
 |10/3 |Paper 2|
-|10/10) |Paper 3--[Kraken: ultrafast metagenomic sequence classification using exact alignments](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2014-15-3-r46) (Rusty and Grant)|
+|10/10 |Paper 3--[Kraken: ultrafast metagenomic sequence classification using exact alignments](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2014-15-3-r46) (Rusty, Grant, and Alex)|
 |10/17 |Paper 3|
 |10/24 |Paper 4|
 |10/31|Paper 4|
