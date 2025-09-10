@@ -1,0 +1,78 @@
+% ---------
+% --------
+%!TEX TS-program = pdflatex
+%!TEX encoding = UTF-8 Unicode
+%!TEX spellcheck = English (Aspell)
+
+\documentclass[11pt]{article}
+\usepackage{jeffe,handout,graphicx}
+\usepackage{fourier-orns}
+\usepackage{mathtools}
+\usepackage[normalem]{ulem} % either use this (simple) or
+\usepackage{tikz}
+
+\def\Cdot{\mathbin{\text{\normalfont \textbullet}}}
+\def\Sym#1{\texttt{\color{BrickRed}#1}}
+\def\BlueSym#1{\textbf{\texttt{\color{RoyalBlue}#1}}}
+\allowdisplaybreaks
+
+\begin{document}
+
+\begin{center}
+\Large\textbf{CSCI 332, Fall 2025}%
+\\
+\LARGE\textbf{Homework 3}%
+\\[0.5ex]
+\large Due Monday, September 15 Anywhere on Earth (6am Tuesday)
+\end{center}
+
+\bigskip
+\hrule
+\bigskip
+
+\subsection*{Submission Requirements}
+\begin{itemize}
+    \item Type or clearly hand-write your solutions into a PDF format so that they are legible and professional. Submit your PDF on Gradescope. 
+    \item Do not submit your first draft. Type or clearly re-write your solutions for your final submission. If your submission is not legible, we will ask you to resubmit.
+    \item Use Gradescope to assign problems to the correct page(s) in your solution. If you do not do this correctly, we will ask you to resubmit.
+\end{itemize}
+
+\subsection*{Academic Integrity}
+
+Remember, you may access \EMPH{any} resource in preparing your solution to the homework. However, you \EMPH{must}
+\begin{itemize}
+    \item write your solutions in your own words, and
+    \item credit every resource you use (for example: ``Bob Smith helped me on
+    this problem. He took this course at UM in Fall 2020''; ``I found a solution
+    to a problem similar to this one in the lecture notes for a different
+    course, found at this link: www.profzeno.com/agreatclass/lecture10''; ``I
+    asked ChatGPT how to solve  part (c)"; ``I put my solution for part (c) into
+    ChatGPT to check that it was correct and it caught a missing case.'') If you
+    use the provided LaTeX template, you can use the \texttt{sources}
+    environment for this. Ask if you need help!
+\end{itemize}
+
+
+
+\newpage
+%----------------------------------------------------------------------
+
+\headers{CSCI 332}{Homework 3 (due September 15)}{Fall 2025}
+
+\begin{enumerate}
+
+\item Prove that $\log_a n = \Theta(\log_b n)$ for any positive constants $a, b
+> 1$ by proving each of the following. You must use the definition of big-O and
+big-Omega in your proofs; that is, you must give a $c$ and an $n_0$. (Hint: Use the change of base formula for logarithms,
+which states that $\log_a n = \frac{\log_b n}{\log_b a}$.)
+
+    \begin{enumerate}[(a)]
+        \item $log_a n = O(log_b n)$
+        \item $log_a n = \Omega(log_b n)$
+    \end{enumerate} 
+
+    
+    \item (1 point) What resources did you use for this assignment? (If you only used the textbook, lecture notes, and office hours, you can say "none".)
+    \end{enumerate}
+    %%%%%%%%%%%%%%%%%%%%
+    \end{document}
