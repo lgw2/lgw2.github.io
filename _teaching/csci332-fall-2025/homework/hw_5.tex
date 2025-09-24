@@ -1,0 +1,87 @@
+% ---------
+% --------
+%!TEX TS-program = pdflatex
+%!TEX encoding = UTF-8 Unicode
+%!TEX spellcheck = English (Aspell)
+
+\documentclass[11pt]{article}
+\usepackage{jeffe,handout,graphicx}
+\usepackage{fourier-orns}
+\usepackage{mathtools}
+\usepackage[normalem]{ulem} % either use this (simple) or
+\usepackage{tikz}
+
+\def\Cdot{\mathbin{\text{\normalfont \textbullet}}}
+\def\Sym#1{\texttt{\color{BrickRed}#1}}
+\def\BlueSym#1{\textbf{\texttt{\color{RoyalBlue}#1}}}
+\allowdisplaybreaks
+
+\begin{document}
+
+\begin{center}
+\Large\textbf{CSCI 332, Fall 2025}%
+\\
+\LARGE\textbf{Homework 5}%
+\\[0.5ex]
+\large Due Monday, September 29 Anywhere on Earth (6am Tuesday)
+\end{center}
+
+\bigskip
+\hrule
+\bigskip
+
+\subsection*{Submission Requirements}
+\begin{itemize}
+    \item Type or clearly hand-write your solutions into a PDF format so that they are legible and professional. Submit your PDF on Gradescope. 
+    \item Do not submit your first draft. Type or clearly re-write your solutions for your final submission. If your submission is not legible, we will ask you to resubmit.
+    \item Use Gradescope to assign problems to the correct page(s) in your solution. If you do not do this correctly, we will ask you to resubmit.
+\end{itemize}
+
+\subsection*{Academic Integrity}
+
+Remember, you may access \EMPH{any} resource in preparing your solution to the homework. However, you \EMPH{must}
+\begin{itemize}
+    \item write your solutions in your own words, and
+    \item credit every resource you use (for example: ``Bob Smith helped me on
+    this problem. He took this course at UM in Fall 2020''; ``I found a solution
+    to a problem similar to this one in the lecture notes for a different
+    course, found at this link: www.profzeno.com/agreatclass/lecture10''; ``I
+    asked ChatGPT how to solve  part (c)"; ``I put my solution for part (c) into
+    ChatGPT to check that it was correct and it caught a missing case.'') If you
+    use the provided LaTeX template, you can use the \texttt{sources}
+    environment for this. Ask if you need help!
+\end{itemize}
+
+
+
+\newpage
+%----------------------------------------------------------------------
+
+\headers{CSCI 332}{Homework 5 (due September 29)}{Fall 2025}
+
+\begin{enumerate}
+
+\item (1 point) Choose any graph or graph algorithm property we have discussed
+in class, on a quiz, in a Prairie Learn or written homework and we have not
+proved \emph{via induction} (okay if we have proved some other way!) and state
+it formally. (This should probably start with something like ``for all graphs of some type,...'') You will
+prove it by induction in problem 2. Here are some examples of graph properties
+and algorithms we have discussed:
+ \begin{itemize}
+    \item BFS visits every vertex reachable from the source.
+    \item DFS visit every vertex reachable from the source.
+    \item The index of the layers produced by BFS are the shortest path
+    distances of nodes in that layer from the source.
+\end{itemize}
+
+You should be able to find more! Or if there is something you want to prove
+about graphs or graph algorithms but we didn't discuss yet in this course, feel
+free to ask and I will likely say yes.
+
+
+\item (8 points) Prove the property or algorithm you stated in problem 1 by induction. No points if you do not use the
+exact boilerplate we covered in class and on the Prairie Learn assignment (universal declaration, induction hypothesis, base and inductive case, and wrap up sentence).
+\item (1 point) What resources did you use for this assignment? (If you only used the textbook, lecture notes, and office hours, you can say "none".)
+    \end{enumerate}
+    %%%%%%%%%%%%%%%%%%%%
+    \end{document}
