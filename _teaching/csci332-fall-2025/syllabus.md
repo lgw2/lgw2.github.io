@@ -22,7 +22,7 @@ To use LaTeX source files for written homework, you will need these two style fi
 |5 (9/22-9/26)|HW 4 ([on PL this week!](https://us.prairielearn.com/pl/course_instance/183466/assessment/2586961))<br> [PL HW 5](https://us.prairielearn.com/pl/course_instance/183466/assessment/2554880)<br> Quiz 5|No class|Proofs about graphs by induction|Quiz + Dijkstra's algorithm|4|Proof by induction (see [here](https://cs.carleton.edu/faculty/dln/book/ch05_mathematical-induction_2021_September_08.pdf)|
 |6 (9/29-10/3)|HW 5 ([pdf](https://lgw2.github.io/teaching/csci332-fall-2025/homework/hw_5.pdf), [LaTeX source](https://lgw2.github.io/teaching/csci332-fall-2025/homework/hw_5.tex))<br> No PL<br> Exam 1|Proof of correctness for Dijkstra's algorithm|Exam 1 practice|Exam 1|1-4|
 |7 (10/6-10/10)|No written HW <br> PL HW 6<br> Quiz 6 <br> Mid-semester survey|Divide and conquer|Divide and conquer|Quiz + More divide and conquer|5|
-|8 (10/13-10/17)|HW 6<br> PL HW 7<br> Quiz 7|Divide and conquer|Divide and conquer|Quiz + More divide and conquer|5|
+|8 (10/13-10/17)|HW 6<br> PL HW 7<br> Quiz 7|Indigenous Peoples' Day--no class|Divide and conquer|Quiz + More divide and conquer|5|
 |9 (10/20-10/24)|HW 7<br> PL HW 8<br> Quiz 8|Dynamic programming|Dynamic programming|Quiz + More dynamic programming|6|
 |10 (10/27-10/31)|HW 8<br> no PL HW<br> Exam 2|Review|Exam 2 practice|Exam 2||
 |11 (11/3-11/7)|No written HW <br> PL HW 9<br> Quiz 9|Network flow|Network flow|Quiz 10 + more network flow|7|
