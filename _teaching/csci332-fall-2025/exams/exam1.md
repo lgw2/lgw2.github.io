@@ -1,3 +1,12 @@
+---
+title: "Exam 1 Info"
+collection: teaching
+type: "Undergraduate course"
+venue: "University of Montana, Computer Science"
+date: 2025-08-18
+location: "Missoula, Montana"
+---
+
 ## Exam 1 Info
 
 You are allowed one 3x5 notecard (or 3x5 piece of paper) of handwritten notes.
