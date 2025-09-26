@@ -15,7 +15,7 @@ more time, schedule with the testing center ASAP.
 
 Exam 1 will cover everything since the start of class: stable matching,
 algorithm analysis, graphs, and Dijkstra's algorithm. It will consist of
-questions similar to those on quizzes, Prairie Learn, those written homeworks.
+questions similar to those on quizzes, Prairie Learn, and written homeworks.
 
 A sample exam will be available by end of day Saturday, September 28. You will
 do another sample exam in groups in class on Wednesday, October 1.
