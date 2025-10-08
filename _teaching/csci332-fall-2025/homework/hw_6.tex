@@ -1,0 +1,110 @@
+% ---------
+% --------
+%!TEX TS-program = pdflatex
+%!TEX encoding = UTF-8 Unicode
+%!TEX spellcheck = English (Aspell)
+
+\documentclass[11pt]{article}
+\usepackage{jeffe,handout,graphicx}
+\usepackage{fourier-orns}
+\usepackage{mathtools}
+\usepackage[normalem]{ulem} % either use this (simple) or
+\usepackage{tikz}
+
+\def\Cdot{\mathbin{\text{\normalfont \textbullet}}}
+\def\Sym#1{\texttt{\color{BrickRed}#1}}
+\def\BlueSym#1{\textbf{\texttt{\color{RoyalBlue}#1}}}
+\allowdisplaybreaks
+
+\begin{document}
+
+\begin{center}
+\Large\textbf{CSCI 332, Fall 2025}%
+\\
+\LARGE\textbf{Homework 6}%
+\\[0.5ex]
+\large Due Monday, October 13 Anywhere on Earth (6am Tuesday)
+\end{center}
+
+\bigskip
+\hrule
+\bigskip
+
+\subsection*{Submission Requirements}
+\begin{itemize}
+    \item Type or clearly hand-write your solutions into a PDF format so that they are legible and professional. Submit your PDF on Gradescope. 
+    \item Do not submit your first draft. Type or clearly re-write your solutions for your final submission. If your submission is not legible, we will ask you to resubmit.
+    \item Use Gradescope to assign problems to the correct page(s) in your solution. If you do not do this correctly, we will ask you to resubmit.
+\end{itemize}
+
+\subsection*{Academic Integrity}
+
+Remember, you may access \EMPH{any} resource in preparing your solution to the homework. However, you \EMPH{must}
+\begin{itemize}
+    \item write your solutions in your own words, and
+    \item credit every resource you use (for example: ``Bob Smith helped me on
+    this problem. He took this course at UM in Fall 2020''; ``I found a solution
+    to a problem similar to this one in the lecture notes for a different
+    course, found at this link: www.profzeno.com/agreatclass/lecture10''; ``I
+    asked ChatGPT how to solve  part (c)"; ``I put my solution for part (c) into
+    ChatGPT to check that it was correct and it caught a missing case.'') If you
+    use the provided LaTeX template, you can use the \texttt{sources}
+    environment for this. Ask if you need help!
+\end{itemize}
+
+
+
+\newpage
+%----------------------------------------------------------------------
+
+\headers{CSCI 332}{Homework 6 (due October 13)}{Fall 2025}
+
+\begin{enumerate}
+
+
+\item 
+Every fall, your family harvests apples at the old family orchard. You have many varied sizes of bins that you harvest the apples into, and a large fleet of identical carts that can all take a total weight of $W$. Your family has always done it exactly this way:
+\begin{itemize}
+    \item Park a cart at the orchard.
+    \item As bins of apples are finished, pack them onto the cart in exactly the order they arrive.
+    \item Once a bin arrives that would put the cart over its maximum weight, send the cart off and start loading the next cart.
+\end{itemize}
+
+According to this system, we could index the bins with the variable $i$ and
+write the weight of the $i$\textsuperscript{th} bin $w_i$. Because your family
+members pick apples at different speeds and fill the bins to different levels,
+the $w_i$ values are varied and unpredictable, and because the apple orchard
+produces at different levels every year, the total number of bins that will be
+loaded varies year to year as well.
+
+Since your family knows that you are taking advanced algorithms, they wonder if
+you could help them decide whether they might be using too many carts. Maybe
+they could decrease the number of carts needed by sometimes sending off a cart
+that was less full, and in this way allow the next few carts to be better
+packed. However, note that your family is not willing to change the order
+that the bins are packed into the carts, since that would require a large loading area and
+extra work to rearrange the bins.
+
+\begin{enumerate}[(a)]
+    \item (1 point) Give an example set of weights $w_1, w_2, \ldots, w_{10}$ and a maximum
+    cart weight $W$ where your family's greedy algorithm does not fill any cart to capacity.
+
+    \item (1 point) If the loading area was large, and you could rearrange the
+    bins in any order you wanted before loading them onto the carts, would that
+    help your family use fewer carts? Why or why not?
+
+    \item (7 points)
+Prove that, for any set of apple bins with specified weights and any maximum
+cart weight $W$, the greedy
+algorithm currently in use actually minimizes the number of carts that are
+needed. Use a proof by exchange argument by induction. See the proof of the
+optimality of the interval scheduling greedy algorithm in class and the proof
+of the optimality of the advertiser slot greedy algorithm on PrairieLearn as examples,
+and consider focusing on the last bin added to each cart.
+
+\item (1 point) What outside resources did you use to help with this problem?
+\end{enumerate}
+
+\end{enumerate}
+    %%%%%%%%%%%%%%%%%%%%
+    \end{document}
