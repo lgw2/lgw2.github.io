@@ -37,6 +37,15 @@ Schedule subject to change. Lecture videos in this [Panopto folder](https://umon
 PREREQUISITE: CSCI 332.
 Advanced algorithm and data structure concepts, including theory, approximation algorithms, randomized algorithms, parallel algorithms, streaming algorithms, linear programming.
 
+## Course outcomes
+
+After completing this course, a student should be able to:
+* Explain and apply advanced algorithm and data structure design strategies;
+* Explain and apply approximation algorithms;
+* Explain and apply parallel algorithms;
+* Explain and apply randomized algorithms;
+* Explain and apply special topics, such as Quantum and DNA-based algorithms.
+
 ## Course info
 
 This course meets in Social Sciences 362 on Tuesdays and Thursdays from
@@ -186,3 +195,16 @@ source. Some examples of resources you might use:
 
 Please ask if you have questions about how to properly cite a source or a
 collaborator.
+
+## Accessibility statement
+
+The University of Montana is committed to providing equal access for all
+students. If you anticipate or encounter barriers to learning due to a
+disability, please contact the Office for Disability Equity (ODE) at
+406-243-2243 or visit umt.edu/disability to request accommodations.
+
+Once approved, ODE will send your accommodation letter directly to your faculty
+through the ODE portal. When I receive notification of your letter, I ask that
+you follow up with me so we can discuss how to best implement your
+accommodations in this course. Please note that accommodations are not
+retroactive, so do not delay in making your request.
