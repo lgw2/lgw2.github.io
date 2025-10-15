@@ -22,7 +22,7 @@ To use LaTeX source files for written homework, you will need these two style fi
 |5 (9/22-9/26)|HW 4 ([on PL this week!](https://us.prairielearn.com/pl/course_instance/183466/assessment/2586961))<br> [PL HW 5](https://us.prairielearn.com/pl/course_instance/183466/assessment/2554880)<br> Quiz 5|No class|[Proofs about graphs by induction](https://lgw2.github.io/teaching/csci332-fall-2025/lectures/graphs_5.pdf) worksheet [1](https://lgw2.github.io/teaching/csci332-fall-2025/lectures/induction_ws_1.pdf) [2](https://lgw2.github.io/teaching/csci332-fall-2025/lectures/induction_ws_2.pdf) [3](https://lgw2.github.io/teaching/csci332-fall-2025/lectures/induction_ws_3.pdf)|[Quiz 5](https://lgw2.github.io/teaching/csci332-fall-2025/quizzes/quiz5.pdf) + [Dijkstra's algorithm intro](https://lgw2.github.io/teaching/csci332-fall-2025/lectures/dijkstra_1.pdf)|4|Proof by induction (see [here](https://cs.carleton.edu/faculty/dln/book/ch05_mathematical-induction_2021_September_08.pdf))|
 |6 (9/29-10/3)|HW 5 ([pdf](https://lgw2.github.io/teaching/csci332-fall-2025/homework/hw_5.pdf), [LaTeX source](https://lgw2.github.io/teaching/csci332-fall-2025/homework/hw_5.tex))<br> No PL<br> Exam 1|[Dijkstra's algorithm](https://lgw2.github.io/teaching/csci332-fall-2025/lectures/dijkstra_2.pdf) [graphs handout](https://lgw2.github.io/teaching/csci332-fall-2025/lectures/graphs_for_dijkstra.pdf) [table handout](https://lgw2.github.io/teaching/csci332-fall-2025/lectures/table_for_dijkstra.pdf)|[Exam 1 practice 2](https://lgw2.github.io/teaching/csci332-fall-2025/exams/exam1_practice2.pdf)|Exam 1 [info](https://lgw2.github.io/teaching/csci332-fall-2025/exams/exam1) [practice 1](https://lgw2.github.io/teaching/csci332-fall-2025/exams/exam1_practice1.pdf)|1-4|
 |7 (10/6-10/10)|No written HW <br> [PL HW 6](https://us.prairielearn.com/pl/course_instance/183466/assessment/2554881)<br> Quiz 6|[Greedy algorithms](https://lgw2.github.io/teaching/csci332-fall-2025/lectures/greedy_1.pdf)|[Greedy algorithms](https://lgw2.github.io/teaching/csci332-fall-2025/lectures/greedy_2.pdf)|[Quiz 6](https://lgw2.github.io/teaching/csci332-fall-2025/quizzes/quiz6.pdf) + [closing out greedy](https://lgw2.github.io/teaching/csci332-fall-2025/lectures/greedy_3.pdf)|5|
-|8 (10/13-10/17)|[HW 6](https://lgw2.github.io/teaching/csci332-fall-2025/homework/hw_6.pdf), [LaTeX source](https://lgw2.github.io/teaching/csci332-fall-2025/homework/hw_6.tex)<br> [Mid-semester survey](https://canvas.umt.edu/courses/22384/quizzes/137859)|Indigenous Peoples' Day--no class|Divide and conquer|More divide and conquer|5|
+|8 (10/13-10/17)|[HW 6](https://lgw2.github.io/teaching/csci332-fall-2025/homework/hw_6.pdf), [LaTeX source](https://lgw2.github.io/teaching/csci332-fall-2025/homework/hw_6.tex)<br> [Mid-semester survey](https://canvas.umt.edu/courses/22384/quizzes/137859)|Indigenous Peoples' Day--no class|[Divide and conquer](https://lgw2.github.io/teaching/csci332-fall-2025/lectures/divide_and_conquer_1.pdf)|More divide and conquer|5 (but perhaps more closely aligned with chapter 1 [here](https://jeffe.cs.illinois.edu/teaching/algorithms/))|
 |9 (10/20-10/24)|HW 7<br> PL HW 7<br> Quiz 7|Divide and conquer|Divide and conquer|Quiz 7 + dynamic programming|6|
 |10 (10/27-10/31)|HW 8<br> PL HW 8<br> Quiz 8|Dynamic programming|Dynamic programming|Quiz 8||
 |11 (11/3-11/7)|Written HW 9 <br> No PL<br> Exam 2|Review|Exam 2 practice|Exam 2|7|
@@ -89,12 +89,14 @@ you will lose your participation points for the day if you are using them when t
 
 ## Course resources
 
-### Textbook
+### Textbooks
 
 The textbook for this course is Algorithm Design by Jon Kleinberg and Eva
 Tardos. New copies of the textbook are available in the bookstore, but you may
 also obtain the textbook in other ways. Either first or second edition is fine. Please let me know
 if you want access to the textbook but do not have it.
+
+A secondary textbook for this course is Jeff Erickson's [Algorithms](https://jeffe.cs.illinois.edu/teaching/algorithms/), available for free online.
 
 ### Lecture videos
 
@@ -109,6 +111,7 @@ Most CS departments teach a course similar to this one, and many use the same te
 lecture videos and other materials from other similar courses here in case you find them useful:
 
 * Davidson College Fall 2022 Analysis of Algorithms [lecture videos](https://www.youtube.com/playlist?list=PLgPbN3w-ia_MzatWGASfuPg9hon_Fsz1V)
+* University of Illinois, Urbana-Champagne Algorithms and Models of computation [course website](https://courses.grainger.illinois.edu/cs374al1/fa2023/). Second half of course covers similar material to our course.
 
 ### Discord
 
