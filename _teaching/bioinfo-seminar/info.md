@@ -67,19 +67,19 @@ will have two leaders, who will lead two weeks of discussion of the paper.
 
 ## Fall 2025 schedule
 
-| Meeting date|paper|
+| Meeting date|paper|leaders|
 |:---|:---|
 | n/a (8/25–8/29) |No meeting; see Discord for organizational tasks such as choosing a weekly meeting time, signing up for discussion leadership, etc.|
-|9/5 |Paper 1--[Floria: fast and accurate strain haplotyping in metagenomes](https://academic.oup.com/bioinformatics/article/40/Supplement_1/i30/7700908) (Afra and McKayl)|
+|9/5 |Paper 1--[Floria: fast and accurate strain haplotyping in metagenomes](https://academic.oup.com/bioinformatics/article/40/Supplement_1/i30/7700908)|Afra and McKayl|
 |9/12 |Paper 1|
 |9/19 |Paper 1|
-|9/26|Paper 2--[Sketching and Sublinear Data Structures in Genomics](https://www.annualreviews.org/content/journals/10.1146/annurev-biodatasci-072018-021156) (Jack and Jose)|
+|9/26|Paper 2--[Sketching and Sublinear Data Structures in Genomics](https://www.annualreviews.org/content/journals/10.1146/annurev-biodatasci-072018-021156)|Jack and Jose|
 |10/3 |Paper 2|
-|10/10 |Paper 3--[Kraken: ultrafast metagenomic sequence classification using exact alignments](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2014-15-3-r46) (Rusty, Grant, and Alex)|
-|10/17 |Paper 3|
-|10/24 |Paper 4|
-|10/31|Paper 4|
-|11/7|Paper 5|
+|10/10 |Paper 3--[Kraken: ultrafast metagenomic sequence classification using exact alignments](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2014-15-3-r46)|Rusty, Grant, and Alex|
+|10/17 |No meeting|
+|10/24 |Paper 3|
+|10/31|No meeting|
+|11/7|Paper 4|Jose, Jack, tbd|
 |11/14 |Paper 5|
 |11/21 |Paper 6|
 |11/28 |No meeting--Thanksgiving|
