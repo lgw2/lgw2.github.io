@@ -130,7 +130,7 @@ in-class activities and hold a weekly course help hour.
 
 ## Course help hours (aka office hours)
 
-Instructor course help hours will be Monday 2-3pm and Thursday 10-11am in Social Sciences 402 (the CS conference room).
+Instructor course help hours will be Monday 2-3pm, Tuesday 3:30-4:30pm, and Friday 9-10am in Social Sciences 402 (the CS conference room).
 No course help hours Monday, August 25th, but please DM Lucy on Discord if you have a question or would like to set up a Zoom meeting.
 
 Learning assistant Kyle will hold a course help hours on Wednesday 2-3 and Friday 11-12.
