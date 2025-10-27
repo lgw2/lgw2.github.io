@@ -24,7 +24,7 @@ To use LaTeX source files for written homework, you will need these two style fi
 |7 (10/6-10/10)|No written HW <br> [PL HW 6](https://us.prairielearn.com/pl/course_instance/183466/assessment/2554881)<br> Quiz 6|[Greedy algorithms](https://lgw2.github.io/teaching/csci332-fall-2025/lectures/greedy_1.pdf)|[Greedy algorithms](https://lgw2.github.io/teaching/csci332-fall-2025/lectures/greedy_2.pdf)|[Quiz 6](https://lgw2.github.io/teaching/csci332-fall-2025/quizzes/quiz6.pdf) + [closing out greedy](https://lgw2.github.io/teaching/csci332-fall-2025/lectures/greedy_3.pdf)|5|
 |8 (10/13-10/17)|[HW 6](https://lgw2.github.io/teaching/csci332-fall-2025/homework/hw_6.pdf), [LaTeX source](https://lgw2.github.io/teaching/csci332-fall-2025/homework/hw_6.tex)<br> [Mid-semester survey](https://canvas.umt.edu/courses/22384/quizzes/137859)|Indigenous Peoples' Day--no class|[Divide and conquer](https://lgw2.github.io/teaching/csci332-fall-2025/lectures/divide_and_conquer_1.pdf)|No class|5 (but perhaps more closely aligned with chapter 1 [here](https://jeffe.cs.illinois.edu/teaching/algorithms/))|
 |9 (10/20-10/24)|No written HW<br>[PL HW 7](https://us.prairielearn.com/pl/course_instance/183466/assessment/2554481)<br> Quiz 7|[Divide and conquer runtimes](https://lgw2.github.io/teaching/csci332-fall-2025/lectures/divide_and_conquer_2.pdf)|[Divide and conquer multiplication](https://lgw2.github.io/teaching/csci332-fall-2025/lectures/divide_and_conquer_3.pdf)|[Quiz 7](https://lgw2.github.io/teaching/csci332-fall-2025/quizzes/quiz7.pdf) + [Karatsuba's algorithm](https://lgw2.github.io/teaching/csci332-fall-2025/lectures/divide_and_conquer_4.pdf)|5 (but perhaps more closely aligned with chapter 1 [here](https://jeffe.cs.illinois.edu/teaching/algorithms/))|
-|10 (10/27-10/31)|["Written" HW 7](https://us.prairielearn.com/pl/course_instance/183466/assessment/2602562)<br> PL HW 8<br> Quiz 8|Dynamic programming|Dynamic programming|Quiz 8||
+|10 (10/27-10/31)|["Written" HW 7](https://us.prairielearn.com/pl/course_instance/183466/assessment/2602562)<br> PL HW 8<br> Quiz 8|[Dynamic programming](https://lgw2.github.io/teaching/csci332-fall-2025/lectures/dp_1.pdf)|Dynamic programming|Quiz 8||
 |11 (11/3-11/7)|Written HW 8 <br> No PL<br> Exam 2|Review|Exam 2 practice|Exam 2|7|
 |12 (11/10-11/14)|No written HW<br> PL HW 9<br> Quiz 9|Network flow|Applications of network flow|Quiz 9 + more network flow|7|
 |13 (11/17-11/21)|Written HW 9<br> PL HW 10<br> Quiz 10|P vs. NP|P vs. NP|Quiz 10 + more P vs. NP|8|
@@ -154,7 +154,7 @@ to post in `#errors-in-course-materials` if you think this is the case.) Try to
 identify where your understanding breaks down and formulate a question you can
 either answer for yourself using resources like the textbook, lecture
 notes/videos, other online resources, or ask your question in the `#questions`
-channel in the Discord or attend course help hours. 
+channel in the Discord or attend course help hours.
 
 You can access
 the PrairieLearn problem sets [here](https://us.prairielearn.com/pl/course_instance/183466). You
@@ -182,7 +182,7 @@ Written homework will be due on Mondays [anywhere on Earth](https://time.is/Anyw
 Submit your written homework on Gradescope. Go to [gradescope.com](https://www.gradescope.com) and sign up using entry code `5RN3K2`.
 
 Written homework will generally consist of one or two proof or algorithm-development related problems, designed to push your understanding
-of the material covered in the previous week. 
+of the material covered in the previous week.
 
 You are encouraged to write your homework using LaTex, a typesetting program
 that is popular in computer science research. [Overleaf](https://www.overleaf.com) is an online LaTeX
