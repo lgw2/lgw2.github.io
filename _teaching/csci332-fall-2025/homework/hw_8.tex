@@ -1,0 +1,95 @@
+% ---------
+% --------
+%!TEX TS-program = pdflatex
+%!TEX encoding = UTF-8 Unicode
+%!TEX spellcheck = English (Aspell)
+
+\documentclass[11pt]{article}
+\usepackage{jeffe,handout,graphicx}
+\usepackage{fourier-orns}
+\usepackage{mathtools}
+\usepackage[normalem]{ulem} % either use this (simple) or
+\usepackage{tikz}
+
+\def\Cdot{\mathbin{\text{\normalfont \textbullet}}}
+\def\Sym#1{\texttt{\color{BrickRed}#1}}
+\def\BlueSym#1{\textbf{\texttt{\color{RoyalBlue}#1}}}
+\allowdisplaybreaks
+
+\begin{document}
+
+\begin{center}
+\Large\textbf{CSCI 332, Fall 2025}%
+\\
+\LARGE\textbf{Homework 8}%
+\\[0.5ex]
+\large Due Monday, November 3 Anywhere on Earth (6am Tuesday)
+\end{center}
+
+\bigskip
+\hrule
+\bigskip
+
+\subsection*{Submission Requirements}
+\begin{itemize}
+    \item Type or clearly hand-write your solutions into a PDF format so that they are legible and professional. Submit your PDF on Gradescope. 
+    \item Do not submit your first draft. Type or clearly re-write your solutions for your final submission. If your submission is not legible, we will ask you to resubmit.
+    \item Use Gradescope to assign problems to the correct page(s) in your solution. If you do not do this correctly, we will ask you to resubmit.
+\end{itemize}
+
+\subsection*{Academic Integrity}
+
+Remember, you may access \EMPH{any} resource in preparing your solution to the homework. However, you \EMPH{must}
+\begin{itemize}
+    \item write your solutions in your own words, and
+    \item credit every resource you use (for example: ``Bob Smith helped me on
+    this problem. He took this course at UM in Fall 2020''; ``I found a solution
+    to a problem similar to this one in the lecture notes for a different
+    course, found at this link: www.profzeno.com/agreatclass/lecture10''; ``I
+    asked ChatGPT how to solve  part (c)"; ``I put my solution for part (c) into
+    ChatGPT to check that it was correct and it caught a missing case.'') If you
+    use the provided LaTeX template, you can use the \texttt{sources}
+    environment for this. Ask if you need help!
+\end{itemize}
+
+
+
+\newpage
+%----------------------------------------------------------------------
+
+\headers{CSCI 332}{Homework 8 (due November 3)}{Fall 2025}
+
+
+This written homework will extend on the PrairieLearn assignment's final problem:
+
+You are given a sequence of digits $A[1..n]$ where each digit is between 1 and 9
+(inclusive). You are asked to insert $+$ signs in between the digits to partition them
+into terms which will be added together. The length of each term in the summation
+must be either 1 or 2 digits.
+
+What is the maximum sum that can be achieved under these constraints?
+
+For example, if $A=[1,9,1,2]$, the maximum sum is 1 + 91 + 2 = 94.
+
+\begin{enumerate}
+
+\item (0.5 point) The PrairieLearn assignment asked you to write a viable subproblem definition
+that can be used to solve this problem. Copy your subproblem definition here.
+
+\item (0.5 point) Write a recursive definition for your subproblem. Make sure to include base case(s) as needed!
+
+\item (0.5 point) Describe how you will memoize your recursive solution. What data structure will you use and
+in what order will you fill it?
+
+\item (1.5 points) Write pseudocode for a dynamic programming algorithm that uses your
+subproblem definition to solve the problem.
+
+\item (1.5 points) Implement your pseudocode in the programming language of your choice and use your implementation to
+verify that your algorithm is correct. This means that you should run your code on a few examples.
+Copy your code and the output on your examples here.
+
+\item (0.5 point) What outside resources did you use to help with this assignment?
+
+\end{enumerate}
+    %%%%%%%%%%%%%%%%%%%%
+    \end{document}
