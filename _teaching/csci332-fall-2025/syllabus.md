@@ -229,6 +229,13 @@ boost your exam grade.
 Your grade will be determined by your total score as follows:
 93+: A; 90+: A-; 87+: B+; 83+: B; 80+: B-; 77+: C+; 73+: C; 70+: C-; 67+: D+; 63: D; 60: D-.
 
+### Quiz and homework redos
+
+You may get up to 80% (regardless of your original score) on any homework or quiz by attending office hours
+(or asking for additional office hours) and talking through the problem (or perhaps an alternate version of the problem)
+with Lucy. You should try to understand the topic and where you went wrong beforehand, but you are encouraged to
+come and may still get the max points even if you still are confused when we start the conversation.
+
 ### Participation
 
 Your particiapation grade will be based on lecture attendance. You can make up
