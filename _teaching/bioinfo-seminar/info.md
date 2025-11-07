@@ -79,9 +79,9 @@ will have two leaders, who will lead two weeks of discussion of the paper.
 |10/17 |No meeting|
 |10/24 |Paper 3|
 |10/31|No meeting|
-|11/7|Paper 4|Jose, Jack, tbd|
-|11/14 |Paper 5|
-|11/21 |Paper 6|
+|11/7|[Accelerating ILP Solvers for Minimum Flow Decompositions Through Search Space and Dimensionality Reductions](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.SEA.2024.14)|Jose and Jack|
+|11/14 |[Seq: A High-Performance Language for Bioinformatics](https://dl.acm.org/doi/pdf/10.1145/3360551)|Grant and McKayl|
+|11/21 |Paper 6|Afra, Alex, and Rusty|
 |11/28 |No meeting--Thanksgiving|
 |12/5 |Paper 6|
 
