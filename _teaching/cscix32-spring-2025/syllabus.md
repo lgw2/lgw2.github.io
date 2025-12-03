@@ -37,15 +37,6 @@ Schedule subject to change. Lecture videos in this [Panopto folder](https://umon
 PREREQUISITE: CSCI 332.
 Advanced algorithm and data structure concepts, including theory, approximation algorithms, randomized algorithms, parallel algorithms, streaming algorithms, linear programming.
 
-## Course outcomes
-
-After completing this course, a student should be able to:
-* Explain and apply advanced algorithm and data structure design strategies;
-* Explain and apply approximation algorithms;
-* Explain and apply parallel algorithms;
-* Explain and apply randomized algorithms;
-* Explain and apply special topics, such as Quantum and DNA-based algorithms.
-
 ## Course info
 
 This course meets in Social Sciences 362 on Tuesdays and Thursdays from
