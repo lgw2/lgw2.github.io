@@ -220,7 +220,8 @@ We will be following up with students who we believe have copied their homework 
 
 You will be graded on the following:
 * 45% exams: three in-class exams throughout the semester, worth 15% each. The final is cumulative but optional and can be taken to
-boost your exam grade.
+boost your exam grade. In particular, your exam grade will be the maximum of
+the average of your three midterm exams and your final.
 * 30% weekly quizzes
 * 10% written homework
 * 10% participation (recorded via attendance)
