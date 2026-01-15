@@ -1,5 +1,5 @@
 ---
-title: "test"
+title: "Research Opportunities for Undergrads""
 collection: research
 ---
 
@@ -33,3 +33,13 @@ institution will be asked to contribute 50% of the above stipend in match
 support;  Please contact Sarah Codd (scodd@montana.edu) if interested, as the
 UM VPR Office may be able to help with this match commitment  in some cases.
 
+### REUs
+
+TECBio: https://www.tecbioreu.pitt.edu/. Due Feb 13.
+
+Cell signalling at Cornell:
+https://cals.cornell.edu/molecular-biology-genetics/academics/undergraduate/summer-research-experience-for-undergraduates-reu-program.
+Due Feb 1.
+
+Or search all REU sites: https://www.nsf.gov/funding/initiatives/reu/search.
+Keyword search is pretty good!
