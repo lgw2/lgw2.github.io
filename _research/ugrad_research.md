@@ -28,10 +28,6 @@ If the research will be conducted away from the home institution, limited
 funding to cover shared dorm room or other economy accommodation for the
 specified 10-week program may be covered by Montana INBRE upon request, funding
 and housing availability permitting
-For students applying to conduct research at UM in Missoula, UM mentors /
-institution will be asked to contribute 50% of the above stipend in match
-support;  Please contact Sarah Codd (scodd@montana.edu) if interested, as the
-UM VPR Office may be able to help with this match commitment  in some cases.
 
 ### REUs
 
