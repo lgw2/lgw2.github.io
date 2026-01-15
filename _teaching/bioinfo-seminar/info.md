@@ -70,6 +70,7 @@ will have two leaders, who will lead two weeks of discussion of the paper.
 | Meeting date|paper|leaders|
 |:---|:---|
 | n/a (1/12–1/16) |No meeting; fill out availability form on Canvas| |
+| tbd |No paper; discussion about how to read research papers + leadership signup| |
 
 ## Fall 2025 schedule
 
