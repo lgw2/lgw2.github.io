@@ -65,6 +65,12 @@ will have two leaders, who will lead two weeks of discussion of the paper.
     well and (2) something you are still confused about or would like to learn
     more about regarding the paper.
 
+## Spring 2026 schedule
+
+| Meeting date|paper|leaders|
+|:---|:---|
+| n/a (1/12–1/16) |No meeting; fill out availability form on Canvas| |
+
 ## Fall 2025 schedule
 
 | Meeting date|paper|leaders|
