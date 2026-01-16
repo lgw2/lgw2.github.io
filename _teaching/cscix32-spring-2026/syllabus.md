@@ -15,10 +15,10 @@ Schedule subject to change. Lecture videos in this [Panopto folder](https://umon
 |:---|:---|:---|:---|:---|:---|:---|
 | 1 | 1/12-1/16 |   |   |   |   | Course intro  |
 | 2 |1/19-1/23 |Optional: PL 0 |MLK Day: no class  | no problem session | Recursively-defined structures | |
-| 3 |1/26-1/30 |HW 1 & PL 1 |Languages and regular expressions| |DFAs| |
+| 3 |1/26-1/30 |HW 1 & PL 1 (Monday) <br> Peer Feedback 1 (Wednesday) <br> HW 1 rewrite (Friday)|Languages and regular expressions| |DFAs| |
 | 4 |2/2-2/6   |HW 2 & PL 2 |More DFAs|   |Proving non-regularity | |
 | 5 |2/9-2/13 |HW 3 & PL 3   |NFAs, proving automatic=regular, and language transformations   |   | CFGs  |   |
-| 6 |2/16-2/20 |   |Pres Day: no class   |   |TMs   |   |
+| 6 |2/16-2/20 |   |Pres Day: no class   |no problem session   |TMs   |   |
 | 7 |2/23-2/27 |   | Undecidability  |   |More on decidability   |   |
 | 8 |3/2-3/6   |   |NP-hardness|   |NP-hardness reductions|   |
 | 9 |3/9-3/13 |   |NP-hardness reductions|   | | |
