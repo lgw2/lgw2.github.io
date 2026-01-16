@@ -14,10 +14,10 @@ Schedule subject to change. Lecture videos in this [Panopto folder](https://umon
 | Week Number| Dates| Due this week| Monday (lecture) | Problem Session | Wednesday (lecture) | Friday (psession/lecture) |
 |:---|:---|:---|:---|:---|:---|:---|
 | 1 | 1/12-1/16 |   |   |   |   | Course intro  |
-| 2 |1/19-1/23 |PL HW 1 (Friday)   |MLK Day: no class  | no problem session | Recursively-defined structures | |
-| 3 |1/26-1/30 |HW 1 (Monday)<br> PL HW 2 (Friday) |Languages and regular expressions| |DFAs| |
-| 4 |2/2-2/6   |HW 2 (Friday)<br> PL HW 3 (Friday) |More DFAs|   |Proving non-regularity | |
-| 5 |2/9-2/13 |   |NFAs, proving automatic=regular, and language transformations   |   | CFGs  |   |
+| 2 |1/19-1/23 |Optional: PL 0 |MLK Day: no class  | no problem session | Recursively-defined structures | |
+| 3 |1/26-1/30 |HW 1 & PL 1 |Languages and regular expressions| |DFAs| |
+| 4 |2/2-2/6   |HW 2 & PL 2 |More DFAs|   |Proving non-regularity | |
+| 5 |2/9-2/13 |HW 3 & PL 3   |NFAs, proving automatic=regular, and language transformations   |   | CFGs  |   |
 | 6 |2/16-2/20 |   |Pres Day: no class   |   |TMs   |   |
 | 7 |2/23-2/27 |   | Undecidability  |   |More on decidability   |   |
 | 8 |3/2-3/6   |   |NP-hardness|   |NP-hardness reductions|   |
@@ -32,11 +32,6 @@ Schedule subject to change. Lecture videos in this [Panopto folder](https://umon
 | | (5/4-5/8)  |   |final period 10:10-12:10 (project presentations)   |   |   |   |
 
 
-## Catalog description
-
-3 Credits.
-PREREQUISITE: CSCI 332.
-Advanced algorithm and data structure concepts, including theory, approximation algorithms, randomized algorithms, parallel algorithms, streaming algorithms, linear programming.
 
 ## Course info
 
@@ -70,6 +65,12 @@ CSCI 432/532 can expect to do the following:
     of problems and advanced algorithms topics
     in writing, discussion, and presentation.
 
+### Catalog description
+
+3 Credits.
+PREREQUISITE: CSCI 332.
+Advanced algorithm and data structure concepts, including theory, approximation algorithms, randomized algorithms, parallel algorithms, streaming algorithms, linear programming.
+
 ## Course resources
 
 ### Canvas
@@ -85,8 +86,9 @@ In the first half of the course, we will be working through concepts in
 computer science theory. The best way to understand these concepts is through
 practice and discussion. In order to provide you as much support as possible,
 I will schedule and lead two weekly problem sessions where we will work through
-problems that are similar to the homework that you turn in every Monday. These
-are not strictly required, but you earn some participation points by attending, and
+problems that are similar to the homework that you turn in every Monday. The outside-of-class
+problem session is
+not strictly required, but you earn some participation points by attending, and
 if you attend these problem sessions the homework should be much easier to
 complete. Solutions will be shared after the problem sessions
 are completed. The problem session for Monday's lecture will be scheduled
@@ -97,11 +99,11 @@ Please fill out this poll during the first week of class to help schedule
 the problem session for Monday lecture: <https://whenisgood.net/dgn38kf>. 
 We will have time for this during the first day.
 
-### Textbook
+### Textbook and other notes
 
 There is no required textbook for this course; notes from various sources will be on the schedule above for each lecture as needed.
 However, if you would like to consult additional resources, I can recommend a number of popular textbooks in this field, many
-of which are available for free online.
+of which are available for free online. If you find a new resource that should be added to this list, please let me know!
 
 * [Jeff Erickson's Algorithms Notes](http://jeffe.cs.illinois.edu/teaching/algorithms/). We follow the
 *Models of Computation* notes in the first half of this class and
@@ -118,6 +120,7 @@ and has inspired some changes to our course for 2025.
 * [Ryan O'Donnell's Quantum Computing in 100 Easy Lessons](https://www.youtube.com/playlist?list=PLm3J0oaFux3bF48kurxGR6jrmPaQf6lkN). Recordings of
     lectures from a quantum computing course from Carnegie Mellon, coming from
     a computer science theory perspective (as in this course).
+* [Ryan Dougherty's EasyTheory youtube channel](https://www.youtube.com/c/EasyTheory). Previous students have found these videos helpful for the theory portion of the course.
 
 ### Lecture videos
 
