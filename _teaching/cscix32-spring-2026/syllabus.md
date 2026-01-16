@@ -13,7 +13,7 @@ Schedule subject to change. Lecture videos in this [Panopto folder](https://umon
 
 | Week Number| Dates| Due this week| Monday (lecture) | Problem Session | Wednesday (lecture) | Friday (psession/lecture) |
 |:---|:---|:---|:---|:---|:---|:---|
-| 1 | 1/12-1/16 |   |   |   |   | course intro  |
+| 1 | 1/12-1/16 |   |   |   |   | Course intro  |
 | 2 |1/19-1/23 |PL HW 1 (Friday)   |MLK Day: no class  | no problem session | Recursively-defined structures | |
 | 3 |1/26-1/30 |HW 1 (Monday)<br> PL HW 2 (Friday) |Languages and regular expressions| |DFAs| |
 | 4 |2/2-2/6   |HW 2 (Friday)<br> PL HW 3 (Friday) |More DFAs|   |Proving non-regularity | |
@@ -40,7 +40,7 @@ Advanced algorithm and data structure concepts, including theory, approximation 
 
 ## Course info
 
-This course meets in Social Sciences 362 on Mondays, Wednesdays, and Fridays from 9:00-9:50am.
+This course meets in Social Sciences 344 on Mondays, Wednesdays, and Fridays from 9:00-9:50am.
 
 This course will have two parts: in the first half, we will work to understand
 what is computable and how fast using computer science theory developed in
@@ -57,18 +57,18 @@ Building on the CSCI 332 (Advanced Algorithms and Data Structures)
 [course outcomes](https://lgw2.github.io/teaching/csci332-fall-2025/syllabus/#course-outcomes), students in
 CSCI 432/532 can expect to do the following:
 
-* appreciate the history and development of the field of computer science, from
-    ancient times, the 20th century, and today
-* understand a variety of models of computation and how to show that a problem
-    is computable (or not) within that model
-* be able to prove problems are in various complexity classes (P, NP,
-    NP-hard, NP-complete, etc.)
-* understand a variety of modern advanced algorithm topics (e.g., linear
+* Appreciate the history and development of the field of computer science, from
+    ancient times, the 20th century, and today.
+* Understand a variety of models of computation and how to show that a problem
+    is computable (or not) within that model.
+* Be able to prove problems are in various complexity classes (P, NP,
+    NP-hard, NP-complete, etc.).
+* Understand a variety of modern advanced algorithm topics (e.g., linear
     programming, streaming algorithms, text indexing, encryption, quantum
-    computing algorithms, etc.)
-* communicate effectively about the computability and complexity
+    computing algorithms, etc.).
+* Communicate effectively about the computability and complexity
     of problems and advanced algorithms topics
-    in writing, discussion, and presentation
+    in writing, discussion, and presentation.
 
 ## Course resources
 
@@ -104,7 +104,8 @@ However, if you would like to consult additional resources, I can recommend a nu
 of which are available for free online.
 
 * [Jeff Erickson's Algorithms Notes](http://jeffe.cs.illinois.edu/teaching/algorithms/). We follow the
-*Models of Computation* notes at the bottom of the page in the first half of this class.
+*Models of Computation* notes in the first half of this class and
+some of the *More Algorithms Lecture Notes* in the second half.
 * [Avi Wigderson's *Mathematics and Computation*](https://www.math.ias.edu/avi/book). Avi is one of the most
 prolific computer science theorists of the modern age. He won the ACM Turing
 award in 2023. His book offers a broad perspective on computer science theory
@@ -152,7 +153,7 @@ Office hours for Spring 2026 are TBD.
 
 You will be graded on the following:
 * 20% prairie learn homework problems
-* 40% written homework problems
+* 40% written homework problems (including peer review)
 * 30% project
 * 10% class participation
 
@@ -173,9 +174,7 @@ quarter of a point. Only the first person to post about an error gets the points
 
 #### Course survey and evaluation
 
-If 100% of the class completes the mid-semester course survey, the whole
-class gets 1 bonus point. Same goes for the course evaluation at the end of the
-semester.
+Completing the mid-semester survey and the course evaluation earn you one bonus point each.
 
 ## Accessibility statement
 
