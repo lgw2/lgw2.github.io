@@ -1,9 +1,6 @@
 ---
-permalink: /
+permalink: /about/
 author_profile: true
-redirect_from:
-  - /about/
-  - /about.html
 ---
 
 I am an assistant professor in computer science at the University of Montana
