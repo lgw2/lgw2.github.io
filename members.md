@@ -80,12 +80,12 @@ nav_order: 3
       <img src="/images/members/grant.jpg" alt="Grant Smith">
     </div>
     <div class="member-content">
-      <h3>Grant Smith</h3>
+      <h3>Grant Michael Smith</h3>
       <p class="member-role">Undergraduate Student</p>
       <div class="member-interests">
-        <strong>Interests:</strong> Machine learning applications
+        <strong>Interests:</strong> Cell Signaling, Discrete Mathmatics, Simulations
       </div>
-      <p class="member-bio">Placeholder text about interests...</p>
+      <p class="member-bio">Life long progammer now doing research</p>
     </div>
   </div>
   
