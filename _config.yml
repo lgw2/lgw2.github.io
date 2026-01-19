@@ -6,108 +6,42 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale: "en-US"
 title: "UMAAL"
-title_separator: "-"
-description: &description "University of Montana Lab Focuses on Understanding the world through Computer Science"
+remote_theme: daattali/beautiful-jekyll
+description: "University of Montana Lab Focuses on Understanding the world through Computer Science"
 url: "" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
-repository: "lgw2.github.io"
-teaser: # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs: false # true, false (default)
-words_per_minute: 160
-future: true
-read_more: "disabled" # if enabled, adds "Read more" links to excerpts
-comments:
-  provider: # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
-  disqus:
-    shortname:
-  discourse:
-    server: # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    appid:
-    num_posts: # 5 (default)
-    colorscheme: # "light" (default), "dark"
-staticman:
-  allowedFields: ["name", "email", "url", "message"]
-  branch: "gh-pages" # "master", "gh-pages"
-  commitMessage: "New comment."
-  filename: comment-{@timestamp}
-  format: "yml"
-  moderation: true
-  path: "_data/comments/{options.slug}"
-  requiredFields: ["name", "email", "message"]
-  transforms:
-    email: "md5"
-  generatedFields:
-    date:
-      type: "date"
-      options:
-        format: "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
-atom_feed:
-  path: # blank (default) uses feed.xml
 
-# SEO Related
-google_site_verification:
-bing_site_verification:
-alexa_site_verification:
-yandex_site_verification:
-
-# Social Sharing
-twitter:
-  username: #&twitter
-facebook:
-  username:
-  app_id:
-  publisher:
-og_image: # Open Graph/Twitter default site image
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type: # Person or Organization (defaults to Person)
-  name: # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
-
-# Analytics
-analytics:
-  provider: "google-universal" # false (default), "google", "google-universal", "custom"
-  google:
-    tracking_id:
+# Beautiful Jekyll specific settings
+show_downloads: false
+plugins:
+  - jekyll-feed
+  - jekyll-redirect-from
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-remote-theme
 
 # Site Author
 author:
   name: "Lucia Williams"
-  avatar: "profile.png"
+  avatar: "/images/profile.png"
   bio: ""
-  location:
-  employer: "University of Montana"
-  googlescholar: "https://scholar.google.com/citations?user=2zn8lhsAAAAJ&hl=en&oi=ao"
+  location: "University of Montana"
   email: "lucia.williams@umt.edu"
-  uri:
-  bitbucket:
-  codepen:
-  dribbble:
-  flickr:
-  facebook:
-  foursquare:
-  github:
-  google_plus:
-  keybase:
-  instagram:
-  lastfm:
-  linkedin:
-  orcid:
-  pinterest:
-  soundcloud:
-  stackoverflow: # http://stackoverflow.com/users/123456/username
-  steam:
-  tumblr:
-  twitter:
-  vine:
-  weibo:
-  xing:
-  youtube:
-  wikipedia:
+  uri: ""
+  linkedin: ""
+  github: ""
+  twitter: ""
+  google_scholar: "https://scholar.google.com/citations?user=2zn8lhsAAAAJ&hl=en&oi=ao"
+
+# Navigation - Beautiful Jekyll uses pages for navigation
+# Make sure you have these pages: index.md, about.md, members.md, research.md, teaching.md
+
+# Social Sharing
+share: false # Disable social sharing buttons if not needed
+
+# Comments (optional)
+comments: false
 
 # Reading Files
 include:
@@ -179,129 +113,68 @@ collections:
     output: true
     permalink: /:collection/:path/
 
-# Defaults
+# Defaults - UPDATED for Beautiful Jekyll
 defaults:
   # _posts
   - scope:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: post
       author_profile: true
-      read_time: true
-      comments: true
       share: false
-      related: true
+      comments: false
   # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: page
+      author_profile: false
+  # Main pages (like index.md, about.md)
   - scope:
       path: ""
       type: pages
     values:
-      layout: single
-      author_profile: true
+      layout: page
+      author_profile: false
   # _teaching
   - scope:
-      path: ""
-      type: teaching
+      path: "_teaching"
     values:
-      layout: single
+      layout: page
       author_profile: false
       share: false
-      comments: true
+      comments: false
   # _research
   - scope:
-      path: ""
-      type: research
+      path: "_research"
     values:
-      layout: single
+      layout: page
       author_profile: false
       share: false
-      comments: true
+      comments: false
   # _publications
   - scope:
-      path: ""
-      type: publications
+      path: "_publications"
     values:
-      layout: single
+      layout: page
       author_profile: true
       share: false
-      comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: false
-      comment: true
+      comments: false
   # _talks
   - scope:
-      path: ""
-      type: talks
+      path: "_talks"
     values:
-      layout: talk
+      layout: page
       author_profile: true
       share: false
-
-# Sass/SCSS
-sass:
-  sass_dir: _sass
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 # Outputting
 permalink: /:categories/:title/
-# paginate: 5 # amount of posts to show
-# paginate_path: /page:num/
-timezone: America/Denver # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
-# Plugins
-gems:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jekyll-redirect-from
-# mimic GitHub Pages with --safe
-whitelist:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-plugins:
-  - jekyll-spaceship
-
-# Archives
-#  Type
-#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
-#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
-#  Path (examples)
-#  - Archive page should exist at path when using Liquid method or you can
-#    expect broken links (especially with breadcrumbs enabled)
-#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
-#  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
-#  - <base_path/my-awesome-category/index.html ~> path: /
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
-# https://github.com/jekyll/jekyll-archives
-# jekyll-archives:
-#   enabled:
-#     - categories
-#     - tags
-#   layouts:
-#     category: archive-taxonomy
-#     tag: archive-taxonomy
-#   permalinks:
-#     category: /categories/:name/
-#     tag: /tags/:name/
+timezone: America/Denver
 
 # HTML Compression
-# - http://jch.penibelst.de/
 compress_html:
   clippings: all
   ignore:
