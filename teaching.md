@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-with-nav
 title: "Classes"
 permalink: /teaching/
 nav: true

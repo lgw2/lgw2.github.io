@@ -1,5 +1,5 @@
 ---
-layout: page  
+layout: page-with-nav
 title: "Lab Members"
 permalink: /members/
 nav: true

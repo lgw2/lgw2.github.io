@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-with-nav
 title: "Lucia Williams"
 permalink: /about/
 nav: true
