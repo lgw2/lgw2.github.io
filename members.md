@@ -105,7 +105,7 @@ nav_order: 3
 
 </div>
 
-## Graduated Lab Members
+## Lab Alumni
 
 <div class="member-grid">
   
