@@ -1,9 +1,13 @@
 ---
 layout: page-with-nav
-title: "Lab Members"
+title: ""
 permalink: /members/
 nav: true
 nav_order: 3
 ---
 
-Content about lab members goes here...
+# Graduate Students
+
+# Undergraduate Students
+
+# Previous Lab Members

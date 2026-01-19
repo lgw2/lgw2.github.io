@@ -5,8 +5,9 @@ permalink: /research/
 nav: true
 nav_order: 4
 ---
-The focus of my work is the design and analysis of algorithms for practical
-problems, mostly in bioinformatics.
+The focus of our work is the design and analysis of algorithms for practical
+problems, mostly in bioinformatics. We also have more recent work with R, and
+cell signaling pathways.
 
 ## Network flow decomposition with application to multiassembly
 The decomposition of a flow network into a minimum number of paths is a NP-hard problem

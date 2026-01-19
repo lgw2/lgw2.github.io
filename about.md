@@ -1,6 +1,6 @@
 ---
 layout: page-with-nav
-title: "Lucia Williams"
+title: "Lucia Williams (PI)"
 permalink: /about/
 nav: true
 nav_order: 2
