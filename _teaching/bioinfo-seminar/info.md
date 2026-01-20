@@ -34,12 +34,11 @@ will have two leaders, who will lead two weeks of discussion of the paper.
     the paper (what problem is it solving? why was the problem previously
     unsolved? what allowed them to solve the problem? why do we care?) and give
     lots of opportunity for interaction and discussion.
-* Meet with your partner at least once to plan how you will lead
+* Meet with your partner(s) at least once to plan how you will lead
     discussion.
-* (At least) a few days before the meeting, send a message in Discord saying which
-    parts of the paper you will be focusing on and sharing any other
-    information you think will be helpful for the rest of the group to prepare
-    to have a productive discussion.
+* By Sunday night the week you are leading discussion, send a message in
+    Discord (1) telling the group what to prepare and (2) asking a question
+    that each non-leader can answer in a few sentences.
 
 ## If you are not a discussion leader
 
@@ -51,14 +50,7 @@ will have two leaders, who will lead two weeks of discussion of the paper.
     understand the paper, such as author talks on YouTube, explanation of topics you are
     unfamiliar with, or other related academic papers. If you find resources others might find
     helpful, feel free to post them in Discord!
-* Before the meeting, post a short paragraph about your interaction with the
-    paper so far, ideally specifically relating to the parts that the
-    discussion leaders told you to focus on. This could range from: "I don't understand a single thing
-    about this paper and here are some specific questions I have that I think
-    could help me at least start to understand it" to "this paper is
-    blowing my mind and here are my favorite things that the authors have done" or even "I totally forgot
-    to read the paper this week but will do my best to follow the discussion
-    anyway."
+* Before the meeting, answer the question posed by the leaders in Discord.
 * During the meeting, stay engaged with the discussion leaders and the group.
     Ask questions, share your thoughts or critiques of the paper, etc.
 * After the meeting, share (1) something you thought the discussion leaders did
@@ -69,8 +61,23 @@ will have two leaders, who will lead two weeks of discussion of the paper.
 
 | Meeting date|paper|leaders|
 |:---|:---|
-| n/a (1/12–1/16) |No meeting; fill out availability form on Canvas| |
-| tbd |No paper; discussion about how to read research papers + leadership signup| |
+|  |No meeting; fill out availability form on Canvas| |
+| 1/21 |No paper; discussion about how to read research papers + leadership signup| |
+| 1/28 | | |
+| 2/4 | | |
+| 2/11 | | |
+| 2/18 | | |
+| 2/25 | | |
+| 3/4 | | |
+| 3/11 | | |
+|  | No meeting, spring break! | |
+| 3/25 | | |
+| 4/1 | | |
+| 4/8 | | |
+| 4/15 | | |
+| 4/22 | | |
+| 4/29 | | |
+|  | No meeting, finals week! | |
 
 ## Fall 2025 schedule
 
