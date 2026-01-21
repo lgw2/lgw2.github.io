@@ -14,7 +14,7 @@ Schedule subject to change. Lecture videos in this [Panopto folder](https://umon
 | Week Number| Dates| Due this week| Monday (lecture) | Problem Session | Wednesday (lecture) | Friday (psession/lecture) |
 |:---|:---|:---|:---|:---|:---|:---|
 | 1 | 1/12-1/16 |   |   |   |   | Course intro  |
-| 2 |1/19-1/23 |Optional: [PL 0](https://us.prairielearn.com/pl/course_instance/206368/assessment/2634588) |MLK Day: no class  | no problem session | [Recursively-defined structures](https://lgw2.github.io/teaching/cscix32-spring-2026/lectures/01-strings.pdf) |[Problem session](https://lgw2.github.io/teaching/cscix32-spring-2026/problem_sessions/ps_wk1_1.pdf) |
+| 2 |1/19-1/23 |Optional: [PL 0](https://us.prairielearn.com/pl/course_instance/206368/assessment/2634588) |MLK Day: no class  | no problem session | [Recursively-defined structures](https://lgw2.github.io/teaching/cscix32-spring-2026/lectures/01-strings.pdf); [in-lecture notes](https://lgw2.github.io/teaching/cscix32-spring-2026/lectures/rec_structures.pdf) |[Problem session](https://lgw2.github.io/teaching/cscix32-spring-2026/problem_sessions/ps_wk1_1.pdf) |
 | 3 |1/26-1/30 |[HW 1](https://lgw2.github.io/teaching/cscix32-spring-2026/homework/hw1.pdf) & [PL 1](https://us.prairielearn.com/pl/course_instance/206368/assessment/2634589) (Monday) <br> HW 1 rewrite (optional) (Wednesday)|Languages and regular expressions| |DFAs| |
 | 4 |2/2-2/6   |HW 2 & PL 2 |More DFAs|   |Proving non-regularity | |
 | 5 |2/9-2/13 |HW 3 & PL 3   |NFAs, proving automatic=regular, and language transformations   |   | CFGs  |   |
