@@ -9,13 +9,13 @@ location: "Missoula, Montana"
 
 ## Course schedule
 
-Schedule subject to change. Lecture videos in this [Panopto folder](https://umontana.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=2e137ce4-9c01-4486-8d81-b3d0012fa1c6). 
+Schedule subject to change. Lecture videos in this [Panopto folder](https://umontana.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=2e137ce4-9c01-4486-8d81-b3d0012fa1c6). You can find LaTeX source files for all homework assignments in this [GitHub repository](
 
 | Week Number| Dates| Due this week| Monday (lecture) | Problem Session | Wednesday (lecture) | Friday (psession/lecture) |
 |:---|:---|:---|:---|:---|:---|:---|
 | 1 | 1/12-1/16 |   |   |   |   | Course intro  |
-| 2 |1/19-1/23 |Optional: PL 0 |MLK Day: no class  | no problem session | Recursively-defined structures | |
-| 3 |1/26-1/30 |HW 1 & PL 1 (Monday) <br> Peer Feedback 1 (Wednesday) <br> HW 1 rewrite (Friday)|Languages and regular expressions| |DFAs| |
+| 2 |1/19-1/23 |Optional: PL 0 |MLK Day: no class  | no problem session | [Recursively-defined structures](https://lgw2.github.io/teaching/cscix32-spring-2026/lectures/01-strings.pdf) | |
+| 3 |1/26-1/30 |[HW 1](https://lgw2.github.io/teaching/cscix32-spring-2026/homework/Homework_1.pdf) & [PL 1](https://us.prairielearn.com/pl/course_instance/206368/assessment/2634589) (Monday) <br> HW 1 rewrite (optional) (Wednesday)|Languages and regular expressions| |DFAs| |
 | 4 |2/2-2/6   |HW 2 & PL 2 |More DFAs|   |Proving non-regularity | |
 | 5 |2/9-2/13 |HW 3 & PL 3   |NFAs, proving automatic=regular, and language transformations   |   | CFGs  |   |
 | 6 |2/16-2/20 |   |Pres Day: no class   |no problem session   |TMs   |   |
