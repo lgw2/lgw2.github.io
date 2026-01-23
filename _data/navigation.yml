@@ -3,14 +3,8 @@ main:
   - title: "Home"
     url: /
 
-  - title: "Lucia Williams"
-    url: /about/
-
   - title: "Lab Members"
     url: /members/
 
   - title: "Research"
     url: /research/
-
-  - title: "Classes"
-    url: /teaching/
