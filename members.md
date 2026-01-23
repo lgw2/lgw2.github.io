@@ -122,6 +122,35 @@ nav_order: 3
       <p class="member-bio">Graduated [Year]. Currently [current position].</p>
     </div>
   </div>
+  
+  <div class="member-card alumni">
+    <div class="member-image">
+      <img src="/images/members/tim.jpg" alt="Tara">
+    </div>
+    <div class="member-content">
+      <h3>Tara</h3>
+      <p class="member-role">Alumni</p>
+      <div class="member-interests">
+        <strong>Former Research:</strong> [Research area]
+      </div>
+      <p class="member-bio">Graduated [Year]. Currently [current position].</p>
+    </div>
+  </div>
+
+  <div class="member-card alumni">
+    <div class="member-image">
+      <img src="/images/members/tim.jpg" alt="Jacob">
+    </div>
+    <div class="member-content">
+      <h3>Jacob</h3>
+      <p class="member-role">Alumni</p>
+      <div class="member-interests">
+        <strong>Former Research:</strong> [Research area]
+      </div>
+      <p class="member-bio">Graduated [Year]. Currently [current position].</p>
+    </div>
+  </div>
+
 
 </div>
 
