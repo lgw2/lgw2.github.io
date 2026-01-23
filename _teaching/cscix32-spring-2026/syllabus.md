@@ -148,9 +148,23 @@ option. You can log in
 with any Google or Microsoft email account; your UM email will work as a
 Microsoft account.
 
+### Peer feedback
+
+One of the goals of this course is to practice communicating facts and ideas about algorithms and computation. There are many forms
+in which you will need to communicate these things throughout your career: in informal conversations or messages with colleagues,
+in formal reports such academic papers, and in formal and informal presentations, to name a few.
+
+To help you practice your formal writing about algorithms and computation, for each written homework assignment, we will
+spend time in class having a peer read and provide feedback on one of your written solutions. The primary goal of this exercise
+is for you to understand how to present your ideas so that someone can understand them through your writing. A secondary goal is
+for you to get feedback on the correctness of your solutions.
+
+After receiving feedback, you may re-submit your homework until Wednesday morning
+to earn up to two additional points on that assignment out of 10, up to a maximum of 10 total points.
+
 ### Office hours
 
-Office hours for Spring 2026 are TBD.
+Office hours for Spring 2026 are after class on Fridays, 10-11am.
 
 ## Grading
 
