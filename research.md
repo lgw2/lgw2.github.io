@@ -1,79 +1,145 @@
 ---
 layout: page-with-nav
-title: "Research"
+title: "Projects"
 permalink: /research/
 nav: true
 nav_order: 4
 ---
-The focus of our work is the design and analysis of algorithms for practical
-problems, mostly in bioinformatics. We also have more recent work with R, and
-cell signaling pathways.
 
-## Network flow decomposition with application to multiassembly
-The decomposition of a flow network into a minimum number of paths is a NP-hard problem
-that is also a natural model for multiassembly problems like RNA transcript and viral
-quasispecies assembly. My dissertation addresses both practical and theoretical
-sides of this problem.
+<div class="member-grid">
+  
+  <div class="member-card">
+    <div class="member-image">
+      <img src="/images/fakeimage.png" alt="FVS">
+    </div>
+    <div class="member-content">
+      <h3> FindViralStrains</h3>
+      <p class="member-role">Ongoing Research</p>
+      <div class="member-interests">
+        <strong>Keywords:</strong> Viral Genomics, 
+      </div>
+      <p class="member-bio">Using ILP to examine de bruijn graphs and viral diversity</p>
+      
+    </div>
+  </div>
+  <div class="member-card">
+    <div class="member-image">
+      <img src="/images/fakeimage.png" alt="PTMS2PATHWAYS">
+    </div>
+    <div class="member-content">
+      <h3> PTMS2PATHWAYS</h3>
+      <p class="member-role">Ongoing Research</p>
+      <div class="member-interests">
+        <strong>Keywords:</strong> Cell Signaling Pathways, Mass Spectrometry, R Language
+      </div>
+      <p class="member-bio">Placeholder text</p>
+      
+    </div>
+  </div>
+  
+</div>
 
-### Under review:
+<style>
+/* Grid layout */
+.member-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 25px;
+  margin: 20px 0;
+}
 
-* Manuel Cáceres, Massimo Cairo, Andreas Grigorjew, Shahbaz Khan, Brendan Mumey, Romeo Rizzi, Alexandru I. Tomescu, Lucia Williams.
-"Width Helps and Hinders When Splitting Flows."
+/* Member card styling */
+.member-card {
+  background: white;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+  transition: transform 0.2s;
+  border: 1px solid #eee;
+}
 
-### Peer reviewed publications:
-* Fernando Dias, Lucia Williams, Alexandru I. Tomescu, Brendan Mumey.
-"[Fast, Flexible, and Exact Flow Decompositions via ILP](ilp.pdf),"
-Accepted at RECOMB 2022.
+.member-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 5px 15px rgba(0,0,0,0.15);
+}
 
-* Shahbaz Khan,  Milla Kortelainen, Manuel Cáceres, Lucia Williams, Alexandru I. Tomescu,
-"[Safety and Completeness in Flow Decompositions for RNA Assembly](safety.pdf),"
-Accepted at RECOMB 2022.
+.member-card.alumni {
+  opacity: 0.85;
+  background: #f9f9f9;
+}
 
-* Lucia Williams, Alexandru I. Tomescu, Brendan Mumey,
-“[Flow Decomposition With Subpath Constraints](subpath_constraints.pdf),”
-21st International Workshop on Algorithms in Bioinformatics (WABI),
-Aug. 20212.
+/* Image styling */
+.member-image {
+  height: 200px;
+  overflow: hidden;
+}
 
-* Lucia Williams, Gillian Reynold, Brendan Mumey,
-“[RNA Transcript Assembly Using Inexact Flows](inexact_flows.pdf),”
-IEEE International Conference on Bioinformatics and Biomedicine (BIBM),
-Nov. 2019.
+.member-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-bottom: 3px solid #3498db;
+}
 
-### Posters:
-* RECOMB 2019: "[Decomposing inexact flows with application to RNA transcript assembly](inexact_flows_poster.pdf)"
+.member-card.alumni .member-image img {
+  border-bottom-color: #95a5a6;
+}
 
-### General-audience presentations:
-* I was a finalist  at the Montana State University [Three Minute Thesis](https://threeminutethesis.uq.edu.au/higher-degrees-researchstart-your-3mt-journey-here) competition in February 2022.
-Here is my [single slide](slide.pdf) and [three minute talk script](script.pdf).
+/* Content styling */
+.member-content {
+  padding: 20px;
+}
 
+.member-content h3 {
+  margin: 0 0 5px 0;
+  color: #2c3e50;
+  font-size: 1.3em;
+}
 
-## Maximal haplotype blocks with unknowns and pangenome SNPs
-We are extending recent progress on the problem of finding maximal perfect
-haplotype blocks from a set of SNP-resolved haplotypes to include unknown data
-and to work in a pangenomic setting.
+.member-role {
+  color: #3498db;
+  font-weight: 600;
+  margin: 0 0 10px 0;
+  font-size: 0.95em;
+}
 
-### Peer reviewed publications:
-* Lucia Williams, Brendan Mumey, "[Maximal Perfect Haplotype Blocks with Wildcards](wildcard_haplotype_blocks.pdf),"
-iScience, vol 101149. 2020.
-* Lucia Williams, Brendan Mumey, "[Extending Maximal Perfect Haplotype Blocks
-to the Realm of Pangenomics](pangenome_haplotype_blocks.pdf)," Algorithms for Computational Biology (AlCoB)
-2020, Apr. 2020. Lecture Notes in Computer Science, vol 12099.
+.member-card.alumni .member-role {
+  color: #7f8c8d;
+}
 
-### Recorded talks:
-* Sequencing, Finishing and Analysis in the Future meeting, December 2020.
-	"[Investigating Selection in Pangenomes with Haplotype Blocks](https://youtu.be/A8NKUs8oVI4)."
+.member-interests {
+  background: #f8f9fa;
+  padding: 8px 12px;
+  border-radius: 5px;
+  margin: 10px 0;
+  font-size: 0.9em;
+  border-left: 3px solid #2ecc71;
+}
 
-## Shape reconstruction using topological descriptors
-We are developing algorithms to reconstruct shapes from topological descriptors such as persistence diagrams
-and Euler characteristic curves.
+.member-bio {
+  color: #555;
+  line-height: 1.5;
+  margin: 10px 0 0 0;
+  font-size: 0.95em;
+}
 
-### Peer reviewed publications:
-* Robin Lynne Belton, Brittany Terese Fasy, Rostik Mertz, Samuel Micka, David L. Millman, Daniel Salinas,
-Anna Schenfisch, Jordan Schupbach, Lucia Williams,
-“[Reconstructing Embedded Graphs from Persistence Diagrams](reconstruction.pdf),”
-*Computational Geometry*, 2020.
+/* Section headers */
+h2 {
+  color: #2c3e50;
+  margin-top: 40px;
+  padding-bottom: 10px;
+  border-bottom: 2px solid #eee;
+}
 
-### Workshop papers:
-* Brittany Terese Fasy, Samuel Micka, David L. Millman, Anna Schefisch, Lucia Williams,
-"[Challenges in Reconstructing Shapes from Euler Characteristic Curves](ecc.pdf)",
-in 28th Annual Fall Workshop on Computational Geometry.
+/* Responsive */
+@media (max-width: 768px) {
+  .member-grid {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+  
+  .member-image {
+    height: 180px;
+  }
+}
+</style>

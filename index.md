@@ -21,6 +21,11 @@ We are a bioinformatics lab at the University of Montana that was founded in 202
 math, computer science, and biology backgrounds. If you have questions about one of our papers, or would
 like to discuss something please contact the email below.
 
+
+# Lab News
+
+A few of our lab members will be presenting research at UMCUR, and the University of Montana in April of 2026!
+
 <style>
 .lab-header {
   display: flex;

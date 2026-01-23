@@ -14,7 +14,7 @@ nav_order: 3
   
   <div class="member-card">
     <div class="member-image">
-      <img src="/images/members/afra.jpg" alt="Afra N.">
+      <img src="/images/members/afra.jpg" alt="Afra">
     </div>
     <div class="member-content">
       <h3>Afra</h3>
@@ -28,7 +28,7 @@ nav_order: 3
 
   <div class="member-card">
     <div class="member-image">
-      <img src="/images/members/jack.jpg" alt="Jack dsflk">
+      <img src="/images/members/jack.jpg" alt="Jack">
     </div>
     <div class="member-content">
       <h3>Jack</h3>
@@ -91,10 +91,10 @@ nav_order: 3
   
   <div class="member-card">
   <div class="member-image">
-    <img src="/images/members/jose.jpg" alt="Maddy">
+    <img src="/images/members/jose.jpg" alt="Maddie">
   </div>
   <div class="member-content">
-    <h3>Maddy</h3>
+    <h3>Maddie</h3>
     <p class="member-role">Undergraduate Student</p>
     <div class="member-interests">
       <strong>Interests:</strong> ILP
