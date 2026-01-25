@@ -1,0 +1,1 @@
+Add links to lab member githubs and make research projects also clickable. Add lab github to the main page
