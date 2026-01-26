@@ -10,7 +10,7 @@ nav_order: 4
 
 <div class="member-grid">
   
-  <div class="member-card clickable-card" onclick="window.open('https://github.com/yourlab/findviralstrains', '_blank')" tabindex="0" role="button" aria-label="View FindViralStrains project">
+  <div class="member-card clickable-card" onclick="window.open('https://github.com/UM-Applied-Algorithms-Lab/FindViralStrains', '_blank')" tabindex="0" role="button" aria-label="View FindViralStrains project">
     <div class="member-image">
       <img src="/images/fakeimage.png" alt="FindViralStrains Project - Viral Genomics Research">
     </div>
@@ -25,7 +25,7 @@ nav_order: 4
     </div>
   </div>
   
-  <div class="member-card clickable-card" onclick="window.open('https://github.com/yourlab/ptms2pathways', '_blank')" tabindex="0" role="button" aria-label="View PTMS2PATHWAYS project">
+  <div class="member-card clickable-card" onclick="window.open('https://github.com/UM-Applied-Algorithms-Lab/PTMsToPathways', '_blank')" tabindex="0" role="button" aria-label="View PTMS2PATHWAYS project">
     <div class="member-image">
       <img src="/images/fakeimage.png" alt="PTMS2PATHWAYS Project - Cell Signaling Research">
     </div>
