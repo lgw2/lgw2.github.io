@@ -16,7 +16,7 @@ Schedule subject to change. Lecture videos in this [Panopto folder](https://umon
 | 1 | 1/12-1/16 |   |   |   |   | Course intro; [in-lecture notes](https://lgw2.github.io/teaching/cscix32-spring-2026/lectures/intro.pdf)  |
 | 2 |1/19-1/23 |Optional: [PL 0](https://us.prairielearn.com/pl/course_instance/206368/assessment/2634588) |MLK Day: no class  | no problem session | [Recursively-defined structures](https://lgw2.github.io/teaching/cscix32-spring-2026/lectures/01-strings.pdf); [in-lecture notes](https://lgw2.github.io/teaching/cscix32-spring-2026/lectures/rec_structures.pdf) |[Problem session](https://lgw2.github.io/teaching/cscix32-spring-2026/problem_sessions/ps_wk1_1.pdf) |
 | 3 |1/26-1/30 |[HW 1](https://lgw2.github.io/teaching/cscix32-spring-2026/homework/hw1.pdf) & [PL 1](https://us.prairielearn.com/pl/course_instance/206368/assessment/2634589) (Monday) <br> HW 1 rewrite (optional) (Wednesday)|Languages and regular expressions| |DFAs| |
-| 4 |2/2-2/6   |HW 2 & PL 2 |More DFAs|   |Proving non-regularity | |
+| 4 |2/2-2/6   |[HW 2](https://lgw2.github.io/teaching/cscix32-spring-2026/homework/hw2.pdf) & [PL 2](https://us.prairielearn.com/pl/course_instance/206368/assessment/2634590) |More DFAs|   |Proving non-regularity | |
 | 5 |2/9-2/13 |HW 3 & PL 3   |NFAs, proving automatic=regular, and language transformations   |   | CFGs  |   |
 | 6 |2/16-2/20 |   |Pres Day: no class   |no problem session   |TMs   |   |
 | 7 |2/23-2/27 |   | Undecidability  |   |More on decidability   |   |
@@ -96,7 +96,7 @@ outside of class, and the problem session for Wednesday's lecture will be held
 during the Friday lecture time.
 
 Please fill out this poll during the first week of class to help schedule
-the problem session for Monday lecture: <https://whenisgood.net/dgn38kf>. 
+the problem session for Monday lecture: <https://whenisgood.net/dgn38kf>.
 We will have time for this during the first day.
 
 ### Textbook and other notes
@@ -141,7 +141,7 @@ points" value on the right-hand side of the screen.
 By completing these assignments
 *before* attempting the written homework, you can get feedback about whether
 you are understanding what we are looking for in the homework. You can access
-the guided problem sets [here](https://us.prairielearn.com/pl/course_instance/206368/join/EX39LVTN26) 
+the guided problem sets [here](https://us.prairielearn.com/pl/course_instance/206368/join/EX39LVTN26)
 and by entering code `EX3-9LV-TN26`. You
 should select either the "Sign in with Google" or the "Sign in with Microsoft"
 option. You can log in
@@ -170,7 +170,7 @@ Office hours for Spring 2026 are after class on Fridays, 10-11am.
 
 You will be graded on the following:
 * 20% prairie learn homework problems
-* 40% written homework problems 
+* 40% written homework problems
 * 30% project
 * 10% class participation
 
