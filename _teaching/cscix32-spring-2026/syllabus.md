@@ -164,7 +164,10 @@ to earn up to two additional points on that assignment out of 10, up to a maximu
 
 ### Office hours
 
-Office hours for Spring 2026 are after class on Fridays, 10-11am.
+Office hours for Spring 2026 are after class on Fridays, 10-11:15am. I am
+available to continue meeting after 11:15, but do not guarantee that I will be
+in my office unless I know someone is planning to come, so please let me know
+if you plan to come by after that time.
 
 ## Grading
 
