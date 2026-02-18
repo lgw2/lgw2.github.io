@@ -37,8 +37,7 @@ will have two leaders, who will lead two weeks of discussion of the paper.
 * Meet with your partner(s) at least once to plan how you will lead
     discussion.
 * By Sunday night the week you are leading discussion, send a message in
-    Discord (1) telling the group what to prepare and (2) asking a question
-    that each non-leader can answer in a few sentences.
+    Discord telling the group what to prepare.
 
 ## If you are not a discussion leader
 
@@ -63,13 +62,13 @@ will have two leaders, who will lead two weeks of discussion of the paper.
 |:---|:---|
 |  |No meeting; fill out availability form on Canvas| |
 | 1/21 |No paper; discussion about how to read research papers + leadership signup| |
-| 1/28 | | |
-| 2/4 | | |
-| 2/11 | | |
-| 2/18 | | |
-| 2/25 | | |
-| 3/4 | | |
-| 3/11 | | |
+| 1/28 |Paper 1--[Minimum flow decomposition guided by saturating subflows](https://www.biorxiv.org/content/10.64898/2025.12.11.693570v2) |Grant and Jack |
+| 2/4 |No meeting | |
+| 2/11 |Paper 1 | |
+| 2/18 |Paper 1  | |
+| 2/25 |Paper 2--[Sequence-to-graph alignment based copy number calling using a network flow formulation](https://www.biorxiv.org/content/10.1101/2025.11.21.689771v1) |Rusty and Jose |
+| 3/4 |Paper 2 | |
+| 3/11 |Paper 3 | |
 |  | No meeting, spring break! | |
 | 3/25 | | |
 | 4/1 | | |
