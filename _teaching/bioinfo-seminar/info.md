@@ -68,7 +68,7 @@ will have two leaders, who will lead two weeks of discussion of the paper.
 | 2/18 |Paper 1  | |
 | 2/25 |Paper 2--[Sequence-to-graph alignment based copy number calling using a network flow formulation](https://www.biorxiv.org/content/10.1101/2025.11.21.689771v1) |Rusty and Jose |
 | 3/4 |Paper 2 | |
-| 3/11 |Paper 3 | |
+| 3/11 |Paper 3 |Afra |
 |  | No meeting, spring break! | |
 | 3/25 | | |
 | 4/1 | | |
