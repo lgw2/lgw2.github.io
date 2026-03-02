@@ -1,6 +1,6 @@
 ---
 layout: page-with-nav
-title: "Projects"
+title: "Research"
 permalink: /research/
 nav: true
 nav_order: 4
