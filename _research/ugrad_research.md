@@ -1,5 +1,5 @@
 ---
-title: "Research Opportunities for Undergrads""
+title: "Research Opportunities for Undergrads"
 collection: research
 ---
 

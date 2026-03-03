@@ -22,17 +22,11 @@ plugins:
   - jekyll-remote-theme
 
 # Site Author
-author:
-  name: "Lucia Williams"
-  avatar: "/images/profile.png"
-  bio: ""
-  location: "University of Montana"
+author: "Lucia Williams"
+avatar: "/images/profile.png"
+social-network-links:
   email: "lucia.williams@umt.edu"
-  uri: ""
-  linkedin: ""
-  github: ""
-  twitter: ""
-  google_scholar: "https://scholar.google.com/citations?user=2zn8lhsAAAAJ&hl=en&oi=ao"
+  google-scholar: "https://scholar.google.com/citations?user=2zn8lhsAAAAJ&hl=en&oi=ao"
 
 # Navigation - Beautiful Jekyll uses pages for navigation
 # Make sure you have these pages: index.md, about.md, members.md, research.md, teaching.md
@@ -142,7 +136,7 @@ defaults:
   - scope:
       path: "_teaching"
     values:
-      layout: page
+      layout: page-teaching
       author_profile: false
       share: false
       comments: false
@@ -150,7 +144,7 @@ defaults:
   - scope:
       path: "_research"
     values:
-      layout: page
+      layout: page-with-nav
       author_profile: false
       share: false
       comments: false
@@ -158,7 +152,7 @@ defaults:
   - scope:
       path: "_publications"
     values:
-      layout: page
+      layout: page-with-nav
       author_profile: true
       share: false
       comments: false
@@ -166,7 +160,7 @@ defaults:
   - scope:
       path: "_talks"
     values:
-      layout: page
+      layout: page-with-nav
       author_profile: true
       share: false
 
