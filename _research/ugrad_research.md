@@ -3,7 +3,7 @@ title: "Research Opportunities for Undergrads"
 collection: research
 ---
 
-## Summer 2026 Opportunities
+## Recurring Opportunities
 
 ### INBRE Summer Scholars
 
@@ -39,3 +39,8 @@ Due Feb 1.
 
 Or search all REU sites: https://www.nsf.gov/funding/initiatives/reu/search.
 Keyword search is pretty good!
+
+### Stowers summer scholars
+
+Early deadline! Mid january.
+https://www.stowers.org/gradschool/summer-scholars
