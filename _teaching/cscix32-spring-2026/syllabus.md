@@ -22,13 +22,13 @@ Schedule subject to change. Lecture videos in this [Panopto folder](https://umon
 | 7 |2/23-2/27 |[HW 5](https://lgw2.github.io/teaching/cscix32-spring-2026/homework/hw5.pdf) & [PL 5](https://us.prairielearn.com/pl/course_instance/206368/assessment/2649818)|[TMs](https://lgw2.github.io/teaching/cscix32-spring-2026/lectures/06-turing-machines.pdf); [in-lecture notes](https://lgw2.github.io/teaching/cscix32-spring-2026/lectures/TMs.pdf)|[problem session](https://lgw2.github.io/teaching/cscix32-spring-2026/problem_sessions/wk7a.pdf)|[Undecidability](https://lgw2.github.io/teaching/cscix32-spring-2026/lectures/07-undecidable.pdf); [in-lecture notes](https://lgw2.github.io/teaching/cscix32-spring-2026/lectures/decidability1.pdf)|[problem session](https://github.com/lgw2/csx32-spring2026-public/blob/main/problem_sessions/wk7b/wk7b.pdf); [in-lecture notes](https://lgw2.github.io/teaching/cscix32-spring-2026/lectures/decidability2.pdf)|
 | 8 |3/2-3/6   |[HW 6](https://github.com/lgw2/csx32-spring2026-public/blob/main/written_hw/hw6/hw6.pdf) & no PL 6|[More on decidability](https://lgw2.github.io/teaching/cscix32-spring-2026/lectures/07-undecidable.pdf); [in-lecture notes](https://lgw2.github.io/teaching/cscix32-spring-2026/lectures/decidability3.pdf)|[problem session](https://github.com/lgw2/csx32-spring2026-public/blob/main/problem_sessions/wk8a/wk8a.pdf)|[Reductions for algorithms](https://lgw2.github.io/teaching/cscix32-spring-2026/lectures/12-nphard.pdf); [in-lecture notes](https://lgw2.github.io/teaching/cscix32-spring-2026/lectures/reductions.pdf)|[problem session](https://github.com/lgw2/csx32-spring2026-public/blob/main/problem_sessions/wk8b/wk8b.pdf)|
 | 9 |3/9-3/13 |[HW 7](https://github.com/lgw2/csx32-spring2026-public/blob/main/written_hw/hw7/hw7.pdf) & [PL 7](https://us.prairielearn.com/pl/course_instance/206368/assessment/2653118)|[NP-hardness](https://lgw2.github.io/teaching/cscix32-spring-2026/lectures/12-nphard.pdf)|[problem session](https://github.com/lgw2/csx32-spring2026-public/blob/main/problem_sessions/wk9a/wk9a.pdf)|[NP-hardness reductions](https://lgw2.github.io/teaching/cscix32-spring-2026/lectures/12-nphard.pdf) |[problem session](https://github.com/lgw2/csx32-spring2026-public/blob/main/problem_sessions/wk9b/wk9b.pdf)|
-| |3/16-3/20 |[HW 8](https://github.com/lgw2/csx32-spring2026-public/blob/main/written_hw/hw8/hw8.pdf) & [PL 8](https://us.prairielearn.com/pl/course_instance/206368/assessment/2657118) & mid-semester survey| 🌞 |🏖️  | 🍹 | ✈️ |
-| 10| 3/23-3/27 |[Project](https://github.com/lgw2/csx32-spring2026-public/blob/main/project/project_description.pdf) groups   |FFT   |   |   |   |
-| 11| 3/30-4/3  |   |FFT   |   |   |   |
-| 12| 4/6-4/10  |   |Encryption   |   |   |   |
-| 13| 4/13-4/17 |   |Lucy out: no class |   |project check-in   |Quantum computing |
-| 14| 4/20-4/24 |   |Quantum computing |   |   |   |
-| 15| 4/27-5/1  |   |Quantum computing   |    |project presentations   |project presentations |
+| |3/16-3/20 |[HW 8](https://github.com/lgw2/csx32-spring2026-public/blob/main/written_hw/hw8/hw8.pdf) & [PL 8](https://us.prairielearn.com/pl/course_instance/206368/assessment/2657938) & mid-semester survey| 🌞 |🏖️  | 🍹 | ✈️ |
+| 10| 3/23-3/27 |[Project](https://github.com/lgw2/csx32-spring2026-public/blob/main/project/project_description.pdf) groups   |FFT   |n/a   |FFT   |problem session   |
+| 11| 3/30-4/3  |[Project topic selection](https://canvas.umt.edu/courses/27720/assignments/357769) & HW 9   |Encryption   |n/a  |Encryption   |problem session   |
+| 12| 4/6-4/10  |HW 10   |Encryption   |n/a   |Encryption   |problem session  |
+| 13| 4/13-4/17 |Project teaser presentations & HW 11|Lucy out: no class |n/a   |Presentations|Quantum computing |
+| 14| 4/20-4/24 |Nothing!   |Quantum computing |   |Quantum computing   |Quantum computing|
+| 15| 4/27-5/1  |Project presentations & HW 12   |Quantum computing   |    |project presentations   |project presentations |
 | | (5/4-5/8)  |   |final period 10:10-12:10 (project presentations)   |   |   |   |
 
 
