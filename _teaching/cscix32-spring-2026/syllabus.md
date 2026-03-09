@@ -27,8 +27,8 @@ Schedule subject to change. Lecture videos in this [Panopto folder](https://umon
 | 11| 3/30-4/3  |[Project topic selection](https://canvas.umt.edu/courses/27720/assignments/357769) & HW 9   |Encryption   |n/a  |Encryption   |problem session   |
 | 12| 4/6-4/10  |HW 10   |Encryption   |n/a   |Encryption   |problem session  |
 | 13| 4/13-4/17 |Project teaser presentations & HW 11|Lucy out: no class |n/a   |Presentations|Quantum computing |
-| 14| 4/20-4/24 |Nothing!   |Quantum computing |   |Quantum computing   |Quantum computing|
-| 15| 4/27-5/1  |Project presentations & HW 12   |Quantum computing   |    |project presentations   |project presentations |
+| 14| 4/20-4/24 |Nothing!   |Quantum computing |n/a   |Quantum computing   |Quantum computing|
+| 15| 4/27-5/1  |Project presentations & HW 12   |Quantum computing   | n/a   |project presentations   |project presentations |
 | | (5/4-5/8)  |   |final period 10:10-12:10 (project presentations)   |   |   |   |
 
 
