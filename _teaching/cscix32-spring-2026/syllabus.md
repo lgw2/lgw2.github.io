@@ -121,6 +121,7 @@ and has inspired some changes to our course for 2025.
     lectures from a quantum computing course from Carnegie Mellon, coming from
     a computer science theory perspective (as in this course).
 * [Ryan Dougherty's EasyTheory youtube channel](https://www.youtube.com/c/EasyTheory). Previous students have found these videos helpful for the theory portion of the course.
+* [MIT OpenCourseWare Design and Analysis of Algorithms](https://www.youtube.com/playlist?list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp).
 * Other courses going through Jeff Erickson's notes, such as:
     * [Sumedh Vemuganti's YouTube channel](https://www.youtube.com/@sumedhvemuganti4298) contains videos from problem sessions similar to (in fact, often the same as) those in our course.
     *  [CS 374 at UIUC](https://courses.grainger.illinois.edu/cs374al1/fa2025/) covers some of the same material from this course, and has lecture videos available.
