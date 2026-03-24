@@ -9,6 +9,11 @@ layout: default
 </style>
 
 <div class="container">
+    <nav class="navbar">
+        {% for item in site.data.navigation.main %}
+          <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+        {% endfor %}
+    </nav>
     <article class="post">
         <header class="post-header">
             <h1 class="post-title">{{ page.title }}</h1>

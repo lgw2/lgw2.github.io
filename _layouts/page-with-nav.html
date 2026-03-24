@@ -10,10 +10,9 @@ layout: default
 
 <div class="container">
     <nav class="navbar">
-        <a href="/">Home</a>
-        <a href="/members/">Lab Members</a>
-        <a href="/research/">Research</a>
-        <a href="/teaching/">Teaching</a>
+        {% for item in site.data.navigation.main %}
+          <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+        {% endfor %}
     </nav>
 
     <article class="post">

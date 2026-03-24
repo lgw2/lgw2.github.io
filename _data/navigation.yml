@@ -6,5 +6,11 @@ main:
   - title: "Lab Members"
     url: /members/
 
-  - title: "Projects"
+  - title: "Research"
     url: /research/
+
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "Seminar"
+    url: /teaching/bioinfo-seminar/info/
