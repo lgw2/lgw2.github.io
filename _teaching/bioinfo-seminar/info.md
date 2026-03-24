@@ -76,7 +76,7 @@ will have two leaders, who will lead two weeks of discussion of the paper.
 | 4/1 |No meeting | |
 | 4/8 |Paper 4--[Privacy-Preserving Pangenome Graphs](https://www.biorxiv.org/content/10.64898/2026.02.16.706152v1) |Jose, Jack |
 | 4/15 |Paper 4 |Jose, Jack |
-| 4/22 |Paper 5 |Afra, Grant, Rusty |
+| 4/22 |Paper 5--[Highly accurate protein structure prediction with AlphaFold](https://www.nature.com/articles/s41586-021-03819-2) |Afra, Grant, Rusty |
 | 4/29 |Paper 5 |Afra, Grant, Rusty|
 |  | No meeting, finals week! | |
 
