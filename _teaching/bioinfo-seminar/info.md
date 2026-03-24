@@ -7,6 +7,9 @@ date: 2025-01-16
 location: "Missoula, Montana"
 ---
 
+If you would like to join the Bioinformatics Seminar, email lucia.williams@umt.edu, or feel free to just show up! In Spring Semester 2026, we meet Wednesdays from 11-11:50am in
+Social Sciences 262.
+
 ## Seminar goals
 
 Our seminar has a number of goals. These may change as we go!
@@ -49,17 +52,16 @@ will have two leaders, who will lead two weeks of discussion of the paper.
     understand the paper, such as author talks on YouTube, explanation of topics you are
     unfamiliar with, or other related academic papers. If you find resources others might find
     helpful, feel free to post them in Discord!
-* Before the meeting, answer the question posed by the leaders in Discord.
 * During the meeting, stay engaged with the discussion leaders and the group.
     Ask questions, share your thoughts or critiques of the paper, etc.
-* After the meeting, share (1) something you thought the discussion leaders did
+* After the meeting, use Discord to share (1) something you thought the discussion leaders did
     well and (2) something you are still confused about or would like to learn
     more about regarding the paper.
 
 ## Spring 2026 schedule
 
 | Meeting date|paper|leaders|
-|:---|:---|
+|:---|:---|:---|
 |  |No meeting; fill out availability form on Canvas| |
 | 1/21 |No paper; discussion about how to read research papers + leadership signup| |
 | 1/28 |Paper 1--[Minimum flow decomposition guided by saturating subflows](https://www.biorxiv.org/content/10.64898/2025.12.11.693570v2) |Grant and Jack |
@@ -68,14 +70,14 @@ will have two leaders, who will lead two weeks of discussion of the paper.
 | 2/18 |Paper 1  | |
 | 2/25 |Paper 2--[Sequence-to-graph alignment based copy number calling using a network flow formulation](https://www.biorxiv.org/content/10.1101/2025.11.21.689771v1) |Rusty and Jose |
 | 3/4 |Paper 2 | |
-| 3/11 |Paper 3 |Afra |
+| 3/11 |Paper 3--[Alignment-free sequence comparison--a review](https://watermark02.silverchair.com/bioinformatics_19_4_513.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAA5wwggOYBgkqhkiG9w0BBwagggOJMIIDhQIBADCCA34GCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMFXfBnsp4bo_0Xs7bAgEQgIIDT03AsLc-cZs0HKWwFs_dQQMBYAEcdIfF9uQXmZzr6TPM8Q85-4jE5db0nCmwYN0pwLNlDcL7tqyKajL--7xQzevfz9xZ6H0MCPsRCVsYfVvK5o9v-jlFrfzhJXT1Zqe_8ynJuoIwgTf7dOjqYE3Cq-twPRYiQbP7oXlhuEa94pnJeK4LoviNOeE5jRVQyikFGyMSlUkJy5EdWyAPxmQzJtwfMt5bnnr7JhTJpWL1bfDJr3GQAskS9uWO_Fs8pmnElhZTQl-ryODjp3vpwla0yaJsmMmUUfUwtIBrxspz30wa30mycouz8gA8c_KUaB3fbuQg0128HNoMvWli9NLBcvQoQ6bOF4b1vXVCBM8y4WDaPFytIaOBDigwR-OYZl9CR2QIjitxe-J5JJJfn0Qm6VN2jieBZLb2R5V9KjhyM5C6bXkCMy_6yTCbAUqgCe0lKHRZZvRT9cKSd_kUNDQcbybkROPp5Ok6HUwSAzPFTDk3AKRaqvlu8mjer36bZ2Pwc3wRuvknxY7yfJoUh3SBFOCq2XPT4f5eAGE6xhea-YwtWZnq3ncGB2fGO97je96WVH1h53yv3JY2aPb_3KhyR7qDmAeoWL9FO7SOod-ozcNlvxkzghptTRF0z_xtGQUy_-mD8SgUv6-vymADgCfBTzUgc0N9aRFVgTOp2UVZS0FWPoXFq8GDpURu47fpxwPuVotnSo-bQ9uydsDz2f0veRAeBgr20NWieGfAd6s7V223i9J6WbryRGq7OmgY6Vzy7f7FcnXf9_nYpNIuvc-cvyiet8IgyTAthap_URugnyR3j0Ulp4QAXWMaohwzmP9qGOeFnEbbWhPT4__lTR5RNj_JWQ-mp1xKmd4XmRZj_2hDaEErnsAi9jucAfQ-wECwGjflHMPKzSj1K2YC79D3TeqOLQ9bXt5yrF0-2mbMSj8b4xLoM44JZ1YEZGgNq1ewcNhzqGaj34yjvQUAT6qx0Wamh3DFiHp-rFtNGufqJKsbciD7okWgteb3xg51GOkxEHqIGx3_TwGI9_cia333I8YxNe5aEj6MGPV3tK_FW5ZX_ss3dx-5KM5INSX7nSBXT532SMsfKq0A8wQ4nvNk97ev2MKnB6dfCWQLHWyh7nw)|Afra|
 |  | No meeting, spring break! | |
-| 3/25 | | |
-| 4/1 | | |
-| 4/8 | | |
-| 4/15 | | |
-| 4/22 | | |
-| 4/29 | | |
+| 3/25 |Paper 3 |Afra|
+| 4/1 |No meeting | |
+| 4/8 |Paper 4--[Privacy-Preserving Pangenome Graphs](https://www.biorxiv.org/content/10.64898/2026.02.16.706152v1) |Jose, Jack |
+| 4/15 |Paper 4 |Jose, Jack |
+| 4/22 |Paper 5 |Afra, Grant, Rusty |
+| 4/29 |Paper 5 |Afra, Grant, Rusty|
 |  | No meeting, finals week! | |
 
 ## Fall 2025 schedule
