@@ -5,11 +5,31 @@ permalink: /members/
 nav: true
 nav_order: 3
 ---
+
+## Principal Investigator
+
+<div class="member-grid">
+  <a class="member-card clickable-card" href="/files/lucia-williams-cv.pdf" target="_blank" rel="noopener noreferrer" aria-label="View Lucia Williams CV">
+    <div class="member-image">
+      <img src="/images/members/lucia-williams-pi.png" alt="Lucia Williams - Principal Investigator">
+    </div>
+    <div class="member-content">
+      <h3>Lucia Williams</h3>
+      <p class="member-role">Principal Investigator</p>
+      <div class="member-interests">
+        <strong>Research:</strong> Design and analysis of algorithms for DNA sequencing and analysis
+      </div>
+      <p class="member-bio">Assistant Professor of Computer Science at the University of Montana and founding PI of the UM Applied Algorithms Lab.</p>
+      <span class="member-link-hint">View CV →</span>
+    </div>
+  </a>
+</div>
+
 ## Graduate Students
 
 <div class="member-grid">
   
-  <div class="member-card clickable-card" onclick="window.open('https://github.com/afra-profile', '_blank')" tabindex="0" role="button" aria-label="View Afra's GitHub profile">
+  <a class="member-card clickable-card" href="https://github.com/afra-profile" target="_blank" rel="noopener noreferrer" aria-label="View Afra's GitHub profile">
     <div class="member-image">
       <img src="/images/members/afra.jpg" alt="Afra - Masters Student">
     </div>
@@ -22,9 +42,9 @@ nav_order: 3
       <p class="member-bio">Placeholder text about research focus...</p>
       <span class="member-link-hint">View GitHub Profile →</span>
     </div>
-  </div>
+  </a>
 
-  <div class="member-card clickable-card" onclick="window.open('https://github.com/jack-profile', '_blank')" tabindex="0" role="button" aria-label="View Jack's GitHub profile">
+  <a class="member-card clickable-card" href="https://github.com/jack-profile" target="_blank" rel="noopener noreferrer" aria-label="View Jack's GitHub profile">
     <div class="member-image">
       <img src="/images/members/jack.jpg" alt="Jack - PhD Student">
     </div>
@@ -37,7 +57,7 @@ nav_order: 3
       <p class="member-bio">Placeholder text about research focus...</p>
       <span class="member-link-hint">View GitHub Profile →</span>
     </div>
-  </div>
+  </a>
 
 </div>
 
@@ -45,7 +65,7 @@ nav_order: 3
 
 <div class="member-grid">
   
-  <div class="member-card clickable-card" onclick="window.open('https://github.com/hypercomrade', '_blank')" tabindex="0" role="button" aria-label="View Mikhail Ukrainetz's GitHub profile">
+  <a class="member-card clickable-card" href="https://github.com/hypercomrade" target="_blank" rel="noopener noreferrer" aria-label="View Mikhail Ukrainetz's GitHub profile">
     <div class="member-image">
       <img src="/images/members/mikhail.jpg" alt="Mikhail Ukrainetz - Undergraduate Student">
     </div>
@@ -58,9 +78,9 @@ nav_order: 3
       <p class="member-bio">Former HPC sys-admin turned researcher</p>
       <span class="member-link-hint">View GitHub Profile →</span>
     </div>
-  </div>
+  </a>
 
-  <div class="member-card clickable-card" onclick="window.open('https://github.com/jose-rod', '_blank')" tabindex="0" role="button" aria-label="View Jose Rod.'s GitHub profile">
+  <a class="member-card clickable-card" href="https://github.com/jose-rod" target="_blank" rel="noopener noreferrer" aria-label="View Jose Rod.'s GitHub profile">
     <div class="member-image">
       <img src="/images/members/jose.jpg" alt="Jose Rod. - Undergraduate Student">
     </div>
@@ -73,9 +93,9 @@ nav_order: 3
       <p class="member-bio">Placeholder text about interests...</p>
       <span class="member-link-hint">View GitHub Profile →</span>
     </div>
-  </div>
+  </a>
 
-  <div class="member-card clickable-card" onclick="window.open('https://github.com/grant-smith', '_blank')" tabindex="0" role="button" aria-label="View Grant Smith's GitHub profile">
+  <a class="member-card clickable-card" href="https://github.com/grant-smith" target="_blank" rel="noopener noreferrer" aria-label="View Grant Smith's GitHub profile">
     <div class="member-image">
       <img src="/images/members/grant.jpg" alt="Grant Smith - Undergraduate Student">
     </div>
@@ -88,9 +108,9 @@ nav_order: 3
       <p class="member-bio">Life long programmer now doing research</p>
       <span class="member-link-hint">View GitHub Profile →</span>
     </div>
-  </div>
+  </a>
   
-  <div class="member-card clickable-card" onclick="window.open('https://github.com/maddie-profile', '_blank')" tabindex="0" role="button" aria-label="View Maddie's GitHub profile">
+  <a class="member-card clickable-card" href="https://github.com/maddie-profile" target="_blank" rel="noopener noreferrer" aria-label="View Maddie's GitHub profile">
     <div class="member-image">
       <img src="/images/members/jose.jpg" alt="Maddie - Undergraduate Student">
     </div>
@@ -103,7 +123,7 @@ nav_order: 3
       <p class="member-bio">Placeholder text about interests...</p>
       <span class="member-link-hint">View GitHub Profile →</span>
     </div>
-  </div>
+  </a>
 
 </div>
 
@@ -111,7 +131,7 @@ nav_order: 3
 
 <div class="member-grid">
   
-  <div class="member-card clickable-card alumni" onclick="window.open('https://github.com/tim-alumni', '_blank')" tabindex="0" role="button" aria-label="View Tim's GitHub profile">
+  <a class="member-card clickable-card alumni" href="https://github.com/tim-alumni" target="_blank" rel="noopener noreferrer" aria-label="View Tim's GitHub profile">
     <div class="member-image">
       <img src="/images/members/tim.jpg" alt="Tim - Alumni">
     </div>
@@ -124,9 +144,9 @@ nav_order: 3
       <p class="member-bio">Graduated [Year]. Currently [current position].</p>
       <span class="member-link-hint">View GitHub Profile →</span>
     </div>
-  </div>
+  </a>
   
-  <div class="member-card clickable-card alumni" onclick="window.open('https://github.com/tara-alumni', '_blank')" tabindex="0" role="button" aria-label="View Tara's GitHub profile">
+  <a class="member-card clickable-card alumni" href="https://github.com/tara-alumni" target="_blank" rel="noopener noreferrer" aria-label="View Tara's GitHub profile">
     <div class="member-image">
       <img src="/images/members/tim.jpg" alt="Tara - Alumni">
     </div>
@@ -139,9 +159,9 @@ nav_order: 3
       <p class="member-bio">Graduated [Year]. Currently [current position].</p>
       <span class="member-link-hint">View GitHub Profile →</span>
     </div>
-  </div>
+  </a>
 
-  <div class="member-card clickable-card alumni" onclick="window.open('https://github.com/jacob-alumni', '_blank')" tabindex="0" role="button" aria-label="View Jacob's GitHub profile">
+  <a class="member-card clickable-card alumni" href="https://github.com/jacob-alumni" target="_blank" rel="noopener noreferrer" aria-label="View Jacob's GitHub profile">
     <div class="member-image">
       <img src="/images/members/tim.jpg" alt="Jacob - Alumni">
     </div>
@@ -154,7 +174,7 @@ nav_order: 3
       <p class="member-bio">Graduated [Year]. Currently [current position].</p>
       <span class="member-link-hint">View GitHub Profile →</span>
     </div>
-  </div>
+  </a>
 
 </div>
 
@@ -360,40 +380,3 @@ h2 {
   box-shadow: 0 0 0 3px rgba(52, 152, 219, 0.3);
 }
 </style>
-
-<script>
-// Make cards keyboard accessible and handle click events
-document.addEventListener('DOMContentLoaded', function() {
-  const clickableCards = document.querySelectorAll('.clickable-card');
-  
-  clickableCards.forEach(card => {
-    // Set cursor to pointer
-    card.style.cursor = 'pointer';
-    
-    // Add role for screen readers
-    card.setAttribute('role', 'button');
-    
-    // Keyboard support
-    card.addEventListener('keydown', function(e) {
-      if (e.key === 'Enter' || e.key === ' ') {
-        e.preventDefault();
-        this.click();
-      }
-    });
-    
-    // Optional: Add click sound or visual feedback
-    card.addEventListener('mousedown', function() {
-      this.style.transform = 'translateY(-2px)';
-    });
-    
-    card.addEventListener('mouseup', function() {
-      this.style.transform = 'translateY(-5px)';
-    });
-    
-    // Handle mouse leave
-    card.addEventListener('mouseleave', function() {
-      this.style.transform = '';
-    });
-  });
-});
-</script>

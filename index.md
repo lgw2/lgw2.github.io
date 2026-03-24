@@ -15,15 +15,7 @@ nav: false
   </div>
 </div>
 
-Welcome to the UM Applied Algorithms Lab!
-
-We are a bioinformatics lab at the University of Montana that was founded in 2024. We have a broad mix of
-math, computer science, and biology backgrounds. If you have questions about one of our papers, or would
-like to discuss something please contact the email below.
-
-# Lab News
-
-A few of our lab members will be presenting research at UMCUR, and the University of Montana in April of 2026!
+Welcome to the UM Applied Algorithms Lab! This is the homepage of our research group at the University of Montana, where we focus on developing computational methods and algorithmic advances in various application areas, particulary in the field of bioinformatics. Please pardon our digital dust as this website is currently under construction.
 
 <style>
 .lab-header {
