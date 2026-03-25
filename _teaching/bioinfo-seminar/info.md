@@ -73,11 +73,11 @@ will have two leaders, who will lead two weeks of discussion of the paper.
 | 3/11 |Paper 3--[Alignment-free sequence comparison--a review](https://watermark02.silverchair.com/bioinformatics_19_4_513.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAA5wwggOYBgkqhkiG9w0BBwagggOJMIIDhQIBADCCA34GCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMFXfBnsp4bo_0Xs7bAgEQgIIDT03AsLc-cZs0HKWwFs_dQQMBYAEcdIfF9uQXmZzr6TPM8Q85-4jE5db0nCmwYN0pwLNlDcL7tqyKajL--7xQzevfz9xZ6H0MCPsRCVsYfVvK5o9v-jlFrfzhJXT1Zqe_8ynJuoIwgTf7dOjqYE3Cq-twPRYiQbP7oXlhuEa94pnJeK4LoviNOeE5jRVQyikFGyMSlUkJy5EdWyAPxmQzJtwfMt5bnnr7JhTJpWL1bfDJr3GQAskS9uWO_Fs8pmnElhZTQl-ryODjp3vpwla0yaJsmMmUUfUwtIBrxspz30wa30mycouz8gA8c_KUaB3fbuQg0128HNoMvWli9NLBcvQoQ6bOF4b1vXVCBM8y4WDaPFytIaOBDigwR-OYZl9CR2QIjitxe-J5JJJfn0Qm6VN2jieBZLb2R5V9KjhyM5C6bXkCMy_6yTCbAUqgCe0lKHRZZvRT9cKSd_kUNDQcbybkROPp5Ok6HUwSAzPFTDk3AKRaqvlu8mjer36bZ2Pwc3wRuvknxY7yfJoUh3SBFOCq2XPT4f5eAGE6xhea-YwtWZnq3ncGB2fGO97je96WVH1h53yv3JY2aPb_3KhyR7qDmAeoWL9FO7SOod-ozcNlvxkzghptTRF0z_xtGQUy_-mD8SgUv6-vymADgCfBTzUgc0N9aRFVgTOp2UVZS0FWPoXFq8GDpURu47fpxwPuVotnSo-bQ9uydsDz2f0veRAeBgr20NWieGfAd6s7V223i9J6WbryRGq7OmgY6Vzy7f7FcnXf9_nYpNIuvc-cvyiet8IgyTAthap_URugnyR3j0Ulp4QAXWMaohwzmP9qGOeFnEbbWhPT4__lTR5RNj_JWQ-mp1xKmd4XmRZj_2hDaEErnsAi9jucAfQ-wECwGjflHMPKzSj1K2YC79D3TeqOLQ9bXt5yrF0-2mbMSj8b4xLoM44JZ1YEZGgNq1ewcNhzqGaj34yjvQUAT6qx0Wamh3DFiHp-rFtNGufqJKsbciD7okWgteb3xg51GOkxEHqIGx3_TwGI9_cia333I8YxNe5aEj6MGPV3tK_FW5ZX_ss3dx-5KM5INSX7nSBXT532SMsfKq0A8wQ4nvNk97ev2MKnB6dfCWQLHWyh7nw)|Afra|
 |  | No meeting, spring break! | |
 | 3/25 |Paper 3 |Afra|
-| 4/1 |No meeting | |
-| 4/8 |Paper 4--[Privacy-Preserving Pangenome Graphs](https://www.biorxiv.org/content/10.64898/2026.02.16.706152v1) |Jose, Jack |
-| 4/15 |Paper 4 |Jose, Jack |
-| 4/22 |Paper 5--[Highly accurate protein structure prediction with AlphaFold](https://www.nature.com/articles/s41586-021-03819-2) |Afra, Grant, Rusty |
-| 4/29 |Paper 5 |Afra, Grant, Rusty|
+| 4/1 |[Paper 4]--[Highly accurate protein structure prediction with AlphaFold](https://www.nature.com/articles/s41586-021-03819-2)|Jose, Afra, Rusty |
+| 4/8 |Paper 4 |Jose, Afra, Rusty |
+| 4/15 |Paper 5--[Privacy-Preserving Pangenome Graphs](https://www.biorxiv.org/content/10.64898/2026.02.16.706152v1) or tbd |Grant, Jack |
+| 4/22 |Paper 5|Grant, Jack  |
+| 4/29 |No meeting ||
 |  | No meeting, finals week! | |
 
 ## Fall 2025 schedule
