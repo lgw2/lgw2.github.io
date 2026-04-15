@@ -75,9 +75,9 @@ will have two leaders, who will lead two weeks of discussion of the paper.
 | 3/25 |Paper 3 |Afra|
 | 4/1 |[Paper 4]--[Highly accurate protein structure prediction with AlphaFold](https://www.nature.com/articles/s41586-021-03819-2)|Jose, Afra, Rusty |
 | 4/8 |Paper 4 |Jose, Afra, Rusty |
-| 4/15 |Paper 5--[Privacy-Preserving Pangenome Graphs](https://www.biorxiv.org/content/10.64898/2026.02.16.706152v1) or tbd |Grant, Jack |
-| 4/22 |Paper 5|Grant, Jack  |
-| 4/29 |No meeting ||
+| 4/15 |No meeting |Grant, Jack |
+| 4/22 |Paper 5--[Privacy-Preserving Pangenome Graphs](https://www.biorxiv.org/content/10.64898/2026.02.16.706152v1) or tbd |Grant, Jack |
+| 4/29 |Paper 5|Grant, Jack  |
 |  | No meeting, finals week! | |
 
 ## Fall 2025 schedule
