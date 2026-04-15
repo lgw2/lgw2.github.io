@@ -28,7 +28,7 @@ Schedule subject to change. Lecture videos in this [Panopto folder](https://umon
 | 12| 4/6-4/10  |[Project topic selection take two](https://canvas.umt.edu/courses/27720/assignments/362266)   |[Encryption](https://lgw2.github.io/teaching/cscix32-spring-2026/lectures/the-joy-of-cryptography.pdf); [in-lecture notes](https://lgw2.github.io/teaching/cscix32-spring-2026/lectures/enc3.pdf)   |n/a   |[Encryption](https://lgw2.github.io/teaching/cscix32-spring-2026/lectures/the-joy-of-cryptography.pdf); [in-lecture notes](https://lgw2.github.io/teaching/cscix32-spring-2026/lectures/enc4.pdf)  |[problem session](https://github.com/lgw2/csx32-spring2026-public/blob/main/problem_sessions/wk12/wk12.pdf)  |
 | 13| 4/13-4/17 |Project teaser presentations & [HW 10](https://github.com/lgw2/csx32-spring2026-public/blob/main/written_hw/hw10/hw10.pdf)|Lucy out: no class |n/a   |Presentations|Quantum computing |
 | 14| 4/20-4/24 |Nothing!   |Quantum computing |n/a   |Quantum computing   |Lucy out: no class|
-| 15| 4/27-5/1  |Project presentations & HW 11   |Quantum computing   | n/a   |project presentations   |project presentations |
+| 15| 4/27-5/1  |Project presentations & HW 11   |Draft presentations| n/a   |project presentations   |project presentations |
 | | (5/4-5/8)  |   |final period 10:10-12:10 (project presentations)   |   |   |   |
 
 
