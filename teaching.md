@@ -6,9 +6,11 @@ nav: true
 nav_order: 5
 ---
 
-In spring 2026, I am teaching [CSCI 432/532: Advanced Algorithms Topics](/teaching/cscix32-spring-2026/syllabus).
+In fall 2026, I am teaching [CSCI 332: Advanced Algorithms and Data Structures](/teaching/csci332-fall-2026/syllabus)
+and [CSCI 451/558: Introduction to Bioinformatics](/teaching/csci558-fall-2026/syllabus/).
 
 Previously, I have taught:
+* [Spring 2026: CSCI 432/532: Advanced Algorithms Topics](/teaching/cscix32-spring-2026/syllabus)
 * [Fall 2025: CSCI 332: Advanced Algorithms and Data Structures](/teaching/csci332-fall-2025/syllabus/)
 * [Spring 2025: CSCI 432/532: Advanced Algorithms Topics](/teaching/cscix32-spring-2025/syllabus/)
 * [Fall 2024: CSCI 451/558: Introduction to Bioinformatics](/teaching/csci558-fall-2024/syllabus/)
