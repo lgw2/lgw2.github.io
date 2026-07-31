@@ -1,66 +1,65 @@
 ---
 layout: page-with-nav
-title: "Research"
+title: ""
 permalink: /research/
 nav: true
 nav_order: 4
 ---
 
-Our projects foocus on developing computational methods and algorithmic advances in various application areas.
+Our research explores novel algorithmic solutions to problems in various application areas, especially bioinformatics.
 
 <div class="project-grid">
-  <a class="project-card" href="https://github.com/UM-Applied-Algorithms-Lab/FindViralStrains" target="_blank" rel="noopener noreferrer" aria-label="Open FindViralStrains repository">
+  <div class="project-card">
     <div class="project-image">
-      <img src="/images/fakeimage.png" alt="FindViralStrains project image">
+      <img src="/images/transcription_to_multiflow.png" alt="FindViralStrains project image">
     </div>
     <div class="project-content">
-      <h3>FindViralStrains</h3>
-      <p class="project-keywords"><strong>Keywords:</strong> Viral genomics, Integer Linear Programming, Flow decomposition</p>
-      <p class="project-description">Using novel algorithms for decomposing flows to accurately assemble viral genomes from short read metagenomic data.</p>
-      <span class="project-link">View Repository →</span>
+      <h3>Flow decomposition for multiassembly</h3>
+      <p class="project-description">We investigate novel algorithmic approaches for decomposing flows in the context of assembling multiple genomes from short-read data.</p>
+      <p class="project-linkline"><a href="https://github.com/UM-Applied-Algorithms-Lab/FindViralStrains" target="_blank" rel="noopener noreferrer">Repository link</a></p>
     </div>
-  </a>
+  </div>
 
-  <a class="project-card" href="https://github.com/UM-Applied-Algorithms-Lab/PTMsToPathways" target="_blank" rel="noopener noreferrer" aria-label="Open PTMS2PATHWAYS repository">
+  <div class="project-card">
     <div class="project-image">
       <img src="/images/ptms-to-pathways-logo.png" alt="PTMS2PATHWAYS project image">
     </div>
     <div class="project-content">
       <h3>PTMS2PATHWAYS</h3>
-      <p class="project-keywords"><strong>Keywords:</strong> Cell signaling pathways, Mass spectrometry, R, Phosphoproteomics</p>
-      <p class="project-description">Implementing computational methods to map post-translational modifications to cellular signaling pathways using mass spectrometry data.</p>
-      <span class="project-link">View Repository →</span>
+      <p class="project-description">We develop and maintain an open-source R package for mapping post-translational modifications to networks of genes and cellular signaling pathways using mass spectrometry data.</p>
+      <p class="project-linkline"><a href="https://github.com/UM-Applied-Algorithms-Lab/PTMsToPathways" target="_blank" rel="noopener noreferrer">Repository link</a></p>
     </div>
-  </a>
+  </div>
 </div>
 
 <style>
 .project-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 1.25rem;
-  margin: 1.25rem 0;
+  display: flex;
+  flex-direction: column;
+  gap: 1.15rem;
+  margin: 1.5rem 0;
 }
 
 .project-card {
-  display: block;
-  border: 1px solid #e5e7eb;
-  border-radius: 0.75rem;
+  display: grid;
+  grid-template-columns: 280px 1fr;
+  align-items: stretch;
+  border: 1px solid #dcd3c4;
+  border-radius: 0.9rem;
   overflow: hidden;
-  text-decoration: none;
-  color: inherit;
-  background: #fff;
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  background: linear-gradient(180deg, #fff 0%, #fbf7f0 100%);
+  transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
 }
 
 .project-card:hover,
 .project-card:focus-visible {
-  transform: translateY(-3px);
-  box-shadow: 0 8px 18px rgba(0, 0, 0, 0.08);
+  transform: translateY(-2px);
+  border-color: #b58b72;
+  box-shadow: 0 12px 24px rgba(66, 40, 20, 0.14);
 }
 
 .project-image {
-  height: 180px;
+  min-height: 200px;
   overflow: hidden;
 }
 
@@ -71,28 +70,43 @@ Our projects foocus on developing computational methods and algorithmic advances
 }
 
 .project-content {
-  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 1.25rem 1.4rem;
 }
 
 .project-content h3 {
-  margin: 0 0 0.35rem;
-}
-
-.project-keywords {
-  margin: 0 0 0.5rem;
+  margin: 0 0 0.55rem;
+  font-size: 1.35rem;
 }
 
 .project-description {
-  margin: 0 0 0.75rem;
+  margin: 0;
+  font-size: 1.03rem;
+  line-height: 1.55;
 }
 
-.project-link {
+.project-linkline {
+  margin: 0.7rem 0 0;
+}
+
+.project-linkline a {
   font-weight: 600;
 }
 
 @media (max-width: 640px) {
+  .project-card {
+    grid-template-columns: 1fr;
+  }
+
   .project-image {
-    height: 160px;
+    min-height: 170px;
+    max-height: 220px;
+  }
+
+  .project-content {
+    padding: 1rem 1.05rem 1.1rem;
   }
 }
 </style>

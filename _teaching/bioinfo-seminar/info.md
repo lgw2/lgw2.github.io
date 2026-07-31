@@ -7,6 +7,8 @@ date: 2025-01-16
 location: "Missoula, Montana"
 ---
 
+> **Note:** This seminar will not be offered in Fall 2026. Consider registering for CSCI 451/558: Introduction to Bioinformatics or contacting Lucy to get involved with the lab.
+
 If you would like to join the Bioinformatics Seminar, email lucia.williams@umt.edu, or feel free to just show up! In Spring Semester 2026, we meet Wednesdays from 11-11:50am in
 Social Sciences 262.
 

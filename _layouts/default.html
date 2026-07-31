@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title and page.title != "" %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | strip_newlines | truncate: 160 }}">
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+  <link rel="icon" type="image/png" href="{{ '/images/favicon.png' | relative_url }}">
+</head>
+<body>
+  <nav class="global-nav" aria-label="Primary">
+    <div class="site-wrap site-nav">
+      {% for item in site.data.navigation.main %}
+        <a href="{{ item.url | relative_url }}" {% if page.url == item.url %}aria-current="page"{% endif %}>{{ item.title }}</a>
+      {% endfor %}
+    </div>
+  </nav>
+
+  <main class="site-wrap content">
+    {{ content }}
+  </main>
+
+  <footer class="site-footer">
+    <div class="site-wrap">
+      <small>&copy; {{ site.time | date: "%Y" }} {{ site.author | default: site.title }}</small>
+    </div>
+  </footer>
+</body>
+</html>

@@ -1,0 +1,159 @@
+:root {
+  --bg: #faf8f4;
+  --surface: #ffffff;
+  --text: #2b2620;
+  --muted: #6a6157;
+  --line: #ded7cb;
+  --link: #8c3f24;
+  --link-hover: #5e2a18;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 18px;
+  line-height: 1.65;
+}
+
+.site-wrap {
+  width: min(760px, calc(100% - 2rem));
+  margin: 0 auto;
+}
+
+.site-nav {
+  margin-top: 1.25rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem 1rem;
+}
+
+.global-nav {
+  background: var(--surface);
+  padding: 0.9rem 0;
+}
+
+.global-nav .site-nav {
+  margin-top: 0;
+}
+
+.site-nav a {
+  color: var(--text);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  padding-bottom: 1px;
+}
+
+.site-nav a:hover,
+.site-nav a[aria-current="page"] {
+  border-bottom-color: var(--text);
+}
+
+.content {
+  padding: 2rem 0 3rem;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  line-height: 1.25;
+  margin: 1.6rem 0 0.75rem;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+h2 {
+  font-size: 1.45rem;
+}
+
+p,
+ul,
+ol,
+blockquote,
+table,
+pre {
+  margin: 0 0 1.1rem;
+}
+
+a {
+  color: var(--link);
+}
+
+a:hover {
+  color: var(--link-hover);
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+pre,
+code {
+  font-family: Menlo, Consolas, Monaco, "Liberation Mono", monospace;
+}
+
+pre {
+  overflow-x: auto;
+  padding: 0.9rem;
+  border: 1px solid var(--line);
+  background: #f5f1ea;
+}
+
+blockquote {
+  border-left: 4px solid var(--line);
+  padding-left: 1rem;
+  color: var(--muted);
+}
+
+.post-title {
+  margin-top: 0;
+}
+
+.post-meta {
+  margin-top: -0.15rem;
+  color: var(--muted);
+  font-size: 0.92rem;
+}
+
+.site-footer {
+  border-top: 1px solid var(--line);
+  padding: 1.3rem 0 2.2rem;
+  color: var(--muted);
+  font-size: 0.92rem;
+}
+
+/* Keep existing custom page wrappers compatible with the new simple theme. */
+.container {
+  width: 100%;
+}
+
+.navbar {
+  margin-bottom: 1rem;
+}
+
+.navbar a {
+  margin-right: 0.95rem;
+  text-decoration: none;
+}
+
+@media (max-width: 700px) {
+  body {
+    font-size: 17px;
+  }
+}

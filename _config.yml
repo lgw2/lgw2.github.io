@@ -7,7 +7,6 @@
 
 # Site Settings
 title: "UMAAL"
-remote_theme: daattali/beautiful-jekyll
 description: "University of Montana Lab Focuses on Understanding the world through Computer Science"
 url: "" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
@@ -19,7 +18,6 @@ plugins:
   - jekyll-redirect-from
   - jekyll-sitemap
   - jekyll-paginate
-  - jekyll-remote-theme
 
 # Site Author
 author: "Lucia Williams"
@@ -107,7 +105,7 @@ collections:
     output: true
     permalink: /:collection/:path/
 
-# Defaults - UPDATED for Beautiful Jekyll
+# Defaults
 defaults:
   # _posts
   - scope:

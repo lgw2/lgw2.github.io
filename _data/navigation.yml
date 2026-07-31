@@ -3,9 +3,6 @@ main:
   - title: "Home"
     url: /
 
-  - title: "Lab Members"
-    url: /members/
-
   - title: "Research"
     url: /research/
 
@@ -14,3 +11,6 @@ main:
 
   - title: "Seminar"
     url: /teaching/bioinfo-seminar/info/
+
+  - title: "People"
+    url: /members/

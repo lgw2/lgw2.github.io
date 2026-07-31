@@ -1,6 +1,6 @@
 ---
 layout: page-with-nav
-title: "Lab Members"
+title: ""
 permalink: /members/
 nav: true
 nav_order: 3
@@ -8,21 +8,13 @@ nav_order: 3
 
 ## Principal Investigator
 
-<div class="member-grid">
-  <a class="member-card clickable-card" href="/files/lucia-williams-cv.pdf" target="_blank" rel="noopener noreferrer" aria-label="View Lucia Williams CV">
-    <div class="member-image">
-      <img src="/images/members/lucia-williams-pi.png" alt="Lucia Williams - Principal Investigator">
-    </div>
-    <div class="member-content">
-      <h3>Lucia Williams</h3>
-      <p class="member-role">Principal Investigator</p>
-      <div class="member-interests">
-        <strong>Research:</strong> Design and analysis of algorithms for DNA sequencing and analysis
-      </div>
-      <p class="member-bio">Assistant Professor of Computer Science at the University of Montana and founding PI of the UM Applied Algorithms Lab.</p>
-      <span class="member-link-hint">View CV →</span>
-    </div>
-  </a>
+<div class="pi-profile">
+  <img class="pi-photo" src="/images/members/lucia-williams-pi.png" alt="Lucia Williams - Principal Investigator">
+  <div class="pi-content">
+    <h3>Lucia Williams</h3>
+    <p class="member-bio">Assistant Professor of Computer Science at the University of Montana.</p>
+    <p class="pi-link"><a href="/files/lucia-williams-cv.pdf" target="_blank" rel="noopener noreferrer">View CV</a></p>
+  </div>
 </div>
 
 ## Graduate Students
@@ -35,7 +27,6 @@ nav_order: 3
     </div>
     <div class="member-content">
       <h3>Afra</h3>
-      <p class="member-role">Masters Student</p>
       <div class="member-interests">
         <strong>Research:</strong> Placeholder Interests
       </div>
@@ -50,7 +41,6 @@ nav_order: 3
     </div>
     <div class="member-content">
       <h3>Jack</h3>
-      <p class="member-role">PhD Student</p>
       <div class="member-interests">
         <strong>Research:</strong> Programming Languages
       </div>
@@ -71,26 +61,10 @@ nav_order: 3
     </div>
     <div class="member-content">
       <h3>Mikhail Ukrainetz</h3>
-      <p class="member-role">Undergraduate Student</p>
       <div class="member-interests">
         <strong>Interests:</strong> Linux, Metagenomics, Viruses
       </div>
       <p class="member-bio">Former HPC sys-admin turned researcher</p>
-      <span class="member-link-hint">View GitHub Profile →</span>
-    </div>
-  </a>
-
-  <a class="member-card clickable-card" href="https://github.com/jose-rod" target="_blank" rel="noopener noreferrer" aria-label="View Jose Rod.'s GitHub profile">
-    <div class="member-image">
-      <img src="/images/members/jose.jpg" alt="Jose Rod. - Undergraduate Student">
-    </div>
-    <div class="member-content">
-      <h3>Jose Rod.</h3>
-      <p class="member-role">Undergraduate Student</p>
-      <div class="member-interests">
-        <strong>Interests:</strong> ILP
-      </div>
-      <p class="member-bio">Placeholder text about interests...</p>
       <span class="member-link-hint">View GitHub Profile →</span>
     </div>
   </a>
@@ -101,7 +75,6 @@ nav_order: 3
     </div>
     <div class="member-content">
       <h3>Grant Michael Smith</h3>
-      <p class="member-role">Undergraduate Student</p>
       <div class="member-interests">
         <strong>Interests:</strong> Cell Signaling, Discrete Mathematics, Simulations
       </div>
@@ -116,7 +89,6 @@ nav_order: 3
     </div>
     <div class="member-content">
       <h3>Maddie</h3>
-      <p class="member-role">Undergraduate Student</p>
       <div class="member-interests">
         <strong>Interests:</strong> ILP
       </div>
@@ -129,56 +101,39 @@ nav_order: 3
 
 ## Lab Alumni
 
-<div class="member-grid">
-  
-  <a class="member-card clickable-card alumni" href="https://github.com/tim-alumni" target="_blank" rel="noopener noreferrer" aria-label="View Tim's GitHub profile">
-    <div class="member-image">
-      <img src="/images/members/tim.jpg" alt="Tim - Alumni">
-    </div>
-    <div class="member-content">
-      <h3>Tim</h3>
-      <p class="member-role">Alumni</p>
-      <div class="member-interests">
-        <strong>Former Research:</strong> [Research area]
-      </div>
-      <p class="member-bio">Graduated [Year]. Currently [current position].</p>
-      <span class="member-link-hint">View GitHub Profile →</span>
-    </div>
-  </a>
-  
-  <a class="member-card clickable-card alumni" href="https://github.com/tara-alumni" target="_blank" rel="noopener noreferrer" aria-label="View Tara's GitHub profile">
-    <div class="member-image">
-      <img src="/images/members/tim.jpg" alt="Tara - Alumni">
-    </div>
-    <div class="member-content">
-      <h3>Tara</h3>
-      <p class="member-role">Alumni</p>
-      <div class="member-interests">
-        <strong>Former Research:</strong> [Research area]
-      </div>
-      <p class="member-bio">Graduated [Year]. Currently [current position].</p>
-      <span class="member-link-hint">View GitHub Profile →</span>
-    </div>
-  </a>
-
-  <a class="member-card clickable-card alumni" href="https://github.com/jacob-alumni" target="_blank" rel="noopener noreferrer" aria-label="View Jacob's GitHub profile">
-    <div class="member-image">
-      <img src="/images/members/tim.jpg" alt="Jacob - Alumni">
-    </div>
-    <div class="member-content">
-      <h3>Jacob</h3>
-      <p class="member-role">Alumni</p>
-      <div class="member-interests">
-        <strong>Former Research:</strong> [Research area]
-      </div>
-      <p class="member-bio">Graduated [Year]. Currently [current position].</p>
-      <span class="member-link-hint">View GitHub Profile →</span>
-    </div>
-  </a>
-
-</div>
+<ul class="alumni-list">
+  <li>Tim Anderson - Software Engineer. Current position: Software Engineer at Adaptiva.</li>
+  <li>Tara Brown - Undergraduate Researcher. Current position: Master's student at UM.</li>
+  <li>Jose Rodriguez - Undergraduate Researcher.</li>
+  <li>Jacob Olson - Undergraduate Researcher.</li>
+</ul>
 
 <style>
+/* PI profile block (not a card) */
+.pi-profile {
+  display: grid;
+  grid-template-columns: 220px 1fr;
+  gap: 20px;
+  align-items: center;
+  margin: 18px 0 26px;
+}
+
+.pi-photo {
+  width: 100%;
+  max-width: 220px;
+  border-radius: 10px;
+  object-fit: cover;
+}
+
+.pi-content h3 {
+  margin: 0 0 6px;
+  color: #2c3e50;
+}
+
+.pi-link {
+  margin: 10px 0 0;
+}
+
 /* Grid layout */
 .member-grid {
   display: grid;
@@ -221,6 +176,16 @@ nav_order: 3
 .member-card.alumni:hover {
   border-color: #95a5a6;
   box-shadow: 0 8px 20px rgba(149, 165, 166, 0.2);
+}
+
+.alumni-list {
+  margin: 12px 0 0;
+  padding-left: 1.2rem;
+}
+
+.alumni-list li {
+  margin: 0 0 0.65rem;
+  line-height: 1.5;
 }
 
 /* Image styling */
@@ -338,6 +303,15 @@ h2 {
 
 /* Responsive */
 @media (max-width: 768px) {
+  .pi-profile {
+    grid-template-columns: 1fr;
+    align-items: start;
+  }
+
+  .pi-photo {
+    max-width: 180px;
+  }
+
   .member-grid {
     grid-template-columns: 1fr;
     gap: 20px;

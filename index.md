@@ -10,12 +10,19 @@ nav: false
     <img src="/images/logo.png" alt="UMAAL Logo" width="150">
   </div>
   <div class="lab-title">
-    <h1>UM Applied Algorithms Lab</h1>
+    <h1>Applied Algorithms Lab</h1>
     <p class="lab-subtitle">University of Montana</p>
   </div>
 </div>
 
-Welcome to the UM Applied Algorithms Lab! This is the homepage of our research group at the University of Montana, where we focus on developing computational methods and algorithmic advances in various application areas, particulary in the field of bioinformatics. Please pardon our digital dust as this website is currently under construction.
+The UM Applied Algorithms Lab is focused on developing computational methods and algorithmic advances in various application areas, particulary in the field of bioinformatics. Our lab mascot is Bioinformatics Gary. How many
+references to algorithms and biology can you find?
+
+## News
+
+* August 10-12, 2026: Lucy will attend the [Bioconductor Developer Conference](https://bioc2026.bioconductor.org/) to present a poster, *PTMsToPathways: An R package for mapping post-translational modifications to cellular signaling pathways*.
+* April 17, 2026: Grant and Mikhail presented their work at [UM Conference on Undergraduate Research](https://www.umt.edu/undergraduate-research/umcur/).
+* March 6, 2026: Jack presented his work at [UM Gradcon](https://www.umt.edu/grad/current-students/gsrc/gradcon/).
 
 <style>
 .lab-header {
