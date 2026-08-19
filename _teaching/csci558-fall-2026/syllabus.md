@@ -9,7 +9,7 @@ location: "Missoula, Montana"
 
 ## Course schedule
 
-Schedule subject to change. Lecture videos can be found in [this Panopto folder](https://umontana.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=a01a54a5-8239-4b2b-8d19-b1d40102d5bc).
+Schedule subject to change. Lecture videos can be found in [this Panopto folder](https://umontana.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=f8e5369c-f0c5-4c86-b700-b4ab014d3bd6).
 
 
 | Week | Due this week | Monday | Wednesday | Friday |
@@ -71,7 +71,7 @@ purchasing the physical book is optional. Follow [this link](https://cogniterra.
 Lecture periods will be recorded and available to watch after class. However, if there are
 technical difficulties recording a lecture, it will not be re-recorded, and
 in-class participation will be a key to your learning, so please come
-to class when you can. Videos can be found in [here](https://umontana.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=a01a54a5-8239-4b2b-8d19-b1d40102d5bc).
+to class when you can. Videos can be found in [here](https://umontana.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=f8e5369c-f0c5-4c86-b700-b4ab014d3bd6).
 
 ### Book's lecture videos
 
