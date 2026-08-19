@@ -42,7 +42,7 @@ This is a co-convened course with different course numbers for the undergraduate
 ## Basic course info
 
 This course meets in Social Sciences 362 on Mondays, Wednesdays, and Fridays from
-11am-12:20pm.
+12pm-12:50pm.
 
 Class time will be a mix of lecture, discussion, and active problem solving, both as
 individuals and as groups. Before class, students will read the textbook
@@ -53,9 +53,8 @@ apply what we've learned.
 Students will also complete a larger group project on a bioinformatics topic of
 their choice.
 
-During class, I will ask that you close laptops and except
-when they are needed to follow along with a coding demonstration or for group
-work.
+During class, I will ask that you put away laptops and phones except
+when they are needed to follow along with a group activity.
 
 ## Course resources
 
@@ -63,8 +62,8 @@ work.
 
 The textbook for this course is *Bioinformatics Algorithms: An Active Learning
 Approach* by Phillip Compeau and Pavel Pevzner. You will be required to purchase the
-online version of the book for $29.95 to complete pre-class programming exercises;
-purchasing the physical book is optional. Follow [this link](https://cogniterra.org/course/465/promo) to purchase the book and gain access to our course's assignments. Please use your UM email to register an account.
+online version of the book for $59.95 to complete pre-class programming exercises;
+purchasing the physical book is optional. Follow [this link](https://cogniterra.org/course/864/promo) to purchase the book and gain access to our course's assignments. Please use your UM email to register an account.
 
 ### Class videos
 
