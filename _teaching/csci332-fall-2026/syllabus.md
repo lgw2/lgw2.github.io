@@ -6,6 +6,8 @@ venue: "University of Montana, Computer Science"
 date: 2026-07-20
 location: "Missoula, Montana"
 ---
+> Don't just read it; fight it! Ask your own questions, look for your own examples, discover your own proofs. Is the hypothesis necessary? Is the converse true? What happens in the classical special case? What about the degenerate cases? Where does the proof use the hypothesis?
+> ---Paul Halmos
 
 ## Course schedule
 
@@ -66,7 +68,7 @@ weekly written homework, and weekly quizzes.
 * group problem solving
 * development of students' own "inner computer": ability to verify correctness, runtime, and other properties
 of algorithms and computational topics through their own reasoning processes. Development of these reasoning processes can be assisted
-by outside tools, such as instructors, AI, compilers, autograded assignments, etc., but ultimately, 
+by outside tools, such as instructors, AI, compilers, autograded assignments, etc., but ultimately,
 students must develop their own reasoning processes to be successful in this course and in their future careers.
 
 Today's students face both challenges and extreme opportunities when it comes to

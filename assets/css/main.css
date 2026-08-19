@@ -85,9 +85,45 @@ p,
 ul,
 ol,
 blockquote,
-table,
 pre {
   margin: 0 0 1.1rem;
+}
+
+.course-schedule {
+  width: 100%;
+  border-collapse: collapse;
+  border: 1px solid var(--line);
+  background: var(--surface);
+  font-size: 0.95rem;
+  table-layout: fixed;
+  margin: 1.2rem 0 1.5rem;
+}
+
+.course-schedule th,
+.course-schedule td {
+  border: 1px solid var(--line);
+  padding: 0.6rem 0.7rem;
+  vertical-align: top;
+  text-align: left;
+}
+
+.course-schedule th {
+  background: #e9e1d4;
+  color: var(--text);
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  font-size: 0.8rem;
+  text-align: center;
+}
+
+.course-schedule td:first-child {
+  white-space: nowrap;
+}
+
+@media (max-width: 700px) {
+  .course-schedule {
+    min-width: 640px;
+  }
 }
 
 a {
