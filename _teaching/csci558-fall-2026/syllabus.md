@@ -19,7 +19,7 @@ Schedule subject to change. Lecture videos can be found in [this Panopto folder]
 | 3 (9/7-9/11) |  | Labor day--no class | Protein sequencing | Protein sequencing |
 | 4 (9/14-9/18) |  | Motif finding | Motif finding | Motif finding |
 | 5 (9/21-9/25) |  | Genome assembly | Genome assembly | Genome assembly |
-| 6 (9/28-10/2) | Project proposal | No class | No class | Share project proposals |
+| 6 (9/28-10/2) |  | No class | No class | Share project proposals |
 | 7 (10/5-10/9) |  | Sequence alignment | Sequence alignment | Sequence alignment |
 | 8 (10/12-10/16) |  | Indigenous Peoples' Day--no class | HMMs and profile HMMs |HMMs and profile HMMs  |
 | 9 (10/19-10/23) |  | HMMs and profile HMMs | HMMs and profile HMMs | HMMs and profile HMMs |
