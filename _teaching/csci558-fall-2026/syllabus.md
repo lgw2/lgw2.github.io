@@ -130,7 +130,7 @@ in the following ways:
 
 #### For pre-class assignments
 
-I suggest *not* using AI when completing pre-class assignments. The point of these assignments
+I suggest either using guardrailed AI or *not* using AI when completing pre-class assignments. The point of these assignments
 is to give you the opportunity to understand the algorithms that we are studying, including the small details.
 If you allow an AI to write the code for you, you miss the opportunity to do the learning yourself.
 Remember that *it will feel hard* and *struggle is where learning happens*!
