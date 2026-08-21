@@ -6,8 +6,6 @@ venue: "University of Montana, Computer Science"
 date: 2026-07-20
 location: "Missoula, Montana"
 ---
-> Don't just read it; fight it! Ask your own questions, look for your own examples, discover your own proofs. Is the hypothesis necessary? Is the converse true? What happens in the classical special case? What about the degenerate cases? Where does the proof use the hypothesis?
-> ---Paul Halmos
 
 ## Course schedule
 
@@ -85,6 +83,9 @@ This course
 is designed to help you learn by providing you with frequent feedback on your
 understanding of the material, and by giving you opportunities to actively
 engage with the material through group problem solving and other activities.
+
+> Don't just read it; fight it! Ask your own questions, look for your own examples, discover your own proofs. Is the hypothesis necessary? Is the converse true? What happens in the classical special case? What about the degenerate cases? Where does the proof use the hypothesis?
+> ---Paul Halmos
 
 ## Course info
 
