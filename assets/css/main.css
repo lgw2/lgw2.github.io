@@ -27,7 +27,7 @@ body {
 }
 
 .site-wrap {
-  width: min(760px, calc(100% - 2rem));
+  width: calc(100% - 10rem);
   margin: 0 auto;
 }
 
@@ -121,6 +121,10 @@ pre {
 }
 
 @media (max-width: 700px) {
+  .site-wrap {
+    width: calc(100% - 2rem);
+  }
+
   .course-schedule {
     min-width: 640px;
   }

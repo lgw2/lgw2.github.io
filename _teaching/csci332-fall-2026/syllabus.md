@@ -11,28 +11,29 @@ location: "Missoula, Montana"
 
 ## Course schedule
 
-Schedule subject to change. Lecture videos in this [Panopto folder](https://umontana.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=a244c0b8-532e-4c88-ae4d-b48e0135de1c).
+Schedule subject to change. Lecture videos in this Panopto folder.
 
-To use LaTeX source files for written homework, you will need these two style files: [jeffe.sty](https://lgw2.github.io/teaching/csci332-fall-2025/homework/jeffe.sty) and [handout.sty](https://lgw2.github.io/teaching/csci332-fall-2025/homework/handout.sty).
+To use LaTeX source files for written homework, you will need these two style files: jeffe.sty and handout.sty.
 
 |Week|Due this week|Monday lecture|Wednesday lecture|Friday lecture/quiz|Book chapter|Discrete math review topic|
 |:---|:---|:---|:---|
-|1 (8/24-8/28)|No written HW<br> [PL HW 1](https://us.prairielearn.com/pl/course_instance/183466/assessment/2557352) (Friday before class)<br> Quiz 1 (Friday in class)|[Intro + stable matching](https://lgw2.github.io/teaching/csci332-fall-2025/lectures/intro.pdf)|[Stable matching algorithm](https://lgw2.github.io/teaching/csci332-fall-2025/lectures/Stable_Matching.pdf); [demo](https://lgw2.github.io/teaching/csci332-fall-2025/lectures/01DemoGaleShapley.pdf)|[Quiz 1](https://lgw2.github.io/teaching/csci332-fall-2025/quizzes/quiz1.pdf) + [proofs about stable matching](https://lgw2.github.io/teaching/csci332-fall-2025/lectures/G_S_proofs.pdf)|1.1-1.2;|Set notation (see 2.3 [here](https://cs.carleton.edu/faculty/dln/book/ch02_basic-data-types_2021_October_05.pdf))|
-|2 (8/31-9/4)|HW 1 ([pdf](https://lgw2.github.io/teaching/csci332-fall-2025/homework/hw_1.pdf), [LaTeX source](https://lgw2.github.io/teaching/csci332-fall-2025/homework/hw_1.tex)) (Monday AoE)<br> [PL HW 2](https://us.prairielearn.com/pl/course_instance/183466/assessment/2580716) (Friday before class)<br> Quiz 2 (Friday in class)|[Algorithm analysis](https://lgw2.github.io/teaching/csci332-fall-2025/lectures/alg_analysis_3.pdf)|[Algorithm analysis](https://lgw2.github.io/teaching/csci332-fall-2025/lectures/alg_analysis_1.pdf)|[Quiz 2](https://lgw2.github.io/teaching/csci332-fall-2025/quizzes/quiz2.pdf) + [Algorithm analysis](https://lgw2.github.io/teaching/csci332-fall-2025/lectures/alg_analysis_2.pdf)|2.1-2.2|Logarithms and exponents (see 2.2.4 and 2.2.5 [here](https://cs.carleton.edu/faculty/dln/book/ch02_basic-data-types_2021_October_05.pdf))|
-|3 (9/7-9/11)|HW 2 ([pdf](https://lgw2.github.io/teaching/csci332-fall-2025/homework/hw_2.pdf), [LaTeX source](https://lgw2.github.io/teaching/csci332-fall-2025/homework/hw_2.tex)) (Monday AoE)<br> [PL HW 3](https://us.prairielearn.com/pl/course_instance/183466/assessment/2580717) (Friday before class)<br> Quiz 3 (Friday in class)|Labor day--no class|[Algorithm analysis](https://lgw2.github.io/teaching/csci332-fall-2025/lectures/alg_analysis_4.pdf)|[Quiz 3](https://lgw2.github.io/teaching/csci332-fall-2025/quizzes/quiz3.pdf) + [intro graphs](https://lgw2.github.io/teaching/csci332-fall-2025/lectures/graphs_1.pdf)|2|Direct proof (see 4.20 [here](https://cs.carleton.edu/faculty/dln/book/ch04_proofs_2021_September_08.pdf))|
-|4 (9/14-9/18)|HW 3 ([pdf](https://lgw2.github.io/teaching/csci332-fall-2025/homework/hw_3.pdf), [LaTeX source](https://lgw2.github.io/teaching/csci332-fall-2025/homework/hw_3.tex))<br> [PL HW 4](https://us.prairielearn.com/pl/course_instance/183466/assessment/2587118)<br> Quiz 4|[Graph traversal](https://lgw2.github.io/teaching/csci332-fall-2025/lectures/graphs_2.pdf)|[Topological sort](https://lgw2.github.io/teaching/csci332-fall-2025/lectures/graphs_3.pdf)|[Quiz 4](https://lgw2.github.io/teaching/csci332-fall-2025/quizzes/quiz4.pdf) + [topological sort algorithm](https://lgw2.github.io/teaching/csci332-fall-2025/lectures/graphs_4.pdf)|3|Proof by contradiction (see 4.23 [here](https://cs.carleton.edu/faculty/dln/book/ch04_proofs_2021_September_08.pdf))|
-|5 (9/21-9/25)|HW 4 ([on PL this week!](https://us.prairielearn.com/pl/course_instance/183466/assessment/2586961))<br> [PL HW 5](https://us.prairielearn.com/pl/course_instance/183466/assessment/2554880)<br> Quiz 5|Proofs aboout graphs by induction|[Proofs about graphs by induction](https://lgw2.github.io/teaching/csci332-fall-2025/lectures/graphs_5.pdf) worksheet [1](https://lgw2.github.io/teaching/csci332-fall-2025/lectures/induction_ws_1.pdf) [2](https://lgw2.github.io/teaching/csci332-fall-2025/lectures/induction_ws_2.pdf) [3](https://lgw2.github.io/teaching/csci332-fall-2025/lectures/induction_ws_3.pdf)|[Quiz 5](https://lgw2.github.io/teaching/csci332-fall-2025/quizzes/quiz5.pdf) + [Dijkstra's algorithm intro](https://lgw2.github.io/teaching/csci332-fall-2025/lectures/dijkstra_1.pdf)|4|Proof by induction (see [here](https://cs.carleton.edu/faculty/dln/book/ch05_mathematical-induction_2021_September_08.pdf))|
-|6 (9/28-10/2)|HW 5 ([pdf](https://lgw2.github.io/teaching/csci332-fall-2025/homework/hw_5.pdf), [LaTeX source](https://lgw2.github.io/teaching/csci332-fall-2025/homework/hw_5.tex))<br> No PL<br> Exam 1|[Dijkstra's algorithm](https://lgw2.github.io/teaching/csci332-fall-2025/lectures/dijkstra_2.pdf) [graphs handout](https://lgw2.github.io/teaching/csci332-fall-2025/lectures/graphs_for_dijkstra.pdf) [table handout](https://lgw2.github.io/teaching/csci332-fall-2025/lectures/table_for_dijkstra.pdf)|[Exam 1 practice 2](https://lgw2.github.io/teaching/csci332-fall-2025/exams/exam1_practice2.pdf)|Exam 1 [info](https://lgw2.github.io/teaching/csci332-fall-2025/exams/exam1) [practice 1](https://lgw2.github.io/teaching/csci332-fall-2025/exams/exam1_practice1.pdf)|1-4|
-|7 (10/5-10/9)|No written HW <br> [PL HW 6](https://us.prairielearn.com/pl/course_instance/183466/assessment/2554881)<br> Quiz 6|[Greedy algorithms](https://lgw2.github.io/teaching/csci332-fall-2025/lectures/greedy_1.pdf)|[Greedy algorithms](https://lgw2.github.io/teaching/csci332-fall-2025/lectures/greedy_2.pdf)|[Quiz 6](https://lgw2.github.io/teaching/csci332-fall-2025/quizzes/quiz6.pdf) + [closing out greedy](https://lgw2.github.io/teaching/csci332-fall-2025/lectures/greedy_3.pdf)|5|
-|8 (10/12-10/16)|[HW 6](https://lgw2.github.io/teaching/csci332-fall-2025/homework/hw_6.pdf), [LaTeX source](https://lgw2.github.io/teaching/csci332-fall-2025/homework/hw_6.tex)<br> [Mid-semester survey](https://canvas.umt.edu/courses/22384/quizzes/137859)|Indigenous Peoples' Day--no class|[Divide and conquer](https://lgw2.github.io/teaching/csci332-fall-2025/lectures/divide_and_conquer_1.pdf)|More divide and conquer|5 (but perhaps more closely aligned with chapter 1 [here](https://jeffe.cs.illinois.edu/teaching/algorithms/))|
-|9 (10/19-10/23)|No written HW<br>[PL HW 7](https://us.prairielearn.com/pl/course_instance/183466/assessment/2554481)<br> Quiz 7|[Divide and conquer runtimes](https://lgw2.github.io/teaching/csci332-fall-2025/lectures/divide_and_conquer_2.pdf)|[Divide and conquer multiplication](https://lgw2.github.io/teaching/csci332-fall-2025/lectures/divide_and_conquer_3.pdf)|[Quiz 7](https://lgw2.github.io/teaching/csci332-fall-2025/quizzes/quiz7.pdf) + [Karatsuba's algorithm](https://lgw2.github.io/teaching/csci332-fall-2025/lectures/divide_and_conquer_4.pdf)|5 (but perhaps more closely aligned with chapter 1 [here](https://jeffe.cs.illinois.edu/teaching/algorithms/))|
-|10 (10/26-10/30)|["Written" HW 7](https://us.prairielearn.com/pl/course_instance/183466/assessment/2602562)<br> [PL HW 8](https://us.prairielearn.com/pl/course_instance/183466/assessment/2554712)<br> Quiz 8|[Dynamic programming](https://lgw2.github.io/teaching/csci332-fall-2025/lectures/dp_1.pdf); [fibo handout](https://lgw2.github.io/teaching/csci332-fall-2025/lectures/fibo_handout.pdf)|[Dynamic programming](https://lgw2.github.io/teaching/csci332-fall-2025/lectures/dp_2.pdf)|[practice problems](https://lgw2.github.io/teaching/csci332-fall-2025/lectures/example_dp_probs.pdf) + [Quiz 8](https://lgw2.github.io/teaching/csci332-fall-2025/quizzes/quiz8.pdf)|5 (but perhaps more closely aligned with chapter 3 [here](https://jeffe.cs.illinois.edu/teaching/algorithms/))|
-|11 (11/2-11/6)|Written HW 8: [PL](https://us.prairielearn.com/pl/course_instance/183466/assessment/2607349) and [written](https://lgw2.github.io/teaching/csci332-fall-2025/homework/hw_8.pdf), [LaTeX source](https://lgw2.github.io/teaching/csci332-fall-2025/homework/hw_8.tex) <br> No PL<br> Exam 2|[Review](https://lgw2.github.io/teaching/csci332-fall-2025/lectures/exam_2_review.pdf)|Exam 2 practice|Exam 2 [practice 1](https://lgw2.github.io/teaching/csci332-fall-2025/exams/exam2_practice1.pdf)|4-6 (but also see 1-4 [here](https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf))|
-|12 (11/9-11/13)|No written HW<br> [PL HW 9](https://us.prairielearn.com/pl/course_instance/183466/assessment/2554746)<br> Quiz 9|Going over exam 2|Veterans Day--no class|[Quiz 9](https://lgw2.github.io/teaching/csci332-fall-2025/quizzes/quiz9.pdf)|7|
-|13 (11/16-11/20)|Written HW 9: [PL part](https://us.prairielearn.com/pl/course_instance/183466/assessment/2612337) + [written part](https://lgw2.github.io/teaching/csci332-fall-2025/homework/hw_9.pdf)<br> [PL HW 10](https://us.prairielearn.com/pl/course_instance/183466/assessment/2614574)<br> Quiz 10|[Intro reductions](https://lgw2.github.io/teaching/csci332-fall-2025/lectures/p_vs_np_1.pdf)|[Reductions and P vs. NP](https://lgw2.github.io/teaching/csci332-fall-2025/lectures/p_vs_np_2.pdf)|[Quiz 10 + NP-Completeness](https://lgw2.github.io/teaching/csci332-fall-2025/lectures/np_completeness.pdf)|8|
-|14 (11/23-11/27)|[Written HW 10](https://lgw2.github.io/teaching/csci332-fall-2025/homework/hw_10.pdf)<br>No PL<br>No quiz|[NP-Completeness](https://lgw2.github.io/teaching/csci332-fall-2025/lectures/np-completeness.pdf)|Thanksgiving travel day--no class|Thanksgiving break--no class|8|
-|15 (11/30-12/4)|No written HW<br>No PL<br>No quiz|[Review](https://lgw2.github.io/teaching/csci332-fall-2025/lectures/exam_3_review.pdf)|Exam 3 practice [1](https://lgw2.github.io/teaching/csci332-fall-2025/exams/exam3_practice1.pdf) [2](https://lgw2.github.io/teaching/csci332-fall-2025/exams/exam3_practice2.pdf) |Exam 3||
-|16 (12/7-12/11)|Cumulative Final (optional): 8am-10am Wednesday<br>[UM course survey](https://canvas.umt.edu/courses/22384/assignments/321836)|||||
+|1 (8/24-8/28)|No written HW<br> PL HW 1 (Friday before class)<br> Quiz 1 (Friday in class)|Intro + stable matching|Stable matching algorithm|Quiz 1 + proofs about stable matching|[4.5](https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf#page=188)|[Set notation](https://files.dln.land/textbook/ch02_basic-data-types_2021_October_05.pdf#page=28)|
+|2 (8/31-9/4)|HW 1  (Monday AoE)<br> PL HW 2 (Friday before class)<br> Quiz 2 (Friday in class)|Algorithm analysis|Algorithm analysis|Quiz 2 + Algorithm analysis|[0.6](https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf#page=32)|Logarithms and exponents|
+|3 (9/7-9/11)|HW 2(Monday AoE)<br> No PL<br> No Quiz|Labor day--no class|no class|project intro|2|Direct proof|
+|4 (9/14-9/18)|No HW<br> PL HW 3<br> Quiz 3|Graph traversal|Topological sort|Quiz 3 + topological sort algorithm|3|Proof by contradiction|
+|5 (9/21-9/25)|HW 3<br> PL HW 4<br> Quiz 4|Proofs aboout graphs by induction|Proofs about graphs by induction|Quiz 4 + Dijkstra's algorithm intro|4|Proof by induction|
+|6 (9/28-10/2)|HW 4<br> No PL<br> Exam 1|Dijkstra's algorithm|Exam 1 practice|Exam 1|1-4|
+|7 (10/5-10/9)|No written HW <br> PL HW 5<br> Quiz 5|Greedy algorithms|Greedy algorithms|Quiz 6 + closing out greedy|5|
+|8 (10/12-10/16)|HW 5<br> Mid-semester survey|Indigenous Peoples' Day--no class|Divide and conquer|More divide and conquer|5 (but perhaps more closely aligned with chapter 1 here)|
+|9 (10/19-10/23)|No written HW<br>PL HW 7<br> Quiz 7|Divide and conquer runtimes|Divide and conquer multiplication|Quiz 7 + Karatsuba's algorithm|5 (but perhaps more closely aligned with chapter 1 here)|
+|10 (10/26-10/30)|"Written" HW 7<br> PL HW 8<br> Quiz 8|Dynamic programming; fibo handout|Dynamic programming|practice problems + Quiz 8|5 (but perhaps more closely aligned with chapter 3 here)|
+|11 (11/2-11/6)|Written HW 8: PL and written, LaTeX source <br> No PL<br> Exam 2|Review|Exam 2 practice|Exam 2 practice 1|4-6 (but also see 1-4 here)|
+|12 (11/9-11/13)|No written HW<br> PL HW 9<br> Quiz 9|Going over exam 2|Veterans Day--no class|Quiz 9|7|
+|13 (11/16-11/20)|Written HW 9: PL part + written part<br> PL HW 10<br> Quiz 10|Intro reductions|Reductions and P vs. NP|Quiz 10 + NP-Completeness|8|
+|14 (11/23-11/27)|Written HW 10<br>No PL<br>No quiz|NP-Completeness|Thanksgiving travel day--no class|Thanksgiving break--no class|8|
+|15 (11/30-12/4)|No written HW<br>No PL<br>No quiz|Review|Exam 3 practice 1 2 |Exam 3||
+|16 (12/7-12/11)|Cumulative Final (optional): 8am-10am Wednesday<br>UM course survey|||||
+{: .course-schedule }
 
 
 ## Catalog description
@@ -78,8 +79,7 @@ concepts. We now have empirical evidence that the reliance on AI tools for
 homework problems leads to a decrease in performance on exams (see, e.g., [The Generative AI Learning Penalty: Evidence from Chinese Secondary Education (2026)](https://cepr.org/publications/dp21577)). On the other hand,
 educational psychology research shows that students learn best when they are
 actively engaged in the learning process *even though they feel that they are learning less than when they passively consume information* (e.g., [Measuring Actual Learning vs. Feeling of Learning (2019)](https://www.pnas.org/doi/10.1073/pnas.1821936116)), and that students learn best when they
-are given frequent feedback on their understanding of the material. Generative AI gives  us the opportunity to enact these research findings
-in the course.
+are given frequent feedback on their understanding of the material.
 
 This course
 is designed to help you learn by providing you with frequent feedback on your
@@ -114,6 +114,10 @@ you will lose your participation points for the day if you are using them when t
 The primary textbook for this course is Jeff Erickson's
 [Algorithms](https://jeffe.cs.illinois.edu/teaching/algorithms/), available for
 free online.
+
+I also recommend David Liben-Nowell's [Connecting Discrete Mathematics and Computer Science](https://dln.land/textbook/)
+as a resource to review the discrete math topics needed for this course. A pre-publication copy is available for free
+at the link.
 
 ### Lecture videos
 
@@ -236,11 +240,10 @@ We will be following up with students who we believe have copied their homework 
 ## Grading
 
 You will be graded on the following:
-* 30% exams: two in-class exams throughout the semester, worth 15% each. The final is cumulative but optional and can be taken to
-boost your exam grade. In particular, your exam grade will be the maximum of
-the average of your two midterm exams and your final.
+* 40% exams: two in-class exams throughout the semester, worth 20% each. The final is cumulative but optional and can be taken to
+boost your exam grade. In particular, your exam grade will be `max(avg(exam1, exam2), final)` .
 * 20% weekly quizzes
-* 20%: final project
+* 10%: final project
 * 10% written homework
 * 10% participation (recorded via attendance)
 * 5% PrairieLearn homework
