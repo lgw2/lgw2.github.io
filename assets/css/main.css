@@ -27,7 +27,7 @@ body {
 }
 
 .site-wrap {
-  width: calc(100% - 10rem);
+  width: calc(100% - 20rem);
   margin: 0 auto;
 }
 

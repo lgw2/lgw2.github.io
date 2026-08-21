@@ -11,8 +11,6 @@ location: "Missoula, Montana"
 
 Schedule subject to change. Lecture videos in this Panopto folder.
 
-To use LaTeX source files for written homework, you will need these two style files: jeffe.sty and handout.sty.
-
 |Week|Due this week|Monday lecture|Wednesday lecture|Friday lecture/quiz|Book chapter|Discrete math review topic|
 |:---|:---|:---|:---|
 |1 (8/24-8/28)|No written HW<br> PL HW 1 (Friday before class)<br> Quiz 1 (Friday in class)|Intro + stable matching|Stable matching algorithm|Quiz 1 + proofs about stable matching|[4.5](https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf#page=188)|[Set notation](https://files.dln.land/textbook/ch02_basic-data-types_2021_October_05.pdf#page=28)|
