@@ -13,21 +13,21 @@ Schedule subject to change. Lecture videos in this Panopto folder.
 
 |Week|Due this week|Monday lecture|Wednesday lecture|Friday lecture/quiz|Book chapter|Discrete math review topic|
 |:---|:---|:---|:---|
-|1 (8/24-8/28)|No written HW<br> PL HW 1 (Friday before class)<br> Quiz 1 (Friday in class)|Intro + stable matching|Stable matching algorithm|Quiz 1 + proofs about stable matching|[4.5](https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf#page=188)|[Set notation](https://files.dln.land/textbook/ch02_basic-data-types_2021_October_05.pdf#page=28)|
+|1 (8/24-8/28)|No written HW<br> [PL HW 1](https://us.prairielearn.com/pl/course_instance/221185/assessment/2723870) (Friday before class)<br> Quiz 1 [sample]() (Friday in class)|Intro + stable matching|Stable matching algorithm|Quiz 1 + proofs about stable matching|[4.5](https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf#page=188)|[Set notation](https://files.dln.land/textbook/ch02_basic-data-types_2021_October_05.pdf#page=28)|
 |2 (8/31-9/4)|HW 1  (Monday AoE)<br> PL HW 2 (Friday before class)<br> Quiz 2 (Friday in class)|Algorithm analysis|Algorithm analysis|Quiz 2 + Algorithm analysis|[0.6](https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf#page=32)|Logarithms and exponents|
-|3 (9/7-9/11)|HW 2(Monday AoE)<br> No PL<br> No Quiz|Labor day--no class|no class|project intro|2|Direct proof|
-|4 (9/14-9/18)|No HW<br> PL HW 3<br> Quiz 3|Graph traversal|Topological sort|Quiz 3 + topological sort algorithm|3|Proof by contradiction|
-|5 (9/21-9/25)|HW 3<br> PL HW 4<br> Quiz 4|Proofs aboout graphs by induction|Proofs about graphs by induction|Quiz 4 + Dijkstra's algorithm intro|4|Proof by induction|
-|6 (9/28-10/2)|HW 4<br> No PL<br> Exam 1|Dijkstra's algorithm|Exam 1 practice|Exam 1|1-4|
-|7 (10/5-10/9)|No written HW <br> PL HW 5<br> Quiz 5|Greedy algorithms|Greedy algorithms|Quiz 6 + closing out greedy|5|
-|8 (10/12-10/16)|HW 5<br> Mid-semester survey|Indigenous Peoples' Day--no class|Divide and conquer|More divide and conquer|5 (but perhaps more closely aligned with chapter 1 here)|
-|9 (10/19-10/23)|No written HW<br>PL HW 7<br> Quiz 7|Divide and conquer runtimes|Divide and conquer multiplication|Quiz 7 + Karatsuba's algorithm|5 (but perhaps more closely aligned with chapter 1 here)|
-|10 (10/26-10/30)|"Written" HW 7<br> PL HW 8<br> Quiz 8|Dynamic programming; fibo handout|Dynamic programming|practice problems + Quiz 8|5 (but perhaps more closely aligned with chapter 3 here)|
-|11 (11/2-11/6)|Written HW 8: PL and written, LaTeX source <br> No PL<br> Exam 2|Review|Exam 2 practice|Exam 2 practice 1|4-6 (but also see 1-4 here)|
-|12 (11/9-11/13)|No written HW<br> PL HW 9<br> Quiz 9|Going over exam 2|Veterans Day--no class|Quiz 9|7|
-|13 (11/16-11/20)|Written HW 9: PL part + written part<br> PL HW 10<br> Quiz 10|Intro reductions|Reductions and P vs. NP|Quiz 10 + NP-Completeness|8|
+|3 (9/7-9/11)|HW 2(Monday AoE)<br> No PL<br> No Quiz|Labor day--no class|no class|Recursion|[1](https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf#page=39)|Proof by induction|
+|4 (9/14-9/18)|No HW<br> PL HW 3<br> Quiz 3|Recursion|Recursion|Quiz 3|1||
+|5 (9/21-9/25)|HW 3<br> PL HW 4<br> Quiz 4|Backgracking|Backtracking|Quiz 4|||
+|6 (9/28-10/2)|HW 4<br> PL 5<br> Quiz 5|Dynamic programming|DP|Quiz 5||
+|7 (10/5-10/9)|HW 5 <br> PL HW 6<br> Quiz 6|DP|DP|Quiz 6|5|
+|8 (10/12-10/16)|HW 5<br> Mid-semester survey|Indigenous Peoples' Day--no class|Exam 1 practice|Exam 1|||
+|9 (10/19-10/23)|No written HW<br>PL HW 7<br> Quiz 7|Graph algorithms||Quiz 7||
+|10 (10/26-10/30)|HW 6<br> PL HW 8<br> Quiz 8|Graph algorithms||Quiz 8||
+|11 (11/2-11/6)|Written HW 7<br> PL 9<br> Quiz 9|Graph algorithms|Graph algorithms|Quiz 9||
+|12 (11/9-11/13)|Written HW 8 <br> PL HW 9<br> Quiz 9|Graph algorithms|Veterans Day--no class|Quiz 9||
+|13 (11/16-11/20)|Written HW 9<br> PL HW 10<br> Quiz 10|Intro reductions|Reductions and P vs. NP|Quiz 10||
 |14 (11/23-11/27)|Written HW 10<br>No PL<br>No quiz|NP-Completeness|Thanksgiving travel day--no class|Thanksgiving break--no class|8|
-|15 (11/30-12/4)|No written HW<br>No PL<br>No quiz|Review|Exam 3 practice 1 2 |Exam 3||
+|15 (11/30-12/4)|No written HW<br>No PL<br>No quiz|Exam 2 practice|Exam 2|Project presentations||
 |16 (12/7-12/11)|Cumulative Final (optional): 8am-10am Wednesday<br>UM course survey|||||
 {: .course-schedule }
 
