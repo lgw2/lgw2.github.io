@@ -237,8 +237,6 @@ not be counted.
 If you would like to use an AI chat tool to assist with your homework, you must use the
 prompt [here](/files/teaching/csci332_fall2026) and provide a link to the entire transcript of your chat.
 
-
-
 Please ask if you have questions about how to properly cite a source or a
 collaborator.
 
