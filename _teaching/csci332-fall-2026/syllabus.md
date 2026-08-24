@@ -231,8 +231,13 @@ sources. Some examples of resources you might use:
 The only resources you may use without citation are our course textbook,
 our posted lecture slides, our
 in-class or Discord discussions, and office hours discussions. To help you properly cite your sources,
-you will be required to provide citations on all homework questions, and questions without citations (or a note that no sources were used)
-will receive 0 points.
+you will be required to provide citations on all homework questions, and homework without citations will
+not be counted.
+
+If you would like to use an AI chat tool to assist with your homework, you must use the
+prompt [here](/files/teaching/csci332_fall2026) and provide a link to the entire transcript of your chat.
+
+
 
 Please ask if you have questions about how to properly cite a source or a
 collaborator.
@@ -259,8 +264,8 @@ Your grade will be determined by your total score as follows:
 You may get up to 80% (regardless of your original score) on any homework or quiz by attending office hours
 (or asking for additional office hours) and talking through the problem (or perhaps an alternate version of the problem)
 with Lucy. You should try to understand the topic and where you went wrong beforehand, but you are encouraged to
-come and may still get the max points even if you still are confused when we start the conversation. **This must be completed within 3
-3 weeks of the original due date or quiz date.**
+come and may still get the max points even if you still are confused when we start the conversation. **This must be completed within
+4 weeks of the original due date or quiz date.**
 
 ### Participation
 
