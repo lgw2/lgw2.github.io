@@ -14,7 +14,7 @@ Schedule subject to change. Lecture videos can be found in [this Panopto folder]
 
 | Week | Due this week | Monday | Wednesday | Friday |
 | --- | --- | --- | --- | --- |
-| 1 (8/24-8/28) |  | Intro | Finding hidden patterns in DNA  | Hidden patterns |
+| 1 (8/24-8/28) |Cogniterra assignment 1 (Friday)  | Intro | Finding hidden patterns in DNA  | Hidden patterns |
 | 2 (8/31-9/4) |  | Hidden patterns | Hidden patterns | Protein sequencing |
 | 3 (9/7-9/11) |  | Labor day--no class | Protein sequencing | Protein sequencing |
 | 4 (9/14-9/18) |  | Motif finding | Motif finding | Motif finding |
@@ -130,7 +130,7 @@ in the following ways:
 
 #### For pre-class assignments
 
-I suggest either using guardrailed AI or *not* using AI when completing pre-class assignments. The point of these assignments
+I suggest either using guardrailed AI (such as with [this prompt](/files/teaching/csci558_fall2026/agents.md)) or *not* using AI when completing pre-class assignments. The point of these assignments
 is to give you the opportunity to understand the algorithms that we are studying, including the small details.
 If you allow an AI to write the code for you, you miss the opportunity to do the learning yourself.
 Remember that *it will feel hard* and *struggle is where learning happens*!
