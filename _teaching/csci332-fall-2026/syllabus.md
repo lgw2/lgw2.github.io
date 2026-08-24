@@ -163,12 +163,12 @@ of the syllabus will be updated.
 ### PrairieLearn assignments
 
 Before class on Fridays, you will have auto-graded problem sets on a platform
-called PrairieLearn. You can try these problems as many times as you would like
+called PrairieLearn (PL). You can try these problems as many times as you would like
 until you get the right answer, because they automatically generate new
 variations of the problem each time. For some assignments, you will need to
 complete multiple variations of the same problem to get full credit. Make sure
 you look at the "Total points" value on the right-hand side of the screen to ensure that you have earned the maximum points possible.
-If you are able to complete the PrairieLearn assignment for the week by
+If you are able to complete the PL assignment for the week by
 yourself, you should be well-prepared for Friday's quiz. However, if you are
 unable to answer the questions on your own, you do not have a complete
 understanding of an important concept that will likely appear on the Friday
@@ -180,18 +180,13 @@ like the textbook, lecture notes/videos, other online resources, or ask your
 question in the `#questions` channel in the Discord or attend course help
 hours.
 
-You can access the PrairieLearn problem sets
+You can access the PL problem sets
 [here](https://us.prairielearn.com/pl/course_instance/183466). You should select
 either the "Sign in with Google" or the "Sign in with Microsoft" option. You can
 log in with any Google or Microsoft email account; your UM email will work as a
 Microsoft account if you prefer.
 
-In assigning homework like this one, I am placing emphasis on mastery. The idea
-is to keep doing questions until you master the underlying concept or method.
-Once you do, you should be able to answer these questions very quickly.
-
-The way this works in PrairieLearn is that each question has a value, a point
-total, and a point maximum. If you answer a question correctly, two things
+Points are assign in PL as follows. If you answer a question correctly, two things
 happen:
 
 * The point total increases by the value, until you reach the point maximum.
@@ -201,19 +196,27 @@ If you answer a question incorrectly, one thing happens:
 
 * The value goes back to what it was originally (1x)
 
-This system rewards repeated correct answers, which tend to demonstrate mastery. There is no penalty (other than resetting the value) for answering a question incorrectly, so don't be afraid to submit an answer. Similarly, don't be afraid to keep doing a question after you reach the point maximum - your point total will never go down!
+This system rewards repeated correct answers, which tend to demonstrate mastery.
+There is no penalty (other than resetting the value) for answering a question
+incorrectly, so don't be afraid to submit an answer. Similarly, don't be afraid
+to keep doing a question after you reach the point maximum - your point total
+will never go down!
 
 ### Written homework
 
-Written homework will be due on Mondays anywhere on earth (AoE), so 6am Tuesday, on Canvas via the grading app Gradescope. Make sure to put each problem on a separate page
-and tag it correctly in Gradescope.
-Written homework will generally consist of one or two proof or algorithm-development related problems, designed to push your understanding
-of the material covered in the previous week.
+Written homework will be due on Mondays anywhere on earth (AoE), so 6am Tuesday,
+on Canvas via the grading app Gradescope. Make sure to put each problem on a
+separate page and tag it correctly in Gradescope.  Written homework will
+generally consist of one or two proof or algorithm-development related problems,
+designed to push your understanding of the material covered in the previous
+week.
 
 You are encouraged to write your homework using LaTex, a typesetting program
-that is popular in computer science research. [Overleaf](https://www.overleaf.com) is an online LaTeX
-compiler, and I've provided a [homework template](https://www.overleaf.com/read/crdkmpypjrbh#84dd4b) that you can use to write
-up your homework solutions.
+that is popular in computer science research.
+[Overleaf](https://www.overleaf.com) is an online LaTeX compiler, and I've
+provided a [homework
+template](https://www.overleaf.com/read/crdkmpypjrbh#84dd4b) that you can use to
+write up your homework solutions.
 
 ## Collaboration policy
 
@@ -228,31 +231,37 @@ sources. Some examples of resources you might use:
 * anything you find on the internet
 * ChatGPT or other AI tools
 
-The only resources you may use without citation are our course textbook,
-our posted lecture slides, our
-in-class or Discord discussions, and office hours discussions. To help you properly cite your sources,
-you will be required to provide citations on all homework questions, and homework without citations will
+The only resources you may use without citation are our course textbook, our
+posted lecture slides, our in-class or Discord discussions, and office hours
+discussions. To help you properly cite your sources, you will be required to
+provide citations on all homework questions, and homework without citations will
 not be counted.
 
-If you would like to use an AI chat tool to assist with your homework, you must use the
-prompt [here](/files/teaching/csci332_fall2026) and provide a link to the entire transcript of your chat.
+If you would like to use an AI chat tool to assist with your homework, you must
+use the prompt [here](/files/teaching/csci332_fall2026) and provide a link to
+the entire transcript of your chat. Feel free to edit this if you want, but if you do,
+provide your prompt with your homework.
 
 Please ask if you have questions about how to properly cite a source or a
 collaborator.
 
-Additionally, please ask if you have questions about what it means to write up answers in your own words.
-We will be following up with students who we believe have copied their homework answers from outside sources, even if a citation is provided.
+Additionally, please ask if you have questions about what it means to write up
+answers in your own words.  We will be following up with students who we believe
+have copied their homework answers from outside sources, even if a citation is
+provided.
 
 ## Grading
 
 You will be graded on the following:
-* 40% exams: two in-class exams throughout the semester, worth 20% each. The final is cumulative but optional and can be taken to
-boost your exam grade. In particular, your exam grade will be `max(avg(exam1, exam2), final)` .
+* 40% exams: two in-class exams throughout the semester, worth 20% each. The
+* final is cumulative but optional and can be taken to
+boost your exam grade. In particular, your exam grade will be `max(avg(exam1,
+exam2), final)` .
 * 20% weekly quizzes
 * 10%: final project
 * 10% written homework
 * 10% participation (recorded via attendance)
-* 5% PrairieLearn homework
+* 5% PrairieLearn homework. (Note: if you receive less than 50% on the associated quiz, your PL score is set to 0.)
 
 Your grade will be determined by your total score as follows:
 93+: A; 90+: A-; 87+: B+; 83+: B; 80+: B-; 77+: C+; 73+: C; 70+: C-; 67+: D+; 63: D; 60: D-.
@@ -275,7 +284,7 @@ Lucy if you need to arrange another way to make up attendance.
 
 Your final project will be to produce something interactive (a vibe-coded demo, a board game or
 physical puzzle, etc.) that can help a user understand an aspect of this course that you found
-difficult.
+difficult. More details will be posted later in the semester.
 
 ### Bonus
 
