@@ -147,20 +147,20 @@ We are lucky to have two teaching assistants (TAs) and two learning assistants
 grading. Our LAs are Grant and Kyle and they will assist with group problem solving sessions and other
 in-class activities.
 
-## Instructor course help hours (aka office hours)
+### Instructor course help hours (aka office hours)
 
 Instructor course help hours will be Monday 11-12pm (directly after
 class) and Friday 9-10am (directly before class) in Social Sciences
 402 (the CS conference room). There will be free coffee! I encourage you to come whenever you can.
 
-## Fishbowl tutoring hours
+### Fishbowl tutoring hours
 
 There will be TAs from various courses available to help. When this schedule is available, this section
 of the syllabus will be updated.
 
-### Homework submission
+## Homework submission
 
-#### PrairieLearn assignments
+### PrairieLearn assignments
 
 Before class on Fridays, you will have auto-graded problem sets on a platform
 called PrairieLearn. You can try these problems as many times as you would like
@@ -203,7 +203,7 @@ If you answer a question incorrectly, one thing happens:
 
 This system rewards repeated correct answers, which tend to demonstrate mastery. There is no penalty (other than resetting the value) for answering a question incorrectly, so don't be afraid to submit an answer. Similarly, don't be afraid to keep doing a question after you reach the point maximum - your point total will never go down!
 
-#### Written homework
+### Written homework
 
 Written homework will be due on Mondays anywhere on earth (AoE), so 6am Tuesday, on Canvas via the grading app Gradescope. Make sure to put each problem on a separate page
 and tag it correctly in Gradescope.
@@ -215,7 +215,7 @@ that is popular in computer science research. [Overleaf](https://www.overleaf.co
 compiler, and I've provided a [homework template](https://www.overleaf.com/read/crdkmpypjrbh#84dd4b) that you can use to write
 up your homework solutions.
 
-##### Collaboration policy
+## Collaboration policy
 
 You may use *any* resource available to you on the written homework, as
 long as you write up your answers in your own words and properly cite your
@@ -267,6 +267,12 @@ come and may still get the max points even if you still are confused when we sta
 Your particiapation grade will be based on lecture attendance. You can make up
 lecture attendance by attending office hours or in other ways; please contact
 Lucy if you need to arrange another way to make up attendance.
+
+### Final project
+
+Your final project will be to produce something interactive (a vibe-coded demo, a board game or
+physical puzzle, etc.) that can help a user understand an aspect of this course that you found
+difficult.
 
 ### Bonus
 
