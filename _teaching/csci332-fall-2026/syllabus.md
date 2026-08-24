@@ -9,12 +9,12 @@ location: "Missoula, Montana"
 
 ## Course schedule
 
-Schedule subject to change. Lecture videos in this Panopto folder.
+Schedule subject to change. Lecture videos in [this Panopto folder](https://umontana.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=a244c0b8-532e-4c88-ae4d-b48e0135de1c).
 
 |Week|Due this week|Monday lecture|Wednesday lecture|Friday lecture/quiz|Book chapter|Discrete math review topic|
 |:---|:---|:---|:---|
-|1 (8/24-8/28)|No written HW<br> [PL HW 1](https://us.prairielearn.com/pl/course_instance/221185/assessment/2723870) (Friday before class)<br> Quiz 1 [sample]() (Friday in class)|Intro + stable matching|Stable matching algorithm|Quiz 1 + proofs about stable matching|[4.5](https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf#page=188)|[Set notation](https://files.dln.land/textbook/ch02_basic-data-types_2021_October_05.pdf#page=28)|
-|2 (8/31-9/4)|HW 1  (Monday AoE)<br> PL HW 2 (Friday before class)<br> Quiz 2 (Friday in class)|Algorithm analysis|Algorithm analysis|Quiz 2 + Algorithm analysis|[0.6](https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf#page=32)|Logarithms and exponents|
+|1 (8/24-8/28)|No written HW<br> [PL HW 1](https://us.prairielearn.com/pl/course_instance/221185/assessment/2723870) (Friday before class)<br> Quiz 1 [sample](https://github.com/lgw2/cs332-fall2026-public/blob/main/quizzes/week1/sample/main.pdf) (Friday in class)|Intro + stable matching|Stable matching algorithm|Quiz 1 + proofs about stable matching|[4.5](https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf#page=188)|[Set notation](https://files.dln.land/textbook/ch02_basic-data-types_2021_October_05.pdf#page=28)|
+|2 (8/31-9/4)|[HW 1](https://github.com/lgw2/cs332-fall2026-public/blob/main/written_hw/stable_matching/hw_1.pdf) (Monday AoE) [submission example](https://www.overleaf.com/read/crdkmpypjrbh#84dd4b)<br> PL HW 2 (Friday before class)<br> Quiz 2 (Friday in class)|Algorithm analysis|Algorithm analysis|Quiz 2 + Algorithm analysis|[0.6](https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf#page=32)|Logarithms and exponents|
 |3 (9/7-9/11)|HW 2(Monday AoE)<br> No PL<br> No Quiz|Labor day--no class|no class|Recursion|[1](https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf#page=39)|Proof by induction|
 |4 (9/14-9/18)|No HW<br> PL HW 3<br> Quiz 3|Recursion|Recursion|Quiz 3|1||
 |5 (9/21-9/25)|HW 3<br> PL HW 4<br> Quiz 4|Backgracking|Backtracking|Quiz 4|||
@@ -42,9 +42,11 @@ algorithms. Introduction to NP-complete problems.
 
 ## Course outcomes
 
-In previous parts of the computer science curriculum, students have been exposed to various computational problems and
-have seen solutions (algorithms) to solve them. In this course, we continue that journey, with additional emphasis on more complex (and
-therefore more real-world) computational problems and advanced algorithm design techniques.
+In previous parts of the computer science curriculum, students have been exposed
+to various computational problems and have seen solutions (algorithms) to solve
+them. In this course, we continue that journey, with additional emphasis on more
+complex (and therefore more real-world) computational problems and advanced
+algorithm design techniques.
 
 After completing this course, a student should be able to:
 * translate natural-language descriptions of computational problems into precisely formulated computational problems
@@ -63,10 +65,13 @@ In order to achieve the course outcomes, this course uses a variety of pedagogic
 * frequent feedback: students can check their understanding of the course material through autograded weekly exercises (PrairieLearn assignments),
 weekly written homework, and weekly quizzes.
 * group problem solving
-* development of students' own "inner computer": ability to verify correctness, runtime, and other properties
-of algorithms and computational topics through their own reasoning processes. Development of these reasoning processes can be assisted
-by outside tools, such as instructors, AI, compilers, autograded assignments, etc., but ultimately,
-students must develop their own reasoning processes to be successful in this course and in their future careers.
+* development of students' own "inner computer": ability to verify correctness,
+* runtime, and other properties
+of algorithms and computational topics through their own reasoning processes.
+Development of these reasoning processes can be assisted by outside tools, such
+as instructors, AI, compilers, autograded assignments, etc., but ultimately,
+students must develop their own reasoning processes to be successful in this
+course and in their future careers.
 
 Today's students face both challenges and extreme opportunities when it comes to
 learning. True learning comes from practice, but the internet and AI tools make
@@ -81,9 +86,6 @@ This course
 is designed to help you learn by providing you with frequent feedback on your
 understanding of the material, and by giving you opportunities to actively
 engage with the material through group problem solving and other activities.
-
-> Don't just read it; fight it! Ask your own questions, look for your own examples, discover your own proofs. Is the hypothesis necessary? Is the converse true? What happens in the classical special case? What about the degenerate cases? Where does the proof use the hypothesis?
-> ---Paul Halmos
 
 ## Course info
 
@@ -140,17 +142,21 @@ to ask questions. Instructions can be found on Canvas.
 
 ### Teaching and learning assistants
 
-We are lucky to have both a teaching Assistant (TA) and a learning assistant
-(LA) in this course. Our TA Onila is a graduate student in computer science and
-will be assisting with in-class activities, outside of course help, and
-grading. Our learning assistant Kyle will assist with group problem solving sessions and other
-in-class activities and hold a weekly course help hour.
+We are lucky to have two teaching assistants (TAs) and two learning assistants
+(LAs) in this course. Our TAs are Jack and Afra, and they will be assisting with in-class activities, outside of course help, and
+grading. Our LAs are Grant and Kyle and they will assist with group problem solving sessions and other
+in-class activities.
 
-## Course help hours (aka office hours)
+## Instructor course help hours (aka office hours)
 
-Instructor course help hours will be Monday 9-10am and 11-12pm (directly before
-and after class) and Friday 9-10am (directly before class) in Social Sciences
-402 (the CS conference room).
+Instructor course help hours will be Monday 11-12pm (directly after
+class) and Friday 9-10am (directly before class) in Social Sciences
+402 (the CS conference room). There will be free coffee! I encourage you to come whenever you can.
+
+## Fishbowl tutoring hours
+
+There will be TAs from various courses available to help. When this schedule is available, this section
+of the syllabus will be updated.
 
 ### Homework submission
 
@@ -199,17 +205,15 @@ This system rewards repeated correct answers, which tend to demonstrate mastery.
 
 #### Written homework
 
-Written homework will be due on Mondays at 9pm on Canvas via the grading app Gradescope. Make sure to put each problem on a separate page
+Written homework will be due on Mondays anywhere on earth (AoE), so 6am Tuesday, on Canvas via the grading app Gradescope. Make sure to put each problem on a separate page
 and tag it correctly in Gradescope.
 Written homework will generally consist of one or two proof or algorithm-development related problems, designed to push your understanding
 of the material covered in the previous week.
 
 You are encouraged to write your homework using LaTex, a typesetting program
 that is popular in computer science research. [Overleaf](https://www.overleaf.com) is an online LaTeX
-compiler, and I've provided a [homework template](https://www.overleaf.com/read/knwmhrgkkqqj#9a5edd) that you can use to write
+compiler, and I've provided a [homework template](https://www.overleaf.com/read/crdkmpypjrbh#84dd4b) that you can use to write
 up your homework solutions.
-
-A grading rubric will be provided with every homework assignment. Note that every problem will require you to provide citations, as described below.
 
 ##### Collaboration policy
 
@@ -256,7 +260,7 @@ You may get up to 80% (regardless of your original score) on any homework or qui
 (or asking for additional office hours) and talking through the problem (or perhaps an alternate version of the problem)
 with Lucy. You should try to understand the topic and where you went wrong beforehand, but you are encouraged to
 come and may still get the max points even if you still are confused when we start the conversation. **This must be completed within 3
-3 weeks of the original due date.**
+3 weeks of the original due date or quiz date.**
 
 ### Participation
 
