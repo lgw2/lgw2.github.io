@@ -95,9 +95,9 @@ This course meets in Education 241 on Mondays, Wednesdays, and Fridays from
 Class time will be a mix of lecture and active problem solving, both as
 individuals and as groups. Every week we will have an interactive, auto-graded
 assignment via
-[PrairieLearn](https://us.prairielearn.com/pl/course_instance/183466) due before
+[PrairieLearn](https://us.prairielearn.com/pl/course_instance/221185) due before
 class Friday and a short quiz during class on Friday. We will then have a short
-written homework assignment due on Monday.
+written homework assignment due on Monday. Note: it will cost $18 to register for our PL course.
 
 During class time, I will ask that you refrain from using all laptops and cell
 phones, except when they are useful for accessing information during group
