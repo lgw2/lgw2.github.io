@@ -238,7 +238,7 @@ provide citations on all homework questions, and homework without citations will
 not be counted.
 
 If you would like to use an AI chat tool to assist with your homework, you must
-use the prompt [here](/files/teaching/csci332_fall2026) and provide a link to
+use the prompt [here](/files/teaching/csci332_fall2026/agents.md) and provide a link to
 the entire transcript of your chat. Feel free to edit this if you want, but if you do,
 provide your prompt with your homework.
 
