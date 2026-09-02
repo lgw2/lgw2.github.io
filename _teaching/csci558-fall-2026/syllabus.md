@@ -15,8 +15,8 @@ Schedule subject to change. Lecture videos can be found in [this Panopto folder]
 | Week | Due this week | Monday | Wednesday | Friday |
 | --- | --- | --- | --- | --- |
 | 1 (8/24-8/28) |Cogniterra assignment 1 (Friday)  | Intro | Finding hidden patterns in DNA  | Hidden patterns |
-| 2 (8/31-9/4) | Cogniterra assignment 2 (Monday) <br> Worksheet 1 <br> Quiz 1 | Hidden patterns worksheet | Hidden patterns quiz + Motif finding intro | Motif finding |
-| 3 (9/7-9/11) |  | Labor day--no class | Motif finding | Motif finding |
+| 2 (8/31-9/4) | Cogniterra assignment 2 (Monday) <br> Worksheet 1 <br> Quiz 1 <br> Cogniterra assignment 3 (Friday) | Hidden patterns worksheet | Hidden patterns quiz + motif finding intro | Motif finding |
+| 3 (9/7-9/11) |Cogniterra assignment 4 (Wednesday) <br> Worksheet 2  | Labor day--no class | Motif finding worksheet | Motif finding quiz + rotein sequencing intro|
 | 4 (9/14-9/18) |  | Protein sequencing | Protein sequencing | Protein sequencing |
 | 5 (9/21-9/25) |  | Genome assembly | Genome assembly | Genome assembly |
 | 6 (9/28-10/2) |  | No class | No class | Share project proposals |
