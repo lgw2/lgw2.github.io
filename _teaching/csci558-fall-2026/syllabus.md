@@ -16,10 +16,10 @@ Schedule subject to change. Lecture videos can be found in [this Panopto folder]
 | --- | --- | --- | --- | --- |
 | 1 (8/24-8/28) |Cogniterra assignment 1 (Friday)  | Intro | Finding hidden patterns in DNA  | Hidden patterns |
 | 2 (8/31-9/4) | Cogniterra assignment 2 (Monday) <br> Worksheet 1 <br> Quiz 1 <br> Cogniterra assignment 3 (Friday) | Hidden patterns worksheet | Hidden patterns quiz + motif finding intro | Motif finding |
-| 3 (9/7-9/11) |Cogniterra assignment 4 (Wednesday) <br> Worksheet 2  | Labor day--no class | Motif finding worksheet | Motif finding quiz + rotein sequencing intro|
-| 4 (9/14-9/18) |  | Protein sequencing | Protein sequencing | Protein sequencing |
+| 3 (9/7-9/11) |Cogniterra assignment 4 (Wednesday) <br> Worksheet 2  | Labor day--no class | Motif finding worksheet | Motif finding quiz + protein sequencing intro|
+| 4 (9/14-9/18) |Cogniterra assignments 5, 6 (Monday, Wednesday)  | Protein sequencing | Protein sequencing | Protein sequencing |
 | 5 (9/21-9/25) |  | Genome assembly | Genome assembly | Genome assembly |
-| 6 (9/28-10/2) |  | No class | No class | Share project proposals |
+| 6 (9/28-10/2) |  | Visit [UM Genomics Core](https://www.umt.edu/genomics-lab/) | Sequence alignment | Sequence alignment |
 | 7 (10/5-10/9) |  | Sequence alignment | Sequence alignment | Sequence alignment |
 | 8 (10/12-10/16) |  | Indigenous Peoples' Day--no class | HMMs and profile HMMs |HMMs and profile HMMs  |
 | 9 (10/19-10/23) |  | HMMs and profile HMMs | HMMs and profile HMMs | HMMs and profile HMMs |
