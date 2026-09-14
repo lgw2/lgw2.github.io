@@ -15,18 +15,18 @@ Schedule subject to change. Lecture videos in [this Panopto folder](https://umon
 |:---|:---|:---|:---|
 |1 (8/24-8/28)|No written HW<br> [PL HW 1](https://us.prairielearn.com/pl/course_instance/221185/assessment/2723870) (Friday before class)<br> Quiz 1 [sample](https://github.com/lgw2/cs332-fall2026-public/blob/main/quizzes/week1/sample/main.pdf) (Friday in class)|[Intro + stable matching](/files/teaching/csci332_fall2026/lectures/intro.pdf)|[Stable matching definition](/files/teaching/csci332_fall2026/lectures/stable_matching_1.pdf)|Quiz 1 + [stable matching algorithm](/files/teaching/csci332_fall2026/lectures/stable_matching_2.pdf); [demo](/files/teaching/csci332_fall2026/lectures/01DemoGaleShapley.pdf)|[JeffE ch 4.5](https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf#page=188)|[DLN Set notation](https://files.dln.land/textbook/ch02_basic-data-types_2021_October_05.pdf#page=28)|
 |2 (8/31-9/4)|[HW 1](https://github.com/lgw2/cs332-fall2026-public/blob/main/written_hw/stable_matching/hw_1.pdf) (Monday AoE) [submission example](https://www.overleaf.com/read/crdkmpypjrbh#84dd4b)<br> [PL HW 2](https://us.prairielearn.com/pl/course_instance/221185/assessment/2727129) (Friday before class)<br> Quiz 2 (Friday in class)|[Proofs about stable matching and into algorithm analysis](/files/teaching/csci332_fall2026/lectures/stable_matching_and_alg_analysis.pdf)|[Algorithm analysis](/files/teaching/csci332_fall2026/lectures/alg_analysis_2.pdf)|Quiz 2 + [Algorithm analysis](/files/teaching/csci332_fall2026/lectures/alg_analysis_3.pdf)|[0.6](https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf#page=32)|[DLN Logarithms and exponents](https://files.dln.land/textbook/ch02_basic-data-types_2021_October_05.pdf#page=8)|
-|3 (9/7-9/11)|[HW 2](https://github.com/lgw2/cs332-fall2026-public/blob/main/written_hw/alg_analysis/hw_2.pdf)<br>[Optional PL](https://us.prairielearn.com/pl/course_instance/221185/assessment/2730519)<br> No Quiz|Labor day--no class|no class|[More algorithm analysis](/files/teaching/csci332_fall2026/lectures/alg_analysis_4.pdf)|[JeffE ch 0.6](https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf#page=39); [DLN ch 6](https://files.dln.land/textbook/ch06_analysis-of-algorithms_2021_September_08.pdf)||
-|4 (9/14-9/18)|[HW 3](https://github.com/lgw2/cs332-fall2026-public/blob/main/written_hw/alg_analysis_2/hw_3.pdf)<br> PL HW 3<br> Quiz 3|[Recursion](/files/teaching/csci332_fall2026/lectures/recursion_1.pdf)|Recursion|Quiz 3|1||
-|5 (9/21-9/25)|HW 3<br> PL HW 4<br> Quiz 4|Backgracking|Backtracking|Quiz 4|||
-|6 (9/28-10/2)|HW 4<br> PL 5<br> Quiz 5|Dynamic programming|DP|Quiz 5||
-|7 (10/5-10/9)|HW 5 <br> PL HW 6<br> Quiz 6|DP|DP|Quiz 6|5|
-|8 (10/12-10/16)|HW 5<br> Mid-semester survey|Indigenous Peoples' Day--no class|Exam 1 practice|Exam 1|||
+|3 (9/7-9/11)|[HW 2](https://github.com/lgw2/cs332-fall2026-public/blob/main/written_hw/alg_analysis/hw_2.pdf)<br>[Optional PL](https://us.prairielearn.com/pl/course_instance/221185/assessment/2730519)<br> No Quiz (but see [last year's](/files/teaching/csci332_fall2026/missed_quiz.pdf)|Labor day--no class|no class|[More algorithm analysis](/files/teaching/csci332_fall2026/lectures/alg_analysis_4.pdf)|[JeffE ch 0.6](https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf#page=39); [DLN ch 6](https://files.dln.land/textbook/ch06_analysis-of-algorithms_2021_September_08.pdf)||
+|4 (9/14-9/18)|[HW 3](https://github.com/lgw2/cs332-fall2026-public/blob/main/written_hw/alg_analysis_2/hw_3.pdf)<br> PL HW 3<br> Quiz 3|[Recursion](/files/teaching/csci332_fall2026/lectures/recursion_1.pdf)|Recursion|Quiz 3|[Jeffe ch 1](https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf#page=39)|Proof by induction|
+|5 (9/21-9/25)|HW 4<br> PL HW 4<br> Quiz 4|Backtracking|Backtracking|Quiz 4|||
+|6 (9/28-10/2)|HW 5<br> PL 5<br> Quiz 5|Dynamic programming|DP|Quiz 5||
+|7 (10/5-10/9)|HW 6 <br> PL HW 6<br> Quiz 6|DP|DP|Quiz 6|5|
+|8 (10/12-10/16)|HW 7<br> Mid-semester survey|Indigenous Peoples' Day--no class|Exam 1 practice|Exam 1|||
 |9 (10/19-10/23)|No written HW<br>PL HW 7<br> Quiz 7|Graph algorithms||Quiz 7||
-|10 (10/26-10/30)|HW 6<br> PL HW 8<br> Quiz 8|Graph algorithms||Quiz 8||
-|11 (11/2-11/6)|Written HW 7<br> PL 9<br> Quiz 9|Graph algorithms|Graph algorithms|Quiz 9||
-|12 (11/9-11/13)|Written HW 8 <br> PL HW 9<br> Quiz 9|Graph algorithms|Veterans Day--no class|Quiz 9||
-|13 (11/16-11/20)|Written HW 9<br> PL HW 10<br> Quiz 10|Intro reductions|Reductions and P vs. NP|Quiz 10||
-|14 (11/23-11/27)|Written HW 10<br>No PL<br>No quiz|NP-Completeness|Thanksgiving travel day--no class|Thanksgiving break--no class|8|
+|10 (10/26-10/30)|HW 8<br> PL HW 8<br> Quiz 8|Graph algorithms||Quiz 8||
+|11 (11/2-11/6)|Written HW 9<br> PL 9<br> Quiz 9|Graph algorithms|Graph algorithms|Quiz 9||
+|12 (11/9-11/13)|Written HW 10 <br> PL HW 9<br> Quiz 9|Graph algorithms|Veterans Day--no class|Quiz 9||
+|13 (11/16-11/20)|Written HW 11<br> PL HW 10<br> Quiz 10|Intro reductions|Reductions and P vs. NP|Quiz 10||
+|14 (11/23-11/27)|Written HW 12<br>No PL<br>No quiz|NP-Completeness|Thanksgiving travel day--no class|Thanksgiving break--no class|8|
 |15 (11/30-12/4)|No written HW<br>No PL<br>No quiz|Exam 2 practice|Exam 2|Project presentations||
 |16 (12/7-12/11)|Cumulative Final (optional): 8am-10am Wednesday<br>UM course survey|||||
 {: .course-schedule }
@@ -186,7 +186,7 @@ either the "Sign in with Google" or the "Sign in with Microsoft" option. You can
 log in with any Google or Microsoft email account; your UM email will work as a
 Microsoft account if you prefer.
 
-Points are assign in PL as follows. If you answer a question correctly, two things
+Points are assigned in PL as follows. If you answer a question correctly, two things
 happen:
 
 * The point total increases by the value, until you reach the point maximum.
