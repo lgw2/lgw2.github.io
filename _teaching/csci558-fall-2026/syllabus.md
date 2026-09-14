@@ -15,11 +15,11 @@ Schedule subject to change. Lecture videos can be found in [this Panopto folder]
 | Week | Due this week | Monday | Wednesday | Friday |
 | --- | --- | --- | --- | --- |
 | 1 (8/24-8/28) |Cogniterra assignment 1 (Friday)  | Intro | Finding hidden patterns in DNA  | Hidden patterns |
-| 2 (8/31-9/4) | Cogniterra assignment 2 (Monday) <br> Worksheet 1 <br> Quiz 1 <br> Cogniterra assignment 3 (Friday) | Hidden patterns worksheet | Hidden patterns quiz + motif finding intro | Motif finding |
-| 3 (9/7-9/11) |Cogniterra assignment 4 (Wednesday) <br> Worksheet 2 <br> Quiz 3| Labor day--no class | Motif finding worksheet | Motif finding quiz + protein sequencing intro|
-| 4 (9/14-9/18) |Cogniterra assignments 5, 6 (Monday, Wednesday) <br> Worksheet 3 (Friday)  | Protein sequencing | Protein sequencing | Protein sequencing |
-| 5 (9/21-9/25) |Quiz 3 (Monday) <br> Cogniterra assignments 7, 8 (Wednesday, Friday)  | Protein sequencing quiz + genome assembly intro | Genome assembly | Genome assembly |
-| 6 (9/28-10/2) |Cogniterra assignment 9 <Monday> <br> Quiz 4 (Wednesday) <br> Cogniterra assignment 10 (Friday)| Visit [UM Genomics Core](https://www.umt.edu/genomics-lab/) | Genome assembly quiz + intro sequence alignment | Sequence alignment |
+| 2 (8/31-9/4) | Cogniterra 2 (Monday) <br> Worksheet 1 <br> Quiz 1 <br> Cogniterra 3 (Friday) | Hidden patterns worksheet | Hidden patterns quiz + motif finding intro | Motif finding |
+| 3 (9/7-9/11) |Cogniterra 4 (Wednesday) <br> Worksheet 2 <br> Quiz 3| Labor day--no class | Motif finding worksheet | Motif finding quiz + protein sequencing intro|
+| 4 (9/14-9/18) |Cogniterra 5, 6 (Monday, Wednesday) <br> Worksheet 3 (Friday)  | Protein sequencing | Protein sequencing | Protein sequencing |
+| 5 (9/21-9/25) |Quiz 3 (Monday) <br> Cogniterra 7, 8 (Wednesday, Friday)  | Protein sequencing quiz + genome assembly intro | Genome assembly | Genome assembly |
+| 6 (9/28-10/2) |Cogniterra 9 <Monday> <br> Quiz 4 (Wednesday) <br> Cogniterra 10 (Friday)| Visit [UM Genomics Core](https://www.umt.edu/genomics-lab/) | Genome assembly quiz + intro sequence alignment | Sequence alignment |
 | 7 (10/5-10/9) |  | Sequence alignment | Sequence alignment | Sequence alignment |
 | 8 (10/12-10/16) |  | Indigenous Peoples' Day--no class | HMMs and profile HMMs |HMMs and profile HMMs  |
 | 9 (10/19-10/23) |  | HMMs and profile HMMs | HMMs and profile HMMs | HMMs and profile HMMs |
