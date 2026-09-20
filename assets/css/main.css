@@ -120,6 +120,11 @@ pre {
   white-space: nowrap;
 }
 
+.redo-deadline {
+  color: #d11a2a;
+  font-weight: 400;
+}
+
 @media (max-width: 700px) {
   .site-wrap {
     width: calc(100% - 2rem);
