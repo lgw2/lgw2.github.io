@@ -18,14 +18,14 @@ Schedule subject to change. Lecture videos can be found in [this Panopto folder]
 | 2 (8/31-9/4) | Cogniterra 2 (Monday) <br> Worksheet 1 <br> Quiz 1 <br> Cogniterra 3 (Friday) | Hidden patterns worksheet | Hidden patterns quiz + motif finding intro | Motif finding |
 | 3 (9/7-9/11) |Cogniterra 4 (Wednesday) <br> Worksheet 2 <br> Quiz 3| Labor day--no class | Motif finding worksheet | Motif finding quiz + protein sequencing intro|
 | 4 (9/14-9/18) |Cogniterra 5, 6 (Monday, Wednesday) <br> Worksheet 3 (Friday)  | Protein sequencing | Protein sequencing | Protein sequencing |
-| 5 (9/21-9/25) |Quiz 3 (Monday) <br> Cogniterra 7, 8 (Wednesday, Friday)  | Protein sequencing quiz + genome assembly intro | Genome assembly | Genome assembly |
-| 6 (9/28-10/2) |Cogniterra 9 <Monday> <br> Quiz 4 (Wednesday) <br> Cogniterra 10 (Friday)| Visit [UM Genomics Core](https://www.umt.edu/genomics-lab/) | Genome assembly quiz + intro sequence alignment | Sequence alignment |
+| 5 (9/21-9/25) |Quiz 3 (Monday) <br> Cogniterra 7, 8 (Wednesday, Friday)  | Protein sequencing quiz + genome assembly intro | Genome assembly | Visit [UM Genomics Core](https://www.umt.edu/genomics-lab/)  |
+| 6 (9/28-10/2) |Cogniterra 9 <Monday> <br> Quiz 4 (Friday) |Genome assembly worksheet pt 1 | Genome assembly worksheet pt 2 | Genome assembly quiz + talk about project |
 | 7 (10/5-10/9) |  | Sequence alignment | Sequence alignment | Sequence alignment |
-| 8 (10/12-10/16) |  | Indigenous Peoples' Day--no class | HMMs and profile HMMs |HMMs and profile HMMs  |
+| 8 (10/12-10/16) |  | Indigenous Peoples' Day--no class | Sequence alignment quiz |HMMs and profile HMMs  |
 | 9 (10/19-10/23) |  | HMMs and profile HMMs | HMMs and profile HMMs | HMMs and profile HMMs |
 | 10 (10/26-10/30) |  | Read mapping | Read mapping | Read mapping |
-| 11 (11/2-11/6) |  | Read mapping | Read mapping | Read mapping |
-| 12 (11/9-11/13) |  | Veterans Day--no class | Phylogenetic trees | Phylogenetic trees  |
+| 11 (11/2-11/6) |  | Read mapping | DNA extraction with [Snow Lab](https://www.umt.edu/anthropology/research/snow-lab/) | Sanger sequencing at genomics core |
+| 12 (11/9-11/13) |  | Veterans Day--no class | Analyzing mitochondrial DNA with Dr. Snow | Phylogenetic trees  |
 | 13 (11/16-11/20) |  | Phylogenetic trees | Phylogenetic trees | Neural networks |
 | 14 (11/23-11/27) |  | Neural networks | Thanksgiving travel day--no class | Thanksgiving break--no class |
 | 15 (11/30-12/4) |  | Project presentations | Project presentations | Project presentations |
