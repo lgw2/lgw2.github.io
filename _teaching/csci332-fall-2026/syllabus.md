@@ -21,7 +21,7 @@ Schedule subject to change. Lecture videos in [this Panopto folder](https://umon
 |6 (9/28-10/2)|[HW 5 part 1](https://us.prairielearn.com/pl/course_instance/221185/assessment/2734159)<br> [HW 5 part 2](https://github.com/lgw2/cs332-fall2026-public/blob/main/written_hw/recursion_2/main.pdf)<br>No PL!<br> No quiz!|Divide and conquer<br> <span class="redo-deadline">Last day to redo HW 2</span>|Backtracking|No quiz! Intro final project|||
 |7 (10/5-10/9)|HW 6 <br> PL HW 5<br> Quiz 5|Backtracking <br> <span class="redo-deadline">Last day to redo HW 3</span>|Backtracking|Quiz 6<br><span class="redo-deadline">Last day to redo quiz 3</span>|5|
 |8 (10/12-10/16)|HW 7<br> Mid-semester survey|Indigenous Peoples' Day--no class|Exam 1 practice <span class="redo-deadline">Last day to redo HW 4</span>|Exam 1|||
-|9 (10/19-10/23)|No written HW<br>PL HW 7<br> Quiz 7|Graph algorithms|Graph algorithms|Quiz 7<br><span class="redo-deadline">Last day to redo quiz 4</span>|||
+|9 (10/19-10/23)|No written HW<br>PL HW 7<br> Quiz 7|Dynamic programming|Dynamic programming|Quiz 7<br><span class="redo-deadline">Last day to redo quiz 4</span>|||
 |10 (10/26-10/30)|HW 8<br> PL HW 8<br> Quiz 8|Graph algorithms||Quiz 8||
 |11 (11/2-11/6)|Written HW 9<br> PL 9<br> Quiz 9|Graph algorithms|Graph algorithms|Quiz 9||
 |12 (11/9-11/13)|Written HW 10 <br> PL HW 9<br> Quiz 9|Graph algorithms|Veterans Day--no class|Quiz 9||
