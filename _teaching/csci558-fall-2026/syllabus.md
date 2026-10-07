@@ -21,7 +21,7 @@ Schedule subject to change. Lecture videos can be found in [this Panopto folder]
 | 5 (9/21-9/25) |Quiz 3 (Monday) <br> Cogniterra 7, 8 (Wednesday, Friday)  | Protein sequencing quiz + genome assembly intro | Genome assembly | Visit [UM Genomics Core](https://www.umt.edu/genomics-lab/)  |
 | 6 (9/28-10/2) |Cogniterra 9 (Monday) <br> Quiz 4 (Friday) |Genome assembly worksheet pt 1 | Genome assembly worksheet pt 2 | Genome assembly quiz |
 | 7 (10/5-10/9) | Cogniterra 10 (Wednesday) and 11 (Friday) | Intro course project | Sequence alignment | Sequence alignment |
-| 8 (10/12-10/16) | Worksheet 5 <br> Quiz 5 | Indigenous Peoples' Day--no class | Sequence alignment worksheet | Sequence alignment quiz  |
+| 8 (10/12-10/16) | Cogniterra 12 (Wednesday) <br> Worksheet 5 (Wednesday) <br> Quiz 5 (Friday) | Indigenous Peoples' Day--no class | Sequence alignment worksheet | Sequence alignment quiz  |
 | 9 (10/19-10/23) |  | HMMs and profile HMMs | HMMs and profile HMMs | HMMs and profile HMMs |
 | 10 (10/26-10/30) |  | Read mapping | Read mapping | Read mapping |
 | 11 (11/2-11/6) |  | Read mapping | DNA extraction with [Snow Lab](https://www.umt.edu/anthropology/research/snow-lab/) | Sanger sequencing at genomics core |
