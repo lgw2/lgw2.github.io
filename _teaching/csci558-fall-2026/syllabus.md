@@ -27,9 +27,9 @@ Schedule subject to change. Lecture videos can be found in [this Panopto folder]
 | 11 (11/2-11/6) |  | Read mapping | DNA extraction with [Snow Lab](https://www.umt.edu/anthropology/research/snow-lab/) | Sanger sequencing at genomics core |
 | 12 (11/9-11/13) |  | Veterans Day--no class | Analyzing mitochondrial DNA with Dr. Snow | Phylogenetic trees  |
 | 13 (11/16-11/20) |  | Phylogenetic trees | Phylogenetic trees | Neural networks |
-| 14 (11/23-11/27) |  | Neural networks | Thanksgiving travel day--no class | Thanksgiving break--no class |
+| 14 (11/23-11/27) |  | Project presentations | Thanksgiving travel day--no class | Thanksgiving break--no class |
 | 15 (11/30-12/4) |  | Project presentations | Project presentations | Project presentations |
-| 16 (12/7-12/11) |  |  |  | Final period: 8-10am; grad project presentations |
+| 16 (12/7-12/11) | Project writeups due Wednesday, December 9th at 9pm |  |  |  |
 {: .course-schedule }
 
 
