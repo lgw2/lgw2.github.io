@@ -29,8 +29,6 @@ Schedule subject to change. Lecture videos in [this Panopto folder](https://umon
 |14 (11/23-11/27)|Written HW 12<br>No PL<br>No quiz|NP-Completeness<br><span class="redo-deadline">Last day to redo HW 8 (Nov 23)</span>|Thanksgiving travel day--no class|Thanksgiving break--no class<br><span class="redo-deadline">Last day to redo quiz 8 (Nov 27)</span>|8|
 |15 (11/30-12/4)|No written HW<br>No PL<br>No quiz|Exam 2 practice<br><span class="redo-deadline">Last day to redo HW 9 (Nov 30)</span>|Exam 2|Project presentations<br><span class="redo-deadline">Last day to redo quiz 9 (Dec 4)</span>||
 |16 (12/7-12/11)|Cumulative Final (optional): 8am-10am Wednesday<br>UM course survey|<span class="redo-deadline">Last day to redo HW 10 (Dec 7)</span>||<span class="redo-deadline">Last day to redo quiz 9 (Dec 11)</span>||
-|17 (12/14-12/18)|<span class="redo-deadline">Last day to redo HW 11 (Dec 14)</span>|||<span class="redo-deadline">Last day to redo quiz 10 (Dec 18)</span>||
-|18 (12/21-12/25)|<span class="redo-deadline">Last day to redo HW 12 (Dec 21)</span>|||||
 {: .course-schedule }
 
 
