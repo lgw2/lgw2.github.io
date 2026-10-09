@@ -8,7 +8,7 @@
   <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
   <link rel="icon" type="image/png" href="{{ '/images/favicon.png' | relative_url }}">
 </head>
-<body>
+<body data-schedule-year="{{ page.date | date: '%Y' }}">
   <nav class="global-nav" aria-label="Primary">
     <div class="site-wrap site-nav">
       {% for item in site.data.navigation.main %}
@@ -26,5 +26,6 @@
       <small>&copy; {{ site.time | date: "%Y" }} {{ site.author | default: site.title }}</small>
     </div>
   </footer>
+  <script src="{{ '/assets/js/course-schedule.js' | relative_url }}" defer></script>
 </body>
 </html>

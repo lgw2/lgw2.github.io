@@ -116,6 +116,15 @@ pre {
   text-align: center;
 }
 
+.course-schedule tr.is-current-week td {
+  background: #e1f0e8;
+}
+
+.course-schedule tr.is-past-week td {
+  background: #eeeeee;
+  color: #666666;
+}
+
 .course-schedule td:first-child {
   white-space: nowrap;
 }
@@ -123,6 +132,34 @@ pre {
 .redo-deadline {
   color: #d11a2a;
   font-weight: 400;
+}
+
+.schedule-item {
+  padding: 0.08em 0.24em;
+  border-radius: 2px;
+  font-weight: 600;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+}
+
+.schedule-cogniterra {
+  color: #155e75;
+  background: #e0f2f1;
+}
+
+.schedule-quiz {
+  color: #9b2c2c;
+  background: #fde8e7;
+}
+
+.schedule-worksheet {
+  color: #276749;
+  background: #e5f4e8;
+}
+
+.schedule-project {
+  color: #7c4a03;
+  background: #fff1cc;
 }
 
 @media (max-width: 700px) {

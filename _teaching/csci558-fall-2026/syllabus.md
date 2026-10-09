@@ -14,22 +14,22 @@ Schedule subject to change. Lecture videos can be found in [this Panopto folder]
 
 | Week | Due this week | Monday | Wednesday | Friday |
 | --- | --- | --- | --- | --- |
-| 1 (8/24-8/28) |Cogniterra assignment 1 (Friday)  | Intro | Finding hidden patterns in DNA  | Hidden patterns |
-| 2 (8/31-9/4) | Cogniterra 2 (Monday) <br> Worksheet 1 <br> Quiz 1 <br> Cogniterra 3 (Friday) | Hidden patterns worksheet | Hidden patterns quiz + motif finding intro | Motif finding |
-| 3 (9/7-9/11) |Cogniterra 4 (Wednesday) <br> Worksheet 2 <br> Quiz 3| Labor day--no class | Motif finding worksheet | Motif finding quiz + protein sequencing intro|
-| 4 (9/14-9/18) |Cogniterra 5, 6 (Monday, Wednesday) <br> Worksheet 3 (Friday)  | Protein sequencing | Protein sequencing | Protein sequencing |
-| 5 (9/21-9/25) |Quiz 3 (Monday) <br> Cogniterra 7, 8 (Wednesday, Friday)  | Protein sequencing quiz + genome assembly intro | Genome assembly | Visit [UM Genomics Core](https://www.umt.edu/genomics-lab/)  |
-| 6 (9/28-10/2) |Cogniterra 9 (Monday) <br> Quiz 4 (Friday) |Genome assembly worksheet pt 1 | Genome assembly worksheet pt 2 | Genome assembly quiz |
-| 7 (10/5-10/9) | Cogniterra 10 (Wednesday) and 11 (Friday) | Intro course project | Sequence alignment | Sequence alignment |
-| 8 (10/12-10/16) | Cogniterra 12 (Wednesday) <br> Worksheet 5 (Wednesday) <br> Quiz 5 (Friday) | Indigenous Peoples' Day--no class | Sequence alignment worksheet | Sequence alignment quiz  |
-| 9 (10/19-10/23) |  | HMMs and profile HMMs | HMMs and profile HMMs | HMMs and profile HMMs |
-| 10 (10/26-10/30) |  | Read mapping | Read mapping | Read mapping |
-| 11 (11/2-11/6) |  | Read mapping | DNA extraction with [Snow Lab](https://www.umt.edu/anthropology/research/snow-lab/) | Sanger sequencing at genomics core |
-| 12 (11/9-11/13) |  | Veterans Day--no class | Analyzing mitochondrial DNA with Dr. Snow | Phylogenetic trees  |
-| 13 (11/16-11/20) |  | Phylogenetic trees | Phylogenetic trees | Neural networks |
-| 14 (11/23-11/27) |  | Project presentations | Thanksgiving travel day--no class | Thanksgiving break--no class |
-| 15 (11/30-12/4) |  | Project presentations | Project presentations | Project presentations |
-| 16 (12/7-12/11) | Project writeups due Wednesday, December 9th at 9pm |  |  |  |
+| 1 (8/24-8/28) |<span class="schedule-item schedule-cogniterra">Cogniterra assignment 1 (Friday)</span>  | Intro | Finding hidden patterns in DNA  | Hidden patterns |
+| 2 (8/31-9/4) | <span class="schedule-item schedule-cogniterra">Cogniterra 2 (Monday)</span> <br> <span class="schedule-item schedule-worksheet">Worksheet 1</span> <br> <span class="schedule-item schedule-quiz">Quiz 1</span> <br> <span class="schedule-item schedule-cogniterra">Cogniterra 3 (Friday)</span> | Hidden patterns worksheet | Hidden patterns quiz + motif finding intro | Motif finding |
+| 3 (9/7-9/11) |<span class="schedule-item schedule-cogniterra">Cogniterra 4 (Wednesday)</span> <br> <span class="schedule-item schedule-worksheet">Worksheet 2</span> <br> <span class="schedule-item schedule-quiz">Quiz 2</span>| Labor day--no class | Motif finding worksheet | Motif finding quiz + protein sequencing intro|
+| 4 (9/14-9/18) |<span class="schedule-item schedule-cogniterra">Cogniterra 5, 6 (Monday, Wednesday)</span> <br> <span class="schedule-item schedule-worksheet">Worksheet 3 (Friday)</span>  | Protein sequencing | Protein sequencing | Protein sequencing |
+| 5 (9/21-9/25) |<span class="schedule-item schedule-quiz">Quiz 3 (Monday)</span> <br> <span class="schedule-item schedule-cogniterra">Cogniterra 7, 8 (Wednesday, Friday)</span>  | Protein sequencing quiz + genome assembly intro | Genome assembly | Visit [UM Genomics Core](https://www.umt.edu/genomics-lab/)  |
+| 6 (9/28-10/2) |<span class="schedule-item schedule-cogniterra">Cogniterra 9 (Monday)</span> <br> <span class="schedule-item schedule-quiz">Quiz 4 (Friday)</span> |Genome assembly worksheet pt 1 | Genome assembly worksheet pt 2 | Genome assembly quiz |
+| 7 (10/5-10/9) | <span class="schedule-item schedule-cogniterra">Cogniterra 10 (Wednesday) and 11 (Friday)</span> | Intro course project | Sequence alignment | Sequence alignment |
+| 8 (10/12-10/16) | <span class="schedule-item schedule-cogniterra">Cogniterra 12 (Wednesday)</span> <br> <span class="schedule-item schedule-worksheet">Worksheet 5 (Wednesday)</span> <br> <span class="schedule-item schedule-quiz">Quiz 5 (Friday)</span> | Indigenous Peoples' Day--no class | Sequence alignment worksheet | Sequence alignment quiz  |
+| 9 (10/19-10/23) | <span class="schedule-item schedule-project">Pre-proposal check-in (schedule on Canvas)</span> <br> <span class="schedule-item schedule-cogniterra">Cogniterra 13, 14 (Wednesday, Friday)</span> | No class--in person check-ins | HMMs and profile HMMs | HMMs and profile HMMs |
+| 10 (10/26-10/30) | <span class="schedule-item schedule-project">Project proposal due Friday</span> <br> <span class="schedule-item schedule-quiz">Quiz 6</span> <br> <span class="schedule-item schedule-cogniterra">Cogniterra 15</span>| HMMs quiz + intro read mapping | Read mapping | Informal project proposal presentations |
+| 11 (11/2-11/6) |<span class="schedule-item schedule-cogniterra">Cogniterra 16</span> <br> <span class="schedule-item schedule-quiz">Quiz 7</span> | Read mapping | DNA extraction with [Snow Lab](https://www.umt.edu/anthropology/research/snow-lab/) | Sanger sequencing at genomics core; read mapping quiz| 
+| 12 (11/9-11/13) | <span class="schedule-item schedule-project">In-person check-in #2 (schedule on Canvas)</span><br><span class="schedule-item schedule-project">written progress report (Sunday)</span> <br> <span class="schedule-item schedule-cogniterra">Cogniterra 17</span>| Veterans Day--no class | Analyzing mitochondrial DNA with Dr. Snow |Phyologenetic trees   |
+| 13 (11/16-11/20) |<span class="schedule-item schedule-cogniterra">Cogniterra 18</span> <br> <span class="schedule-item schedule-worksheet">Worksheet</span> <br> <span class="schedule-item schedule-quiz">Quiz 8</span>  | Phylogenetic trees | Phylogenetic trees | Neural networks |
+| 14 (11/23-11/27) | <span class="schedule-item schedule-project">Project presentations</span>  | Project presentations | Thanksgiving travel day--no class | Thanksgiving break--no class |
+| 15 (11/30-12/4) | <span class="schedule-item schedule-project">Project presentations</span> | Project presentations | Project presentations | Project presentations |
+| 16 (12/7-12/11) | <span class="schedule-item schedule-project">Project writeup due Wednesday, December 9 at 9pm</span> |  |  |  |
 {: .course-schedule }
 
 
