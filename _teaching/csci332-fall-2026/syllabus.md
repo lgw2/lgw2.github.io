@@ -24,11 +24,11 @@ Schedule subject to change. Lecture videos in [this Panopto folder](https://umon
 |9 (10/19-10/23)|No written HW<br> No PL HW 7<br>No Quiz 7<br> Mid-semester survey|[Graph algorithms](/files/teaching/csci332_fall2026/lectures/graphs_1.pdf)|[Graph algorithms](/files/teaching/csci332_fall2026/lectures/graphs_2.pdf)|"Quiz" 6 (in-class [activity](https://github.com/lgw2/cs332-fall2026-public/blob/main/handouts/graph-reductions/main.pdf)) + [more graph algorithms](/files/teaching/csci332_fall2026/lectures/graphs_3.pdf)<br><span class="redo-deadline">Last day to redo quiz 4</span>||
 |10 (10/26-10/30)|[HW 8 Part 1](https://us.prairielearn.com/pl/course_instance/221185/assessment/2741071) <br>[HW 8 part 2](https://github.com/lgw2/cs332-fall2026-public/blob/main/written_hw/graphs_1/main.pdf) <br> PL HW 8<br> Quiz 8|Graph algorithms|Graph algorithms|Quiz 8||
 |11 (11/2-11/6)|Written HW 9<br> PL 9<br> Quiz 9|Graph algorithms|Graph algorithms|Quiz 9||
-|12 (11/9-11/13)|Written HW 10 <br> PL HW 9<br> Quiz 9|Graph algorithms<br><span class="redo-deadline">Last day to redo HW 7 (Nov 9)</span>|Veterans Day--no class|Quiz 9||
-|13 (11/16-11/20)|Written HW 11<br> PL HW 10<br> Quiz 10|Intro reductions|Reductions and P vs. NP|Quiz 10<br><span class="redo-deadline">Last day to redo quiz 7 (Nov 20)</span>||
-|14 (11/23-11/27)|Written HW 12<br>No PL<br>No quiz|NP-Completeness<br><span class="redo-deadline">Last day to redo HW 8 (Nov 23)</span>|Thanksgiving travel day--no class|Thanksgiving break--no class<br><span class="redo-deadline">Last day to redo quiz 8 (Nov 27)</span>|8|
-|15 (11/30-12/4)|No written HW<br>No PL<br>No quiz|Exam 2 practice<br><span class="redo-deadline">Last day to redo HW 9 (Nov 30)</span>|Exam 2|Project presentations<br><span class="redo-deadline">Last day to redo quiz 9 (Dec 4)</span>||
-|16 (12/7-12/11)|Cumulative Final (optional): 8am-10am Wednesday<br>UM course survey|<span class="redo-deadline">Last day to redo HW 10 (Dec 7)</span>||<span class="redo-deadline">Last day to redo quiz 9 (Dec 11)</span>||
+|12 (11/9-11/13)|Written HW 10 <br> PL HW 9<br> Quiz 9|Graph algorithms<br><span class="redo-deadline">Last day to redo HW 7</span>|Veterans Day--no class|Quiz 9||
+|13 (11/16-11/20)|Written HW 11<br> PL HW 10<br> Quiz 10|Intro reductions|Reductions and P vs. NP|Quiz 10<br><span class="redo-deadline">Last day to redo quiz 7</span>||
+|14 (11/23-11/27)|Written HW 12<br>No PL<br>No quiz|NP-Completeness<br><span class="redo-deadline">Last day to redo HW 8</span>|Thanksgiving travel day--no class|Thanksgiving break--no class<br><span class="redo-deadline">Last day to redo quiz 8</span>|8|
+|15 (11/30-12/4)|No written HW<br>No PL<br>No quiz|Exam 2 practice<br><span class="redo-deadline">Last day to redo HW 9</span>|Exam 2|Project presentations<br><span class="redo-deadline">Last day to redo quiz 9</span>||
+|16 (12/7-12/11)|Cumulative Final (optional): 8am-10am Wednesday<br>UM course survey|||||
 {: .course-schedule }
 
 
