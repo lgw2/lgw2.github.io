@@ -19,13 +19,9 @@ won't work. Here are some examples:
 a. you might say that your topic is whatever-first-search, and you think it's difficult
 because it's hard to infer the big picture of where the algorithm will explore given the local specification
 of what gets put in the bag
-b. you might say your topic is induction, and you think it's difficult to understand because
-you don't see how 
-c. you might say your topic is base cases in recursive backtracking, and you think it's difficult
+b. you might say your topic is base cases in recursive backtracking, and you think it's difficult
 to understand because the base cases don't always correspond exactly with something given in the
 problem statement (for example, the change-making problem has base cases beyond just the denominations of coins).
-d. you might say your topic is specifically the dynamic programming algorithm for splitting words,
-and you think it's difficult to understand because .
 
 * Monday, 11/23: share a project draft in class. Bring a laptop or something else that allows you to share a prototype
 of your planned . 1 point for having any prototype ready (could even ), 1 point for giving feedback to a few other people (collected in class).
