@@ -30,7 +30,7 @@ problem statement (for example, the change-making problem has base cases beyond 
 Monday, 11/23: share a project draft in class. Bring a laptop or something else that allows you to share a prototype
 of your planned . 1 point for having any prototype ready (could even ), 1 point for giving feedback to a few other people (collected in class).
 ### Final sharing of project
-Friday, 12/4: final project sharing day. Bring a laptop or your final physical item. 2 point for feedback,
+Friday, 12/4: final project sharing day. Bring a laptop or your final physical item. 2 point for feedback to others,
 6 points for project. You will be evaluated on your ability to explain to Lucy or a TA:
 * What topic did you choose and what about that topic did you initially find challenging?
 * How did you arrive at your design? Did you try anything that didn't work out?
