@@ -27,8 +27,8 @@ Schedule subject to change. Lecture videos in [this Panopto folder](https://umon
 |12 (11/9-11/13)|[Written HW 10](https://github.com/lgw2/cs332-fall2026-public/blob/main/written_hw/graphs_3/main.pdf) <br>No PL<br> No quiz|Graph DP<br><span class="redo-deadline">Last day to redo HW 7</span>|Veterans Day--no class|Intro reductions||
 |13 (11/16-11/20)|Written HW 11<br> PL HW 9<br> Quiz 9|More reductions|Reductions and P vs. NP|Quiz 9||
 |14 (11/23-11/27)|Written HW 12<br>No PL<br>No quiz|Project drafts<br><span class="redo-deadline">Last day to redo HW 8</span>|Thanksgiving travel day--no class|Thanksgiving break--no class|8|
-|15 (11/30-12/4)|No written HW<br>No PL<br>No quiz|Exam 2 practice<br><span class="redo-deadline">Last day to redo HW 9</span>|Exam 2|Project presentations<br><span class="redo-deadline">Last day to redo quiz 8</span>||
-|16 (12/7-12/11)|Cumulative Final (optional): 8am-10am Wednesday<br>UM course survey|||||
+|15 (11/30-12/4)|No written HW<br>No PL<br>No quiz|Exam 2 practice<br><span class="redo-deadline">Last day to redo HW 9</span>|Exam 2|Project presentations<br><span class="redo-deadline">Last day to redo quiz 7 (extended b.c. Thanksgiving) and quiz 8</span>||
+|16 (12/7-12/11)|Cumulative Final (optional): 8am-10am Wednesday<br>UM course survey||<span class="redo-deadline">Last day to redo quiz 9, HW 10, 11, 12</span> |||
 {: .course-schedule }
 
 
