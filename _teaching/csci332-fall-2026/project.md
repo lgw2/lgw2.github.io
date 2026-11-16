@@ -32,6 +32,9 @@ of your planned project.
 * 1 point for having any prototype ready (could even be a sketch)
 * 1 point for giving feedback to a few other people (collected in class).
 
+If you need to miss class this day, contact Lucy to set up another time to share your project draft. 
+If you do not get feedback before Thanksgiving, you will not get these two points for your project.
+
 ### Final sharing of project
 Friday, 12/4: final project sharing day. Bring a laptop or your final physical item. 2 point for feedback to others,
 6 points for project. You will be evaluated on your ability to explain to Lucy or a TA:
