@@ -13,6 +13,8 @@ Schedule subject to change. Lecture videos in [this Panopto folder](https://umon
 
 Related LeetCode problems are optional practice.
 
+Full course material (HW, quiz, exam, handout) repo: [https://github.com/lgw2/cs332-fall2026-public/tree/main].
+
 |Week|Due this week|Monday lecture|Wednesday lecture|Friday lecture/quiz|Textbook reference links|Related leetcode problems|
 |:---|:---|:---|:---|:---|:---|:---|
 |1 (8/24-8/28)|No written HW<br> [PL HW 1](https://us.prairielearn.com/pl/course_instance/221185/assessment/2723870) (Friday before class)<br> Quiz 1 [sample](https://github.com/lgw2/cs332-fall2026-public/blob/main/quizzes/week1/sample/main.pdf) (Friday in class)|[Intro + stable matching](/files/teaching/csci332_fall2026/lectures/intro.pdf)|[Stable matching definition](/files/teaching/csci332_fall2026/lectures/stable_matching_1.pdf)|Quiz 1 + [stable matching algorithm](/files/teaching/csci332_fall2026/lectures/stable_matching_2.pdf); [demo](/files/teaching/csci332_fall2026/lectures/01DemoGaleShapley.pdf)|[JeffE ch 4.5](https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf#page=188)<br>[DLN Set notation](https://files.dln.land/textbook/ch02_basic-data-types_2021_October_05.pdf#page=28)|[1583. Count Unhappy Friends](https://leetcode.com/problems/count-unhappy-friends/)|
