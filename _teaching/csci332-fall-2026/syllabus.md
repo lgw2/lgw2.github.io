@@ -13,7 +13,7 @@ Schedule subject to change. Lecture videos in [this Panopto folder](https://umon
 
 Related LeetCode problems are optional practice.
 
-Full course material (HW, quiz, exam, handout) repo: [https://github.com/lgw2/cs332-fall2026-public/tree/main].
+Full course material (HW, quiz, exam, handout) repo: [https://github.com/lgw2/cs332-fall2026-public/tree/main](https://github.com/lgw2/cs332-fall2026-public/tree/main).
 
 |Week|Due this week|Monday lecture|Wednesday lecture|Friday lecture/quiz|Textbook reference links|Related leetcode problems|
 |:---|:---|:---|:---|:---|:---|:---|
